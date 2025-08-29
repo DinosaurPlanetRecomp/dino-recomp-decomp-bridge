@@ -1,0 +1,3 @@
+[submodule "dinosaur-planet"]
+	path = dinosaur-planet
+	url = https://github.com/zestydevy/dinosaur-planet.git
