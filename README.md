@@ -8,6 +8,7 @@ This repository bridges the gap between [Dinosaur Planet: Recompiled](https://gi
 This is necessary for running static recompilation, creating patches, and for creating recomp mods.
 
 ## Overview
+- `dinosaur-planet` - The Dinosaur Planet Decompilation project. The headers from the decomp can be used to create patches and mods. Symbols provided by the Decomp Bridge are generated from this submodule.
 - `dino.syms.toml` - Function symbols for core and DLL code.
 - `dino.datasyms.toml` - Global/static variable (data) symbols for core and DLL code.
 - `dino.datasyms_manual.toml` - Not all data symbols can be automatically extracted from the decomp. This file contains manually mapped symbols for those that weren't automatically mapped.
