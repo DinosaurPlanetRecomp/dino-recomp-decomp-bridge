@@ -1,5 +1,5 @@
 # Dinosaur Planet: Recompiled - Decomp Bridge
-This repository bridges the gap between [Dinosaur Planet: Recompiled](https://github.com/Francessco121/dino-recomp) and the [Dinosaur Planet Decompilation](https://github.com/zestydevy/dinosaur-planet) project by providing:
+This repository bridges the gap between [Dinosaur Planet: Recompiled](https://github.com/DinosaurPlanetRecomp/dino-recomp) and the [Dinosaur Planet Decompilation](https://github.com/zestydevy/dinosaur-planet) project by providing:
 
 - Symbol definitions
 - Decompilation headers
