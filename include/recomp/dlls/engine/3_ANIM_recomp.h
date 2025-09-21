@@ -165,7 +165,7 @@
 #define _bss_139 __dll3__bss_139
 #define _bss_13A __dll3__bss_13A
 #define _bss_13C __dll3__bss_13C
-#define _bss_140 __dll3__bss_140
+#define _bss_165 __dll3__bss_165
 #define _bss_168 __dll3__bss_168
 #define _bss_169 __dll3__bss_169
 #define _bss_16A __dll3__bss_16A
@@ -218,7 +218,6 @@
 #define _bss_5AC __dll3__bss_5AC
 #define _bss_5B0 __dll3__bss_5B0
 #define _bss_5B8 __dll3__bss_5B8
-#define _bss_5C0 __dll3__bss_5C0
 #define _bss_5C4 __dll3__bss_5C4
 #define _bss_5C8 __dll3__bss_5C8
 #define _bss_5CC __dll3__bss_5CC
@@ -238,7 +237,7 @@
 #define _bss_6FC __dll3__bss_6FC
 #define _bss_700 __dll3__bss_700
 #define _bss_708 __dll3__bss_708
-#define _bss_710 __dll3__bss_710
+#define _bss_1D0C __dll3__bss_1D0C
 #define _bss_1D88 __dll3__bss_1D88
 
 #endif //_DLL_3_RECOMP_H

@@ -25,20 +25,16 @@
 #define dll_227_func_1D64 __dll227_dll_227_func_1D64
 #define dll_227_func_1FA0 __dll227_dll_227_func_1FA0
 #define dll_227_func_2038 __dll227_dll_227_func_2038
-#define _rodata_0 __dll227__rodata_0
 #define _rodata_4 __dll227__rodata_4
 #define _rodata_8 __dll227__rodata_8
 #define _rodata_C __dll227__rodata_C
 #define _rodata_10 __dll227__rodata_10
 #define _rodata_14 __dll227__rodata_14
 #define _rodata_18 __dll227__rodata_18
-#define _rodata_1C __dll227__rodata_1C
 #define _rodata_20 __dll227__rodata_20
 #define _rodata_24 __dll227__rodata_24
 #define _rodata_28 __dll227__rodata_28
 #define _rodata_2C __dll227__rodata_2C
-#define _rodata_30 __dll227__rodata_30
-#define _rodata_34 __dll227__rodata_34
 #define _data_0 __dll227__data_0
 #define _data_C __dll227__data_C
 

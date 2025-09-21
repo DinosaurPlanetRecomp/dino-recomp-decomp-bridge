@@ -25,7 +25,6 @@
 #define dll_496_func_1D68 __dll496_dll_496_func_1D68
 #define dll_496_func_22E4 __dll496_dll_496_func_22E4
 #define dll_496_func_2318 __dll496_dll_496_func_2318
-#define str_0 __dll496_str_0
 #define _rodata_0 __dll496__rodata_0
 #define _rodata_1C __dll496__rodata_1C
 #define _rodata_28 __dll496__rodata_28

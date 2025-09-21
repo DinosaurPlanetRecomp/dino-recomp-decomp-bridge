@@ -3,14 +3,14 @@
 #ifndef _DLL_668_RECOMP_H
 #define _DLL_668_RECOMP_H
 
-#define dll_668_ctor __dll668_dll_668_ctor
-#define dll_668_dtor __dll668_dll_668_dtor
-#define dll_668_func_18 __dll668_dll_668_func_18
-#define dll_668_func_D0 __dll668_dll_668_func_D0
-#define dll_668_func_204 __dll668_dll_668_func_204
-#define dll_668_func_210 __dll668_dll_668_func_210
-#define dll_668_func_27C __dll668_dll_668_func_27C
-#define dll_668_func_2BC __dll668_dll_668_func_2BC
-#define dll_668_func_2CC __dll668_dll_668_func_2CC
+#define DBdiamond_ctor __dll668_DBdiamond_ctor
+#define DBdiamond_dtor __dll668_DBdiamond_dtor
+#define DBdiamond_create __dll668_DBdiamond_create
+#define DBdiamond_update __dll668_DBdiamond_update
+#define DBdiamond_func_204 __dll668_DBdiamond_func_204
+#define DBdiamond_draw __dll668_DBdiamond_draw
+#define DBdiamond_destroy __dll668_DBdiamond_destroy
+#define DBdiamond_func_2BC __dll668_DBdiamond_func_2BC
+#define DBdiamond_get_state_size __dll668_DBdiamond_get_state_size
 
 #endif //_DLL_668_RECOMP_H
