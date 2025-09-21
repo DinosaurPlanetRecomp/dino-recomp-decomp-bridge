@@ -3,9 +3,9 @@
 #ifndef _DLL_83_RECOMP_H
 #define _DLL_83_RECOMP_H
 
-#define func_A4 __dll83_func_A4
-#define func_18 __dll83_func_18
 #define ctor __dll83_ctor
 #define dtor __dll83_dtor
+#define func_18 __dll83_func_18
+#define func_A4 __dll83_func_A4
 
 #endif //_DLL_83_RECOMP_H

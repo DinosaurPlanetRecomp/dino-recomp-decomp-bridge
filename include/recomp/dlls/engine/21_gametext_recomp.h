@@ -3,22 +3,22 @@
 #ifndef _DLL_21_RECOMP_H
 #define _DLL_21_RECOMP_H
 
-#define gametext_set_bank __dll21_gametext_set_bank
-#define sBankCount __dll21_sBankCount
-#define sCurrentBank_Offsets __dll21_sCurrentBank_Offsets
-#define gametext_get_chunk __dll21_gametext_get_chunk
-#define gametext_dtor __dll21_gametext_dtor
-#define sCurrentBank_StrCounts __dll21_sCurrentBank_StrCounts
-#define gametext_curr_bank __dll21_gametext_curr_bank
-#define sCurrentBankIndex __dll21_sCurrentBankIndex
-#define gametext_chunk_count __dll21_gametext_chunk_count
-#define gametext_bank_count __dll21_gametext_bank_count
-#define sCurrentBank __dll21_sCurrentBank
 #define gametext_ctor __dll21_gametext_ctor
-#define sCurrentBank_Sizes __dll21_sCurrentBank_Sizes
+#define gametext_dtor __dll21_gametext_dtor
+#define gametext_bank_count __dll21_gametext_bank_count
+#define gametext_chunk_count __dll21_gametext_chunk_count
+#define gametext_set_bank __dll21_gametext_set_bank
+#define gametext_curr_bank __dll21_gametext_curr_bank
+#define gametext_get_chunk __dll21_gametext_get_chunk
 #define gametext_get_text __dll21_gametext_get_text
-#define sCurrentBank_GlobalOffset __dll21_sCurrentBank_GlobalOffset
-#define sBankSize __dll21_sBankSize
+#define sCurrentBankIndex __dll21_sCurrentBankIndex
+#define sBankCount __dll21_sBankCount
 #define sBankEntryCount __dll21_sBankEntryCount
+#define sBankSize __dll21_sBankSize
+#define sCurrentBank __dll21_sCurrentBank
+#define sCurrentBank_GlobalOffset __dll21_sCurrentBank_GlobalOffset
+#define sCurrentBank_StrCounts __dll21_sCurrentBank_StrCounts
+#define sCurrentBank_Sizes __dll21_sCurrentBank_Sizes
+#define sCurrentBank_Offsets __dll21_sCurrentBank_Offsets
 
 #endif //_DLL_21_RECOMP_H

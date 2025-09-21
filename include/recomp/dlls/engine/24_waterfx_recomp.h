@@ -3,6 +3,17 @@
 #ifndef _DLL_24_RECOMP_H
 #define _DLL_24_RECOMP_H
 
+#define waterfx_ctor __dll24_waterfx_ctor
+#define waterfx_dtor __dll24_waterfx_dtor
+#define waterfx_func_24C __dll24_waterfx_func_24C
+#define waterfx_func_564 __dll24_waterfx_func_564
+#define waterfx_func_6E8 __dll24_waterfx_func_6E8
+#define waterfx_func_C7C __dll24_waterfx_func_C7C
+#define waterfx_func_135C __dll24_waterfx_func_135C
+#define waterfx_func_174C __dll24_waterfx_func_174C
+#define waterfx_func_1B28 __dll24_waterfx_func_1B28
+#define waterfx_func_1C88 __dll24_waterfx_func_1C88
+#define waterfx_func_1CC8 __dll24_waterfx_func_1CC8
 #define allocateMemoryError __dll24_allocateMemoryError
 #define _bss_0 __dll24__bss_0
 #define _bss_4 __dll24__bss_4
@@ -25,16 +36,5 @@
 #define _bss_48 __dll24__bss_48
 #define _bss_4C __dll24__bss_4C
 #define _bss_50 __dll24__bss_50
-#define waterfx_func_135C __dll24_waterfx_func_135C
-#define waterfx_ctor __dll24_waterfx_ctor
-#define waterfx_dtor __dll24_waterfx_dtor
-#define waterfx_func_1B28 __dll24_waterfx_func_1B28
-#define waterfx_func_1CC8 __dll24_waterfx_func_1CC8
-#define waterfx_func_564 __dll24_waterfx_func_564
-#define waterfx_func_6E8 __dll24_waterfx_func_6E8
-#define waterfx_func_1C88 __dll24_waterfx_func_1C88
-#define waterfx_func_C7C __dll24_waterfx_func_C7C
-#define waterfx_func_24C __dll24_waterfx_func_24C
-#define waterfx_func_174C __dll24_waterfx_func_174C
 
 #endif //_DLL_24_RECOMP_H

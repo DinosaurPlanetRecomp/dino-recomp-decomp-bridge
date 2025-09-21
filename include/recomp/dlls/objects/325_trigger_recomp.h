@@ -3,6 +3,34 @@
 #ifndef _DLL_325_RECOMP_H
 #define _DLL_325_RECOMP_H
 
+#define trigger_ctor __dll325_trigger_ctor
+#define trigger_dtor __dll325_trigger_dtor
+#define trigger_create __dll325_trigger_create
+#define trigger_update __dll325_trigger_update
+#define trigger_func_7D4 __dll325_trigger_func_7D4
+#define trigger_draw __dll325_trigger_draw
+#define trigger_destroy __dll325_trigger_destroy
+#define trigger_func_990 __dll325_trigger_func_990
+#define trigger_get_state_size __dll325_trigger_get_state_size
+#define trigger_process_commands __dll325_trigger_process_commands
+#define trigger_func_1754 __dll325_trigger_func_1754
+#define trigger_func_1764 __dll325_trigger_func_1764
+#define trigger_func_17FC __dll325_trigger_func_17FC
+#define trigger_func_1868 __dll325_trigger_func_1868
+#define trigger_func_1920 __dll325_trigger_func_1920
+#define trigger_point_setup __dll325_trigger_point_setup
+#define trigger_point_update __dll325_trigger_point_update
+#define trigger_cylinder_setup __dll325_trigger_cylinder_setup
+#define trigger_cylinder_update __dll325_trigger_cylinder_update
+#define trigger_plane_setup __dll325_trigger_plane_setup
+#define trigger_plane_update __dll325_trigger_plane_update
+#define trigger_area_setup __dll325_trigger_area_setup
+#define trigger_area_update __dll325_trigger_area_update
+#define trigger_func_273C __dll325_trigger_func_273C
+#define trigger_func_2884 __dll325_trigger_func_2884
+#define trigger_func_29C0 __dll325_trigger_func_29C0
+#define trigger_curve_setup __dll325_trigger_curve_setup
+#define trigger_curve_update __dll325_trigger_curve_update
 #define str_1 __dll325_str_1
 #define str_2 __dll325_str_2
 #define str_3 __dll325_str_3
@@ -49,33 +77,5 @@
 #define sPlaneModel __dll325_sPlaneModel
 #define sPointModelRefCount __dll325_sPointModelRefCount
 #define sPlaneModelRefCount __dll325_sPlaneModelRefCount
-#define trigger_point_setup __dll325_trigger_point_setup
-#define trigger_cylinder_setup __dll325_trigger_cylinder_setup
-#define trigger_plane_setup __dll325_trigger_plane_setup
-#define trigger_area_setup __dll325_trigger_area_setup
-#define trigger_func_2884 __dll325_trigger_func_2884
-#define trigger_curve_setup __dll325_trigger_curve_setup
-#define trigger_func_1754 __dll325_trigger_func_1754
-#define trigger_func_1764 __dll325_trigger_func_1764
-#define trigger_func_17FC __dll325_trigger_func_17FC
-#define trigger_func_1868 __dll325_trigger_func_1868
-#define trigger_func_1920 __dll325_trigger_func_1920
-#define trigger_func_273C __dll325_trigger_func_273C
-#define trigger_process_commands __dll325_trigger_process_commands
-#define trigger_point_update __dll325_trigger_point_update
-#define trigger_cylinder_update __dll325_trigger_cylinder_update
-#define trigger_plane_update __dll325_trigger_plane_update
-#define trigger_area_update __dll325_trigger_area_update
-#define trigger_curve_update __dll325_trigger_curve_update
-#define trigger_func_29C0 __dll325_trigger_func_29C0
-#define trigger_ctor __dll325_trigger_ctor
-#define trigger_func_990 __dll325_trigger_func_990
-#define trigger_func_7D4 __dll325_trigger_func_7D4
-#define trigger_get_state_size __dll325_trigger_get_state_size
-#define trigger_dtor __dll325_trigger_dtor
-#define trigger_create __dll325_trigger_create
-#define trigger_draw __dll325_trigger_draw
-#define trigger_destroy __dll325_trigger_destroy
-#define trigger_update __dll325_trigger_update
 
 #endif //_DLL_325_RECOMP_H

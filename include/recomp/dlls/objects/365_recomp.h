@@ -3,15 +3,15 @@
 #ifndef _DLL_365_RECOMP_H
 #define _DLL_365_RECOMP_H
 
-#define dll_365_create __dll365_dll_365_create
-#define dll_365_draw __dll365_dll_365_draw
-#define func_0005 __dll365_func_0005
-#define dll_365_destroy __dll365_dll_365_destroy
-#define dll_365_get_state_size __dll365_dll_365_get_state_size
-#define fini __dll365_fini
 #define init __dll365_init
-#define func_0002 __dll365_func_0002
-#define func_0007 __dll365_func_0007
+#define fini __dll365_fini
+#define dll_365_create __dll365_dll_365_create
 #define dll_365_update __dll365_dll_365_update
+#define func_0002 __dll365_func_0002
+#define dll_365_draw __dll365_dll_365_draw
+#define dll_365_destroy __dll365_dll_365_destroy
+#define func_0005 __dll365_func_0005
+#define dll_365_get_state_size __dll365_dll_365_get_state_size
+#define func_0007 __dll365_func_0007
 
 #endif //_DLL_365_RECOMP_H

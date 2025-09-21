@@ -3,10 +3,10 @@
 #ifndef _DLL_16_RECOMP_H
 #define _DLL_16_RECOMP_H
 
-#define func_0001 __dll16_func_0001
-#define fini __dll16_fini
 #define init __dll16_init
-#define func_0002 __dll16_func_0002
+#define fini __dll16_fini
 #define func_0000 __dll16_func_0000
+#define func_0001 __dll16_func_0001
+#define func_0002 __dll16_func_0002
 
 #endif //_DLL_16_RECOMP_H

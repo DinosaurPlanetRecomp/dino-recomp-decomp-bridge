@@ -4,13 +4,13 @@
 #define _DLL_270_RECOMP_H
 
 #define sidesetup_ctor __dll270_sidesetup_ctor
-#define sidesetup_func_7C __dll270_sidesetup_func_7C
-#define sidesetup_update __dll270_sidesetup_update
 #define sidesetup_dtor __dll270_sidesetup_dtor
 #define sidesetup_create __dll270_sidesetup_create
-#define sidesetup_get_state_size __dll270_sidesetup_get_state_size
+#define sidesetup_update __dll270_sidesetup_update
 #define sidesetup_func_48 __dll270_sidesetup_func_48
 #define sidesetup_draw __dll270_sidesetup_draw
 #define sidesetup_destroy __dll270_sidesetup_destroy
+#define sidesetup_func_7C __dll270_sidesetup_func_7C
+#define sidesetup_get_state_size __dll270_sidesetup_get_state_size
 
 #endif //_DLL_270_RECOMP_H

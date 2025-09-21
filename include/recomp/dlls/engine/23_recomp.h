@@ -3,16 +3,16 @@
 #ifndef _DLL_23_RECOMP_H
 #define _DLL_23_RECOMP_H
 
-#define _bss_0 __dll23__bss_0
+#define dll_23_ctor __dll23_dll_23_ctor
+#define dll_23_dtor __dll23_dll_23_dtor
+#define dll_23_func_18 __dll23_dll_23_func_18
+#define dll_23_func_24 __dll23_dll_23_func_24
+#define dll_23_func_30 __dll23_dll_23_func_30
 #define dll_23_func_3C __dll23_dll_23_func_3C
 #define dll_23_func_4C __dll23_dll_23_func_4C
-#define dll_23_func_30 __dll23_dll_23_func_30
-#define dll_23_func_6C __dll23_dll_23_func_6C
-#define dll_23_dtor __dll23_dll_23_dtor
-#define dll_23_func_24 __dll23_dll_23_func_24
-#define dll_23_ctor __dll23_dll_23_ctor
-#define dll_23_func_18 __dll23_dll_23_func_18
 #define dll_23_func_60 __dll23_dll_23_func_60
+#define dll_23_func_6C __dll23_dll_23_func_6C
 #define dll_23_func_8C __dll23_dll_23_func_8C
+#define _bss_0 __dll23__bss_0
 
 #endif //_DLL_23_RECOMP_H

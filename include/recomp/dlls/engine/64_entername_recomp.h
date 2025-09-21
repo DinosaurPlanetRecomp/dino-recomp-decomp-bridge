@@ -3,20 +3,20 @@
 #ifndef _DLL_64_RECOMP_H
 #define _DLL_64_RECOMP_H
 
-#define sNameLetters __dll64_sNameLetters
-#define dll_64_update1 __dll64_dll_64_update1
-#define dll_64_clean_up __dll64_dll_64_clean_up
-#define sMenuItems __dll64_sMenuItems
-#define dll_64_draw __dll64_dll_64_draw
-#define sNumNameLetters __dll64_sNumNameLetters
-#define sNameLettersRedrawFrames __dll64_sNameLettersRedrawFrames
-#define dll_64_dtor __dll64_dll_64_dtor
-#define dll_64_update2 __dll64_dll_64_update2
-#define sBackgroundTexture __dll64_sBackgroundTexture
-#define sLetterBgBoxTexture __dll64_sLetterBgBoxTexture
-#define sGameTextChunk __dll64_sGameTextChunk
 #define dll_64_ctor __dll64_dll_64_ctor
+#define dll_64_dtor __dll64_dll_64_dtor
+#define dll_64_update1 __dll64_dll_64_update1
+#define dll_64_update2 __dll64_dll_64_update2
+#define dll_64_draw __dll64_dll_64_draw
+#define dll_64_clean_up __dll64_dll_64_clean_up
 #define dll_64_draw_letters __dll64_dll_64_draw_letters
+#define sMenuItems __dll64_sMenuItems
+#define sGameTextChunk __dll64_sGameTextChunk
+#define sLetterBgBoxTexture __dll64_sLetterBgBoxTexture
+#define sNumNameLetters __dll64_sNumNameLetters
+#define sNameLetters __dll64_sNameLetters
 #define sMainRedrawFrames __dll64_sMainRedrawFrames
+#define sNameLettersRedrawFrames __dll64_sNameLettersRedrawFrames
+#define sBackgroundTexture __dll64_sBackgroundTexture
 
 #endif //_DLL_64_RECOMP_H

@@ -3,8 +3,35 @@
 #ifndef _DLL_22_RECOMP_H
 #define _DLL_22_RECOMP_H
 
+#define dll_22_ctor __dll22_dll_22_ctor
+#define dll_22_dtor __dll22_dll_22_dtor
+#define dll_22_func_2D0 __dll22_dll_22_func_2D0
+#define dll_22_func_2F4 __dll22_dll_22_func_2F4
+#define dll_22_func_32C __dll22_dll_22_func_32C
+#define dll_22_func_368 __dll22_dll_22_func_368
+#define dll_22_func_448 __dll22_dll_22_func_448
+#define dll_22_func_4C0 __dll22_dll_22_func_4C0
+#define dll_22_func_578 __dll22_dll_22_func_578
+#define dll_22_func_8F4 __dll22_dll_22_func_8F4
+#define dll_22_func_94C __dll22_dll_22_func_94C
+#define dll_22_func_AA8 __dll22_dll_22_func_AA8
+#define dll_22_func_C64 __dll22_dll_22_func_C64
+#define dll_22_func_D9C __dll22_dll_22_func_D9C
+#define dll_22_func_10C8 __dll22_dll_22_func_10C8
+#define dll_22_func_1164 __dll22_dll_22_func_1164
+#define dll_22_func_16A0 __dll22_dll_22_func_16A0
+#define dll_22_func_1798 __dll22_dll_22_func_1798
+#define dll_22_func_1F44 __dll22_dll_22_func_1F44
+#define dll_22_func_2000 __dll22_dll_22_func_2000
+#define dll_22_func_20CC __dll22_dll_22_func_20CC
+#define dll_22_func_2118 __dll22_dll_22_func_2118
+#define dll_22_func_214C __dll22_dll_22_func_214C
+#define dll_22_func_21C0 __dll22_dll_22_func_21C0
+#define dll_22_func_2248 __dll22_dll_22_func_2248
 #define subtitlesDelayError __dll22_subtitlesDelayError
 #define subtitlesNewLineCountError __dll22_subtitlesNewLineCountError
+#define _rodata_90 __dll22__rodata_90
+#define _rodata_94 __dll22__rodata_94
 #define _data_0 __dll22__data_0
 #define _data_1C __dll22__data_1C
 #define _data_34 __dll22__data_34
@@ -42,32 +69,5 @@
 #define _bss_7B2 __dll22__bss_7B2
 #define _bss_7B4 __dll22__bss_7B4
 #define _bss_7B8 __dll22__bss_7B8
-#define dll_22_func_2000 __dll22_dll_22_func_2000
-#define dll_22_func_20CC __dll22_dll_22_func_20CC
-#define dll_22_func_8F4 __dll22_dll_22_func_8F4
-#define dll_22_func_94C __dll22_dll_22_func_94C
-#define dll_22_func_AA8 __dll22_dll_22_func_AA8
-#define dll_22_func_1F44 __dll22_dll_22_func_1F44
-#define dll_22_func_2118 __dll22_dll_22_func_2118
-#define dll_22_func_16A0 __dll22_dll_22_func_16A0
-#define dll_22_func_C64 __dll22_dll_22_func_C64
-#define dll_22_func_D9C __dll22_dll_22_func_D9C
-#define dll_22_func_10C8 __dll22_dll_22_func_10C8
-#define dll_22_func_1164 __dll22_dll_22_func_1164
-#define dll_22_func_1798 __dll22_dll_22_func_1798
-#define dll_22_func_368 __dll22_dll_22_func_368
-#define dll_22_dtor __dll22_dll_22_dtor
-#define dll_22_func_578 __dll22_dll_22_func_578
-#define _rodata_90 __dll22__rodata_90
-#define dll_22_func_2D0 __dll22_dll_22_func_2D0
-#define dll_22_func_4C0 __dll22_dll_22_func_4C0
-#define _rodata_94 __dll22__rodata_94
-#define dll_22_func_2248 __dll22_dll_22_func_2248
-#define dll_22_func_448 __dll22_dll_22_func_448
-#define dll_22_func_32C __dll22_dll_22_func_32C
-#define dll_22_func_214C __dll22_dll_22_func_214C
-#define dll_22_func_21C0 __dll22_dll_22_func_21C0
-#define dll_22_func_2F4 __dll22_dll_22_func_2F4
-#define dll_22_ctor __dll22_dll_22_ctor
 
 #endif //_DLL_22_RECOMP_H

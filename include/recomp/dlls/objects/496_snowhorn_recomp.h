@@ -3,8 +3,38 @@
 #ifndef _DLL_496_RECOMP_H
 #define _DLL_496_RECOMP_H
 
+#define dll_496_ctor __dll496_dll_496_ctor
+#define dll_496_dtor __dll496_dll_496_dtor
+#define dll_496_func_18 __dll496_dll_496_func_18
+#define dll_496_func_24C __dll496_dll_496_func_24C
+#define dll_496_func_770 __dll496_dll_496_func_770
+#define dll_496_func_77C __dll496_dll_496_func_77C
+#define dll_496_func_804 __dll496_dll_496_func_804
+#define dll_496_func_828 __dll496_dll_496_func_828
+#define dll_496_func_838 __dll496_dll_496_func_838
+#define dll_496_func_84C __dll496_dll_496_func_84C
+#define dll_496_func_980 __dll496_dll_496_func_980
+#define dll_496_func_CC4 __dll496_dll_496_func_CC4
+#define dll_496_func_D5C __dll496_dll_496_func_D5C
+#define dll_496_func_D80 __dll496_dll_496_func_D80
+#define dll_496_func_11C4 __dll496_dll_496_func_11C4
+#define dll_496_func_11E0 __dll496_dll_496_func_11E0
+#define dll_496_func_174C __dll496_dll_496_func_174C
+#define dll_496_func_1980 __dll496_dll_496_func_1980
+#define dll_496_func_1CA0 __dll496_dll_496_func_1CA0
+#define dll_496_func_1D68 __dll496_dll_496_func_1D68
+#define dll_496_func_22E4 __dll496_dll_496_func_22E4
+#define dll_496_func_2318 __dll496_dll_496_func_2318
+#define str_0 __dll496_str_0
 #define _rodata_0 __dll496__rodata_0
 #define _rodata_1C __dll496__rodata_1C
+#define _rodata_28 __dll496__rodata_28
+#define _rodata_90 __dll496__rodata_90
+#define _rodata_94 __dll496__rodata_94
+#define _rodata_98 __dll496__rodata_98
+#define _rodata_9C __dll496__rodata_9C
+#define _rodata_A0 __dll496__rodata_A0
+#define _rodata_A4 __dll496__rodata_A4
 #define _data_0 __dll496__data_0
 #define _data_230 __dll496__data_230
 #define _data_260 __dll496__data_260
@@ -25,34 +55,5 @@
 #define _data_2E0 __dll496__data_2E0
 #define _data_2E8 __dll496__data_2E8
 #define _data_300 __dll496__data_300
-#define dll_496_func_980 __dll496_dll_496_func_980
-#define dll_496_func_CC4 __dll496_dll_496_func_CC4
-#define dll_496_func_D5C __dll496_dll_496_func_D5C
-#define dll_496_func_D80 __dll496_dll_496_func_D80
-#define dll_496_func_11C4 __dll496_dll_496_func_11C4
-#define dll_496_func_1980 __dll496_dll_496_func_1980
-#define dll_496_func_1CA0 __dll496_dll_496_func_1CA0
-#define dll_496_func_22E4 __dll496_dll_496_func_22E4
-#define dll_496_func_2318 __dll496_dll_496_func_2318
-#define dll_496_func_84C __dll496_dll_496_func_84C
-#define _rodata_28 __dll496__rodata_28
-#define dll_496_func_174C __dll496_dll_496_func_174C
-#define dll_496_func_11E0 __dll496_dll_496_func_11E0
-#define dll_496_func_1D68 __dll496_dll_496_func_1D68
-#define _rodata_90 __dll496__rodata_90
-#define dll_496_func_77C __dll496_dll_496_func_77C
-#define dll_496_func_770 __dll496_dll_496_func_770
-#define _rodata_98 __dll496__rodata_98
-#define dll_496_func_18 __dll496_dll_496_func_18
-#define dll_496_func_804 __dll496_dll_496_func_804
-#define dll_496_func_24C __dll496_dll_496_func_24C
-#define _rodata_A4 __dll496__rodata_A4
-#define dll_496_func_828 __dll496_dll_496_func_828
-#define dll_496_ctor __dll496_dll_496_ctor
-#define _rodata_9C __dll496__rodata_9C
-#define _rodata_94 __dll496__rodata_94
-#define _rodata_A0 __dll496__rodata_A0
-#define dll_496_dtor __dll496_dll_496_dtor
-#define dll_496_func_838 __dll496_dll_496_func_838
 
 #endif //_DLL_496_RECOMP_H
