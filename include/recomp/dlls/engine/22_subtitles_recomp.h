@@ -63,6 +63,7 @@
 #define _bss_7A2 __dll22__bss_7A2
 #define _bss_7A3 __dll22__bss_7A3
 #define _bss_7A4 __dll22__bss_7A4
+#define currentColourCommand __dll22_currentColourCommand
 #define _bss_7A8 __dll22__bss_7A8
 #define _bss_7AC __dll22__bss_7AC
 #define _bss_7B0 __dll22__bss_7B0

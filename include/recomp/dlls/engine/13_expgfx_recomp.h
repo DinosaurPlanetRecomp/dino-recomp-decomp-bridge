@@ -27,6 +27,17 @@
 #define dll_13_func_52B4 __dll13_dll_13_func_52B4
 #define dll_13_func_5358 __dll13_dll_13_func_5358
 #define str_0 __dll13_str_0
+#define str_18 __dll13_str_18
+#define str_2C __dll13_str_2C
+#define str_48 __dll13_str_48
+#define str_64 __dll13_str_64
+#define str_84 __dll13_str_84
+#define str_90 __dll13_str_90
+#define str_9C __dll13_str_9C
+#define str_C4 __dll13_str_C4
+#define str_E0 __dll13_str_E0
+#define str_10C __dll13_str_10C
+#define str_118 __dll13_str_118
 #define _rodata_124 __dll13__rodata_124
 #define _rodata_128 __dll13__rodata_128
 #define _rodata_12C __dll13__rodata_12C

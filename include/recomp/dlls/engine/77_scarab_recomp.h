@@ -8,8 +8,6 @@
 #define dll_77_func_84 __dll77_dll_77_func_84
 #define dll_77_func_90 __dll77_dll_77_func_90
 #define dll_77_func_98 __dll77_dll_77_func_98
-#define str_0 __dll77_str_0
-#define _rodata_4 __dll77__rodata_4
 #define _bss_0 __dll77__bss_0
 
 #endif //_DLL_77_RECOMP_H

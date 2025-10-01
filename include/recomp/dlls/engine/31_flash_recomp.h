@@ -48,6 +48,6 @@
 #define sFlashReadIdQueue __dll31_sFlashReadIdQueue
 #define sFlashEPiHandle __dll31_sFlashEPiHandle
 #define sFlashReadIdQueueBuffer __dll31_sFlashReadIdQueueBuffer
-#define DAT_81084030 __dll31_DAT_81084030
+#define sFlashVersion __dll31_sFlashVersion
 
 #endif //_DLL_31_RECOMP_H
