@@ -7,7 +7,7 @@
 #define dll_6_dtor __dll6_dll_6_dtor
 #define dll_6_func_338 __dll6_dll_6_func_338
 #define dll_6_func_480 __dll6_dll_6_func_480
-#define dll_6_func_48C __dll6_dll_6_func_48C
+#define dll_6_play_sound __dll6_dll_6_play_sound
 #define dll_6_func_7E4 __dll6_dll_6_func_7E4
 #define dll_6_func_860 __dll6_dll_6_func_860
 #define dll_6_func_954 __dll6_dll_6_func_954
@@ -25,7 +25,7 @@
 #define dll_6_func_1320 __dll6_dll_6_func_1320
 #define dll_6_func_1504 __dll6_dll_6_func_1504
 #define dll_6_func_16E0 __dll6_dll_6_func_16E0
-#define dll_6_func_1C10 __dll6_dll_6_func_1C10
+#define water_falls_set_flags __dll6_water_falls_set_flags
 #define dll_6_func_1C38 __dll6_dll_6_func_1C38
 #define dll_6_func_1D58 __dll6_dll_6_func_1D58
 #define dll_6_func_1E64 __dll6_dll_6_func_1E64
@@ -76,7 +76,6 @@
 #define _bss_1F __dll6__bss_1F
 #define _bss_20 __dll6__bss_20
 #define _bss_28 __dll6__bss_28
-#define _bss_30 __dll6__bss_30
 #define _bss_128 __dll6__bss_128
 
 #endif //_DLL_6_RECOMP_H

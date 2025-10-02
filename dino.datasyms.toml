@@ -48,7 +48,6 @@ symbols = [
     { name = "audFrameCt", vram = 0x8008C8CC },
     { name = "nextDMA", vram = 0x8008C8D0 },
     { name = "D_8008C8D4", vram = 0x8008C8D4 },
-    { name = "_unk", vram = 0x8008C8D8 },
     { name = "D_8008C8DC", vram = 0x8008C8DC },
     { name = "gFile_MPEG_TAB", vram = 0x8008C8E0 },
     { name = "gGameBuildVersion", vram = 0x8008C8F0 },
@@ -2106,7 +2105,6 @@ symbols = [
     { name = "__dll6__bss_1F", vram = 0x81022CD3 },
     { name = "__dll6__bss_20", vram = 0x81022CD4 },
     { name = "__dll6__bss_28", vram = 0x81022CDC },
-    { name = "__dll6__bss_30", vram = 0x81022CE4 },
     { name = "__dll6__bss_128", vram = 0x81022DDC },
 ]
 
