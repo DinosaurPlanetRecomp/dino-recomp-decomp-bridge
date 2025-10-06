@@ -20797,20 +20797,20 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll515_dll_515_ctor", vram = 0x8134003C, size = 0xC },
-    { name = "__dll515_dll_515_dtor", vram = 0x81340048, size = 0xC },
-    { name = "__dll515_dll_515_func_18", vram = 0x81340054, size = 0x128 },
-    { name = "__dll515_dll_515_func_140", vram = 0x8134017C, size = 0x138 },
-    { name = "__dll515_dll_515_func_278", vram = 0x813402B4, size = 0xC },
-    { name = "__dll515_dll_515_func_284", vram = 0x813402C0, size = 0x140 },
-    { name = "__dll515_dll_515_func_3C4", vram = 0x81340400, size = 0x10 },
-    { name = "__dll515_dll_515_func_3D4", vram = 0x81340410, size = 0x60 },
-    { name = "__dll515_dll_515_func_434", vram = 0x81340470, size = 0x14 },
-    { name = "__dll515_dll_515_func_448", vram = 0x81340484, size = 0x644 },
-    { name = "__dll515_dll_515_func_A8C", vram = 0x81340AC8, size = 0x48 },
-    { name = "__dll515_dll_515_func_AD4", vram = 0x81340B10, size = 0x130 },
-    { name = "__dll515_dll_515_func_C04", vram = 0x81340C40, size = 0x108 },
-    { name = "__dll515_dll_515_func_D0C", vram = 0x81340D48, size = 0x74 },
+    { name = "__dll515_SHswapstone_ctor", vram = 0x8134003C, size = 0xC },
+    { name = "__dll515_SHswapstone_dtor", vram = 0x81340048, size = 0xC },
+    { name = "__dll515_SHswapstone_create", vram = 0x81340054, size = 0x128 },
+    { name = "__dll515_SHswapstone_update", vram = 0x8134017C, size = 0x138 },
+    { name = "__dll515_SHswapstone_func_278", vram = 0x813402B4, size = 0xC },
+    { name = "__dll515_SHswapstone_draw", vram = 0x813402C0, size = 0x140 },
+    { name = "__dll515_SHswapstone_destroy", vram = 0x81340400, size = 0x10 },
+    { name = "__dll515_SHswapstone_func_3D4", vram = 0x81340410, size = 0x60 },
+    { name = "__dll515_SHswapstone_get_state_size", vram = 0x81340470, size = 0x14 },
+    { name = "__dll515_SHswapstone_func_448", vram = 0x81340484, size = 0x644 },
+    { name = "__dll515_SHswapstone_func_A8C", vram = 0x81340AC8, size = 0x48 },
+    { name = "__dll515_SHswapstone_func_AD4", vram = 0x81340B10, size = 0x130 },
+    { name = "__dll515_SHswapstone_func_C04", vram = 0x81340C40, size = 0x108 },
+    { name = "__dll515_SHswapstone_func_D0C", vram = 0x81340D48, size = 0x74 },
 ]
 
 [[section]]

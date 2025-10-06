@@ -13327,8 +13327,8 @@ vram = 0x8134003C
 size = 0xF20
 
 symbols = [
-    { name = "__dll515__data_0", vram = 0x81340F0C },
-    { name = "__dll515__data_4", vram = 0x81340F10 },
+    { name = "__dll515_sWarlockMountainWarps", vram = 0x81340F0C },
+    { name = "__dll515_sSwapStoneWarps", vram = 0x81340F10 },
 ]
 
 [[section]]
