@@ -14797,7 +14797,6 @@ vram = 0x813BF03C
 size = 0xC10
 
 symbols = [
-    { name = "__dll619_str_0", vram = 0x813BFBEC },
     { name = "__dll619__data_0", vram = 0x813BFBFC },
     { name = "__dll619__data_4", vram = 0x813BFC00 },
     { name = "__dll619__data_8", vram = 0x813BFC04 },
@@ -14954,7 +14953,7 @@ vram = 0x813CE03C
 size = 0x510
 
 symbols = [
-    { name = "__dll633__data_0", vram = 0x813CE4FC },
+    { name = "__dll633_data_0", vram = 0x813CE4FC },
 ]
 
 [[section]]
@@ -14990,9 +14989,7 @@ vram = 0x813D103C
 size = 0x470
 
 symbols = [
-    { name = "__dll636__rodata_0", vram = 0x813D1444 },
-    { name = "__dll636__rodata_4", vram = 0x813D1448 },
-    { name = "__dll636__data_0", vram = 0x813D1454 },
+    { name = "__dll636_sDLL_182", vram = 0x813D1454 },
 ]
 
 [[section]]
@@ -15002,7 +14999,6 @@ vram = 0x813D203C
 size = 0x440
 
 symbols = [
-    { name = "__dll637__oob_rodata_0", vram = 0x813D2440 },
 ]
 
 [[section]]
