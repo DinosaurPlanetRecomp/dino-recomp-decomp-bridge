@@ -14551,7 +14551,6 @@ vram = 0x813AE03C
 size = 0x1B20
 
 symbols = [
-    { name = "__dll607__rodata_40", vram = 0x813AFAF0 },
     { name = "__dll607__data_0", vram = 0x813AFB00 },
     { name = "__dll607__data_4", vram = 0x813AFB04 },
     { name = "__dll607__data_8", vram = 0x813AFB08 },
