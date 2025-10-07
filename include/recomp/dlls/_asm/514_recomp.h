@@ -5,12 +5,12 @@
 
 #define dll_514_ctor __dll514_dll_514_ctor
 #define dll_514_dtor __dll514_dll_514_dtor
-#define dll_514_func_18 __dll514_dll_514_func_18
-#define dll_514_func_7C __dll514_dll_514_func_7C
+#define dll_514_create __dll514_dll_514_create
+#define dll_514_update __dll514_dll_514_update
 #define dll_514_func_188 __dll514_dll_514_func_188
-#define dll_514_func_194 __dll514_dll_514_func_194
-#define dll_514_func_1E8 __dll514_dll_514_func_1E8
-#define dll_514_func_1F8 __dll514_dll_514_func_1F8
-#define dll_514_func_208 __dll514_dll_514_func_208
+#define dll_514_draw __dll514_dll_514_draw
+#define dll_514_destroy __dll514_dll_514_destroy
+#define dll_514_get_setup_flags __dll514_dll_514_get_setup_flags
+#define dll_514_get_state_size __dll514_dll_514_get_state_size
 
 #endif //_DLL_514_RECOMP_H

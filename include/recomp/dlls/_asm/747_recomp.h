@@ -5,13 +5,13 @@
 
 #define dll_747_ctor __dll747_dll_747_ctor
 #define dll_747_dtor __dll747_dll_747_dtor
-#define dll_747_func_18 __dll747_dll_747_func_18
-#define dll_747_func_FC __dll747_dll_747_func_FC
+#define dll_747_create __dll747_dll_747_create
+#define dll_747_update __dll747_dll_747_update
 #define dll_747_func_288 __dll747_dll_747_func_288
-#define dll_747_func_438 __dll747_dll_747_func_438
-#define dll_747_func_51C __dll747_dll_747_func_51C
-#define dll_747_func_55C __dll747_dll_747_func_55C
-#define dll_747_func_56C __dll747_dll_747_func_56C
+#define dll_747_draw __dll747_dll_747_draw
+#define dll_747_destroy __dll747_dll_747_destroy
+#define dll_747_get_setup_flags __dll747_dll_747_get_setup_flags
+#define dll_747_get_state_size __dll747_dll_747_get_state_size
 #define dll_747_func_580 __dll747_dll_747_func_580
 #define dll_747_func_7D4 __dll747_dll_747_func_7D4
 #define dll_747_func_7E4 __dll747_dll_747_func_7E4

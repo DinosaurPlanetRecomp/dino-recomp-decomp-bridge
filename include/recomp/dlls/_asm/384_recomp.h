@@ -5,13 +5,13 @@
 
 #define dll_384_ctor __dll384_dll_384_ctor
 #define dll_384_dtor __dll384_dll_384_dtor
-#define dll_384_func_18 __dll384_dll_384_func_18
-#define dll_384_func_134 __dll384_dll_384_func_134
+#define dll_384_create __dll384_dll_384_create
+#define dll_384_update __dll384_dll_384_update
 #define dll_384_func_1C4 __dll384_dll_384_func_1C4
-#define dll_384_func_1D0 __dll384_dll_384_func_1D0
-#define dll_384_func_224 __dll384_dll_384_func_224
-#define dll_384_func_234 __dll384_dll_384_func_234
-#define dll_384_func_258 __dll384_dll_384_func_258
+#define dll_384_draw __dll384_dll_384_draw
+#define dll_384_destroy __dll384_dll_384_destroy
+#define dll_384_get_setup_flags __dll384_dll_384_get_setup_flags
+#define dll_384_get_state_size __dll384_dll_384_get_state_size
 #define dll_384_func_26C __dll384_dll_384_func_26C
 
 #endif //_DLL_384_RECOMP_H

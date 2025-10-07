@@ -5,13 +5,13 @@
 
 #define dll_248_ctor __dll248_dll_248_ctor
 #define dll_248_dtor __dll248_dll_248_dtor
-#define dll_248_func_18 __dll248_dll_248_func_18
-#define dll_248_func_178 __dll248_dll_248_func_178
+#define dll_248_create __dll248_dll_248_create
+#define dll_248_update __dll248_dll_248_update
 #define dll_248_func_808 __dll248_dll_248_func_808
-#define dll_248_func_814 __dll248_dll_248_func_814
-#define dll_248_func_99C __dll248_dll_248_func_99C
-#define dll_248_func_A38 __dll248_dll_248_func_A38
-#define dll_248_func_A48 __dll248_dll_248_func_A48
+#define dll_248_draw __dll248_dll_248_draw
+#define dll_248_destroy __dll248_dll_248_destroy
+#define dll_248_get_setup_flags __dll248_dll_248_get_setup_flags
+#define dll_248_get_state_size __dll248_dll_248_get_state_size
 #define dll_248_func_A5C __dll248_dll_248_func_A5C
 #define _rodata_0 __dll248__rodata_0
 #define _rodata_4 __dll248__rodata_4

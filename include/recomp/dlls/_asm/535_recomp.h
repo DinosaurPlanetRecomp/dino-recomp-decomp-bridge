@@ -5,13 +5,13 @@
 
 #define dll_535_ctor __dll535_dll_535_ctor
 #define dll_535_dtor __dll535_dll_535_dtor
-#define dll_535_func_18 __dll535_dll_535_func_18
-#define dll_535_func_A4 __dll535_dll_535_func_A4
+#define dll_535_create __dll535_dll_535_create
+#define dll_535_update __dll535_dll_535_update
 #define dll_535_func_1D0 __dll535_dll_535_func_1D0
-#define dll_535_func_1DC __dll535_dll_535_func_1DC
-#define dll_535_func_1F4 __dll535_dll_535_func_1F4
-#define dll_535_func_254 __dll535_dll_535_func_254
-#define dll_535_func_264 __dll535_dll_535_func_264
+#define dll_535_draw __dll535_dll_535_draw
+#define dll_535_destroy __dll535_dll_535_destroy
+#define dll_535_get_setup_flags __dll535_dll_535_get_setup_flags
+#define dll_535_get_state_size __dll535_dll_535_get_state_size
 #define dll_535_func_278 __dll535_dll_535_func_278
 #define _oob_rodata_0 __dll535__oob_rodata_0
 

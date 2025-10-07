@@ -5,13 +5,13 @@
 
 #define dll_349_ctor __dll349_dll_349_ctor
 #define dll_349_dtor __dll349_dll_349_dtor
-#define dll_349_func_18 __dll349_dll_349_func_18
-#define dll_349_func_114 __dll349_dll_349_func_114
+#define dll_349_create __dll349_dll_349_create
+#define dll_349_update __dll349_dll_349_update
 #define dll_349_func_A28 __dll349_dll_349_func_A28
-#define dll_349_func_B5C __dll349_dll_349_func_B5C
-#define dll_349_func_BB0 __dll349_dll_349_func_BB0
-#define dll_349_func_C74 __dll349_dll_349_func_C74
-#define dll_349_func_C84 __dll349_dll_349_func_C84
+#define dll_349_draw __dll349_dll_349_draw
+#define dll_349_destroy __dll349_dll_349_destroy
+#define dll_349_get_setup_flags __dll349_dll_349_get_setup_flags
+#define dll_349_get_state_size __dll349_dll_349_get_state_size
 #define dll_349_func_C98 __dll349_dll_349_func_C98
 #define dll_349_func_1268 __dll349_dll_349_func_1268
 #define dll_349_func_128C __dll349_dll_349_func_128C

@@ -5,13 +5,13 @@
 
 #define dll_433_ctor __dll433_dll_433_ctor
 #define dll_433_dtor __dll433_dll_433_dtor
-#define dll_433_func_18 __dll433_dll_433_func_18
-#define dll_433_func_1A8 __dll433_dll_433_func_1A8
+#define dll_433_create __dll433_dll_433_create
+#define dll_433_update __dll433_dll_433_update
 #define dll_433_func_E04 __dll433_dll_433_func_E04
-#define dll_433_func_E10 __dll433_dll_433_func_E10
-#define dll_433_func_E64 __dll433_dll_433_func_E64
-#define dll_433_func_EF4 __dll433_dll_433_func_EF4
-#define dll_433_func_F04 __dll433_dll_433_func_F04
+#define dll_433_draw __dll433_dll_433_draw
+#define dll_433_destroy __dll433_dll_433_destroy
+#define dll_433_get_setup_flags __dll433_dll_433_get_setup_flags
+#define dll_433_get_state_size __dll433_dll_433_get_state_size
 #define dll_433_func_F18 __dll433_dll_433_func_F18
 #define dll_433_func_12AC __dll433_dll_433_func_12AC
 #define str_0 __dll433_str_0

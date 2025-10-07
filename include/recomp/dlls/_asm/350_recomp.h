@@ -5,14 +5,14 @@
 
 #define dll_350_ctor __dll350_dll_350_ctor
 #define dll_350_dtor __dll350_dll_350_dtor
-#define dll_350_func_18 __dll350_dll_350_func_18
-#define dll_350_func_34 __dll350_dll_350_func_34
+#define dll_350_create __dll350_dll_350_create
+#define dll_350_update __dll350_dll_350_update
 #define dll_350_func_808 __dll350_dll_350_func_808
 #define dll_350_func_BB8 __dll350_dll_350_func_BB8
-#define dll_350_func_BC4 __dll350_dll_350_func_BC4
-#define dll_350_func_C18 __dll350_dll_350_func_C18
-#define dll_350_func_C68 __dll350_dll_350_func_C68
-#define dll_350_func_C78 __dll350_dll_350_func_C78
+#define dll_350_draw __dll350_dll_350_draw
+#define dll_350_destroy __dll350_dll_350_destroy
+#define dll_350_get_setup_flags __dll350_dll_350_get_setup_flags
+#define dll_350_get_state_size __dll350_dll_350_get_state_size
 #define dll_350_func_C8C __dll350_dll_350_func_C8C
 #define str_0 __dll350_str_0
 #define _rodata_10 __dll350__rodata_10

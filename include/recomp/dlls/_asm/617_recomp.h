@@ -5,13 +5,13 @@
 
 #define dll_617_ctor __dll617_dll_617_ctor
 #define dll_617_dtor __dll617_dll_617_dtor
-#define dll_617_func_18 __dll617_dll_617_func_18
-#define dll_617_func_30 __dll617_dll_617_func_30
+#define dll_617_create __dll617_dll_617_create
+#define dll_617_update __dll617_dll_617_update
 #define dll_617_func_3C __dll617_dll_617_func_3C
-#define dll_617_func_48 __dll617_dll_617_func_48
-#define dll_617_func_9C __dll617_dll_617_func_9C
-#define dll_617_func_AC __dll617_dll_617_func_AC
-#define dll_617_func_BC __dll617_dll_617_func_BC
+#define dll_617_draw __dll617_dll_617_draw
+#define dll_617_destroy __dll617_dll_617_destroy
+#define dll_617_get_setup_flags __dll617_dll_617_get_setup_flags
+#define dll_617_get_state_size __dll617_dll_617_get_state_size
 #define _oob_rodata_0 __dll617__oob_rodata_0
 
 #endif //_DLL_617_RECOMP_H

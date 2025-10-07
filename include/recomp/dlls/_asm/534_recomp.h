@@ -5,13 +5,13 @@
 
 #define dll_534_ctor __dll534_dll_534_ctor
 #define dll_534_dtor __dll534_dll_534_dtor
-#define dll_534_func_18 __dll534_dll_534_func_18
-#define dll_534_func_54 __dll534_dll_534_func_54
+#define dll_534_create __dll534_dll_534_create
+#define dll_534_update __dll534_dll_534_update
 #define dll_534_func_1E4 __dll534_dll_534_func_1E4
-#define dll_534_func_1F0 __dll534_dll_534_func_1F0
-#define dll_534_func_244 __dll534_dll_534_func_244
-#define dll_534_func_254 __dll534_dll_534_func_254
-#define dll_534_func_264 __dll534_dll_534_func_264
+#define dll_534_draw __dll534_dll_534_draw
+#define dll_534_destroy __dll534_dll_534_destroy
+#define dll_534_get_setup_flags __dll534_dll_534_get_setup_flags
+#define dll_534_get_state_size __dll534_dll_534_get_state_size
 #define dll_534_func_278 __dll534_dll_534_func_278
 #define _oob_rodata_0 __dll534__oob_rodata_0
 

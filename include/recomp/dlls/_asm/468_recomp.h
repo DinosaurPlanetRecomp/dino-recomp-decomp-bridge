@@ -5,13 +5,13 @@
 
 #define dll_468_ctor __dll468_dll_468_ctor
 #define dll_468_dtor __dll468_dll_468_dtor
-#define dll_468_func_18 __dll468_dll_468_func_18
-#define dll_468_func_194 __dll468_dll_468_func_194
+#define dll_468_create __dll468_dll_468_create
+#define dll_468_update __dll468_dll_468_update
 #define dll_468_func_73C __dll468_dll_468_func_73C
-#define dll_468_func_748 __dll468_dll_468_func_748
-#define dll_468_func_A24 __dll468_dll_468_func_A24
-#define dll_468_func_AD4 __dll468_dll_468_func_AD4
-#define dll_468_func_AE4 __dll468_dll_468_func_AE4
+#define dll_468_draw __dll468_dll_468_draw
+#define dll_468_destroy __dll468_dll_468_destroy
+#define dll_468_get_setup_flags __dll468_dll_468_get_setup_flags
+#define dll_468_get_state_size __dll468_dll_468_get_state_size
 #define _rodata_0 __dll468__rodata_0
 #define _data_0 __dll468__data_0
 #define _data_4 __dll468__data_4

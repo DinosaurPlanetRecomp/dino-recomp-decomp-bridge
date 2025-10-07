@@ -5,13 +5,13 @@
 
 #define dll_696_ctor __dll696_dll_696_ctor
 #define dll_696_dtor __dll696_dll_696_dtor
-#define dll_696_func_18 __dll696_dll_696_func_18
-#define dll_696_func_9C __dll696_dll_696_func_9C
+#define dll_696_create __dll696_dll_696_create
+#define dll_696_update __dll696_dll_696_update
 #define dll_696_func_30C __dll696_dll_696_func_30C
-#define dll_696_func_318 __dll696_dll_696_func_318
-#define dll_696_func_330 __dll696_dll_696_func_330
-#define dll_696_func_340 __dll696_dll_696_func_340
-#define dll_696_func_350 __dll696_dll_696_func_350
+#define dll_696_draw __dll696_dll_696_draw
+#define dll_696_destroy __dll696_dll_696_destroy
+#define dll_696_get_setup_flags __dll696_dll_696_get_setup_flags
+#define dll_696_get_state_size __dll696_dll_696_get_state_size
 #define dll_696_func_364 __dll696_dll_696_func_364
 
 #endif //_DLL_696_RECOMP_H

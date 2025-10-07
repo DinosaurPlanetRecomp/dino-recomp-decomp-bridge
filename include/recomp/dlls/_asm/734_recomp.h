@@ -5,13 +5,13 @@
 
 #define dll_734_ctor __dll734_dll_734_ctor
 #define dll_734_dtor __dll734_dll_734_dtor
-#define dll_734_func_18 __dll734_dll_734_func_18
-#define dll_734_func_114 __dll734_dll_734_func_114
+#define dll_734_create __dll734_dll_734_create
+#define dll_734_update __dll734_dll_734_update
 #define dll_734_func_7E0 __dll734_dll_734_func_7E0
-#define dll_734_func_8B8 __dll734_dll_734_func_8B8
-#define dll_734_func_B8C __dll734_dll_734_func_B8C
-#define dll_734_func_C10 __dll734_dll_734_func_C10
-#define dll_734_func_C20 __dll734_dll_734_func_C20
+#define dll_734_draw __dll734_dll_734_draw
+#define dll_734_destroy __dll734_dll_734_destroy
+#define dll_734_get_setup_flags __dll734_dll_734_get_setup_flags
+#define dll_734_get_state_size __dll734_dll_734_get_state_size
 #define dll_734_func_C34 __dll734_dll_734_func_C34
 #define dll_734_func_D30 __dll734_dll_734_func_D30
 #define dll_734_func_DD8 __dll734_dll_734_func_DD8

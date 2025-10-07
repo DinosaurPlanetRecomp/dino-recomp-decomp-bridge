@@ -5,13 +5,13 @@
 
 #define dll_785_ctor __dll785_dll_785_ctor
 #define dll_785_dtor __dll785_dll_785_dtor
-#define dll_785_func_18 __dll785_dll_785_func_18
-#define dll_785_func_148 __dll785_dll_785_func_148
+#define dll_785_create __dll785_dll_785_create
+#define dll_785_update __dll785_dll_785_update
 #define dll_785_func_554 __dll785_dll_785_func_554
-#define dll_785_func_5AC __dll785_dll_785_func_5AC
-#define dll_785_func_600 __dll785_dll_785_func_600
-#define dll_785_func_610 __dll785_dll_785_func_610
-#define dll_785_func_620 __dll785_dll_785_func_620
+#define dll_785_draw __dll785_dll_785_draw
+#define dll_785_destroy __dll785_dll_785_destroy
+#define dll_785_get_setup_flags __dll785_dll_785_get_setup_flags
+#define dll_785_get_state_size __dll785_dll_785_get_state_size
 #define dll_785_func_634 __dll785_dll_785_func_634
 #define str_0 __dll785_str_0
 #define _data_0 __dll785__data_0

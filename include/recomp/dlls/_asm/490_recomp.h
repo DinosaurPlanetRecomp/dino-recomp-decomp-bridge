@@ -5,13 +5,13 @@
 
 #define dll_490_ctor __dll490_dll_490_ctor
 #define dll_490_dtor __dll490_dll_490_dtor
-#define dll_490_func_18 __dll490_dll_490_func_18
-#define dll_490_func_1C0 __dll490_dll_490_func_1C0
+#define dll_490_create __dll490_dll_490_create
+#define dll_490_update __dll490_dll_490_update
 #define dll_490_func_66C __dll490_dll_490_func_66C
-#define dll_490_func_678 __dll490_dll_490_func_678
-#define dll_490_func_6CC __dll490_dll_490_func_6CC
-#define dll_490_func_6DC __dll490_dll_490_func_6DC
-#define dll_490_func_6EC __dll490_dll_490_func_6EC
+#define dll_490_draw __dll490_dll_490_draw
+#define dll_490_destroy __dll490_dll_490_destroy
+#define dll_490_get_setup_flags __dll490_dll_490_get_setup_flags
+#define dll_490_get_state_size __dll490_dll_490_get_state_size
 #define dll_490_func_700 __dll490_dll_490_func_700
 #define dll_490_func_8A4 __dll490_dll_490_func_8A4
 #define _rodata_0 __dll490__rodata_0

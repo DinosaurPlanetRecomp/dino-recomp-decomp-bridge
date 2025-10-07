@@ -5,13 +5,13 @@
 
 #define dll_221_ctor __dll221_dll_221_ctor
 #define dll_221_dtor __dll221_dll_221_dtor
-#define dll_221_func_18 __dll221_dll_221_func_18
-#define dll_221_func_A0 __dll221_dll_221_func_A0
+#define dll_221_create __dll221_dll_221_create
+#define dll_221_update __dll221_dll_221_update
 #define dll_221_func_2D4 __dll221_dll_221_func_2D4
-#define dll_221_func_2E0 __dll221_dll_221_func_2E0
-#define dll_221_func_334 __dll221_dll_221_func_334
-#define dll_221_func_374 __dll221_dll_221_func_374
-#define dll_221_func_384 __dll221_dll_221_func_384
+#define dll_221_draw __dll221_dll_221_draw
+#define dll_221_destroy __dll221_dll_221_destroy
+#define dll_221_get_setup_flags __dll221_dll_221_get_setup_flags
+#define dll_221_get_state_size __dll221_dll_221_get_state_size
 #define dll_221_func_398 __dll221_dll_221_func_398
 #define dll_221_func_620 __dll221_dll_221_func_620
 #define dll_221_func_77C __dll221_dll_221_func_77C

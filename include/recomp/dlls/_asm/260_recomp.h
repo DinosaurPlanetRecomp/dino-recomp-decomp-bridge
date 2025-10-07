@@ -5,14 +5,14 @@
 
 #define dll_260_ctor __dll260_dll_260_ctor
 #define dll_260_dtor __dll260_dll_260_dtor
-#define dll_260_func_18 __dll260_dll_260_func_18
+#define dll_260_create __dll260_dll_260_create
 #define dll_260_func_13C __dll260_dll_260_func_13C
-#define dll_260_func_2A4 __dll260_dll_260_func_2A4
+#define dll_260_update __dll260_dll_260_update
 #define dll_260_func_5C0 __dll260_dll_260_func_5C0
-#define dll_260_func_634 __dll260_dll_260_func_634
-#define dll_260_func_688 __dll260_dll_260_func_688
-#define dll_260_func_6C8 __dll260_dll_260_func_6C8
-#define dll_260_func_6D8 __dll260_dll_260_func_6D8
+#define dll_260_draw __dll260_dll_260_draw
+#define dll_260_destroy __dll260_dll_260_destroy
+#define dll_260_get_setup_flags __dll260_dll_260_get_setup_flags
+#define dll_260_get_state_size __dll260_dll_260_get_state_size
 #define _rodata_0 __dll260__rodata_0
 #define _rodata_4 __dll260__rodata_4
 #define _rodata_8 __dll260__rodata_8

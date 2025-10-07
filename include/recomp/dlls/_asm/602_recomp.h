@@ -5,12 +5,12 @@
 
 #define dll_602_ctor __dll602_dll_602_ctor
 #define dll_602_dtor __dll602_dll_602_dtor
-#define dll_602_func_18 __dll602_dll_602_func_18
-#define dll_602_func_224 __dll602_dll_602_func_224
+#define dll_602_create __dll602_dll_602_create
+#define dll_602_update __dll602_dll_602_update
 #define dll_602_func_594 __dll602_dll_602_func_594
-#define dll_602_func_5A0 __dll602_dll_602_func_5A0
-#define dll_602_func_5B8 __dll602_dll_602_func_5B8
-#define dll_602_func_68C __dll602_dll_602_func_68C
-#define dll_602_func_69C __dll602_dll_602_func_69C
+#define dll_602_draw __dll602_dll_602_draw
+#define dll_602_destroy __dll602_dll_602_destroy
+#define dll_602_get_setup_flags __dll602_dll_602_get_setup_flags
+#define dll_602_get_state_size __dll602_dll_602_get_state_size
 
 #endif //_DLL_602_RECOMP_H

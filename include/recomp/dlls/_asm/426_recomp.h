@@ -5,12 +5,12 @@
 
 #define dll_426_ctor __dll426_dll_426_ctor
 #define dll_426_dtor __dll426_dll_426_dtor
-#define dll_426_func_18 __dll426_dll_426_func_18
-#define dll_426_func_48 __dll426_dll_426_func_48
+#define dll_426_create __dll426_dll_426_create
+#define dll_426_update __dll426_dll_426_update
 #define dll_426_func_B0 __dll426_dll_426_func_B0
-#define dll_426_func_BC __dll426_dll_426_func_BC
-#define dll_426_func_110 __dll426_dll_426_func_110
-#define dll_426_func_120 __dll426_dll_426_func_120
-#define dll_426_func_130 __dll426_dll_426_func_130
+#define dll_426_draw __dll426_dll_426_draw
+#define dll_426_destroy __dll426_dll_426_destroy
+#define dll_426_get_setup_flags __dll426_dll_426_get_setup_flags
+#define dll_426_get_state_size __dll426_dll_426_get_state_size
 
 #endif //_DLL_426_RECOMP_H

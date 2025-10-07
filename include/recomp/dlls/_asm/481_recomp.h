@@ -5,13 +5,13 @@
 
 #define dll_481_ctor __dll481_dll_481_ctor
 #define dll_481_dtor __dll481_dll_481_dtor
-#define dll_481_func_18 __dll481_dll_481_func_18
-#define dll_481_func_1E8 __dll481_dll_481_func_1E8
+#define dll_481_create __dll481_dll_481_create
+#define dll_481_update __dll481_dll_481_update
 #define dll_481_func_B08 __dll481_dll_481_func_B08
-#define dll_481_func_B14 __dll481_dll_481_func_B14
-#define dll_481_func_B5C __dll481_dll_481_func_B5C
-#define dll_481_func_BEC __dll481_dll_481_func_BEC
-#define dll_481_func_BFC __dll481_dll_481_func_BFC
+#define dll_481_draw __dll481_dll_481_draw
+#define dll_481_destroy __dll481_dll_481_destroy
+#define dll_481_get_setup_flags __dll481_dll_481_get_setup_flags
+#define dll_481_get_state_size __dll481_dll_481_get_state_size
 #define dll_481_func_C10 __dll481_dll_481_func_C10
 #define dll_481_func_1084 __dll481_dll_481_func_1084
 #define str_0 __dll481_str_0

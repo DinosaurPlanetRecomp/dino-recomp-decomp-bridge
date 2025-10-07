@@ -5,13 +5,13 @@
 
 #define dll_298_ctor __dll298_dll_298_ctor
 #define dll_298_dtor __dll298_dll_298_dtor
-#define dll_298_func_18 __dll298_dll_298_func_18
-#define dll_298_func_1CC __dll298_dll_298_func_1CC
+#define dll_298_create __dll298_dll_298_create
+#define dll_298_update __dll298_dll_298_update
 #define dll_298_func_D58 __dll298_dll_298_func_D58
-#define dll_298_func_D64 __dll298_dll_298_func_D64
-#define dll_298_func_EDC __dll298_dll_298_func_EDC
-#define dll_298_func_F74 __dll298_dll_298_func_F74
-#define dll_298_func_F84 __dll298_dll_298_func_F84
+#define dll_298_draw __dll298_dll_298_draw
+#define dll_298_destroy __dll298_dll_298_destroy
+#define dll_298_get_setup_flags __dll298_dll_298_get_setup_flags
+#define dll_298_get_state_size __dll298_dll_298_get_state_size
 #define dll_298_func_F98 __dll298_dll_298_func_F98
 #define dll_298_func_1064 __dll298_dll_298_func_1064
 #define _rodata_0 __dll298__rodata_0

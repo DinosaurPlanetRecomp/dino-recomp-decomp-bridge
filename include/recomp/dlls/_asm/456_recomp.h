@@ -5,12 +5,12 @@
 
 #define dll_456_ctor __dll456_dll_456_ctor
 #define dll_456_dtor __dll456_dll_456_dtor
-#define dll_456_func_18 __dll456_dll_456_func_18
-#define dll_456_func_64 __dll456_dll_456_func_64
+#define dll_456_create __dll456_dll_456_create
+#define dll_456_update __dll456_dll_456_update
 #define dll_456_func_70 __dll456_dll_456_func_70
-#define dll_456_func_7C __dll456_dll_456_func_7C
-#define dll_456_func_1B4 __dll456_dll_456_func_1B4
-#define dll_456_func_1C4 __dll456_dll_456_func_1C4
-#define dll_456_func_1D4 __dll456_dll_456_func_1D4
+#define dll_456_draw __dll456_dll_456_draw
+#define dll_456_destroy __dll456_dll_456_destroy
+#define dll_456_get_setup_flags __dll456_dll_456_get_setup_flags
+#define dll_456_get_state_size __dll456_dll_456_get_state_size
 
 #endif //_DLL_456_RECOMP_H

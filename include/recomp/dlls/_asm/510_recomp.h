@@ -5,13 +5,13 @@
 
 #define dll_510_ctor __dll510_dll_510_ctor
 #define dll_510_dtor __dll510_dll_510_dtor
-#define dll_510_func_18 __dll510_dll_510_func_18
-#define dll_510_func_C8 __dll510_dll_510_func_C8
+#define dll_510_create __dll510_dll_510_create
+#define dll_510_update __dll510_dll_510_update
 #define dll_510_func_5E0 __dll510_dll_510_func_5E0
-#define dll_510_func_5EC __dll510_dll_510_func_5EC
-#define dll_510_func_640 __dll510_dll_510_func_640
-#define dll_510_func_650 __dll510_dll_510_func_650
-#define dll_510_func_660 __dll510_dll_510_func_660
+#define dll_510_draw __dll510_dll_510_draw
+#define dll_510_destroy __dll510_dll_510_destroy
+#define dll_510_get_setup_flags __dll510_dll_510_get_setup_flags
+#define dll_510_get_state_size __dll510_dll_510_get_state_size
 #define _rodata_14 __dll510__rodata_14
 #define _rodata_18 __dll510__rodata_18
 #define _rodata_1C __dll510__rodata_1C

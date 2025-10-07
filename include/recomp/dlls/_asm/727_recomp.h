@@ -5,13 +5,13 @@
 
 #define dll_727_ctor __dll727_dll_727_ctor
 #define dll_727_dtor __dll727_dll_727_dtor
-#define dll_727_func_18 __dll727_dll_727_func_18
-#define dll_727_func_268 __dll727_dll_727_func_268
+#define dll_727_create __dll727_dll_727_create
+#define dll_727_update __dll727_dll_727_update
 #define dll_727_func_428 __dll727_dll_727_func_428
-#define dll_727_func_434 __dll727_dll_727_func_434
-#define dll_727_func_488 __dll727_dll_727_func_488
-#define dll_727_func_498 __dll727_dll_727_func_498
-#define dll_727_func_4A8 __dll727_dll_727_func_4A8
+#define dll_727_draw __dll727_dll_727_draw
+#define dll_727_destroy __dll727_dll_727_destroy
+#define dll_727_get_setup_flags __dll727_dll_727_get_setup_flags
+#define dll_727_get_state_size __dll727_dll_727_get_state_size
 #define dll_727_func_4BC __dll727_dll_727_func_4BC
 #define dll_727_func_6B0 __dll727_dll_727_func_6B0
 #define str_0 __dll727_str_0

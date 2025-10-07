@@ -5,13 +5,13 @@
 
 #define dll_523_ctor __dll523_dll_523_ctor
 #define dll_523_dtor __dll523_dll_523_dtor
-#define dll_523_func_18 __dll523_dll_523_func_18
-#define dll_523_func_224 __dll523_dll_523_func_224
+#define dll_523_create __dll523_dll_523_create
+#define dll_523_update __dll523_dll_523_update
 #define dll_523_func_548 __dll523_dll_523_func_548
-#define dll_523_func_554 __dll523_dll_523_func_554
-#define dll_523_func_684 __dll523_dll_523_func_684
-#define dll_523_func_6C4 __dll523_dll_523_func_6C4
-#define dll_523_func_6D4 __dll523_dll_523_func_6D4
+#define dll_523_draw __dll523_dll_523_draw
+#define dll_523_destroy __dll523_dll_523_destroy
+#define dll_523_get_setup_flags __dll523_dll_523_get_setup_flags
+#define dll_523_get_state_size __dll523_dll_523_get_state_size
 #define dll_523_func_6E8 __dll523_dll_523_func_6E8
 #define dll_523_func_A2C __dll523_dll_523_func_A2C
 #define dll_523_func_AF8 __dll523_dll_523_func_AF8

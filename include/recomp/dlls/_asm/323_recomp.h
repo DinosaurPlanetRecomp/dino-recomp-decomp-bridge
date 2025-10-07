@@ -5,13 +5,13 @@
 
 #define dll_323_ctor __dll323_dll_323_ctor
 #define dll_323_dtor __dll323_dll_323_dtor
-#define dll_323_func_18 __dll323_dll_323_func_18
-#define dll_323_func_34 __dll323_dll_323_func_34
+#define dll_323_create __dll323_dll_323_create
+#define dll_323_update __dll323_dll_323_update
 #define dll_323_func_7C __dll323_dll_323_func_7C
-#define dll_323_func_88 __dll323_dll_323_func_88
-#define dll_323_func_A0 __dll323_dll_323_func_A0
-#define dll_323_func_B0 __dll323_dll_323_func_B0
-#define dll_323_func_C0 __dll323_dll_323_func_C0
+#define dll_323_draw __dll323_dll_323_draw
+#define dll_323_destroy __dll323_dll_323_destroy
+#define dll_323_get_setup_flags __dll323_dll_323_get_setup_flags
+#define dll_323_get_state_size __dll323_dll_323_get_state_size
 #define _oob_rodata_0 __dll323__oob_rodata_0
 
 #endif //_DLL_323_RECOMP_H

@@ -5,12 +5,12 @@
 
 #define dll_491_ctor __dll491_dll_491_ctor
 #define dll_491_dtor __dll491_dll_491_dtor
-#define dll_491_func_18 __dll491_dll_491_func_18
-#define dll_491_func_104 __dll491_dll_491_func_104
+#define dll_491_create __dll491_dll_491_create
+#define dll_491_update __dll491_dll_491_update
 #define dll_491_func_548 __dll491_dll_491_func_548
-#define dll_491_func_674 __dll491_dll_491_func_674
-#define dll_491_func_68C __dll491_dll_491_func_68C
-#define dll_491_func_724 __dll491_dll_491_func_724
-#define dll_491_func_734 __dll491_dll_491_func_734
+#define dll_491_draw __dll491_dll_491_draw
+#define dll_491_destroy __dll491_dll_491_destroy
+#define dll_491_get_setup_flags __dll491_dll_491_get_setup_flags
+#define dll_491_get_state_size __dll491_dll_491_get_state_size
 
 #endif //_DLL_491_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_284_ctor __dll284_dll_284_ctor
 #define dll_284_dtor __dll284_dll_284_dtor
-#define dll_284_func_18 __dll284_dll_284_func_18
-#define dll_284_func_120 __dll284_dll_284_func_120
+#define dll_284_create __dll284_dll_284_create
+#define dll_284_update __dll284_dll_284_update
 #define dll_284_func_304 __dll284_dll_284_func_304
-#define dll_284_func_310 __dll284_dll_284_func_310
-#define dll_284_func_480 __dll284_dll_284_func_480
-#define dll_284_func_4E4 __dll284_dll_284_func_4E4
-#define dll_284_func_4F4 __dll284_dll_284_func_4F4
+#define dll_284_draw __dll284_dll_284_draw
+#define dll_284_destroy __dll284_dll_284_destroy
+#define dll_284_get_setup_flags __dll284_dll_284_get_setup_flags
+#define dll_284_get_state_size __dll284_dll_284_get_state_size
 #define dll_284_func_508 __dll284_dll_284_func_508
 #define _data_0 __dll284__data_0
 

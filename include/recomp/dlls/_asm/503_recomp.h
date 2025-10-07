@@ -5,13 +5,13 @@
 
 #define dll_503_ctor __dll503_dll_503_ctor
 #define dll_503_dtor __dll503_dll_503_dtor
-#define dll_503_func_18 __dll503_dll_503_func_18
-#define dll_503_func_C4 __dll503_dll_503_func_C4
+#define dll_503_create __dll503_dll_503_create
+#define dll_503_update __dll503_dll_503_update
 #define dll_503_func_CDC __dll503_dll_503_func_CDC
-#define dll_503_func_CE8 __dll503_dll_503_func_CE8
-#define dll_503_func_D70 __dll503_dll_503_func_D70
-#define dll_503_func_DB8 __dll503_dll_503_func_DB8
-#define dll_503_func_DD0 __dll503_dll_503_func_DD0
+#define dll_503_draw __dll503_dll_503_draw
+#define dll_503_destroy __dll503_dll_503_destroy
+#define dll_503_get_setup_flags __dll503_dll_503_get_setup_flags
+#define dll_503_get_state_size __dll503_dll_503_get_state_size
 #define dll_503_func_DE4 __dll503_dll_503_func_DE4
 #define _rodata_2C __dll503__rodata_2C
 #define _rodata_30 __dll503__rodata_30

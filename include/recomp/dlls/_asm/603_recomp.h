@@ -5,13 +5,13 @@
 
 #define dll_603_ctor __dll603_dll_603_ctor
 #define dll_603_dtor __dll603_dll_603_dtor
-#define dll_603_func_18 __dll603_dll_603_func_18
-#define dll_603_func_EC __dll603_dll_603_func_EC
+#define dll_603_create __dll603_dll_603_create
+#define dll_603_update __dll603_dll_603_update
 #define dll_603_func_2A4 __dll603_dll_603_func_2A4
-#define dll_603_func_2B0 __dll603_dll_603_func_2B0
-#define dll_603_func_2C8 __dll603_dll_603_func_2C8
-#define dll_603_func_338 __dll603_dll_603_func_338
-#define dll_603_func_348 __dll603_dll_603_func_348
+#define dll_603_draw __dll603_dll_603_draw
+#define dll_603_destroy __dll603_dll_603_destroy
+#define dll_603_get_setup_flags __dll603_dll_603_get_setup_flags
+#define dll_603_get_state_size __dll603_dll_603_get_state_size
 #define _data_0 __dll603__data_0
 
 #endif //_DLL_603_RECOMP_H

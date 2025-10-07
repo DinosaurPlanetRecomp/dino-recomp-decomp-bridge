@@ -5,13 +5,13 @@
 
 #define dll_704_ctor __dll704_dll_704_ctor
 #define dll_704_dtor __dll704_dll_704_dtor
-#define dll_704_func_18 __dll704_dll_704_func_18
-#define dll_704_func_90 __dll704_dll_704_func_90
+#define dll_704_create __dll704_dll_704_create
+#define dll_704_update __dll704_dll_704_update
 #define dll_704_func_650 __dll704_dll_704_func_650
-#define dll_704_func_65C __dll704_dll_704_func_65C
-#define dll_704_func_674 __dll704_dll_704_func_674
-#define dll_704_func_73C __dll704_dll_704_func_73C
-#define dll_704_func_74C __dll704_dll_704_func_74C
+#define dll_704_draw __dll704_dll_704_draw
+#define dll_704_destroy __dll704_dll_704_destroy
+#define dll_704_get_setup_flags __dll704_dll_704_get_setup_flags
+#define dll_704_get_state_size __dll704_dll_704_get_state_size
 #define _data_0 __dll704__data_0
 
 #endif //_DLL_704_RECOMP_H

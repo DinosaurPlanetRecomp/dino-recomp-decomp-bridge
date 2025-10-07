@@ -5,13 +5,13 @@
 
 #define dll_774_ctor __dll774_dll_774_ctor
 #define dll_774_dtor __dll774_dll_774_dtor
-#define dll_774_func_18 __dll774_dll_774_func_18
-#define dll_774_func_114 __dll774_dll_774_func_114
+#define dll_774_create __dll774_dll_774_create
+#define dll_774_update __dll774_dll_774_update
 #define dll_774_func_254 __dll774_dll_774_func_254
-#define dll_774_func_260 __dll774_dll_774_func_260
-#define dll_774_func_2E4 __dll774_dll_774_func_2E4
-#define dll_774_func_2F4 __dll774_dll_774_func_2F4
-#define dll_774_func_304 __dll774_dll_774_func_304
+#define dll_774_draw __dll774_dll_774_draw
+#define dll_774_destroy __dll774_dll_774_destroy
+#define dll_774_get_setup_flags __dll774_dll_774_get_setup_flags
+#define dll_774_get_state_size __dll774_dll_774_get_state_size
 #define dll_774_func_318 __dll774_dll_774_func_318
 #define dll_774_func_3F4 __dll774_dll_774_func_3F4
 #define _data_0 __dll774__data_0

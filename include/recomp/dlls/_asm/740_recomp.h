@@ -5,13 +5,13 @@
 
 #define dll_740_ctor __dll740_dll_740_ctor
 #define dll_740_dtor __dll740_dll_740_dtor
-#define dll_740_func_18 __dll740_dll_740_func_18
-#define dll_740_func_15C __dll740_dll_740_func_15C
+#define dll_740_create __dll740_dll_740_create
+#define dll_740_update __dll740_dll_740_update
 #define dll_740_func_364 __dll740_dll_740_func_364
-#define dll_740_func_370 __dll740_dll_740_func_370
-#define dll_740_func_3C4 __dll740_dll_740_func_3C4
-#define dll_740_func_3D4 __dll740_dll_740_func_3D4
-#define dll_740_func_3E4 __dll740_dll_740_func_3E4
+#define dll_740_draw __dll740_dll_740_draw
+#define dll_740_destroy __dll740_dll_740_destroy
+#define dll_740_get_setup_flags __dll740_dll_740_get_setup_flags
+#define dll_740_get_state_size __dll740_dll_740_get_state_size
 #define dll_740_func_3F8 __dll740_dll_740_func_3F8
 #define dll_740_func_4B8 __dll740_dll_740_func_4B8
 #define dll_740_func_548 __dll740_dll_740_func_548

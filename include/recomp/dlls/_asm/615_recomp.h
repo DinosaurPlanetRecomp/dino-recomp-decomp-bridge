@@ -5,13 +5,13 @@
 
 #define dll_615_ctor __dll615_dll_615_ctor
 #define dll_615_dtor __dll615_dll_615_dtor
-#define dll_615_func_18 __dll615_dll_615_func_18
-#define dll_615_func_288 __dll615_dll_615_func_288
+#define dll_615_create __dll615_dll_615_create
+#define dll_615_update __dll615_dll_615_update
 #define dll_615_func_17B0 __dll615_dll_615_func_17B0
-#define dll_615_func_1888 __dll615_dll_615_func_1888
-#define dll_615_func_194C __dll615_dll_615_func_194C
-#define dll_615_func_19D8 __dll615_dll_615_func_19D8
-#define dll_615_func_19E8 __dll615_dll_615_func_19E8
+#define dll_615_draw __dll615_dll_615_draw
+#define dll_615_destroy __dll615_dll_615_destroy
+#define dll_615_get_setup_flags __dll615_dll_615_get_setup_flags
+#define dll_615_get_state_size __dll615_dll_615_get_state_size
 #define dll_615_func_19FC __dll615_dll_615_func_19FC
 #define dll_615_func_1AC8 __dll615_dll_615_func_1AC8
 #define dll_615_func_1AE8 __dll615_dll_615_func_1AE8

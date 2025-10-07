@@ -5,13 +5,13 @@
 
 #define dll_691_ctor __dll691_dll_691_ctor
 #define dll_691_dtor __dll691_dll_691_dtor
-#define dll_691_func_18 __dll691_dll_691_func_18
-#define dll_691_func_A0 __dll691_dll_691_func_A0
+#define dll_691_create __dll691_dll_691_create
+#define dll_691_update __dll691_dll_691_update
 #define dll_691_func_AC __dll691_dll_691_func_AC
-#define dll_691_func_B8 __dll691_dll_691_func_B8
-#define dll_691_func_200 __dll691_dll_691_func_200
-#define dll_691_func_210 __dll691_dll_691_func_210
-#define dll_691_func_220 __dll691_dll_691_func_220
+#define dll_691_draw __dll691_dll_691_draw
+#define dll_691_destroy __dll691_dll_691_destroy
+#define dll_691_get_setup_flags __dll691_dll_691_get_setup_flags
+#define dll_691_get_state_size __dll691_dll_691_get_state_size
 #define str_0 __dll691_str_0
 
 #endif //_DLL_691_RECOMP_H

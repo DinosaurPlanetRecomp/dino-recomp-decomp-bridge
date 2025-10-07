@@ -5,13 +5,13 @@
 
 #define dll_344_ctor __dll344_dll_344_ctor
 #define dll_344_dtor __dll344_dll_344_dtor
-#define dll_344_func_7C __dll344_dll_344_func_7C
-#define dll_344_func_190 __dll344_dll_344_func_190
+#define dll_344_create __dll344_dll_344_create
+#define dll_344_update __dll344_dll_344_update
 #define dll_344_func_1D4 __dll344_dll_344_func_1D4
-#define dll_344_func_1E0 __dll344_dll_344_func_1E0
-#define dll_344_func_494 __dll344_dll_344_func_494
-#define dll_344_func_4F0 __dll344_dll_344_func_4F0
-#define dll_344_func_500 __dll344_dll_344_func_500
+#define dll_344_draw __dll344_dll_344_draw
+#define dll_344_destroy __dll344_dll_344_destroy
+#define dll_344_get_setup_flags __dll344_dll_344_get_setup_flags
+#define dll_344_get_state_size __dll344_dll_344_get_state_size
 #define dll_344_func_514 __dll344_dll_344_func_514
 #define dll_344_func_5AC __dll344_dll_344_func_5AC
 #define str_0 __dll344_str_0

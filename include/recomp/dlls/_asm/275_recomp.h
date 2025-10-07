@@ -5,13 +5,13 @@
 
 #define dll_275_ctor __dll275_dll_275_ctor
 #define dll_275_dtor __dll275_dll_275_dtor
-#define dll_275_func_18 __dll275_dll_275_func_18
-#define dll_275_func_AC __dll275_dll_275_func_AC
+#define dll_275_create __dll275_dll_275_create
+#define dll_275_update __dll275_dll_275_update
 #define dll_275_func_83C __dll275_dll_275_func_83C
-#define dll_275_func_848 __dll275_dll_275_func_848
-#define dll_275_func_868 __dll275_dll_275_func_868
-#define dll_275_func_878 __dll275_dll_275_func_878
-#define dll_275_func_888 __dll275_dll_275_func_888
+#define dll_275_draw __dll275_dll_275_draw
+#define dll_275_destroy __dll275_dll_275_destroy
+#define dll_275_get_setup_flags __dll275_dll_275_get_setup_flags
+#define dll_275_get_state_size __dll275_dll_275_get_state_size
 #define dll_275_func_89C __dll275_dll_275_func_89C
 #define str_0 __dll275_str_0
 

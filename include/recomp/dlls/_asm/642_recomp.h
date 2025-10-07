@@ -5,13 +5,13 @@
 
 #define dll_642_ctor __dll642_dll_642_ctor
 #define dll_642_dtor __dll642_dll_642_dtor
-#define dll_642_func_18 __dll642_dll_642_func_18
-#define dll_642_func_8C __dll642_dll_642_func_8C
+#define dll_642_create __dll642_dll_642_create
+#define dll_642_update __dll642_dll_642_update
 #define dll_642_func_420 __dll642_dll_642_func_420
-#define dll_642_func_42C __dll642_dll_642_func_42C
-#define dll_642_func_480 __dll642_dll_642_func_480
-#define dll_642_func_490 __dll642_dll_642_func_490
-#define dll_642_func_4A0 __dll642_dll_642_func_4A0
+#define dll_642_draw __dll642_dll_642_draw
+#define dll_642_destroy __dll642_dll_642_destroy
+#define dll_642_get_setup_flags __dll642_dll_642_get_setup_flags
+#define dll_642_get_state_size __dll642_dll_642_get_state_size
 #define dll_642_func_4B4 __dll642_dll_642_func_4B4
 
 #endif //_DLL_642_RECOMP_H

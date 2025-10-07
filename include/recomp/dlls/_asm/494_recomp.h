@@ -5,13 +5,13 @@
 
 #define dll_494_ctor __dll494_dll_494_ctor
 #define dll_494_dtor __dll494_dll_494_dtor
-#define dll_494_func_18 __dll494_dll_494_func_18
-#define dll_494_func_D4 __dll494_dll_494_func_D4
+#define dll_494_create __dll494_dll_494_create
+#define dll_494_update __dll494_dll_494_update
 #define dll_494_func_1CC __dll494_dll_494_func_1CC
-#define dll_494_func_1D8 __dll494_dll_494_func_1D8
-#define dll_494_func_298 __dll494_dll_494_func_298
-#define dll_494_func_2A8 __dll494_dll_494_func_2A8
-#define dll_494_func_2B8 __dll494_dll_494_func_2B8
+#define dll_494_draw __dll494_dll_494_draw
+#define dll_494_destroy __dll494_dll_494_destroy
+#define dll_494_get_setup_flags __dll494_dll_494_get_setup_flags
+#define dll_494_get_state_size __dll494_dll_494_get_state_size
 #define dll_494_func_2CC __dll494_dll_494_func_2CC
 
 #endif //_DLL_494_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_692_ctor __dll692_dll_692_ctor
 #define dll_692_dtor __dll692_dll_692_dtor
-#define dll_692_func_18 __dll692_dll_692_func_18
-#define dll_692_func_98 __dll692_dll_692_func_98
+#define dll_692_create __dll692_dll_692_create
+#define dll_692_update __dll692_dll_692_update
 #define dll_692_func_264 __dll692_dll_692_func_264
-#define dll_692_func_270 __dll692_dll_692_func_270
-#define dll_692_func_2C4 __dll692_dll_692_func_2C4
-#define dll_692_func_2D4 __dll692_dll_692_func_2D4
-#define dll_692_func_2E4 __dll692_dll_692_func_2E4
+#define dll_692_draw __dll692_dll_692_draw
+#define dll_692_destroy __dll692_dll_692_destroy
+#define dll_692_get_setup_flags __dll692_dll_692_get_setup_flags
+#define dll_692_get_state_size __dll692_dll_692_get_state_size
 #define dll_692_func_2F8 __dll692_dll_692_func_2F8
 #define dll_692_func_39C __dll692_dll_692_func_39C
 #define dll_692_func_4AC __dll692_dll_692_func_4AC

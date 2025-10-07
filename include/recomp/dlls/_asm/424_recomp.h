@@ -5,13 +5,13 @@
 
 #define dll_424_ctor __dll424_dll_424_ctor
 #define dll_424_dtor __dll424_dll_424_dtor
-#define dll_424_func_18 __dll424_dll_424_func_18
-#define dll_424_func_19C __dll424_dll_424_func_19C
+#define dll_424_create __dll424_dll_424_create
+#define dll_424_update __dll424_dll_424_update
 #define dll_424_func_454 __dll424_dll_424_func_454
-#define dll_424_func_460 __dll424_dll_424_func_460
-#define dll_424_func_4B4 __dll424_dll_424_func_4B4
-#define dll_424_func_5C0 __dll424_dll_424_func_5C0
-#define dll_424_func_5D0 __dll424_dll_424_func_5D0
+#define dll_424_draw __dll424_dll_424_draw
+#define dll_424_destroy __dll424_dll_424_destroy
+#define dll_424_get_setup_flags __dll424_dll_424_get_setup_flags
+#define dll_424_get_state_size __dll424_dll_424_get_state_size
 #define _oob_rodata_0 __dll424__oob_rodata_0
 
 #endif //_DLL_424_RECOMP_H

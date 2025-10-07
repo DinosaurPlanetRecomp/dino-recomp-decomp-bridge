@@ -5,13 +5,13 @@
 
 #define dll_604_ctor __dll604_dll_604_ctor
 #define dll_604_dtor __dll604_dll_604_dtor
-#define dll_604_func_18 __dll604_dll_604_func_18
-#define dll_604_func_174 __dll604_dll_604_func_174
+#define dll_604_create __dll604_dll_604_create
+#define dll_604_update __dll604_dll_604_update
 #define dll_604_func_6BC __dll604_dll_604_func_6BC
-#define dll_604_func_6C8 __dll604_dll_604_func_6C8
-#define dll_604_func_950 __dll604_dll_604_func_950
-#define dll_604_func_A38 __dll604_dll_604_func_A38
-#define dll_604_func_A54 __dll604_dll_604_func_A54
+#define dll_604_draw __dll604_dll_604_draw
+#define dll_604_destroy __dll604_dll_604_destroy
+#define dll_604_get_setup_flags __dll604_dll_604_get_setup_flags
+#define dll_604_get_state_size __dll604_dll_604_get_state_size
 #define _rodata_0 __dll604__rodata_0
 
 #endif //_DLL_604_RECOMP_H

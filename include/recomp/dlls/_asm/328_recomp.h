@@ -5,13 +5,13 @@
 
 #define dll_328_ctor __dll328_dll_328_ctor
 #define dll_328_dtor __dll328_dll_328_dtor
-#define dll_328_func_18 __dll328_dll_328_func_18
-#define dll_328_func_1A0 __dll328_dll_328_func_1A0
+#define dll_328_create __dll328_dll_328_create
+#define dll_328_update __dll328_dll_328_update
 #define dll_328_func_278 __dll328_dll_328_func_278
-#define dll_328_func_284 __dll328_dll_328_func_284
-#define dll_328_func_2D8 __dll328_dll_328_func_2D8
-#define dll_328_func_388 __dll328_dll_328_func_388
-#define dll_328_func_398 __dll328_dll_328_func_398
+#define dll_328_draw __dll328_dll_328_draw
+#define dll_328_destroy __dll328_dll_328_destroy
+#define dll_328_get_setup_flags __dll328_dll_328_get_setup_flags
+#define dll_328_get_state_size __dll328_dll_328_get_state_size
 #define dll_328_func_3AC __dll328_dll_328_func_3AC
 #define dll_328_func_87C __dll328_dll_328_func_87C
 #define _rodata_0 __dll328__rodata_0

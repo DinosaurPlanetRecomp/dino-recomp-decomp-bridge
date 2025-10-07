@@ -5,13 +5,13 @@
 
 #define dll_591_ctor __dll591_dll_591_ctor
 #define dll_591_dtor __dll591_dll_591_dtor
-#define dll_591_func_18 __dll591_dll_591_func_18
-#define dll_591_func_54 __dll591_dll_591_func_54
+#define dll_591_create __dll591_dll_591_create
+#define dll_591_update __dll591_dll_591_update
 #define dll_591_func_D50 __dll591_dll_591_func_D50
-#define dll_591_func_D5C __dll591_dll_591_func_D5C
-#define dll_591_func_DB0 __dll591_dll_591_func_DB0
-#define dll_591_func_DC0 __dll591_dll_591_func_DC0
-#define dll_591_func_DD0 __dll591_dll_591_func_DD0
+#define dll_591_draw __dll591_dll_591_draw
+#define dll_591_destroy __dll591_dll_591_destroy
+#define dll_591_get_setup_flags __dll591_dll_591_get_setup_flags
+#define dll_591_get_state_size __dll591_dll_591_get_state_size
 #define _rodata_24 __dll591__rodata_24
 #define _rodata_28 __dll591__rodata_28
 #define _bss_0 __dll591__bss_0

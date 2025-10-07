@@ -5,13 +5,13 @@
 
 #define dll_527_ctor __dll527_dll_527_ctor
 #define dll_527_dtor __dll527_dll_527_dtor
-#define dll_527_func_18 __dll527_dll_527_func_18
-#define dll_527_func_68 __dll527_dll_527_func_68
+#define dll_527_create __dll527_dll_527_create
+#define dll_527_update __dll527_dll_527_update
 #define dll_527_func_2B8 __dll527_dll_527_func_2B8
-#define dll_527_func_2C4 __dll527_dll_527_func_2C4
-#define dll_527_func_318 __dll527_dll_527_func_318
-#define dll_527_func_380 __dll527_dll_527_func_380
-#define dll_527_func_390 __dll527_dll_527_func_390
+#define dll_527_draw __dll527_dll_527_draw
+#define dll_527_destroy __dll527_dll_527_destroy
+#define dll_527_get_setup_flags __dll527_dll_527_get_setup_flags
+#define dll_527_get_state_size __dll527_dll_527_get_state_size
 #define dll_527_func_3A4 __dll527_dll_527_func_3A4
 #define dll_527_func_510 __dll527_dll_527_func_510
 #define dll_527_func_7F8 __dll527_dll_527_func_7F8

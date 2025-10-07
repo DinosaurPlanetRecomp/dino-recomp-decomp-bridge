@@ -5,13 +5,13 @@
 
 #define dll_570_ctor __dll570_dll_570_ctor
 #define dll_570_dtor __dll570_dll_570_dtor
-#define dll_570_func_18 __dll570_dll_570_func_18
-#define dll_570_func_CC __dll570_dll_570_func_CC
+#define dll_570_create __dll570_dll_570_create
+#define dll_570_update __dll570_dll_570_update
 #define dll_570_func_1A8 __dll570_dll_570_func_1A8
-#define dll_570_func_1B4 __dll570_dll_570_func_1B4
-#define dll_570_func_208 __dll570_dll_570_func_208
-#define dll_570_func_288 __dll570_dll_570_func_288
-#define dll_570_func_298 __dll570_dll_570_func_298
+#define dll_570_draw __dll570_dll_570_draw
+#define dll_570_destroy __dll570_dll_570_destroy
+#define dll_570_get_setup_flags __dll570_dll_570_get_setup_flags
+#define dll_570_get_state_size __dll570_dll_570_get_state_size
 #define dll_570_func_2AC __dll570_dll_570_func_2AC
 #define dll_570_func_360 __dll570_dll_570_func_360
 #define dll_570_func_53C __dll570_dll_570_func_53C

@@ -5,13 +5,13 @@
 
 #define dll_683_ctor __dll683_dll_683_ctor
 #define dll_683_dtor __dll683_dll_683_dtor
-#define dll_683_func_18 __dll683_dll_683_func_18
-#define dll_683_func_68 __dll683_dll_683_func_68
+#define dll_683_create __dll683_dll_683_create
+#define dll_683_update __dll683_dll_683_update
 #define dll_683_func_74 __dll683_dll_683_func_74
-#define dll_683_func_F4 __dll683_dll_683_func_F4
-#define dll_683_func_10C __dll683_dll_683_func_10C
-#define dll_683_func_11C __dll683_dll_683_func_11C
-#define dll_683_func_12C __dll683_dll_683_func_12C
+#define dll_683_draw __dll683_dll_683_draw
+#define dll_683_destroy __dll683_dll_683_destroy
+#define dll_683_get_setup_flags __dll683_dll_683_get_setup_flags
+#define dll_683_get_state_size __dll683_dll_683_get_state_size
 #define str_0 __dll683_str_0
 
 #endif //_DLL_683_RECOMP_H

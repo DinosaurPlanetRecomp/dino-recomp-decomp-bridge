@@ -5,13 +5,13 @@
 
 #define dll_548_ctor __dll548_dll_548_ctor
 #define dll_548_dtor __dll548_dll_548_dtor
-#define dll_548_func_18 __dll548_dll_548_func_18
-#define dll_548_func_170 __dll548_dll_548_func_170
+#define dll_548_create __dll548_dll_548_create
+#define dll_548_update __dll548_dll_548_update
 #define dll_548_func_1AC __dll548_dll_548_func_1AC
-#define dll_548_func_1B8 __dll548_dll_548_func_1B8
-#define dll_548_func_338 __dll548_dll_548_func_338
-#define dll_548_func_3F8 __dll548_dll_548_func_3F8
-#define dll_548_func_408 __dll548_dll_548_func_408
+#define dll_548_draw __dll548_dll_548_draw
+#define dll_548_destroy __dll548_dll_548_destroy
+#define dll_548_get_setup_flags __dll548_dll_548_get_setup_flags
+#define dll_548_get_state_size __dll548_dll_548_get_state_size
 #define dll_548_func_41C __dll548_dll_548_func_41C
 #define dll_548_func_6E8 __dll548_dll_548_func_6E8
 #define dll_548_func_F18 __dll548_dll_548_func_F18

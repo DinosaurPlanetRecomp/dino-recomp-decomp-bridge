@@ -5,13 +5,13 @@
 
 #define dll_287_ctor __dll287_dll_287_ctor
 #define dll_287_dtor __dll287_dll_287_dtor
-#define dll_287_func_18 __dll287_dll_287_func_18
-#define dll_287_func_148 __dll287_dll_287_func_148
+#define dll_287_create __dll287_dll_287_create
+#define dll_287_update __dll287_dll_287_update
 #define dll_287_func_524 __dll287_dll_287_func_524
-#define dll_287_func_530 __dll287_dll_287_func_530
-#define dll_287_func_584 __dll287_dll_287_func_584
-#define dll_287_func_604 __dll287_dll_287_func_604
-#define dll_287_func_614 __dll287_dll_287_func_614
+#define dll_287_draw __dll287_dll_287_draw
+#define dll_287_destroy __dll287_dll_287_destroy
+#define dll_287_get_setup_flags __dll287_dll_287_get_setup_flags
+#define dll_287_get_state_size __dll287_dll_287_get_state_size
 #define dll_287_func_628 __dll287_dll_287_func_628
 #define dll_287_func_694 __dll287_dll_287_func_694
 #define dll_287_func_718 __dll287_dll_287_func_718

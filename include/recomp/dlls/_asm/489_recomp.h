@@ -5,13 +5,13 @@
 
 #define dll_489_ctor __dll489_dll_489_ctor
 #define dll_489_dtor __dll489_dll_489_dtor
-#define dll_489_func_18 __dll489_dll_489_func_18
-#define dll_489_func_54 __dll489_dll_489_func_54
+#define dll_489_create __dll489_dll_489_create
+#define dll_489_update __dll489_dll_489_update
 #define dll_489_func_294 __dll489_dll_489_func_294
-#define dll_489_func_2A0 __dll489_dll_489_func_2A0
-#define dll_489_func_2F4 __dll489_dll_489_func_2F4
-#define dll_489_func_304 __dll489_dll_489_func_304
-#define dll_489_func_314 __dll489_dll_489_func_314
+#define dll_489_draw __dll489_dll_489_draw
+#define dll_489_destroy __dll489_dll_489_destroy
+#define dll_489_get_setup_flags __dll489_dll_489_get_setup_flags
+#define dll_489_get_state_size __dll489_dll_489_get_state_size
 #define _oob_rodata_0 __dll489__oob_rodata_0
 
 #endif //_DLL_489_RECOMP_H

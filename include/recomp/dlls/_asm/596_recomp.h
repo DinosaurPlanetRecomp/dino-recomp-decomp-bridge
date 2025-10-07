@@ -5,13 +5,13 @@
 
 #define dll_596_ctor __dll596_dll_596_ctor
 #define dll_596_dtor __dll596_dll_596_dtor
-#define dll_596_func_18 __dll596_dll_596_func_18
-#define dll_596_func_B4 __dll596_dll_596_func_B4
+#define dll_596_create __dll596_dll_596_create
+#define dll_596_update __dll596_dll_596_update
 #define dll_596_func_598 __dll596_dll_596_func_598
-#define dll_596_func_5A4 __dll596_dll_596_func_5A4
-#define dll_596_func_5F8 __dll596_dll_596_func_5F8
-#define dll_596_func_654 __dll596_dll_596_func_654
-#define dll_596_func_664 __dll596_dll_596_func_664
+#define dll_596_draw __dll596_dll_596_draw
+#define dll_596_destroy __dll596_dll_596_destroy
+#define dll_596_get_setup_flags __dll596_dll_596_get_setup_flags
+#define dll_596_get_state_size __dll596_dll_596_get_state_size
 #define dll_596_func_678 __dll596_dll_596_func_678
 #define _rodata_0 __dll596__rodata_0
 

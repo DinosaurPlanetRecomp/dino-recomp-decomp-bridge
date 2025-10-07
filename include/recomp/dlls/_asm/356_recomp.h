@@ -5,14 +5,14 @@
 
 #define dll_356_ctor __dll356_dll_356_ctor
 #define dll_356_dtor __dll356_dll_356_dtor
-#define dll_356_func_18 __dll356_dll_356_func_18
-#define dll_356_func_34 __dll356_dll_356_func_34
+#define dll_356_create __dll356_dll_356_create
+#define dll_356_update __dll356_dll_356_update
 #define dll_356_func_1174 __dll356_dll_356_func_1174
 #define dll_356_func_15DC __dll356_dll_356_func_15DC
-#define dll_356_func_15E8 __dll356_dll_356_func_15E8
-#define dll_356_func_163C __dll356_dll_356_func_163C
-#define dll_356_func_17C8 __dll356_dll_356_func_17C8
-#define dll_356_func_17D8 __dll356_dll_356_func_17D8
+#define dll_356_draw __dll356_dll_356_draw
+#define dll_356_destroy __dll356_dll_356_destroy
+#define dll_356_get_setup_flags __dll356_dll_356_get_setup_flags
+#define dll_356_get_state_size __dll356_dll_356_get_state_size
 #define dll_356_func_17EC __dll356_dll_356_func_17EC
 #define dll_356_func_1A04 __dll356_dll_356_func_1A04
 #define _rodata_14 __dll356__rodata_14

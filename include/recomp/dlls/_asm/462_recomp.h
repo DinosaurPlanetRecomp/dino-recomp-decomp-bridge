@@ -5,13 +5,13 @@
 
 #define dll_462_ctor __dll462_dll_462_ctor
 #define dll_462_dtor __dll462_dll_462_dtor
-#define dll_462_func_18 __dll462_dll_462_func_18
-#define dll_462_func_C8 __dll462_dll_462_func_C8
+#define dll_462_create __dll462_dll_462_create
+#define dll_462_update __dll462_dll_462_update
 #define dll_462_func_2D4 __dll462_dll_462_func_2D4
-#define dll_462_func_2E0 __dll462_dll_462_func_2E0
-#define dll_462_func_334 __dll462_dll_462_func_334
-#define dll_462_func_344 __dll462_dll_462_func_344
-#define dll_462_func_354 __dll462_dll_462_func_354
+#define dll_462_draw __dll462_dll_462_draw
+#define dll_462_destroy __dll462_dll_462_destroy
+#define dll_462_get_setup_flags __dll462_dll_462_get_setup_flags
+#define dll_462_get_state_size __dll462_dll_462_get_state_size
 #define str_0 __dll462_str_0
 
 #endif //_DLL_462_RECOMP_H

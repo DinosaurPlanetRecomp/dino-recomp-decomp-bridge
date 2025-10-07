@@ -5,13 +5,13 @@
 
 #define dll_321_ctor __dll321_dll_321_ctor
 #define dll_321_dtor __dll321_dll_321_dtor
-#define dll_321_func_18 __dll321_dll_321_func_18
-#define dll_321_func_140 __dll321_dll_321_func_140
+#define dll_321_create __dll321_dll_321_create
+#define dll_321_update __dll321_dll_321_update
 #define dll_321_func_754 __dll321_dll_321_func_754
-#define dll_321_func_7FC __dll321_dll_321_func_7FC
-#define dll_321_func_870 __dll321_dll_321_func_870
-#define dll_321_func_880 __dll321_dll_321_func_880
-#define dll_321_func_890 __dll321_dll_321_func_890
+#define dll_321_draw __dll321_dll_321_draw
+#define dll_321_destroy __dll321_dll_321_destroy
+#define dll_321_get_setup_flags __dll321_dll_321_get_setup_flags
+#define dll_321_get_state_size __dll321_dll_321_get_state_size
 #define str_0 __dll321_str_0
 #define _rodata_C __dll321__rodata_C
 #define _rodata_10 __dll321__rodata_10

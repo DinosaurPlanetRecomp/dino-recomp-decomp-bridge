@@ -5,13 +5,13 @@
 
 #define dll_472_ctor __dll472_dll_472_ctor
 #define dll_472_dtor __dll472_dll_472_dtor
-#define dll_472_func_18 __dll472_dll_472_func_18
-#define dll_472_func_290 __dll472_dll_472_func_290
+#define dll_472_create __dll472_dll_472_create
+#define dll_472_update __dll472_dll_472_update
 #define dll_472_func_F10 __dll472_dll_472_func_F10
-#define dll_472_func_F1C __dll472_dll_472_func_F1C
-#define dll_472_func_F70 __dll472_dll_472_func_F70
-#define dll_472_func_1000 __dll472_dll_472_func_1000
-#define dll_472_func_1010 __dll472_dll_472_func_1010
+#define dll_472_draw __dll472_dll_472_draw
+#define dll_472_destroy __dll472_dll_472_destroy
+#define dll_472_get_setup_flags __dll472_dll_472_get_setup_flags
+#define dll_472_get_state_size __dll472_dll_472_get_state_size
 #define dll_472_func_1024 __dll472_dll_472_func_1024
 #define dll_472_func_13E0 __dll472_dll_472_func_13E0
 #define str_0 __dll472_str_0

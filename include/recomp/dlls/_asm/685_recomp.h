@@ -5,13 +5,13 @@
 
 #define dll_685_ctor __dll685_dll_685_ctor
 #define dll_685_dtor __dll685_dll_685_dtor
-#define dll_685_func_18 __dll685_dll_685_func_18
-#define dll_685_func_B0 __dll685_dll_685_func_B0
+#define dll_685_create __dll685_dll_685_create
+#define dll_685_update __dll685_dll_685_update
 #define dll_685_func_488 __dll685_dll_685_func_488
-#define dll_685_func_494 __dll685_dll_685_func_494
-#define dll_685_func_4F8 __dll685_dll_685_func_4F8
-#define dll_685_func_508 __dll685_dll_685_func_508
-#define dll_685_func_518 __dll685_dll_685_func_518
+#define dll_685_draw __dll685_dll_685_draw
+#define dll_685_destroy __dll685_dll_685_destroy
+#define dll_685_get_setup_flags __dll685_dll_685_get_setup_flags
+#define dll_685_get_state_size __dll685_dll_685_get_state_size
 #define dll_685_func_52C __dll685_dll_685_func_52C
 #define dll_685_func_544 __dll685_dll_685_func_544
 #define str_0 __dll685_str_0

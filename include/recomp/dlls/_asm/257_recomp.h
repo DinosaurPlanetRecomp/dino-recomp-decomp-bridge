@@ -5,13 +5,13 @@
 
 #define dll_257_ctor __dll257_dll_257_ctor
 #define dll_257_dtor __dll257_dll_257_dtor
-#define dll_257_func_18 __dll257_dll_257_func_18
-#define dll_257_func_B8 __dll257_dll_257_func_B8
+#define dll_257_create __dll257_dll_257_create
+#define dll_257_update __dll257_dll_257_update
 #define dll_257_func_1018 __dll257_dll_257_func_1018
-#define dll_257_func_1024 __dll257_dll_257_func_1024
-#define dll_257_func_108C __dll257_dll_257_func_108C
-#define dll_257_func_1120 __dll257_dll_257_func_1120
-#define dll_257_func_1130 __dll257_dll_257_func_1130
+#define dll_257_draw __dll257_dll_257_draw
+#define dll_257_destroy __dll257_dll_257_destroy
+#define dll_257_get_setup_flags __dll257_dll_257_get_setup_flags
+#define dll_257_get_state_size __dll257_dll_257_get_state_size
 #define dll_257_func_1144 __dll257_dll_257_func_1144
 #define dll_257_func_11C8 __dll257_dll_257_func_11C8
 #define str_0 __dll257_str_0

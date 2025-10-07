@@ -5,12 +5,12 @@
 
 #define dll_670_ctor __dll670_dll_670_ctor
 #define dll_670_dtor __dll670_dll_670_dtor
-#define dll_670_func_18 __dll670_dll_670_func_18
-#define dll_670_func_98 __dll670_dll_670_func_98
+#define dll_670_create __dll670_dll_670_create
+#define dll_670_update __dll670_dll_670_update
 #define dll_670_func_A8 __dll670_dll_670_func_A8
-#define dll_670_func_B4 __dll670_dll_670_func_B4
-#define dll_670_func_12C __dll670_dll_670_func_12C
-#define dll_670_func_16C __dll670_dll_670_func_16C
-#define dll_670_func_17C __dll670_dll_670_func_17C
+#define dll_670_draw __dll670_dll_670_draw
+#define dll_670_destroy __dll670_dll_670_destroy
+#define dll_670_get_setup_flags __dll670_dll_670_get_setup_flags
+#define dll_670_get_state_size __dll670_dll_670_get_state_size
 
 #endif //_DLL_670_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_508_ctor __dll508_dll_508_ctor
 #define dll_508_dtor __dll508_dll_508_dtor
-#define dll_508_func_18 __dll508_dll_508_func_18
-#define dll_508_func_248 __dll508_dll_508_func_248
+#define dll_508_create __dll508_dll_508_create
+#define dll_508_update __dll508_dll_508_update
 #define dll_508_func_474 __dll508_dll_508_func_474
-#define dll_508_func_480 __dll508_dll_508_func_480
-#define dll_508_func_504 __dll508_dll_508_func_504
-#define dll_508_func_560 __dll508_dll_508_func_560
-#define dll_508_func_570 __dll508_dll_508_func_570
+#define dll_508_draw __dll508_dll_508_draw
+#define dll_508_destroy __dll508_dll_508_destroy
+#define dll_508_get_setup_flags __dll508_dll_508_get_setup_flags
+#define dll_508_get_state_size __dll508_dll_508_get_state_size
 #define dll_508_func_584 __dll508_dll_508_func_584
 #define dll_508_func_608 __dll508_dll_508_func_608
 #define dll_508_func_8CC __dll508_dll_508_func_8CC

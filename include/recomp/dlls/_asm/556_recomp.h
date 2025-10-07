@@ -5,13 +5,13 @@
 
 #define dll_556_ctor __dll556_dll_556_ctor
 #define dll_556_dtor __dll556_dll_556_dtor
-#define dll_556_func_18 __dll556_dll_556_func_18
-#define dll_556_func_D8 __dll556_dll_556_func_D8
+#define dll_556_create __dll556_dll_556_create
+#define dll_556_update __dll556_dll_556_update
 #define dll_556_func_778 __dll556_dll_556_func_778
-#define dll_556_func_784 __dll556_dll_556_func_784
-#define dll_556_func_810 __dll556_dll_556_func_810
-#define dll_556_func_820 __dll556_dll_556_func_820
-#define dll_556_func_830 __dll556_dll_556_func_830
+#define dll_556_draw __dll556_dll_556_draw
+#define dll_556_destroy __dll556_dll_556_destroy
+#define dll_556_get_setup_flags __dll556_dll_556_get_setup_flags
+#define dll_556_get_state_size __dll556_dll_556_get_state_size
 #define dll_556_func_844 __dll556_dll_556_func_844
 #define _rodata_0 __dll556__rodata_0
 #define _rodata_4 __dll556__rodata_4

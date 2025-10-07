@@ -5,13 +5,13 @@
 
 #define dll_733_ctor __dll733_dll_733_ctor
 #define dll_733_dtor __dll733_dll_733_dtor
-#define dll_733_func_18 __dll733_dll_733_func_18
-#define dll_733_func_16C __dll733_dll_733_func_16C
+#define dll_733_create __dll733_dll_733_create
+#define dll_733_update __dll733_dll_733_update
 #define dll_733_func_69C __dll733_dll_733_func_69C
-#define dll_733_func_868 __dll733_dll_733_func_868
-#define dll_733_func_8F0 __dll733_dll_733_func_8F0
-#define dll_733_func_980 __dll733_dll_733_func_980
-#define dll_733_func_990 __dll733_dll_733_func_990
+#define dll_733_draw __dll733_dll_733_draw
+#define dll_733_destroy __dll733_dll_733_destroy
+#define dll_733_get_setup_flags __dll733_dll_733_get_setup_flags
+#define dll_733_get_state_size __dll733_dll_733_get_state_size
 #define dll_733_func_9A4 __dll733_dll_733_func_9A4
 #define dll_733_func_AF0 __dll733_dll_733_func_AF0
 #define dll_733_func_D74 __dll733_dll_733_func_D74

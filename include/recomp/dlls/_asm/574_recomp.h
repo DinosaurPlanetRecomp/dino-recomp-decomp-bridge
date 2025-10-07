@@ -5,13 +5,13 @@
 
 #define dll_574_ctor __dll574_dll_574_ctor
 #define dll_574_dtor __dll574_dll_574_dtor
-#define dll_574_func_18 __dll574_dll_574_func_18
-#define dll_574_func_4C __dll574_dll_574_func_4C
+#define dll_574_create __dll574_dll_574_create
+#define dll_574_update __dll574_dll_574_update
 #define dll_574_func_464 __dll574_dll_574_func_464
-#define dll_574_func_4AC __dll574_dll_574_func_4AC
-#define dll_574_func_6B8 __dll574_dll_574_func_6B8
-#define dll_574_func_714 __dll574_dll_574_func_714
-#define dll_574_func_724 __dll574_dll_574_func_724
+#define dll_574_draw __dll574_dll_574_draw
+#define dll_574_destroy __dll574_dll_574_destroy
+#define dll_574_get_setup_flags __dll574_dll_574_get_setup_flags
+#define dll_574_get_state_size __dll574_dll_574_get_state_size
 #define _rodata_0 __dll574__rodata_0
 #define _data_0 __dll574__data_0
 

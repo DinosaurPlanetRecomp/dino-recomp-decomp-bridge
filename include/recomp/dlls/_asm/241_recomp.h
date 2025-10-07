@@ -5,13 +5,13 @@
 
 #define dll_241_ctor __dll241_dll_241_ctor
 #define dll_241_dtor __dll241_dll_241_dtor
-#define dll_241_func_18 __dll241_dll_241_func_18
-#define dll_241_func_60 __dll241_dll_241_func_60
+#define dll_241_create __dll241_dll_241_create
+#define dll_241_update __dll241_dll_241_update
 #define dll_241_func_6C __dll241_dll_241_func_6C
-#define dll_241_func_78 __dll241_dll_241_func_78
-#define dll_241_func_D8 __dll241_dll_241_func_D8
-#define dll_241_func_E8 __dll241_dll_241_func_E8
-#define dll_241_func_F8 __dll241_dll_241_func_F8
+#define dll_241_draw __dll241_dll_241_draw
+#define dll_241_destroy __dll241_dll_241_destroy
+#define dll_241_get_setup_flags __dll241_dll_241_get_setup_flags
+#define dll_241_get_state_size __dll241_dll_241_get_state_size
 #define dll_241_func_10C __dll241_dll_241_func_10C
 
 #endif //_DLL_241_RECOMP_H

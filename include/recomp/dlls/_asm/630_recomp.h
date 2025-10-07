@@ -5,13 +5,13 @@
 
 #define dll_630_ctor __dll630_dll_630_ctor
 #define dll_630_dtor __dll630_dll_630_dtor
-#define dll_630_func_18 __dll630_dll_630_func_18
-#define dll_630_func_8C __dll630_dll_630_func_8C
+#define dll_630_create __dll630_dll_630_create
+#define dll_630_update __dll630_dll_630_update
 #define dll_630_func_420 __dll630_dll_630_func_420
-#define dll_630_func_42C __dll630_dll_630_func_42C
-#define dll_630_func_480 __dll630_dll_630_func_480
-#define dll_630_func_490 __dll630_dll_630_func_490
-#define dll_630_func_4A0 __dll630_dll_630_func_4A0
+#define dll_630_draw __dll630_dll_630_draw
+#define dll_630_destroy __dll630_dll_630_destroy
+#define dll_630_get_setup_flags __dll630_dll_630_get_setup_flags
+#define dll_630_get_state_size __dll630_dll_630_get_state_size
 #define dll_630_func_4B4 __dll630_dll_630_func_4B4
 
 #endif //_DLL_630_RECOMP_H

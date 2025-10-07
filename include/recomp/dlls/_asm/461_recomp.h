@@ -5,8 +5,8 @@
 
 #define dll_461_ctor __dll461_dll_461_ctor
 #define dll_461_dtor __dll461_dll_461_dtor
-#define dll_461_func_18 __dll461_dll_461_func_18
-#define dll_461_func_2C8 __dll461_dll_461_func_2C8
+#define dll_461_create __dll461_dll_461_create
+#define dll_461_update __dll461_dll_461_update
 #define dll_461_func_330 __dll461_dll_461_func_330
 #define dll_461_func_564 __dll461_dll_461_func_564
 #define dll_461_func_5E0 __dll461_dll_461_func_5E0
@@ -18,10 +18,10 @@
 #define dll_461_func_14B0 __dll461_dll_461_func_14B0
 #define dll_461_func_1540 __dll461_dll_461_func_1540
 #define dll_461_func_1634 __dll461_dll_461_func_1634
-#define dll_461_func_1640 __dll461_dll_461_func_1640
-#define dll_461_func_1A20 __dll461_dll_461_func_1A20
-#define dll_461_func_1AC0 __dll461_dll_461_func_1AC0
-#define dll_461_func_1AD0 __dll461_dll_461_func_1AD0
+#define dll_461_draw __dll461_dll_461_draw
+#define dll_461_destroy __dll461_dll_461_destroy
+#define dll_461_get_setup_flags __dll461_dll_461_get_setup_flags
+#define dll_461_get_state_size __dll461_dll_461_get_state_size
 #define dll_461_func_1AE4 __dll461_dll_461_func_1AE4
 #define str_0 __dll461_str_0
 #define str_34 __dll461_str_34

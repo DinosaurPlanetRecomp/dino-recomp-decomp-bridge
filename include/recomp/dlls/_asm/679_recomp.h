@@ -5,13 +5,13 @@
 
 #define dll_679_ctor __dll679_dll_679_ctor
 #define dll_679_dtor __dll679_dll_679_dtor
-#define dll_679_func_18 __dll679_dll_679_func_18
-#define dll_679_func_15C __dll679_dll_679_func_15C
+#define dll_679_create __dll679_dll_679_create
+#define dll_679_update __dll679_dll_679_update
 #define dll_679_func_53C __dll679_dll_679_func_53C
-#define dll_679_func_7E8 __dll679_dll_679_func_7E8
-#define dll_679_func_850 __dll679_dll_679_func_850
-#define dll_679_func_958 __dll679_dll_679_func_958
-#define dll_679_func_968 __dll679_dll_679_func_968
+#define dll_679_draw __dll679_dll_679_draw
+#define dll_679_destroy __dll679_dll_679_destroy
+#define dll_679_get_setup_flags __dll679_dll_679_get_setup_flags
+#define dll_679_get_state_size __dll679_dll_679_get_state_size
 #define dll_679_func_97C __dll679_dll_679_func_97C
 #define dll_679_func_9AC __dll679_dll_679_func_9AC
 #define dll_679_func_9C4 __dll679_dll_679_func_9C4

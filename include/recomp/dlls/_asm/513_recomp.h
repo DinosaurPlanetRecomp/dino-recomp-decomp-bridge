@@ -5,13 +5,13 @@
 
 #define dll_513_ctor __dll513_dll_513_ctor
 #define dll_513_dtor __dll513_dll_513_dtor
-#define dll_513_func_18 __dll513_dll_513_func_18
-#define dll_513_func_74 __dll513_dll_513_func_74
+#define dll_513_create __dll513_dll_513_create
+#define dll_513_update __dll513_dll_513_update
 #define dll_513_func_80 __dll513_dll_513_func_80
-#define dll_513_func_8C __dll513_dll_513_func_8C
-#define dll_513_func_18C __dll513_dll_513_func_18C
-#define dll_513_func_19C __dll513_dll_513_func_19C
-#define dll_513_func_1AC __dll513_dll_513_func_1AC
+#define dll_513_draw __dll513_dll_513_draw
+#define dll_513_destroy __dll513_dll_513_destroy
+#define dll_513_get_setup_flags __dll513_dll_513_get_setup_flags
+#define dll_513_get_state_size __dll513_dll_513_get_state_size
 #define _rodata_0 __dll513__rodata_0
 
 #endif //_DLL_513_RECOMP_H

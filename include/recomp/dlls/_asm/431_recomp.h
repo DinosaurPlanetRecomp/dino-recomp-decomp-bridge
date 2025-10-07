@@ -5,13 +5,13 @@
 
 #define dll_431_ctor __dll431_dll_431_ctor
 #define dll_431_dtor __dll431_dll_431_dtor
-#define dll_431_func_18 __dll431_dll_431_func_18
-#define dll_431_func_D4 __dll431_dll_431_func_D4
+#define dll_431_create __dll431_dll_431_create
+#define dll_431_update __dll431_dll_431_update
 #define dll_431_func_2D4 __dll431_dll_431_func_2D4
-#define dll_431_func_2E0 __dll431_dll_431_func_2E0
-#define dll_431_func_334 __dll431_dll_431_func_334
-#define dll_431_func_344 __dll431_dll_431_func_344
-#define dll_431_func_354 __dll431_dll_431_func_354
+#define dll_431_draw __dll431_dll_431_draw
+#define dll_431_destroy __dll431_dll_431_destroy
+#define dll_431_get_setup_flags __dll431_dll_431_get_setup_flags
+#define dll_431_get_state_size __dll431_dll_431_get_state_size
 #define _rodata_0 __dll431__rodata_0
 
 #endif //_DLL_431_RECOMP_H

@@ -5,12 +5,12 @@
 
 #define dll_438_ctor __dll438_dll_438_ctor
 #define dll_438_dtor __dll438_dll_438_dtor
-#define dll_438_func_18 __dll438_dll_438_func_18
-#define dll_438_func_2C __dll438_dll_438_func_2C
+#define dll_438_create __dll438_dll_438_create
+#define dll_438_update __dll438_dll_438_update
 #define dll_438_func_38 __dll438_dll_438_func_38
-#define dll_438_func_44 __dll438_dll_438_func_44
-#define dll_438_func_5C __dll438_dll_438_func_5C
-#define dll_438_func_6C __dll438_dll_438_func_6C
-#define dll_438_func_7C __dll438_dll_438_func_7C
+#define dll_438_draw __dll438_dll_438_draw
+#define dll_438_destroy __dll438_dll_438_destroy
+#define dll_438_get_setup_flags __dll438_dll_438_get_setup_flags
+#define dll_438_get_state_size __dll438_dll_438_get_state_size
 
 #endif //_DLL_438_RECOMP_H

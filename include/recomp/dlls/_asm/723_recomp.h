@@ -5,13 +5,13 @@
 
 #define dll_723_ctor __dll723_dll_723_ctor
 #define dll_723_dtor __dll723_dll_723_dtor
-#define dll_723_func_18 __dll723_dll_723_func_18
-#define dll_723_func_B8 __dll723_dll_723_func_B8
+#define dll_723_create __dll723_dll_723_create
+#define dll_723_update __dll723_dll_723_update
 #define dll_723_func_7F4 __dll723_dll_723_func_7F4
-#define dll_723_func_800 __dll723_dll_723_func_800
-#define dll_723_func_864 __dll723_dll_723_func_864
-#define dll_723_func_8EC __dll723_dll_723_func_8EC
-#define dll_723_func_8FC __dll723_dll_723_func_8FC
+#define dll_723_draw __dll723_dll_723_draw
+#define dll_723_destroy __dll723_dll_723_destroy
+#define dll_723_get_setup_flags __dll723_dll_723_get_setup_flags
+#define dll_723_get_state_size __dll723_dll_723_get_state_size
 #define dll_723_func_910 __dll723_dll_723_func_910
 #define dll_723_func_A08 __dll723_dll_723_func_A08
 #define dll_723_func_A20 __dll723_dll_723_func_A20

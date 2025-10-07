@@ -5,13 +5,13 @@
 
 #define dll_537_ctor __dll537_dll_537_ctor
 #define dll_537_dtor __dll537_dll_537_dtor
-#define dll_537_func_18 __dll537_dll_537_func_18
-#define dll_537_func_178 __dll537_dll_537_func_178
+#define dll_537_create __dll537_dll_537_create
+#define dll_537_update __dll537_dll_537_update
 #define dll_537_func_8F0 __dll537_dll_537_func_8F0
-#define dll_537_func_8FC __dll537_dll_537_func_8FC
-#define dll_537_func_9BC __dll537_dll_537_func_9BC
-#define dll_537_func_A48 __dll537_dll_537_func_A48
-#define dll_537_func_A6C __dll537_dll_537_func_A6C
+#define dll_537_draw __dll537_dll_537_draw
+#define dll_537_destroy __dll537_dll_537_destroy
+#define dll_537_get_setup_flags __dll537_dll_537_get_setup_flags
+#define dll_537_get_state_size __dll537_dll_537_get_state_size
 #define dll_537_func_A94 __dll537_dll_537_func_A94
 #define dll_537_func_DAC __dll537_dll_537_func_DAC
 #define dll_537_func_1150 __dll537_dll_537_func_1150

@@ -5,13 +5,13 @@
 
 #define dll_649_ctor __dll649_dll_649_ctor
 #define dll_649_dtor __dll649_dll_649_dtor
-#define dll_649_func_18 __dll649_dll_649_func_18
-#define dll_649_func_CC __dll649_dll_649_func_CC
+#define dll_649_create __dll649_dll_649_create
+#define dll_649_update __dll649_dll_649_update
 #define dll_649_func_1E8 __dll649_dll_649_func_1E8
-#define dll_649_func_1F4 __dll649_dll_649_func_1F4
-#define dll_649_func_20C __dll649_dll_649_func_20C
-#define dll_649_func_21C __dll649_dll_649_func_21C
-#define dll_649_func_22C __dll649_dll_649_func_22C
+#define dll_649_draw __dll649_dll_649_draw
+#define dll_649_destroy __dll649_dll_649_destroy
+#define dll_649_get_setup_flags __dll649_dll_649_get_setup_flags
+#define dll_649_get_state_size __dll649_dll_649_get_state_size
 #define dll_649_func_240 __dll649_dll_649_func_240
 
 #endif //_DLL_649_RECOMP_H

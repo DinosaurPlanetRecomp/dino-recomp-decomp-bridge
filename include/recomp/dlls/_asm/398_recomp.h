@@ -5,13 +5,13 @@
 
 #define dll_398_ctor __dll398_dll_398_ctor
 #define dll_398_dtor __dll398_dll_398_dtor
-#define dll_398_func_18 __dll398_dll_398_func_18
-#define dll_398_func_5C __dll398_dll_398_func_5C
+#define dll_398_create __dll398_dll_398_create
+#define dll_398_update __dll398_dll_398_update
 #define dll_398_func_2C0 __dll398_dll_398_func_2C0
-#define dll_398_func_2CC __dll398_dll_398_func_2CC
-#define dll_398_func_320 __dll398_dll_398_func_320
-#define dll_398_func_360 __dll398_dll_398_func_360
-#define dll_398_func_370 __dll398_dll_398_func_370
+#define dll_398_draw __dll398_dll_398_draw
+#define dll_398_destroy __dll398_dll_398_destroy
+#define dll_398_get_setup_flags __dll398_dll_398_get_setup_flags
+#define dll_398_get_state_size __dll398_dll_398_get_state_size
 #define dll_398_func_384 __dll398_dll_398_func_384
 #define _oob_rodata_0 __dll398__oob_rodata_0
 

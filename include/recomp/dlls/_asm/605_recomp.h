@@ -5,13 +5,13 @@
 
 #define dll_605_ctor __dll605_dll_605_ctor
 #define dll_605_dtor __dll605_dll_605_dtor
-#define dll_605_func_18 __dll605_dll_605_func_18
-#define dll_605_func_88 __dll605_dll_605_func_88
+#define dll_605_create __dll605_dll_605_create
+#define dll_605_update __dll605_dll_605_update
 #define dll_605_func_388 __dll605_dll_605_func_388
-#define dll_605_func_394 __dll605_dll_605_func_394
-#define dll_605_func_3AC __dll605_dll_605_func_3AC
-#define dll_605_func_3F4 __dll605_dll_605_func_3F4
-#define dll_605_func_404 __dll605_dll_605_func_404
+#define dll_605_draw __dll605_dll_605_draw
+#define dll_605_destroy __dll605_dll_605_destroy
+#define dll_605_get_setup_flags __dll605_dll_605_get_setup_flags
+#define dll_605_get_state_size __dll605_dll_605_get_state_size
 #define _rodata_0 __dll605__rodata_0
 #define _rodata_4 __dll605__rodata_4
 #define _data_0 __dll605__data_0

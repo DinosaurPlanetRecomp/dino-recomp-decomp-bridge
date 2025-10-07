@@ -5,13 +5,13 @@
 
 #define dll_386_ctor __dll386_dll_386_ctor
 #define dll_386_dtor __dll386_dll_386_dtor
-#define dll_386_func_18 __dll386_dll_386_func_18
-#define dll_386_func_B4 __dll386_dll_386_func_B4
+#define dll_386_create __dll386_dll_386_create
+#define dll_386_update __dll386_dll_386_update
 #define dll_386_func_2F8 __dll386_dll_386_func_2F8
-#define dll_386_func_304 __dll386_dll_386_func_304
-#define dll_386_func_358 __dll386_dll_386_func_358
-#define dll_386_func_368 __dll386_dll_386_func_368
-#define dll_386_func_378 __dll386_dll_386_func_378
+#define dll_386_draw __dll386_dll_386_draw
+#define dll_386_destroy __dll386_dll_386_destroy
+#define dll_386_get_setup_flags __dll386_dll_386_get_setup_flags
+#define dll_386_get_state_size __dll386_dll_386_get_state_size
 #define dll_386_func_38C __dll386_dll_386_func_38C
 #define str_0 __dll386_str_0
 

@@ -5,13 +5,13 @@
 
 #define dll_435_ctor __dll435_dll_435_ctor
 #define dll_435_dtor __dll435_dll_435_dtor
-#define dll_435_func_18 __dll435_dll_435_func_18
-#define dll_435_func_1FC __dll435_dll_435_func_1FC
+#define dll_435_create __dll435_dll_435_create
+#define dll_435_update __dll435_dll_435_update
 #define dll_435_func_5A0 __dll435_dll_435_func_5A0
-#define dll_435_func_5AC __dll435_dll_435_func_5AC
-#define dll_435_func_834 __dll435_dll_435_func_834
-#define dll_435_func_91C __dll435_dll_435_func_91C
-#define dll_435_func_92C __dll435_dll_435_func_92C
+#define dll_435_draw __dll435_dll_435_draw
+#define dll_435_destroy __dll435_dll_435_destroy
+#define dll_435_get_setup_flags __dll435_dll_435_get_setup_flags
+#define dll_435_get_state_size __dll435_dll_435_get_state_size
 #define _data_0 __dll435__data_0
 #define _data_4 __dll435__data_4
 

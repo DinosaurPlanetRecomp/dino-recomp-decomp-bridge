@@ -5,13 +5,13 @@
 
 #define dll_787_ctor __dll787_dll_787_ctor
 #define dll_787_dtor __dll787_dll_787_dtor
-#define dll_787_func_18 __dll787_dll_787_func_18
-#define dll_787_func_FC __dll787_dll_787_func_FC
+#define dll_787_create __dll787_dll_787_create
+#define dll_787_update __dll787_dll_787_update
 #define dll_787_func_358 __dll787_dll_787_func_358
-#define dll_787_func_364 __dll787_dll_787_func_364
-#define dll_787_func_3E4 __dll787_dll_787_func_3E4
-#define dll_787_func_3F4 __dll787_dll_787_func_3F4
-#define dll_787_func_428 __dll787_dll_787_func_428
+#define dll_787_draw __dll787_dll_787_draw
+#define dll_787_destroy __dll787_dll_787_destroy
+#define dll_787_get_setup_flags __dll787_dll_787_get_setup_flags
+#define dll_787_get_state_size __dll787_dll_787_get_state_size
 #define dll_787_func_43C __dll787_dll_787_func_43C
 #define dll_787_func_490 __dll787_dll_787_func_490
 #define str_0 __dll787_str_0

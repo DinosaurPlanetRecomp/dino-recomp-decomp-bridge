@@ -5,12 +5,12 @@
 
 #define dll_795_ctor __dll795_dll_795_ctor
 #define dll_795_dtor __dll795_dll_795_dtor
-#define dll_795_func_18 __dll795_dll_795_func_18
-#define dll_795_func_5C __dll795_dll_795_func_5C
+#define dll_795_create __dll795_dll_795_create
+#define dll_795_update __dll795_dll_795_update
 #define dll_795_func_A4 __dll795_dll_795_func_A4
-#define dll_795_func_B0 __dll795_dll_795_func_B0
-#define dll_795_func_104 __dll795_dll_795_func_104
-#define dll_795_func_144 __dll795_dll_795_func_144
-#define dll_795_func_154 __dll795_dll_795_func_154
+#define dll_795_draw __dll795_dll_795_draw
+#define dll_795_destroy __dll795_dll_795_destroy
+#define dll_795_get_setup_flags __dll795_dll_795_get_setup_flags
+#define dll_795_get_state_size __dll795_dll_795_get_state_size
 
 #endif //_DLL_795_RECOMP_H

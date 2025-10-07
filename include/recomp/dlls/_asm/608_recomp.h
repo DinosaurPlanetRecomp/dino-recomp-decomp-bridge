@@ -5,13 +5,13 @@
 
 #define dll_608_ctor __dll608_dll_608_ctor
 #define dll_608_dtor __dll608_dll_608_dtor
-#define dll_608_func_18 __dll608_dll_608_func_18
-#define dll_608_func_54 __dll608_dll_608_func_54
+#define dll_608_create __dll608_dll_608_create
+#define dll_608_update __dll608_dll_608_update
 #define dll_608_func_60 __dll608_dll_608_func_60
-#define dll_608_func_6C __dll608_dll_608_func_6C
-#define dll_608_func_124 __dll608_dll_608_func_124
-#define dll_608_func_134 __dll608_dll_608_func_134
-#define dll_608_func_144 __dll608_dll_608_func_144
+#define dll_608_draw __dll608_dll_608_draw
+#define dll_608_destroy __dll608_dll_608_destroy
+#define dll_608_get_setup_flags __dll608_dll_608_get_setup_flags
+#define dll_608_get_state_size __dll608_dll_608_get_state_size
 #define dll_608_func_158 __dll608_dll_608_func_158
 #define dll_608_func_3B4 __dll608_dll_608_func_3B4
 #define _rodata_0 __dll608__rodata_0

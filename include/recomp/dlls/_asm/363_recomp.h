@@ -5,12 +5,12 @@
 
 #define dll_363_ctor __dll363_dll_363_ctor
 #define dll_363_dtor __dll363_dll_363_dtor
-#define dll_363_func_18 __dll363_dll_363_func_18
-#define dll_363_func_5C __dll363_dll_363_func_5C
+#define dll_363_create __dll363_dll_363_create
+#define dll_363_update __dll363_dll_363_update
 #define dll_363_func_68 __dll363_dll_363_func_68
-#define dll_363_func_74 __dll363_dll_363_func_74
-#define dll_363_func_C8 __dll363_dll_363_func_C8
-#define dll_363_func_D8 __dll363_dll_363_func_D8
-#define dll_363_func_E8 __dll363_dll_363_func_E8
+#define dll_363_draw __dll363_dll_363_draw
+#define dll_363_destroy __dll363_dll_363_destroy
+#define dll_363_get_setup_flags __dll363_dll_363_get_setup_flags
+#define dll_363_get_state_size __dll363_dll_363_get_state_size
 
 #endif //_DLL_363_RECOMP_H

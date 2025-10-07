@@ -5,13 +5,13 @@
 
 #define dll_528_ctor __dll528_dll_528_ctor
 #define dll_528_dtor __dll528_dll_528_dtor
-#define dll_528_func_18 __dll528_dll_528_func_18
-#define dll_528_func_B0 __dll528_dll_528_func_B0
+#define dll_528_create __dll528_dll_528_create
+#define dll_528_update __dll528_dll_528_update
 #define dll_528_func_38C __dll528_dll_528_func_38C
-#define dll_528_func_398 __dll528_dll_528_func_398
-#define dll_528_func_3E0 __dll528_dll_528_func_3E0
-#define dll_528_func_448 __dll528_dll_528_func_448
-#define dll_528_func_458 __dll528_dll_528_func_458
+#define dll_528_draw __dll528_dll_528_draw
+#define dll_528_destroy __dll528_dll_528_destroy
+#define dll_528_get_setup_flags __dll528_dll_528_get_setup_flags
+#define dll_528_get_state_size __dll528_dll_528_get_state_size
 #define dll_528_func_46C __dll528_dll_528_func_46C
 #define dll_528_func_F44 __dll528_dll_528_func_F44
 #define str_0 __dll528_str_0

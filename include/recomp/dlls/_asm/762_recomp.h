@@ -5,12 +5,12 @@
 
 #define dll_762_ctor __dll762_dll_762_ctor
 #define dll_762_dtor __dll762_dll_762_dtor
-#define dll_762_func_18 __dll762_dll_762_func_18
-#define dll_762_func_2C __dll762_dll_762_func_2C
+#define dll_762_create __dll762_dll_762_create
+#define dll_762_update __dll762_dll_762_update
 #define dll_762_func_174 __dll762_dll_762_func_174
-#define dll_762_func_180 __dll762_dll_762_func_180
-#define dll_762_func_1D4 __dll762_dll_762_func_1D4
-#define dll_762_func_1E4 __dll762_dll_762_func_1E4
-#define dll_762_func_1F4 __dll762_dll_762_func_1F4
+#define dll_762_draw __dll762_dll_762_draw
+#define dll_762_destroy __dll762_dll_762_destroy
+#define dll_762_get_setup_flags __dll762_dll_762_get_setup_flags
+#define dll_762_get_state_size __dll762_dll_762_get_state_size
 
 #endif //_DLL_762_RECOMP_H

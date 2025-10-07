@@ -5,12 +5,12 @@
 
 #define dll_278_ctor __dll278_dll_278_ctor
 #define dll_278_dtor __dll278_dll_278_dtor
-#define dll_278_func_18 __dll278_dll_278_func_18
-#define dll_278_func_80 __dll278_dll_278_func_80
+#define dll_278_create __dll278_dll_278_create
+#define dll_278_update __dll278_dll_278_update
 #define dll_278_func_274 __dll278_dll_278_func_274
-#define dll_278_func_27C __dll278_dll_278_func_27C
-#define dll_278_func_294 __dll278_dll_278_func_294
-#define dll_278_func_2EC __dll278_dll_278_func_2EC
-#define dll_278_func_2FC __dll278_dll_278_func_2FC
+#define dll_278_draw __dll278_dll_278_draw
+#define dll_278_destroy __dll278_dll_278_destroy
+#define dll_278_get_setup_flags __dll278_dll_278_get_setup_flags
+#define dll_278_get_state_size __dll278_dll_278_get_state_size
 
 #endif //_DLL_278_RECOMP_H

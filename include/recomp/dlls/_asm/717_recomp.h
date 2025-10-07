@@ -5,13 +5,13 @@
 
 #define dll_717_ctor __dll717_dll_717_ctor
 #define dll_717_dtor __dll717_dll_717_dtor
-#define dll_717_func_18 __dll717_dll_717_func_18
-#define dll_717_func_7C __dll717_dll_717_func_7C
+#define dll_717_create __dll717_dll_717_create
+#define dll_717_update __dll717_dll_717_update
 #define dll_717_func_450 __dll717_dll_717_func_450
-#define dll_717_func_45C __dll717_dll_717_func_45C
-#define dll_717_func_4B0 __dll717_dll_717_func_4B0
-#define dll_717_func_4F0 __dll717_dll_717_func_4F0
-#define dll_717_func_500 __dll717_dll_717_func_500
+#define dll_717_draw __dll717_dll_717_draw
+#define dll_717_destroy __dll717_dll_717_destroy
+#define dll_717_get_setup_flags __dll717_dll_717_get_setup_flags
+#define dll_717_get_state_size __dll717_dll_717_get_state_size
 #define dll_717_func_514 __dll717_dll_717_func_514
 #define dll_717_func_5C0 __dll717_dll_717_func_5C0
 #define dll_717_func_5D8 __dll717_dll_717_func_5D8

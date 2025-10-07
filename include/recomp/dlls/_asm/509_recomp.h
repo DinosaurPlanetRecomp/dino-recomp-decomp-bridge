@@ -5,13 +5,13 @@
 
 #define dll_509_ctor __dll509_dll_509_ctor
 #define dll_509_dtor __dll509_dll_509_dtor
-#define dll_509_func_18 __dll509_dll_509_func_18
-#define dll_509_func_110 __dll509_dll_509_func_110
+#define dll_509_create __dll509_dll_509_create
+#define dll_509_update __dll509_dll_509_update
 #define dll_509_func_2C8 __dll509_dll_509_func_2C8
-#define dll_509_func_2D4 __dll509_dll_509_func_2D4
-#define dll_509_func_328 __dll509_dll_509_func_328
-#define dll_509_func_338 __dll509_dll_509_func_338
-#define dll_509_func_348 __dll509_dll_509_func_348
+#define dll_509_draw __dll509_dll_509_draw
+#define dll_509_destroy __dll509_dll_509_destroy
+#define dll_509_get_setup_flags __dll509_dll_509_get_setup_flags
+#define dll_509_get_state_size __dll509_dll_509_get_state_size
 #define str_0 __dll509_str_0
 #define _rodata_1C __dll509__rodata_1C
 #define _rodata_20 __dll509__rodata_20

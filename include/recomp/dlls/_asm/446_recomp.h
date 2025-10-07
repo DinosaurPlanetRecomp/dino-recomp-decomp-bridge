@@ -5,13 +5,13 @@
 
 #define dll_446_ctor __dll446_dll_446_ctor
 #define dll_446_dtor __dll446_dll_446_dtor
-#define dll_446_func_18 __dll446_dll_446_func_18
-#define dll_446_func_80 __dll446_dll_446_func_80
+#define dll_446_create __dll446_dll_446_create
+#define dll_446_update __dll446_dll_446_update
 #define dll_446_func_1DC __dll446_dll_446_func_1DC
-#define dll_446_func_1E8 __dll446_dll_446_func_1E8
-#define dll_446_func_200 __dll446_dll_446_func_200
-#define dll_446_func_210 __dll446_dll_446_func_210
-#define dll_446_func_220 __dll446_dll_446_func_220
+#define dll_446_draw __dll446_dll_446_draw
+#define dll_446_destroy __dll446_dll_446_destroy
+#define dll_446_get_setup_flags __dll446_dll_446_get_setup_flags
+#define dll_446_get_state_size __dll446_dll_446_get_state_size
 #define _data_0 __dll446__data_0
 
 #endif //_DLL_446_RECOMP_H

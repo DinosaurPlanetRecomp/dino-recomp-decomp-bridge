@@ -5,13 +5,13 @@
 
 #define dll_226_ctor __dll226_dll_226_ctor
 #define dll_226_dtor __dll226_dll_226_dtor
-#define dll_226_func_18 __dll226_dll_226_func_18
-#define dll_226_func_24C __dll226_dll_226_func_24C
+#define dll_226_create __dll226_dll_226_create
+#define dll_226_update __dll226_dll_226_update
 #define dll_226_func_50C __dll226_dll_226_func_50C
-#define dll_226_func_518 __dll226_dll_226_func_518
-#define dll_226_func_5A8 __dll226_dll_226_func_5A8
-#define dll_226_func_5B8 __dll226_dll_226_func_5B8
-#define dll_226_func_5C8 __dll226_dll_226_func_5C8
+#define dll_226_draw __dll226_dll_226_draw
+#define dll_226_destroy __dll226_dll_226_destroy
+#define dll_226_get_setup_flags __dll226_dll_226_get_setup_flags
+#define dll_226_get_state_size __dll226_dll_226_get_state_size
 #define dll_226_func_5DC __dll226_dll_226_func_5DC
 #define dll_226_func_620 __dll226_dll_226_func_620
 #define str_0 __dll226_str_0

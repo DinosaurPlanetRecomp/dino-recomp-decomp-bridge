@@ -5,13 +5,13 @@
 
 #define dll_700_ctor __dll700_dll_700_ctor
 #define dll_700_dtor __dll700_dll_700_dtor
-#define dll_700_func_18 __dll700_dll_700_func_18
-#define dll_700_func_38 __dll700_dll_700_func_38
+#define dll_700_create __dll700_dll_700_create
+#define dll_700_update __dll700_dll_700_update
 #define dll_700_func_BC __dll700_dll_700_func_BC
-#define dll_700_func_C8 __dll700_dll_700_func_C8
-#define dll_700_func_E0 __dll700_dll_700_func_E0
-#define dll_700_func_F0 __dll700_dll_700_func_F0
-#define dll_700_func_100 __dll700_dll_700_func_100
+#define dll_700_draw __dll700_dll_700_draw
+#define dll_700_destroy __dll700_dll_700_destroy
+#define dll_700_get_setup_flags __dll700_dll_700_get_setup_flags
+#define dll_700_get_state_size __dll700_dll_700_get_state_size
 #define _oob_rodata_0 __dll700__oob_rodata_0
 
 #endif //_DLL_700_RECOMP_H

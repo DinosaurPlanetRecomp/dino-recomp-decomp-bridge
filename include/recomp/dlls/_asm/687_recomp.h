@@ -5,13 +5,13 @@
 
 #define dll_687_ctor __dll687_dll_687_ctor
 #define dll_687_dtor __dll687_dll_687_dtor
-#define dll_687_func_18 __dll687_dll_687_func_18
-#define dll_687_func_140 __dll687_dll_687_func_140
+#define dll_687_create __dll687_dll_687_create
+#define dll_687_update __dll687_dll_687_update
 #define dll_687_func_14C __dll687_dll_687_func_14C
-#define dll_687_func_158 __dll687_dll_687_func_158
-#define dll_687_func_1AC __dll687_dll_687_func_1AC
-#define dll_687_func_1BC __dll687_dll_687_func_1BC
-#define dll_687_func_1CC __dll687_dll_687_func_1CC
+#define dll_687_draw __dll687_dll_687_draw
+#define dll_687_destroy __dll687_dll_687_destroy
+#define dll_687_get_setup_flags __dll687_dll_687_get_setup_flags
+#define dll_687_get_state_size __dll687_dll_687_get_state_size
 #define dll_687_func_1E0 __dll687_dll_687_func_1E0
 #define dll_687_func_3A4 __dll687_dll_687_func_3A4
 

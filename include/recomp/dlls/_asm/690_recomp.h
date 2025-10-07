@@ -5,13 +5,13 @@
 
 #define dll_690_ctor __dll690_dll_690_ctor
 #define dll_690_dtor __dll690_dll_690_dtor
-#define dll_690_func_18 __dll690_dll_690_func_18
-#define dll_690_func_19C __dll690_dll_690_func_19C
+#define dll_690_create __dll690_dll_690_create
+#define dll_690_update __dll690_dll_690_update
 #define dll_690_func_2E8 __dll690_dll_690_func_2E8
-#define dll_690_func_340 __dll690_dll_690_func_340
-#define dll_690_func_53C __dll690_dll_690_func_53C
-#define dll_690_func_604 __dll690_dll_690_func_604
-#define dll_690_func_614 __dll690_dll_690_func_614
+#define dll_690_draw __dll690_dll_690_draw
+#define dll_690_destroy __dll690_dll_690_destroy
+#define dll_690_get_setup_flags __dll690_dll_690_get_setup_flags
+#define dll_690_get_state_size __dll690_dll_690_get_state_size
 #define dll_690_func_628 __dll690_dll_690_func_628
 #define dll_690_func_884 __dll690_dll_690_func_884
 #define dll_690_func_934 __dll690_dll_690_func_934

@@ -5,13 +5,13 @@
 
 #define dll_640_ctor __dll640_dll_640_ctor
 #define dll_640_dtor __dll640_dll_640_dtor
-#define dll_640_func_18 __dll640_dll_640_func_18
-#define dll_640_func_170 __dll640_dll_640_func_170
+#define dll_640_create __dll640_dll_640_create
+#define dll_640_update __dll640_dll_640_update
 #define dll_640_func_6F0 __dll640_dll_640_func_6F0
-#define dll_640_func_6FC __dll640_dll_640_func_6FC
-#define dll_640_func_9F8 __dll640_dll_640_func_9F8
-#define dll_640_func_AA8 __dll640_dll_640_func_AA8
-#define dll_640_func_AB8 __dll640_dll_640_func_AB8
+#define dll_640_draw __dll640_dll_640_draw
+#define dll_640_destroy __dll640_dll_640_destroy
+#define dll_640_get_setup_flags __dll640_dll_640_get_setup_flags
+#define dll_640_get_state_size __dll640_dll_640_get_state_size
 #define _rodata_0 __dll640__rodata_0
 #define _data_0 __dll640__data_0
 #define _data_4 __dll640__data_4

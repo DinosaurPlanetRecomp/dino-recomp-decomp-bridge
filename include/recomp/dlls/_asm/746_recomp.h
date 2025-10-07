@@ -5,13 +5,13 @@
 
 #define dll_746_ctor __dll746_dll_746_ctor
 #define dll_746_dtor __dll746_dll_746_dtor
-#define dll_746_func_18 __dll746_dll_746_func_18
-#define dll_746_func_118 __dll746_dll_746_func_118
+#define dll_746_create __dll746_dll_746_create
+#define dll_746_update __dll746_dll_746_update
 #define dll_746_func_290 __dll746_dll_746_func_290
-#define dll_746_func_3A8 __dll746_dll_746_func_3A8
-#define dll_746_func_574 __dll746_dll_746_func_574
-#define dll_746_func_624 __dll746_dll_746_func_624
-#define dll_746_func_634 __dll746_dll_746_func_634
+#define dll_746_draw __dll746_dll_746_draw
+#define dll_746_destroy __dll746_dll_746_destroy
+#define dll_746_get_setup_flags __dll746_dll_746_get_setup_flags
+#define dll_746_get_state_size __dll746_dll_746_get_state_size
 #define dll_746_func_648 __dll746_dll_746_func_648
 #define _rodata_0 __dll746__rodata_0
 

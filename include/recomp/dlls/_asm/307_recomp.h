@@ -5,13 +5,13 @@
 
 #define dll_307_ctor __dll307_dll_307_ctor
 #define dll_307_dtor __dll307_dll_307_dtor
-#define dll_307_func_18 __dll307_dll_307_func_18
-#define dll_307_func_1C8 __dll307_dll_307_func_1C8
+#define dll_307_create __dll307_dll_307_create
+#define dll_307_update __dll307_dll_307_update
 #define dll_307_func_2A8 __dll307_dll_307_func_2A8
-#define dll_307_func_2B4 __dll307_dll_307_func_2B4
-#define dll_307_func_308 __dll307_dll_307_func_308
-#define dll_307_func_318 __dll307_dll_307_func_318
-#define dll_307_func_328 __dll307_dll_307_func_328
+#define dll_307_draw __dll307_dll_307_draw
+#define dll_307_destroy __dll307_dll_307_destroy
+#define dll_307_get_setup_flags __dll307_dll_307_get_setup_flags
+#define dll_307_get_state_size __dll307_dll_307_get_state_size
 #define dll_307_func_33C __dll307_dll_307_func_33C
 #define dll_307_func_6E4 __dll307_dll_307_func_6E4
 #define _oob_rodata_0 __dll307__oob_rodata_0

@@ -5,13 +5,13 @@
 
 #define dll_730_ctor __dll730_dll_730_ctor
 #define dll_730_dtor __dll730_dll_730_dtor
-#define dll_730_func_18 __dll730_dll_730_func_18
-#define dll_730_func_80 __dll730_dll_730_func_80
+#define dll_730_create __dll730_dll_730_create
+#define dll_730_update __dll730_dll_730_update
 #define dll_730_func_218 __dll730_dll_730_func_218
-#define dll_730_func_224 __dll730_dll_730_func_224
-#define dll_730_func_288 __dll730_dll_730_func_288
-#define dll_730_func_2C8 __dll730_dll_730_func_2C8
-#define dll_730_func_2D8 __dll730_dll_730_func_2D8
+#define dll_730_draw __dll730_dll_730_draw
+#define dll_730_destroy __dll730_dll_730_destroy
+#define dll_730_get_setup_flags __dll730_dll_730_get_setup_flags
+#define dll_730_get_state_size __dll730_dll_730_get_state_size
 #define dll_730_func_2EC __dll730_dll_730_func_2EC
 #define dll_730_func_334 __dll730_dll_730_func_334
 #define dll_730_func_34C __dll730_dll_730_func_34C

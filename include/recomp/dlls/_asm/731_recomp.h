@@ -5,13 +5,13 @@
 
 #define dll_731_ctor __dll731_dll_731_ctor
 #define dll_731_dtor __dll731_dll_731_dtor
-#define dll_731_func_18 __dll731_dll_731_func_18
-#define dll_731_func_FC __dll731_dll_731_func_FC
+#define dll_731_create __dll731_dll_731_create
+#define dll_731_update __dll731_dll_731_update
 #define dll_731_func_164 __dll731_dll_731_func_164
-#define dll_731_func_258 __dll731_dll_731_func_258
-#define dll_731_func_270 __dll731_dll_731_func_270
-#define dll_731_func_280 __dll731_dll_731_func_280
-#define dll_731_func_290 __dll731_dll_731_func_290
+#define dll_731_draw __dll731_dll_731_draw
+#define dll_731_destroy __dll731_dll_731_destroy
+#define dll_731_get_setup_flags __dll731_dll_731_get_setup_flags
+#define dll_731_get_state_size __dll731_dll_731_get_state_size
 #define _rodata_0 __dll731__rodata_0
 
 #endif //_DLL_731_RECOMP_H

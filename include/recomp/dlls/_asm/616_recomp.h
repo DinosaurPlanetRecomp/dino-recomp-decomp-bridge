@@ -5,13 +5,13 @@
 
 #define dll_616_ctor __dll616_dll_616_ctor
 #define dll_616_dtor __dll616_dll_616_dtor
-#define dll_616_func_18 __dll616_dll_616_func_18
-#define dll_616_func_74 __dll616_dll_616_func_74
+#define dll_616_create __dll616_dll_616_create
+#define dll_616_update __dll616_dll_616_update
 #define dll_616_func_6E4 __dll616_dll_616_func_6E4
-#define dll_616_func_6F0 __dll616_dll_616_func_6F0
-#define dll_616_func_744 __dll616_dll_616_func_744
-#define dll_616_func_754 __dll616_dll_616_func_754
-#define dll_616_func_764 __dll616_dll_616_func_764
+#define dll_616_draw __dll616_dll_616_draw
+#define dll_616_destroy __dll616_dll_616_destroy
+#define dll_616_get_setup_flags __dll616_dll_616_get_setup_flags
+#define dll_616_get_state_size __dll616_dll_616_get_state_size
 #define _rodata_0 __dll616__rodata_0
 #define _rodata_4 __dll616__rodata_4
 #define _rodata_8 __dll616__rodata_8

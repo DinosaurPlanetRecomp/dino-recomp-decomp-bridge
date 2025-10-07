@@ -5,13 +5,13 @@
 
 #define dll_693_ctor __dll693_dll_693_ctor
 #define dll_693_dtor __dll693_dll_693_dtor
-#define dll_693_func_18 __dll693_dll_693_func_18
-#define dll_693_func_D8 __dll693_dll_693_func_D8
+#define dll_693_create __dll693_dll_693_create
+#define dll_693_update __dll693_dll_693_update
 #define dll_693_func_258 __dll693_dll_693_func_258
-#define dll_693_func_264 __dll693_dll_693_func_264
-#define dll_693_func_398 __dll693_dll_693_func_398
-#define dll_693_func_3A8 __dll693_dll_693_func_3A8
-#define dll_693_func_3B8 __dll693_dll_693_func_3B8
+#define dll_693_draw __dll693_dll_693_draw
+#define dll_693_destroy __dll693_dll_693_destroy
+#define dll_693_get_setup_flags __dll693_dll_693_get_setup_flags
+#define dll_693_get_state_size __dll693_dll_693_get_state_size
 #define dll_693_func_3CC __dll693_dll_693_func_3CC
 #define dll_693_func_438 __dll693_dll_693_func_438
 #define dll_693_func_448 __dll693_dll_693_func_448

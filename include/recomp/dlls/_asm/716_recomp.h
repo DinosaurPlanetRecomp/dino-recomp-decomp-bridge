@@ -5,13 +5,13 @@
 
 #define dll_716_ctor __dll716_dll_716_ctor
 #define dll_716_dtor __dll716_dll_716_dtor
-#define dll_716_func_18 __dll716_dll_716_func_18
-#define dll_716_func_E0 __dll716_dll_716_func_E0
+#define dll_716_create __dll716_dll_716_create
+#define dll_716_update __dll716_dll_716_update
 #define dll_716_func_26C __dll716_dll_716_func_26C
-#define dll_716_func_278 __dll716_dll_716_func_278
-#define dll_716_func_290 __dll716_dll_716_func_290
-#define dll_716_func_330 __dll716_dll_716_func_330
-#define dll_716_func_340 __dll716_dll_716_func_340
+#define dll_716_draw __dll716_dll_716_draw
+#define dll_716_destroy __dll716_dll_716_destroy
+#define dll_716_get_setup_flags __dll716_dll_716_get_setup_flags
+#define dll_716_get_state_size __dll716_dll_716_get_state_size
 #define dll_716_func_354 __dll716_dll_716_func_354
 #define dll_716_func_49C __dll716_dll_716_func_49C
 #define dll_716_func_4B4 __dll716_dll_716_func_4B4

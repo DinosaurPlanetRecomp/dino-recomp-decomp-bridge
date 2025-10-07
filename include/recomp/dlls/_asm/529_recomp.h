@@ -5,13 +5,13 @@
 
 #define dll_529_ctor __dll529_dll_529_ctor
 #define dll_529_dtor __dll529_dll_529_dtor
-#define dll_529_func_18 __dll529_dll_529_func_18
-#define dll_529_func_198 __dll529_dll_529_func_198
+#define dll_529_create __dll529_dll_529_create
+#define dll_529_update __dll529_dll_529_update
 #define dll_529_func_4BC __dll529_dll_529_func_4BC
-#define dll_529_func_4C8 __dll529_dll_529_func_4C8
-#define dll_529_func_590 __dll529_dll_529_func_590
-#define dll_529_func_654 __dll529_dll_529_func_654
-#define dll_529_func_678 __dll529_dll_529_func_678
+#define dll_529_draw __dll529_dll_529_draw
+#define dll_529_destroy __dll529_dll_529_destroy
+#define dll_529_get_setup_flags __dll529_dll_529_get_setup_flags
+#define dll_529_get_state_size __dll529_dll_529_get_state_size
 #define dll_529_func_6A0 __dll529_dll_529_func_6A0
 #define dll_529_func_6B8 __dll529_dll_529_func_6B8
 #define dll_529_func_7F8 __dll529_dll_529_func_7F8

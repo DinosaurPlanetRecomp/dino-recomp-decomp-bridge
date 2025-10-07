@@ -5,15 +5,15 @@
 
 #define dll_720_ctor __dll720_dll_720_ctor
 #define dll_720_dtor __dll720_dll_720_dtor
-#define dll_720_func_18 __dll720_dll_720_func_18
-#define dll_720_func_64 __dll720_dll_720_func_64
+#define dll_720_create __dll720_dll_720_create
+#define dll_720_update __dll720_dll_720_update
 #define dll_720_func_3AC __dll720_dll_720_func_3AC
-#define dll_720_func_3B8 __dll720_dll_720_func_3B8
+#define dll_720_draw __dll720_dll_720_draw
 #define dll_720_func_3D0 __dll720_dll_720_func_3D0
 #define dll_720_func_3E4 __dll720_dll_720_func_3E4
-#define dll_720_func_3FC __dll720_dll_720_func_3FC
-#define dll_720_func_43C __dll720_dll_720_func_43C
-#define dll_720_func_44C __dll720_dll_720_func_44C
+#define dll_720_destroy __dll720_dll_720_destroy
+#define dll_720_get_setup_flags __dll720_dll_720_get_setup_flags
+#define dll_720_get_state_size __dll720_dll_720_get_state_size
 #define dll_720_func_460 __dll720_dll_720_func_460
 #define dll_720_func_478 __dll720_dll_720_func_478
 #define _oob_rodata_0 __dll720__oob_rodata_0

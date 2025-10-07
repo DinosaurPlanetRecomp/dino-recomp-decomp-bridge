@@ -5,13 +5,13 @@
 
 #define dll_625_ctor __dll625_dll_625_ctor
 #define dll_625_dtor __dll625_dll_625_dtor
-#define dll_625_func_18 __dll625_dll_625_func_18
-#define dll_625_func_68 __dll625_dll_625_func_68
+#define dll_625_create __dll625_dll_625_create
+#define dll_625_update __dll625_dll_625_update
 #define dll_625_func_1FC __dll625_dll_625_func_1FC
-#define dll_625_func_208 __dll625_dll_625_func_208
-#define dll_625_func_220 __dll625_dll_625_func_220
-#define dll_625_func_268 __dll625_dll_625_func_268
-#define dll_625_func_278 __dll625_dll_625_func_278
+#define dll_625_draw __dll625_dll_625_draw
+#define dll_625_destroy __dll625_dll_625_destroy
+#define dll_625_get_setup_flags __dll625_dll_625_get_setup_flags
+#define dll_625_get_state_size __dll625_dll_625_get_state_size
 #define dll_625_func_28C __dll625_dll_625_func_28C
 #define dll_625_func_3C4 __dll625_dll_625_func_3C4
 #define str_0 __dll625_str_0

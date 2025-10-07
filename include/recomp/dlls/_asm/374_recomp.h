@@ -5,13 +5,13 @@
 
 #define dll_374_ctor __dll374_dll_374_ctor
 #define dll_374_dtor __dll374_dll_374_dtor
-#define dll_374_func_18 __dll374_dll_374_func_18
-#define dll_374_func_80 __dll374_dll_374_func_80
+#define dll_374_create __dll374_dll_374_create
+#define dll_374_update __dll374_dll_374_update
 #define dll_374_func_6AC __dll374_dll_374_func_6AC
-#define dll_374_func_6B8 __dll374_dll_374_func_6B8
-#define dll_374_func_A04 __dll374_dll_374_func_A04
-#define dll_374_func_A60 __dll374_dll_374_func_A60
-#define dll_374_func_A70 __dll374_dll_374_func_A70
+#define dll_374_draw __dll374_dll_374_draw
+#define dll_374_destroy __dll374_dll_374_destroy
+#define dll_374_get_setup_flags __dll374_dll_374_get_setup_flags
+#define dll_374_get_state_size __dll374_dll_374_get_state_size
 #define _rodata_0 __dll374__rodata_0
 #define _data_0 __dll374__data_0
 

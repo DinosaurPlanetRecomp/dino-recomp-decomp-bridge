@@ -5,13 +5,13 @@
 
 #define dll_634_ctor __dll634_dll_634_ctor
 #define dll_634_dtor __dll634_dll_634_dtor
-#define dll_634_func_18 __dll634_dll_634_func_18
-#define dll_634_func_8C __dll634_dll_634_func_8C
+#define dll_634_create __dll634_dll_634_create
+#define dll_634_update __dll634_dll_634_update
 #define dll_634_func_1BC __dll634_dll_634_func_1BC
-#define dll_634_func_1C8 __dll634_dll_634_func_1C8
-#define dll_634_func_21C __dll634_dll_634_func_21C
-#define dll_634_func_25C __dll634_dll_634_func_25C
-#define dll_634_func_26C __dll634_dll_634_func_26C
+#define dll_634_draw __dll634_dll_634_draw
+#define dll_634_destroy __dll634_dll_634_destroy
+#define dll_634_get_setup_flags __dll634_dll_634_get_setup_flags
+#define dll_634_get_state_size __dll634_dll_634_get_state_size
 #define dll_634_func_280 __dll634_dll_634_func_280
 
 #endif //_DLL_634_RECOMP_H

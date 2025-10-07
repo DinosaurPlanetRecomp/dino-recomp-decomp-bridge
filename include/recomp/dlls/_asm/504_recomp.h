@@ -5,8 +5,8 @@
 
 #define dll_504_ctor __dll504_dll_504_ctor
 #define dll_504_dtor __dll504_dll_504_dtor
-#define dll_504_func_18 __dll504_dll_504_func_18
-#define dll_504_func_EC __dll504_dll_504_func_EC
+#define dll_504_create __dll504_dll_504_create
+#define dll_504_update __dll504_dll_504_update
 #define dll_504_func_5C8 __dll504_dll_504_func_5C8
 #define dll_504_func_70C __dll504_dll_504_func_70C
 #define dll_504_func_86C __dll504_dll_504_func_86C
@@ -14,10 +14,10 @@
 #define dll_504_func_A40 __dll504_dll_504_func_A40
 #define dll_504_func_B08 __dll504_dll_504_func_B08
 #define dll_504_func_B20 __dll504_dll_504_func_B20
-#define dll_504_func_B2C __dll504_dll_504_func_B2C
-#define dll_504_func_B44 __dll504_dll_504_func_B44
-#define dll_504_func_B54 __dll504_dll_504_func_B54
-#define dll_504_func_B64 __dll504_dll_504_func_B64
+#define dll_504_draw __dll504_dll_504_draw
+#define dll_504_destroy __dll504_dll_504_destroy
+#define dll_504_get_setup_flags __dll504_dll_504_get_setup_flags
+#define dll_504_get_state_size __dll504_dll_504_get_state_size
 #define dll_504_func_B78 __dll504_dll_504_func_B78
 #define dll_504_func_CF8 __dll504_dll_504_func_CF8
 #define dll_504_func_104C __dll504_dll_504_func_104C

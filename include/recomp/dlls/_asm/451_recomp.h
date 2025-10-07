@@ -5,13 +5,13 @@
 
 #define dll_451_ctor __dll451_dll_451_ctor
 #define dll_451_dtor __dll451_dll_451_dtor
-#define dll_451_func_18 __dll451_dll_451_func_18
-#define dll_451_func_98 __dll451_dll_451_func_98
+#define dll_451_create __dll451_dll_451_create
+#define dll_451_update __dll451_dll_451_update
 #define dll_451_func_1DC __dll451_dll_451_func_1DC
-#define dll_451_func_1E8 __dll451_dll_451_func_1E8
-#define dll_451_func_200 __dll451_dll_451_func_200
-#define dll_451_func_210 __dll451_dll_451_func_210
-#define dll_451_func_220 __dll451_dll_451_func_220
+#define dll_451_draw __dll451_dll_451_draw
+#define dll_451_destroy __dll451_dll_451_destroy
+#define dll_451_get_setup_flags __dll451_dll_451_get_setup_flags
+#define dll_451_get_state_size __dll451_dll_451_get_state_size
 #define dll_451_func_234 __dll451_dll_451_func_234
 #define dll_451_func_308 __dll451_dll_451_func_308
 

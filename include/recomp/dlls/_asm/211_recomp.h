@@ -5,13 +5,13 @@
 
 #define dll_211_ctor __dll211_dll_211_ctor
 #define dll_211_dtor __dll211_dll_211_dtor
-#define dll_211_func_104 __dll211_dll_211_func_104
-#define dll_211_func_3FC __dll211_dll_211_func_3FC
+#define dll_211_create __dll211_dll_211_create
+#define dll_211_update __dll211_dll_211_update
 #define dll_211_func_D1C __dll211_dll_211_func_D1C
-#define dll_211_func_D28 __dll211_dll_211_func_D28
-#define dll_211_func_F20 __dll211_dll_211_func_F20
-#define dll_211_func_1040 __dll211_dll_211_func_1040
-#define dll_211_func_1050 __dll211_dll_211_func_1050
+#define dll_211_draw __dll211_dll_211_draw
+#define dll_211_destroy __dll211_dll_211_destroy
+#define dll_211_get_setup_flags __dll211_dll_211_get_setup_flags
+#define dll_211_get_state_size __dll211_dll_211_get_state_size
 #define dll_211_func_1064 __dll211_dll_211_func_1064
 #define dll_211_func_1074 __dll211_dll_211_func_1074
 #define dll_211_func_108C __dll211_dll_211_func_108C

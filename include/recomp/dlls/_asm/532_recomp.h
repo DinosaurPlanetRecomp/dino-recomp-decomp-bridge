@@ -5,13 +5,13 @@
 
 #define dll_532_ctor __dll532_dll_532_ctor
 #define dll_532_dtor __dll532_dll_532_dtor
-#define dll_532_func_18 __dll532_dll_532_func_18
-#define dll_532_func_B4 __dll532_dll_532_func_B4
+#define dll_532_create __dll532_dll_532_create
+#define dll_532_update __dll532_dll_532_update
 #define dll_532_func_514 __dll532_dll_532_func_514
-#define dll_532_func_538 __dll532_dll_532_func_538
-#define dll_532_func_58C __dll532_dll_532_func_58C
-#define dll_532_func_59C __dll532_dll_532_func_59C
-#define dll_532_func_5AC __dll532_dll_532_func_5AC
+#define dll_532_draw __dll532_dll_532_draw
+#define dll_532_destroy __dll532_dll_532_destroy
+#define dll_532_get_setup_flags __dll532_dll_532_get_setup_flags
+#define dll_532_get_state_size __dll532_dll_532_get_state_size
 #define _data_0 __dll532__data_0
 #define _data_1884 __dll532__data_1884
 

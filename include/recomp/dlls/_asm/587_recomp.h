@@ -5,13 +5,13 @@
 
 #define dll_587_ctor __dll587_dll_587_ctor
 #define dll_587_dtor __dll587_dll_587_dtor
-#define dll_587_func_18 __dll587_dll_587_func_18
-#define dll_587_func_194 __dll587_dll_587_func_194
+#define dll_587_create __dll587_dll_587_create
+#define dll_587_update __dll587_dll_587_update
 #define dll_587_func_340 __dll587_dll_587_func_340
-#define dll_587_func_34C __dll587_dll_587_func_34C
-#define dll_587_func_418 __dll587_dll_587_func_418
-#define dll_587_func_524 __dll587_dll_587_func_524
-#define dll_587_func_534 __dll587_dll_587_func_534
+#define dll_587_draw __dll587_dll_587_draw
+#define dll_587_destroy __dll587_dll_587_destroy
+#define dll_587_get_setup_flags __dll587_dll_587_get_setup_flags
+#define dll_587_get_state_size __dll587_dll_587_get_state_size
 #define dll_587_func_548 __dll587_dll_587_func_548
 #define dll_587_func_75C __dll587_dll_587_func_75C
 #define _rodata_0 __dll587__rodata_0

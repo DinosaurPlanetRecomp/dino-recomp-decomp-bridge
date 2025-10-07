@@ -5,13 +5,13 @@
 
 #define dll_621_ctor __dll621_dll_621_ctor
 #define dll_621_dtor __dll621_dll_621_dtor
-#define dll_621_func_18 __dll621_dll_621_func_18
-#define dll_621_func_100 __dll621_dll_621_func_100
+#define dll_621_create __dll621_dll_621_create
+#define dll_621_update __dll621_dll_621_update
 #define dll_621_func_5B4 __dll621_dll_621_func_5B4
-#define dll_621_func_5C0 __dll621_dll_621_func_5C0
-#define dll_621_func_66C __dll621_dll_621_func_66C
-#define dll_621_func_6B4 __dll621_dll_621_func_6B4
-#define dll_621_func_6C4 __dll621_dll_621_func_6C4
+#define dll_621_draw __dll621_dll_621_draw
+#define dll_621_destroy __dll621_dll_621_destroy
+#define dll_621_get_setup_flags __dll621_dll_621_get_setup_flags
+#define dll_621_get_state_size __dll621_dll_621_get_state_size
 #define _rodata_0 __dll621__rodata_0
 #define _data_0 __dll621__data_0
 

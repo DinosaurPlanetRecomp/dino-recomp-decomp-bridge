@@ -5,13 +5,13 @@
 
 #define dll_757_ctor __dll757_dll_757_ctor
 #define dll_757_dtor __dll757_dll_757_dtor
-#define dll_757_func_18 __dll757_dll_757_func_18
-#define dll_757_func_B4 __dll757_dll_757_func_B4
+#define dll_757_create __dll757_dll_757_create
+#define dll_757_update __dll757_dll_757_update
 #define dll_757_func_224 __dll757_dll_757_func_224
-#define dll_757_func_230 __dll757_dll_757_func_230
-#define dll_757_func_248 __dll757_dll_757_func_248
-#define dll_757_func_258 __dll757_dll_757_func_258
-#define dll_757_func_268 __dll757_dll_757_func_268
+#define dll_757_draw __dll757_dll_757_draw
+#define dll_757_destroy __dll757_dll_757_destroy
+#define dll_757_get_setup_flags __dll757_dll_757_get_setup_flags
+#define dll_757_get_state_size __dll757_dll_757_get_state_size
 #define dll_757_func_27C __dll757_dll_757_func_27C
 #define dll_757_func_33C __dll757_dll_757_func_33C
 #define str_0 __dll757_str_0

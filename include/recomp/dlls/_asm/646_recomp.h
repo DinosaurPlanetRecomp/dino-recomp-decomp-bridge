@@ -5,13 +5,13 @@
 
 #define dll_646_ctor __dll646_dll_646_ctor
 #define dll_646_dtor __dll646_dll_646_dtor
-#define dll_646_func_18 __dll646_dll_646_func_18
-#define dll_646_func_70 __dll646_dll_646_func_70
+#define dll_646_create __dll646_dll_646_create
+#define dll_646_update __dll646_dll_646_update
 #define dll_646_func_128 __dll646_dll_646_func_128
-#define dll_646_func_134 __dll646_dll_646_func_134
-#define dll_646_func_14C __dll646_dll_646_func_14C
-#define dll_646_func_194 __dll646_dll_646_func_194
-#define dll_646_func_1A4 __dll646_dll_646_func_1A4
+#define dll_646_draw __dll646_dll_646_draw
+#define dll_646_destroy __dll646_dll_646_destroy
+#define dll_646_get_setup_flags __dll646_dll_646_get_setup_flags
+#define dll_646_get_state_size __dll646_dll_646_get_state_size
 #define dll_646_func_1B8 __dll646_dll_646_func_1B8
 #define dll_646_func_548 __dll646_dll_646_func_548
 #define dll_646_func_7A8 __dll646_dll_646_func_7A8

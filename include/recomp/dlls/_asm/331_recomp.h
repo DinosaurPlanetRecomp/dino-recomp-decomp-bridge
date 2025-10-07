@@ -5,14 +5,14 @@
 
 #define dll_331_ctor __dll331_dll_331_ctor
 #define dll_331_dtor __dll331_dll_331_dtor
-#define dll_331_func_18 __dll331_dll_331_func_18
-#define dll_331_func_7CC __dll331_dll_331_func_7CC
+#define dll_331_create __dll331_dll_331_create
+#define dll_331_update __dll331_dll_331_update
 #define dll_331_func_1D28 __dll331_dll_331_func_1D28
 #define dll_331_func_1D34 __dll331_dll_331_func_1D34
-#define dll_331_func_1F2C __dll331_dll_331_func_1F2C
-#define dll_331_func_1FB8 __dll331_dll_331_func_1FB8
-#define dll_331_func_2000 __dll331_dll_331_func_2000
-#define dll_331_func_2010 __dll331_dll_331_func_2010
+#define dll_331_draw __dll331_dll_331_draw
+#define dll_331_destroy __dll331_dll_331_destroy
+#define dll_331_get_setup_flags __dll331_dll_331_get_setup_flags
+#define dll_331_get_state_size __dll331_dll_331_get_state_size
 #define str_0 __dll331_str_0
 #define str_10 __dll331_str_10
 #define str_20 __dll331_str_20

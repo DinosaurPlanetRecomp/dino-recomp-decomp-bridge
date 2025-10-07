@@ -5,13 +5,13 @@
 
 #define dll_568_ctor __dll568_dll_568_ctor
 #define dll_568_dtor __dll568_dll_568_dtor
-#define dll_568_func_18 __dll568_dll_568_func_18
-#define dll_568_func_324 __dll568_dll_568_func_324
+#define dll_568_create __dll568_dll_568_create
+#define dll_568_update __dll568_dll_568_update
 #define dll_568_func_49C __dll568_dll_568_func_49C
-#define dll_568_func_4A8 __dll568_dll_568_func_4A8
-#define dll_568_func_53C __dll568_dll_568_func_53C
-#define dll_568_func_5E0 __dll568_dll_568_func_5E0
-#define dll_568_func_5F0 __dll568_dll_568_func_5F0
+#define dll_568_draw __dll568_dll_568_draw
+#define dll_568_destroy __dll568_dll_568_destroy
+#define dll_568_get_setup_flags __dll568_dll_568_get_setup_flags
+#define dll_568_get_state_size __dll568_dll_568_get_state_size
 #define dll_568_func_604 __dll568_dll_568_func_604
 #define dll_568_func_614 __dll568_dll_568_func_614
 #define dll_568_func_624 __dll568_dll_568_func_624

@@ -5,13 +5,13 @@
 
 #define dll_771_ctor __dll771_dll_771_ctor
 #define dll_771_dtor __dll771_dll_771_dtor
-#define dll_771_func_18 __dll771_dll_771_func_18
-#define dll_771_func_128 __dll771_dll_771_func_128
+#define dll_771_create __dll771_dll_771_create
+#define dll_771_update __dll771_dll_771_update
 #define dll_771_func_60C __dll771_dll_771_func_60C
-#define dll_771_func_618 __dll771_dll_771_func_618
-#define dll_771_func_630 __dll771_dll_771_func_630
-#define dll_771_func_698 __dll771_dll_771_func_698
-#define dll_771_func_6A8 __dll771_dll_771_func_6A8
+#define dll_771_draw __dll771_dll_771_draw
+#define dll_771_destroy __dll771_dll_771_destroy
+#define dll_771_get_setup_flags __dll771_dll_771_get_setup_flags
+#define dll_771_get_state_size __dll771_dll_771_get_state_size
 #define dll_771_func_6BC __dll771_dll_771_func_6BC
 #define dll_771_func_7DC __dll771_dll_771_func_7DC
 #define _rodata_0 __dll771__rodata_0

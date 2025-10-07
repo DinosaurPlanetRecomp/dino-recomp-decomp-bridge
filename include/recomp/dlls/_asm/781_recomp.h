@@ -5,13 +5,13 @@
 
 #define dll_781_ctor __dll781_dll_781_ctor
 #define dll_781_dtor __dll781_dll_781_dtor
-#define dll_781_func_18 __dll781_dll_781_func_18
-#define dll_781_func_150 __dll781_dll_781_func_150
+#define dll_781_create __dll781_dll_781_create
+#define dll_781_update __dll781_dll_781_update
 #define dll_781_func_4B4 __dll781_dll_781_func_4B4
-#define dll_781_func_4C0 __dll781_dll_781_func_4C0
-#define dll_781_func_514 __dll781_dll_781_func_514
-#define dll_781_func_594 __dll781_dll_781_func_594
-#define dll_781_func_5C8 __dll781_dll_781_func_5C8
+#define dll_781_draw __dll781_dll_781_draw
+#define dll_781_destroy __dll781_dll_781_destroy
+#define dll_781_get_setup_flags __dll781_dll_781_get_setup_flags
+#define dll_781_get_state_size __dll781_dll_781_get_state_size
 #define dll_781_func_5DC __dll781_dll_781_func_5DC
 #define dll_781_func_648 __dll781_dll_781_func_648
 #define dll_781_func_6CC __dll781_dll_781_func_6CC

@@ -5,13 +5,13 @@
 
 #define dll_635_ctor __dll635_dll_635_ctor
 #define dll_635_dtor __dll635_dll_635_dtor
-#define dll_635_func_18 __dll635_dll_635_func_18
-#define dll_635_func_100 __dll635_dll_635_func_100
+#define dll_635_create __dll635_dll_635_create
+#define dll_635_update __dll635_dll_635_update
 #define dll_635_func_13C __dll635_dll_635_func_13C
-#define dll_635_func_148 __dll635_dll_635_func_148
-#define dll_635_func_1D4 __dll635_dll_635_func_1D4
-#define dll_635_func_1E4 __dll635_dll_635_func_1E4
-#define dll_635_func_1F4 __dll635_dll_635_func_1F4
+#define dll_635_draw __dll635_dll_635_draw
+#define dll_635_destroy __dll635_dll_635_destroy
+#define dll_635_get_setup_flags __dll635_dll_635_get_setup_flags
+#define dll_635_get_state_size __dll635_dll_635_get_state_size
 #define dll_635_func_208 __dll635_dll_635_func_208
 #define dll_635_func_224 __dll635_dll_635_func_224
 #define _rodata_0 __dll635__rodata_0

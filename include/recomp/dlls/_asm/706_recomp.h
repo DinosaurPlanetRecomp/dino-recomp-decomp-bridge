@@ -5,12 +5,12 @@
 
 #define dll_706_ctor __dll706_dll_706_ctor
 #define dll_706_dtor __dll706_dll_706_dtor
-#define dll_706_func_18 __dll706_dll_706_func_18
-#define dll_706_func_2C __dll706_dll_706_func_2C
+#define dll_706_create __dll706_dll_706_create
+#define dll_706_update __dll706_dll_706_update
 #define dll_706_func_190 __dll706_dll_706_func_190
-#define dll_706_func_19C __dll706_dll_706_func_19C
-#define dll_706_func_1B4 __dll706_dll_706_func_1B4
-#define dll_706_func_1FC __dll706_dll_706_func_1FC
-#define dll_706_func_20C __dll706_dll_706_func_20C
+#define dll_706_draw __dll706_dll_706_draw
+#define dll_706_destroy __dll706_dll_706_destroy
+#define dll_706_get_setup_flags __dll706_dll_706_get_setup_flags
+#define dll_706_get_state_size __dll706_dll_706_get_state_size
 
 #endif //_DLL_706_RECOMP_H

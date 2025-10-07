@@ -5,13 +5,13 @@
 
 #define dll_367_ctor __dll367_dll_367_ctor
 #define dll_367_dtor __dll367_dll_367_dtor
-#define dll_367_func_30 __dll367_dll_367_func_30
-#define dll_367_func_74 __dll367_dll_367_func_74
+#define dll_367_create __dll367_dll_367_create
+#define dll_367_update __dll367_dll_367_update
 #define dll_367_func_654 __dll367_dll_367_func_654
-#define dll_367_func_660 __dll367_dll_367_func_660
-#define dll_367_func_6B4 __dll367_dll_367_func_6B4
-#define dll_367_func_704 __dll367_dll_367_func_704
-#define dll_367_func_714 __dll367_dll_367_func_714
+#define dll_367_draw __dll367_dll_367_draw
+#define dll_367_destroy __dll367_dll_367_destroy
+#define dll_367_get_setup_flags __dll367_dll_367_get_setup_flags
+#define dll_367_get_state_size __dll367_dll_367_get_state_size
 #define dll_367_func_728 __dll367_dll_367_func_728
 #define dll_367_func_7F0 __dll367_dll_367_func_7F0
 #define dll_367_func_9DC __dll367_dll_367_func_9DC

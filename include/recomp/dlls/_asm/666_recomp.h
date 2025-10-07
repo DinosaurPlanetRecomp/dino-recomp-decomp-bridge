@@ -5,13 +5,13 @@
 
 #define dll_666_ctor __dll666_dll_666_ctor
 #define dll_666_dtor __dll666_dll_666_dtor
-#define dll_666_func_18 __dll666_dll_666_func_18
-#define dll_666_func_224 __dll666_dll_666_func_224
+#define dll_666_create __dll666_dll_666_create
+#define dll_666_update __dll666_dll_666_update
 #define dll_666_func_4C4 __dll666_dll_666_func_4C4
-#define dll_666_func_4D0 __dll666_dll_666_func_4D0
-#define dll_666_func_53C __dll666_dll_666_func_53C
-#define dll_666_func_5F4 __dll666_dll_666_func_5F4
-#define dll_666_func_604 __dll666_dll_666_func_604
+#define dll_666_draw __dll666_dll_666_draw
+#define dll_666_destroy __dll666_dll_666_destroy
+#define dll_666_get_setup_flags __dll666_dll_666_get_setup_flags
+#define dll_666_get_state_size __dll666_dll_666_get_state_size
 #define dll_666_func_618 __dll666_dll_666_func_618
 #define dll_666_func_630 __dll666_dll_666_func_630
 #define dll_666_func_724 __dll666_dll_666_func_724

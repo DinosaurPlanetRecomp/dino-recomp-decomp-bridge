@@ -5,13 +5,13 @@
 
 #define dll_334_ctor __dll334_dll_334_ctor
 #define dll_334_dtor __dll334_dll_334_dtor
-#define dll_334_func_18 __dll334_dll_334_func_18
-#define dll_334_func_BC __dll334_dll_334_func_BC
+#define dll_334_create __dll334_dll_334_create
+#define dll_334_update __dll334_dll_334_update
 #define dll_334_func_C00 __dll334_dll_334_func_C00
-#define dll_334_func_CA0 __dll334_dll_334_func_CA0
-#define dll_334_func_CB8 __dll334_dll_334_func_CB8
-#define dll_334_func_D68 __dll334_dll_334_func_D68
-#define dll_334_func_D78 __dll334_dll_334_func_D78
+#define dll_334_draw __dll334_dll_334_draw
+#define dll_334_destroy __dll334_dll_334_destroy
+#define dll_334_get_setup_flags __dll334_dll_334_get_setup_flags
+#define dll_334_get_state_size __dll334_dll_334_get_state_size
 #define dll_334_func_D8C __dll334_dll_334_func_D8C
 #define _rodata_0 __dll334__rodata_0
 #define _rodata_4 __dll334__rodata_4

@@ -5,8 +5,8 @@
 
 #define dll_457_ctor __dll457_dll_457_ctor
 #define dll_457_dtor __dll457_dll_457_dtor
-#define dll_457_func_18 __dll457_dll_457_func_18
-#define dll_457_func_B4 __dll457_dll_457_func_B4
+#define dll_457_create __dll457_dll_457_create
+#define dll_457_update __dll457_dll_457_update
 #define dll_457_func_298 __dll457_dll_457_func_298
 #define dll_457_func_2F8 __dll457_dll_457_func_2F8
 #define dll_457_func_420 __dll457_dll_457_func_420
@@ -14,10 +14,10 @@
 #define dll_457_func_808 __dll457_dll_457_func_808
 #define dll_457_func_AAC __dll457_dll_457_func_AAC
 #define dll_457_func_DE4 __dll457_dll_457_func_DE4
-#define dll_457_func_DF0 __dll457_dll_457_func_DF0
-#define dll_457_func_E08 __dll457_dll_457_func_E08
-#define dll_457_func_E18 __dll457_dll_457_func_E18
-#define dll_457_func_E28 __dll457_dll_457_func_E28
+#define dll_457_draw __dll457_dll_457_draw
+#define dll_457_destroy __dll457_dll_457_destroy
+#define dll_457_get_setup_flags __dll457_dll_457_get_setup_flags
+#define dll_457_get_state_size __dll457_dll_457_get_state_size
 #define dll_457_func_E3C __dll457_dll_457_func_E3C
 #define dll_457_func_12AC __dll457_dll_457_func_12AC
 #define dll_457_func_140C __dll457_dll_457_func_140C

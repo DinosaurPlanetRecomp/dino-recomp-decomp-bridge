@@ -5,13 +5,13 @@
 
 #define dll_506_ctor __dll506_dll_506_ctor
 #define dll_506_dtor __dll506_dll_506_dtor
-#define dll_506_func_18 __dll506_dll_506_func_18
-#define dll_506_func_34 __dll506_dll_506_func_34
+#define dll_506_create __dll506_dll_506_create
+#define dll_506_update __dll506_dll_506_update
 #define dll_506_func_184 __dll506_dll_506_func_184
-#define dll_506_func_190 __dll506_dll_506_func_190
-#define dll_506_func_1A8 __dll506_dll_506_func_1A8
-#define dll_506_func_1B8 __dll506_dll_506_func_1B8
-#define dll_506_func_1C8 __dll506_dll_506_func_1C8
+#define dll_506_draw __dll506_dll_506_draw
+#define dll_506_destroy __dll506_dll_506_destroy
+#define dll_506_get_setup_flags __dll506_dll_506_get_setup_flags
+#define dll_506_get_state_size __dll506_dll_506_get_state_size
 #define _oob_rodata_0 __dll506__oob_rodata_0
 
 #endif //_DLL_506_RECOMP_H

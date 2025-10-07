@@ -5,13 +5,13 @@
 
 #define dll_545_ctor __dll545_dll_545_ctor
 #define dll_545_dtor __dll545_dll_545_dtor
-#define dll_545_func_18 __dll545_dll_545_func_18
-#define dll_545_func_D4 __dll545_dll_545_func_D4
+#define dll_545_create __dll545_dll_545_create
+#define dll_545_update __dll545_dll_545_update
 #define dll_545_func_37C __dll545_dll_545_func_37C
-#define dll_545_func_388 __dll545_dll_545_func_388
-#define dll_545_func_430 __dll545_dll_545_func_430
-#define dll_545_func_480 __dll545_dll_545_func_480
-#define dll_545_func_490 __dll545_dll_545_func_490
+#define dll_545_draw __dll545_dll_545_draw
+#define dll_545_destroy __dll545_dll_545_destroy
+#define dll_545_get_setup_flags __dll545_dll_545_get_setup_flags
+#define dll_545_get_state_size __dll545_dll_545_get_state_size
 #define dll_545_func_4A4 __dll545_dll_545_func_4A4
 #define _rodata_0 __dll545__rodata_0
 #define _rodata_C0 __dll545__rodata_C0

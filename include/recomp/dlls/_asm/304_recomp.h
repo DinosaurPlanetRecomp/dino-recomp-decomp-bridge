@@ -5,13 +5,13 @@
 
 #define dll_304_ctor __dll304_dll_304_ctor
 #define dll_304_dtor __dll304_dll_304_dtor
-#define dll_304_func_18 __dll304_dll_304_func_18
-#define dll_304_func_190 __dll304_dll_304_func_190
+#define dll_304_create __dll304_dll_304_create
+#define dll_304_update __dll304_dll_304_update
 #define dll_304_func_84C __dll304_dll_304_func_84C
-#define dll_304_func_858 __dll304_dll_304_func_858
-#define dll_304_func_8AC __dll304_dll_304_func_8AC
-#define dll_304_func_960 __dll304_dll_304_func_960
-#define dll_304_func_970 __dll304_dll_304_func_970
+#define dll_304_draw __dll304_dll_304_draw
+#define dll_304_destroy __dll304_dll_304_destroy
+#define dll_304_get_setup_flags __dll304_dll_304_get_setup_flags
+#define dll_304_get_state_size __dll304_dll_304_get_state_size
 #define dll_304_func_984 __dll304_dll_304_func_984
 #define dll_304_func_AB0 __dll304_dll_304_func_AB0
 #define dll_304_func_BE0 __dll304_dll_304_func_BE0

@@ -5,13 +5,13 @@
 
 #define dll_661_ctor __dll661_dll_661_ctor
 #define dll_661_dtor __dll661_dll_661_dtor
-#define dll_661_func_18 __dll661_dll_661_func_18
-#define dll_661_func_D8 __dll661_dll_661_func_D8
+#define dll_661_create __dll661_dll_661_create
+#define dll_661_update __dll661_dll_661_update
 #define dll_661_func_338 __dll661_dll_661_func_338
-#define dll_661_func_344 __dll661_dll_661_func_344
-#define dll_661_func_3CC __dll661_dll_661_func_3CC
-#define dll_661_func_40C __dll661_dll_661_func_40C
-#define dll_661_func_41C __dll661_dll_661_func_41C
+#define dll_661_draw __dll661_dll_661_draw
+#define dll_661_destroy __dll661_dll_661_destroy
+#define dll_661_get_setup_flags __dll661_dll_661_get_setup_flags
+#define dll_661_get_state_size __dll661_dll_661_get_state_size
 #define dll_661_func_430 __dll661_dll_661_func_430
 #define _rodata_0 __dll661__rodata_0
 

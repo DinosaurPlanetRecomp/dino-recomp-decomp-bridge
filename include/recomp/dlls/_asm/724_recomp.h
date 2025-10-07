@@ -5,15 +5,15 @@
 
 #define dll_724_ctor __dll724_dll_724_ctor
 #define dll_724_dtor __dll724_dll_724_dtor
-#define dll_724_func_18 __dll724_dll_724_func_18
-#define dll_724_func_BC __dll724_dll_724_func_BC
+#define dll_724_create __dll724_dll_724_create
+#define dll_724_update __dll724_dll_724_update
 #define dll_724_func_2A8 __dll724_dll_724_func_2A8
-#define dll_724_func_2B4 __dll724_dll_724_func_2B4
+#define dll_724_draw __dll724_dll_724_draw
 #define dll_724_func_2CC __dll724_dll_724_func_2CC
 #define dll_724_func_2E0 __dll724_dll_724_func_2E0
-#define dll_724_func_2F8 __dll724_dll_724_func_2F8
-#define dll_724_func_338 __dll724_dll_724_func_338
-#define dll_724_func_348 __dll724_dll_724_func_348
+#define dll_724_destroy __dll724_dll_724_destroy
+#define dll_724_get_setup_flags __dll724_dll_724_get_setup_flags
+#define dll_724_get_state_size __dll724_dll_724_get_state_size
 #define dll_724_func_35C __dll724_dll_724_func_35C
 #define dll_724_func_374 __dll724_dll_724_func_374
 #define str_0 __dll724_str_0

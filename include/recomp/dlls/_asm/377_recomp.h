@@ -5,13 +5,13 @@
 
 #define dll_377_ctor __dll377_dll_377_ctor
 #define dll_377_dtor __dll377_dll_377_dtor
-#define dll_377_func_18 __dll377_dll_377_func_18
-#define dll_377_func_C0 __dll377_dll_377_func_C0
+#define dll_377_create __dll377_dll_377_create
+#define dll_377_update __dll377_dll_377_update
 #define dll_377_func_1EC __dll377_dll_377_func_1EC
-#define dll_377_func_3C4 __dll377_dll_377_func_3C4
-#define dll_377_func_418 __dll377_dll_377_func_418
-#define dll_377_func_460 __dll377_dll_377_func_460
-#define dll_377_func_470 __dll377_dll_377_func_470
+#define dll_377_draw __dll377_dll_377_draw
+#define dll_377_destroy __dll377_dll_377_destroy
+#define dll_377_get_setup_flags __dll377_dll_377_get_setup_flags
+#define dll_377_get_state_size __dll377_dll_377_get_state_size
 #define dll_377_func_484 __dll377_dll_377_func_484
 #define str_0 __dll377_str_0
 

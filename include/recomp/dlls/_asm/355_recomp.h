@@ -5,13 +5,13 @@
 
 #define dll_355_ctor __dll355_dll_355_ctor
 #define dll_355_dtor __dll355_dll_355_dtor
-#define dll_355_func_18 __dll355_dll_355_func_18
-#define dll_355_func_1E8 __dll355_dll_355_func_1E8
+#define dll_355_create __dll355_dll_355_create
+#define dll_355_update __dll355_dll_355_update
 #define dll_355_func_6E8 __dll355_dll_355_func_6E8
-#define dll_355_func_6F4 __dll355_dll_355_func_6F4
-#define dll_355_func_748 __dll355_dll_355_func_748
-#define dll_355_func_7D0 __dll355_dll_355_func_7D0
-#define dll_355_func_7E0 __dll355_dll_355_func_7E0
+#define dll_355_draw __dll355_dll_355_draw
+#define dll_355_destroy __dll355_dll_355_destroy
+#define dll_355_get_setup_flags __dll355_dll_355_get_setup_flags
+#define dll_355_get_state_size __dll355_dll_355_get_state_size
 #define dll_355_func_7F4 __dll355_dll_355_func_7F4
 #define dll_355_func_B54 __dll355_dll_355_func_B54
 #define dll_355_func_C20 __dll355_dll_355_func_C20

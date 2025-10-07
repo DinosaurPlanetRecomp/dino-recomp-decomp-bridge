@@ -5,13 +5,13 @@
 
 #define dll_569_ctor __dll569_dll_569_ctor
 #define dll_569_dtor __dll569_dll_569_dtor
-#define dll_569_func_18 __dll569_dll_569_func_18
-#define dll_569_func_2C __dll569_dll_569_func_2C
+#define dll_569_create __dll569_dll_569_create
+#define dll_569_update __dll569_dll_569_update
 #define dll_569_func_2A0 __dll569_dll_569_func_2A0
-#define dll_569_func_2AC __dll569_dll_569_func_2AC
-#define dll_569_func_300 __dll569_dll_569_func_300
-#define dll_569_func_310 __dll569_dll_569_func_310
-#define dll_569_func_320 __dll569_dll_569_func_320
+#define dll_569_draw __dll569_dll_569_draw
+#define dll_569_destroy __dll569_dll_569_destroy
+#define dll_569_get_setup_flags __dll569_dll_569_get_setup_flags
+#define dll_569_get_state_size __dll569_dll_569_get_state_size
 #define _oob_rodata_0 __dll569__oob_rodata_0
 
 #endif //_DLL_569_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_297_ctor __dll297_dll_297_ctor
 #define dll_297_dtor __dll297_dll_297_dtor
-#define dll_297_func_18 __dll297_dll_297_func_18
-#define dll_297_func_174 __dll297_dll_297_func_174
+#define dll_297_create __dll297_dll_297_create
+#define dll_297_update __dll297_dll_297_update
 #define dll_297_func_1164 __dll297_dll_297_func_1164
-#define dll_297_func_1170 __dll297_dll_297_func_1170
-#define dll_297_func_11F8 __dll297_dll_297_func_11F8
-#define dll_297_func_1260 __dll297_dll_297_func_1260
-#define dll_297_func_1270 __dll297_dll_297_func_1270
+#define dll_297_draw __dll297_dll_297_draw
+#define dll_297_destroy __dll297_dll_297_destroy
+#define dll_297_get_setup_flags __dll297_dll_297_get_setup_flags
+#define dll_297_get_state_size __dll297_dll_297_get_state_size
 #define dll_297_func_1284 __dll297_dll_297_func_1284
 #define dll_297_func_1304 __dll297_dll_297_func_1304
 #define dll_297_func_1544 __dll297_dll_297_func_1544

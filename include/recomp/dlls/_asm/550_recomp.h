@@ -5,13 +5,13 @@
 
 #define dll_550_ctor __dll550_dll_550_ctor
 #define dll_550_dtor __dll550_dll_550_dtor
-#define dll_550_func_18 __dll550_dll_550_func_18
-#define dll_550_func_114 __dll550_dll_550_func_114
+#define dll_550_create __dll550_dll_550_create
+#define dll_550_update __dll550_dll_550_update
 #define dll_550_func_3F0 __dll550_dll_550_func_3F0
-#define dll_550_func_3FC __dll550_dll_550_func_3FC
-#define dll_550_func_460 __dll550_dll_550_func_460
-#define dll_550_func_470 __dll550_dll_550_func_470
-#define dll_550_func_480 __dll550_dll_550_func_480
+#define dll_550_draw __dll550_dll_550_draw
+#define dll_550_destroy __dll550_dll_550_destroy
+#define dll_550_get_setup_flags __dll550_dll_550_get_setup_flags
+#define dll_550_get_state_size __dll550_dll_550_get_state_size
 #define _rodata_0 __dll550__rodata_0
 
 #endif //_DLL_550_RECOMP_H

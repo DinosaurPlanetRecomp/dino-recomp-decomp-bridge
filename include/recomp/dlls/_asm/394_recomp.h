@@ -5,13 +5,13 @@
 
 #define dll_394_ctor __dll394_dll_394_ctor
 #define dll_394_dtor __dll394_dll_394_dtor
-#define dll_394_func_18 __dll394_dll_394_func_18
-#define dll_394_func_150 __dll394_dll_394_func_150
+#define dll_394_create __dll394_dll_394_create
+#define dll_394_update __dll394_dll_394_update
 #define dll_394_func_480 __dll394_dll_394_func_480
-#define dll_394_func_48C __dll394_dll_394_func_48C
-#define dll_394_func_4E0 __dll394_dll_394_func_4E0
-#define dll_394_func_4F0 __dll394_dll_394_func_4F0
-#define dll_394_func_500 __dll394_dll_394_func_500
+#define dll_394_draw __dll394_dll_394_draw
+#define dll_394_destroy __dll394_dll_394_destroy
+#define dll_394_get_setup_flags __dll394_dll_394_get_setup_flags
+#define dll_394_get_state_size __dll394_dll_394_get_state_size
 #define _rodata_0 __dll394__rodata_0
 #define _rodata_4 __dll394__rodata_4
 #define _rodata_8 __dll394__rodata_8

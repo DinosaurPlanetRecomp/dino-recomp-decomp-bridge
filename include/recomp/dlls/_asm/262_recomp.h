@@ -5,13 +5,13 @@
 
 #define dll_262_ctor __dll262_dll_262_ctor
 #define dll_262_dtor __dll262_dll_262_dtor
-#define dll_262_func_18 __dll262_dll_262_func_18
-#define dll_262_func_1A8 __dll262_dll_262_func_1A8
+#define dll_262_create __dll262_dll_262_create
+#define dll_262_update __dll262_dll_262_update
 #define dll_262_func_954 __dll262_dll_262_func_954
-#define dll_262_func_9E4 __dll262_dll_262_func_9E4
-#define dll_262_func_A3C __dll262_dll_262_func_A3C
-#define dll_262_func_BC8 __dll262_dll_262_func_BC8
-#define dll_262_func_BD8 __dll262_dll_262_func_BD8
+#define dll_262_draw __dll262_dll_262_draw
+#define dll_262_destroy __dll262_dll_262_destroy
+#define dll_262_get_setup_flags __dll262_dll_262_get_setup_flags
+#define dll_262_get_state_size __dll262_dll_262_get_state_size
 #define _rodata_0 __dll262__rodata_0
 #define _data_0 __dll262__data_0
 

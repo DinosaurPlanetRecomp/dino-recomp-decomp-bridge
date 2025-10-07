@@ -5,13 +5,13 @@
 
 #define dll_778_ctor __dll778_dll_778_ctor
 #define dll_778_dtor __dll778_dll_778_dtor
-#define dll_778_func_18 __dll778_dll_778_func_18
-#define dll_778_func_2C __dll778_dll_778_func_2C
+#define dll_778_create __dll778_dll_778_create
+#define dll_778_update __dll778_dll_778_update
 #define dll_778_func_38 __dll778_dll_778_func_38
-#define dll_778_func_44 __dll778_dll_778_func_44
-#define dll_778_func_98 __dll778_dll_778_func_98
-#define dll_778_func_A8 __dll778_dll_778_func_A8
-#define dll_778_func_B8 __dll778_dll_778_func_B8
+#define dll_778_draw __dll778_dll_778_draw
+#define dll_778_destroy __dll778_dll_778_destroy
+#define dll_778_get_setup_flags __dll778_dll_778_get_setup_flags
+#define dll_778_get_state_size __dll778_dll_778_get_state_size
 #define _oob_rodata_0 __dll778__oob_rodata_0
 
 #endif //_DLL_778_RECOMP_H

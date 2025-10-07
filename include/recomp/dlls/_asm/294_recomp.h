@@ -5,14 +5,14 @@
 
 #define dll_294_ctor __dll294_dll_294_ctor
 #define dll_294_dtor __dll294_dll_294_dtor
-#define dll_294_func_18 __dll294_dll_294_func_18
+#define dll_294_create __dll294_dll_294_create
 #define dll_294_func_6C __dll294_dll_294_func_6C
-#define dll_294_func_280 __dll294_dll_294_func_280
+#define dll_294_update __dll294_dll_294_update
 #define dll_294_func_8C8 __dll294_dll_294_func_8C8
-#define dll_294_func_8D4 __dll294_dll_294_func_8D4
-#define dll_294_func_934 __dll294_dll_294_func_934
-#define dll_294_func_944 __dll294_dll_294_func_944
-#define dll_294_func_954 __dll294_dll_294_func_954
+#define dll_294_draw __dll294_dll_294_draw
+#define dll_294_destroy __dll294_dll_294_destroy
+#define dll_294_get_setup_flags __dll294_dll_294_get_setup_flags
+#define dll_294_get_state_size __dll294_dll_294_get_state_size
 #define dll_294_func_968 __dll294_dll_294_func_968
 #define str_0 __dll294_str_0
 #define _rodata_28 __dll294__rodata_28

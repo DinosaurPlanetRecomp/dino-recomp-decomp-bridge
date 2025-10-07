@@ -5,13 +5,13 @@
 
 #define dll_718_ctor __dll718_dll_718_ctor
 #define dll_718_dtor __dll718_dll_718_dtor
-#define dll_718_func_18 __dll718_dll_718_func_18
-#define dll_718_func_74 __dll718_dll_718_func_74
+#define dll_718_create __dll718_dll_718_create
+#define dll_718_update __dll718_dll_718_update
 #define dll_718_func_25C __dll718_dll_718_func_25C
-#define dll_718_func_268 __dll718_dll_718_func_268
-#define dll_718_func_2BC __dll718_dll_718_func_2BC
-#define dll_718_func_2FC __dll718_dll_718_func_2FC
-#define dll_718_func_30C __dll718_dll_718_func_30C
+#define dll_718_draw __dll718_dll_718_draw
+#define dll_718_destroy __dll718_dll_718_destroy
+#define dll_718_get_setup_flags __dll718_dll_718_get_setup_flags
+#define dll_718_get_state_size __dll718_dll_718_get_state_size
 #define dll_718_func_320 __dll718_dll_718_func_320
 #define dll_718_func_388 __dll718_dll_718_func_388
 #define dll_718_func_3A0 __dll718_dll_718_func_3A0

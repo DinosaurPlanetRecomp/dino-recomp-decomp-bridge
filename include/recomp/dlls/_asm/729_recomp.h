@@ -5,13 +5,13 @@
 
 #define dll_729_ctor __dll729_dll_729_ctor
 #define dll_729_dtor __dll729_dll_729_dtor
-#define dll_729_func_18 __dll729_dll_729_func_18
-#define dll_729_func_4C __dll729_dll_729_func_4C
+#define dll_729_create __dll729_dll_729_create
+#define dll_729_update __dll729_dll_729_update
 #define dll_729_func_BC __dll729_dll_729_func_BC
-#define dll_729_func_C8 __dll729_dll_729_func_C8
-#define dll_729_func_11C __dll729_dll_729_func_11C
-#define dll_729_func_12C __dll729_dll_729_func_12C
-#define dll_729_func_13C __dll729_dll_729_func_13C
+#define dll_729_draw __dll729_dll_729_draw
+#define dll_729_destroy __dll729_dll_729_destroy
+#define dll_729_get_setup_flags __dll729_dll_729_get_setup_flags
+#define dll_729_get_state_size __dll729_dll_729_get_state_size
 #define dll_729_func_150 __dll729_dll_729_func_150
 #define dll_729_func_178 __dll729_dll_729_func_178
 #define dll_729_func_308 __dll729_dll_729_func_308

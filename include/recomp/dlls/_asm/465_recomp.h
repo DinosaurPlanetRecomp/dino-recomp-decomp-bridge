@@ -5,12 +5,12 @@
 
 #define dll_465_ctor __dll465_dll_465_ctor
 #define dll_465_dtor __dll465_dll_465_dtor
-#define dll_465_func_18 __dll465_dll_465_func_18
-#define dll_465_func_3C __dll465_dll_465_func_3C
+#define dll_465_create __dll465_dll_465_create
+#define dll_465_update __dll465_dll_465_update
 #define dll_465_func_CC __dll465_dll_465_func_CC
-#define dll_465_func_D8 __dll465_dll_465_func_D8
-#define dll_465_func_F0 __dll465_dll_465_func_F0
-#define dll_465_func_100 __dll465_dll_465_func_100
-#define dll_465_func_110 __dll465_dll_465_func_110
+#define dll_465_draw __dll465_dll_465_draw
+#define dll_465_destroy __dll465_dll_465_destroy
+#define dll_465_get_setup_flags __dll465_dll_465_get_setup_flags
+#define dll_465_get_state_size __dll465_dll_465_get_state_size
 
 #endif //_DLL_465_RECOMP_H

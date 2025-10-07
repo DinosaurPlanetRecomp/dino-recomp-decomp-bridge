@@ -5,14 +5,14 @@
 
 #define dll_669_ctor __dll669_dll_669_ctor
 #define dll_669_dtor __dll669_dll_669_dtor
-#define dll_669_func_18 __dll669_dll_669_func_18
-#define dll_669_func_2C8 __dll669_dll_669_func_2C8
+#define dll_669_create __dll669_dll_669_create
+#define dll_669_update __dll669_dll_669_update
 #define dll_669_func_56C __dll669_dll_669_func_56C
 #define dll_669_func_878 __dll669_dll_669_func_878
-#define dll_669_func_884 __dll669_dll_669_func_884
-#define dll_669_func_C0C __dll669_dll_669_func_C0C
-#define dll_669_func_C4C __dll669_dll_669_func_C4C
-#define dll_669_func_C5C __dll669_dll_669_func_C5C
+#define dll_669_draw __dll669_dll_669_draw
+#define dll_669_destroy __dll669_dll_669_destroy
+#define dll_669_get_setup_flags __dll669_dll_669_get_setup_flags
+#define dll_669_get_state_size __dll669_dll_669_get_state_size
 #define dll_669_func_C70 __dll669_dll_669_func_C70
 #define dll_669_func_110C __dll669_dll_669_func_110C
 #define dll_669_func_13F4 __dll669_dll_669_func_13F4

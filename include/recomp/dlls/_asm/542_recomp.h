@@ -5,12 +5,12 @@
 
 #define dll_542_ctor __dll542_dll_542_ctor
 #define dll_542_dtor __dll542_dll_542_dtor
-#define dll_542_func_18 __dll542_dll_542_func_18
-#define dll_542_func_AC __dll542_dll_542_func_AC
+#define dll_542_create __dll542_dll_542_create
+#define dll_542_update __dll542_dll_542_update
 #define dll_542_func_268 __dll542_dll_542_func_268
-#define dll_542_func_274 __dll542_dll_542_func_274
-#define dll_542_func_2C8 __dll542_dll_542_func_2C8
-#define dll_542_func_2D8 __dll542_dll_542_func_2D8
-#define dll_542_func_2E8 __dll542_dll_542_func_2E8
+#define dll_542_draw __dll542_dll_542_draw
+#define dll_542_destroy __dll542_dll_542_destroy
+#define dll_542_get_setup_flags __dll542_dll_542_get_setup_flags
+#define dll_542_get_state_size __dll542_dll_542_get_state_size
 
 #endif //_DLL_542_RECOMP_H

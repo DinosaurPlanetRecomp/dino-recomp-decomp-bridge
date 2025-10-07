@@ -5,13 +5,13 @@
 
 #define dll_738_ctor __dll738_dll_738_ctor
 #define dll_738_dtor __dll738_dll_738_dtor
-#define dll_738_func_18 __dll738_dll_738_func_18
-#define dll_738_func_A4 __dll738_dll_738_func_A4
+#define dll_738_create __dll738_dll_738_create
+#define dll_738_update __dll738_dll_738_update
 #define dll_738_func_74C __dll738_dll_738_func_74C
-#define dll_738_func_758 __dll738_dll_738_func_758
-#define dll_738_func_770 __dll738_dll_738_func_770
-#define dll_738_func_780 __dll738_dll_738_func_780
-#define dll_738_func_790 __dll738_dll_738_func_790
+#define dll_738_draw __dll738_dll_738_draw
+#define dll_738_destroy __dll738_dll_738_destroy
+#define dll_738_get_setup_flags __dll738_dll_738_get_setup_flags
+#define dll_738_get_state_size __dll738_dll_738_get_state_size
 #define str_0 __dll738_str_0
 #define str_8 __dll738_str_8
 #define str_14 __dll738_str_14

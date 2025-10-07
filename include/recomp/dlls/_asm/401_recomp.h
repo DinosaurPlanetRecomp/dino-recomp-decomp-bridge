@@ -5,13 +5,13 @@
 
 #define dll_401_ctor __dll401_dll_401_ctor
 #define dll_401_dtor __dll401_dll_401_dtor
-#define dll_401_func_18 __dll401_dll_401_func_18
-#define dll_401_func_12C __dll401_dll_401_func_12C
+#define dll_401_create __dll401_dll_401_create
+#define dll_401_update __dll401_dll_401_update
 #define dll_401_func_4AC __dll401_dll_401_func_4AC
-#define dll_401_func_5BC __dll401_dll_401_func_5BC
-#define dll_401_func_7E8 __dll401_dll_401_func_7E8
-#define dll_401_func_7F8 __dll401_dll_401_func_7F8
-#define dll_401_func_808 __dll401_dll_401_func_808
+#define dll_401_draw __dll401_dll_401_draw
+#define dll_401_destroy __dll401_dll_401_destroy
+#define dll_401_get_setup_flags __dll401_dll_401_get_setup_flags
+#define dll_401_get_state_size __dll401_dll_401_get_state_size
 #define dll_401_func_81C __dll401_dll_401_func_81C
 #define dll_401_func_8E4 __dll401_dll_401_func_8E4
 #define dll_401_func_9E8 __dll401_dll_401_func_9E8

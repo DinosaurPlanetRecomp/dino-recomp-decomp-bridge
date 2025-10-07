@@ -5,13 +5,13 @@
 
 #define dll_305_ctor __dll305_dll_305_ctor
 #define dll_305_dtor __dll305_dll_305_dtor
-#define dll_305_func_18 __dll305_dll_305_func_18
-#define dll_305_func_1A8 __dll305_dll_305_func_1A8
+#define dll_305_create __dll305_dll_305_create
+#define dll_305_update __dll305_dll_305_update
 #define dll_305_func_3FC __dll305_dll_305_func_3FC
-#define dll_305_func_408 __dll305_dll_305_func_408
-#define dll_305_func_45C __dll305_dll_305_func_45C
-#define dll_305_func_4B0 __dll305_dll_305_func_4B0
-#define dll_305_func_4C0 __dll305_dll_305_func_4C0
+#define dll_305_draw __dll305_dll_305_draw
+#define dll_305_destroy __dll305_dll_305_destroy
+#define dll_305_get_setup_flags __dll305_dll_305_get_setup_flags
+#define dll_305_get_state_size __dll305_dll_305_get_state_size
 #define dll_305_func_4D4 __dll305_dll_305_func_4D4
 #define str_0 __dll305_str_0
 #define _rodata_8 __dll305__rodata_8

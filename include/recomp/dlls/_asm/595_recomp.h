@@ -5,12 +5,12 @@
 
 #define dll_595_ctor __dll595_dll_595_ctor
 #define dll_595_dtor __dll595_dll_595_dtor
-#define dll_595_func_18 __dll595_dll_595_func_18
-#define dll_595_func_84 __dll595_dll_595_func_84
+#define dll_595_create __dll595_dll_595_create
+#define dll_595_update __dll595_dll_595_update
 #define dll_595_func_1DC __dll595_dll_595_func_1DC
-#define dll_595_func_1E8 __dll595_dll_595_func_1E8
-#define dll_595_func_23C __dll595_dll_595_func_23C
-#define dll_595_func_24C __dll595_dll_595_func_24C
-#define dll_595_func_25C __dll595_dll_595_func_25C
+#define dll_595_draw __dll595_dll_595_draw
+#define dll_595_destroy __dll595_dll_595_destroy
+#define dll_595_get_setup_flags __dll595_dll_595_get_setup_flags
+#define dll_595_get_state_size __dll595_dll_595_get_state_size
 
 #endif //_DLL_595_RECOMP_H

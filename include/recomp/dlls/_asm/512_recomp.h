@@ -5,13 +5,13 @@
 
 #define dll_512_ctor __dll512_dll_512_ctor
 #define dll_512_dtor __dll512_dll_512_dtor
-#define dll_512_func_18 __dll512_dll_512_func_18
-#define dll_512_func_118 __dll512_dll_512_func_118
+#define dll_512_create __dll512_dll_512_create
+#define dll_512_update __dll512_dll_512_update
 #define dll_512_func_124 __dll512_dll_512_func_124
-#define dll_512_func_130 __dll512_dll_512_func_130
-#define dll_512_func_148 __dll512_dll_512_func_148
-#define dll_512_func_198 __dll512_dll_512_func_198
-#define dll_512_func_1A8 __dll512_dll_512_func_1A8
+#define dll_512_draw __dll512_dll_512_draw
+#define dll_512_destroy __dll512_dll_512_destroy
+#define dll_512_get_setup_flags __dll512_dll_512_get_setup_flags
+#define dll_512_get_state_size __dll512_dll_512_get_state_size
 #define _data_0 __dll512__data_0
 #define _data_38 __dll512__data_38
 #define _data_70 __dll512__data_70

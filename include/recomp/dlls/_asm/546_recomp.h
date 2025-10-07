@@ -5,13 +5,13 @@
 
 #define dll_546_ctor __dll546_dll_546_ctor
 #define dll_546_dtor __dll546_dll_546_dtor
-#define dll_546_func_18 __dll546_dll_546_func_18
-#define dll_546_func_98 __dll546_dll_546_func_98
+#define dll_546_create __dll546_dll_546_create
+#define dll_546_update __dll546_dll_546_update
 #define dll_546_func_A4 __dll546_dll_546_func_A4
-#define dll_546_func_B0 __dll546_dll_546_func_B0
-#define dll_546_func_104 __dll546_dll_546_func_104
-#define dll_546_func_114 __dll546_dll_546_func_114
-#define dll_546_func_124 __dll546_dll_546_func_124
+#define dll_546_draw __dll546_dll_546_draw
+#define dll_546_destroy __dll546_dll_546_destroy
+#define dll_546_get_setup_flags __dll546_dll_546_get_setup_flags
+#define dll_546_get_state_size __dll546_dll_546_get_state_size
 #define str_0 __dll546_str_0
 
 #endif //_DLL_546_RECOMP_H

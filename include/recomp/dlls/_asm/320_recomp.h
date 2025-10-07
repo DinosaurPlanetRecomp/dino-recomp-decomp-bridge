@@ -5,13 +5,13 @@
 
 #define dll_320_ctor __dll320_dll_320_ctor
 #define dll_320_dtor __dll320_dll_320_dtor
-#define dll_320_func_18 __dll320_dll_320_func_18
-#define dll_320_func_1BC __dll320_dll_320_func_1BC
+#define dll_320_create __dll320_dll_320_create
+#define dll_320_update __dll320_dll_320_update
 #define dll_320_func_3D4 __dll320_dll_320_func_3D4
-#define dll_320_func_3E0 __dll320_dll_320_func_3E0
-#define dll_320_func_498 __dll320_dll_320_func_498
-#define dll_320_func_4DC __dll320_dll_320_func_4DC
-#define dll_320_func_4EC __dll320_dll_320_func_4EC
+#define dll_320_draw __dll320_dll_320_draw
+#define dll_320_destroy __dll320_dll_320_destroy
+#define dll_320_get_setup_flags __dll320_dll_320_get_setup_flags
+#define dll_320_get_state_size __dll320_dll_320_get_state_size
 #define _rodata_0 __dll320__rodata_0
 #define _data_0 __dll320__data_0
 

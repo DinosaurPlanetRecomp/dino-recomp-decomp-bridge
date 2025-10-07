@@ -5,12 +5,12 @@
 
 #define dll_254_ctor __dll254_dll_254_ctor
 #define dll_254_dtor __dll254_dll_254_dtor
-#define dll_254_func_18 __dll254_dll_254_func_18
-#define dll_254_func_2C __dll254_dll_254_func_2C
+#define dll_254_create __dll254_dll_254_create
+#define dll_254_update __dll254_dll_254_update
 #define dll_254_func_38 __dll254_dll_254_func_38
-#define dll_254_func_44 __dll254_dll_254_func_44
-#define dll_254_func_98 __dll254_dll_254_func_98
-#define dll_254_func_E0 __dll254_dll_254_func_E0
-#define dll_254_func_F0 __dll254_dll_254_func_F0
+#define dll_254_draw __dll254_dll_254_draw
+#define dll_254_destroy __dll254_dll_254_destroy
+#define dll_254_get_setup_flags __dll254_dll_254_get_setup_flags
+#define dll_254_get_state_size __dll254_dll_254_get_state_size
 
 #endif //_DLL_254_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_610_ctor __dll610_dll_610_ctor
 #define dll_610_dtor __dll610_dll_610_dtor
-#define dll_610_func_18 __dll610_dll_610_func_18
-#define dll_610_func_130 __dll610_dll_610_func_130
+#define dll_610_create __dll610_dll_610_create
+#define dll_610_update __dll610_dll_610_update
 #define dll_610_func_4BC __dll610_dll_610_func_4BC
-#define dll_610_func_4C8 __dll610_dll_610_func_4C8
-#define dll_610_func_51C __dll610_dll_610_func_51C
-#define dll_610_func_5A0 __dll610_dll_610_func_5A0
-#define dll_610_func_5B0 __dll610_dll_610_func_5B0
+#define dll_610_draw __dll610_dll_610_draw
+#define dll_610_destroy __dll610_dll_610_destroy
+#define dll_610_get_setup_flags __dll610_dll_610_get_setup_flags
+#define dll_610_get_state_size __dll610_dll_610_get_state_size
 #define dll_610_func_5C4 __dll610_dll_610_func_5C4
 #define _rodata_0 __dll610__rodata_0
 #define _data_0 __dll610__data_0

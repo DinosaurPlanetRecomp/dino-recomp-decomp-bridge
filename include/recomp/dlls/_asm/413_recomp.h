@@ -5,13 +5,13 @@
 
 #define dll_413_ctor __dll413_dll_413_ctor
 #define dll_413_dtor __dll413_dll_413_dtor
-#define dll_413_func_18 __dll413_dll_413_func_18
-#define dll_413_func_C4 __dll413_dll_413_func_C4
+#define dll_413_create __dll413_dll_413_create
+#define dll_413_update __dll413_dll_413_update
 #define dll_413_func_E0 __dll413_dll_413_func_E0
-#define dll_413_func_EC __dll413_dll_413_func_EC
-#define dll_413_func_140 __dll413_dll_413_func_140
-#define dll_413_func_188 __dll413_dll_413_func_188
-#define dll_413_func_198 __dll413_dll_413_func_198
+#define dll_413_draw __dll413_dll_413_draw
+#define dll_413_destroy __dll413_dll_413_destroy
+#define dll_413_get_setup_flags __dll413_dll_413_get_setup_flags
+#define dll_413_get_state_size __dll413_dll_413_get_state_size
 #define dll_413_func_1AC __dll413_dll_413_func_1AC
 #define dll_413_func_470 __dll413_dll_413_func_470
 #define dll_413_func_4A4 __dll413_dll_413_func_4A4

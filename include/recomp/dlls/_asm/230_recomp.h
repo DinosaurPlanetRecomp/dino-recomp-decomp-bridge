@@ -5,14 +5,14 @@
 
 #define dll_230_ctor __dll230_dll_230_ctor
 #define dll_230_dtor __dll230_dll_230_dtor
-#define dll_230_func_6C __dll230_dll_230_func_6C
+#define dll_230_create __dll230_dll_230_create
 #define dll_230_func_1BC __dll230_dll_230_func_1BC
-#define dll_230_func_250 __dll230_dll_230_func_250
+#define dll_230_update __dll230_dll_230_update
 #define dll_230_func_8D8 __dll230_dll_230_func_8D8
-#define dll_230_func_8E4 __dll230_dll_230_func_8E4
-#define dll_230_func_944 __dll230_dll_230_func_944
-#define dll_230_func_9F8 __dll230_dll_230_func_9F8
-#define dll_230_func_A08 __dll230_dll_230_func_A08
+#define dll_230_draw __dll230_dll_230_draw
+#define dll_230_destroy __dll230_dll_230_destroy
+#define dll_230_get_setup_flags __dll230_dll_230_get_setup_flags
+#define dll_230_get_state_size __dll230_dll_230_get_state_size
 #define dll_230_func_A1C __dll230_dll_230_func_A1C
 #define dll_230_func_BFC __dll230_dll_230_func_BFC
 #define dll_230_func_E70 __dll230_dll_230_func_E70

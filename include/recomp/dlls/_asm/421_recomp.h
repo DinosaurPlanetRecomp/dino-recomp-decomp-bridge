@@ -5,13 +5,13 @@
 
 #define dll_421_ctor __dll421_dll_421_ctor
 #define dll_421_dtor __dll421_dll_421_dtor
-#define dll_421_func_18 __dll421_dll_421_func_18
-#define dll_421_func_240 __dll421_dll_421_func_240
+#define dll_421_create __dll421_dll_421_create
+#define dll_421_update __dll421_dll_421_update
 #define dll_421_func_908 __dll421_dll_421_func_908
-#define dll_421_func_914 __dll421_dll_421_func_914
-#define dll_421_func_968 __dll421_dll_421_func_968
-#define dll_421_func_978 __dll421_dll_421_func_978
-#define dll_421_func_988 __dll421_dll_421_func_988
+#define dll_421_draw __dll421_dll_421_draw
+#define dll_421_destroy __dll421_dll_421_destroy
+#define dll_421_get_setup_flags __dll421_dll_421_get_setup_flags
+#define dll_421_get_state_size __dll421_dll_421_get_state_size
 #define dll_421_func_99C __dll421_dll_421_func_99C
 #define _rodata_0 __dll421__rodata_0
 #define _rodata_4 __dll421__rodata_4

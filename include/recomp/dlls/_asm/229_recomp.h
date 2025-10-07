@@ -6,9 +6,9 @@
 #define dll_229_func_0 __dll229_dll_229_func_0
 #define dll_229_ctor __dll229_dll_229_ctor
 #define dll_229_dtor __dll229_dll_229_dtor
-#define dll_229_func_104 __dll229_dll_229_func_104
+#define dll_229_create __dll229_dll_229_create
 #define dll_229_func_24C __dll229_dll_229_func_24C
-#define dll_229_func_3E4 __dll229_dll_229_func_3E4
+#define dll_229_update __dll229_dll_229_update
 #define dll_229_func_9D0 __dll229_dll_229_func_9D0
 #define dll_229_func_9DC __dll229_dll_229_func_9DC
 #define dll_229_func_ACC __dll229_dll_229_func_ACC
@@ -21,10 +21,10 @@
 #define dll_229_func_1A74 __dll229_dll_229_func_1A74
 #define dll_229_func_1AF0 __dll229_dll_229_func_1AF0
 #define dll_229_func_1B78 __dll229_dll_229_func_1B78
-#define dll_229_func_1E80 __dll229_dll_229_func_1E80
-#define dll_229_func_1F10 __dll229_dll_229_func_1F10
-#define dll_229_func_1FB4 __dll229_dll_229_func_1FB4
-#define dll_229_func_1FC4 __dll229_dll_229_func_1FC4
+#define dll_229_draw __dll229_dll_229_draw
+#define dll_229_destroy __dll229_dll_229_destroy
+#define dll_229_get_setup_flags __dll229_dll_229_get_setup_flags
+#define dll_229_get_state_size __dll229_dll_229_get_state_size
 #define dll_229_func_1FD8 __dll229_dll_229_func_1FD8
 #define dll_229_func_1FEC __dll229_dll_229_func_1FEC
 #define dll_229_func_2000 __dll229_dll_229_func_2000

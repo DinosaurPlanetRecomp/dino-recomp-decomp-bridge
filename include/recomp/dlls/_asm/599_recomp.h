@@ -5,13 +5,13 @@
 
 #define dll_599_ctor __dll599_dll_599_ctor
 #define dll_599_dtor __dll599_dll_599_dtor
-#define dll_599_func_18 __dll599_dll_599_func_18
-#define dll_599_func_98 __dll599_dll_599_func_98
+#define dll_599_create __dll599_dll_599_create
+#define dll_599_update __dll599_dll_599_update
 #define dll_599_func_384 __dll599_dll_599_func_384
-#define dll_599_func_390 __dll599_dll_599_func_390
-#define dll_599_func_3E4 __dll599_dll_599_func_3E4
-#define dll_599_func_468 __dll599_dll_599_func_468
-#define dll_599_func_478 __dll599_dll_599_func_478
+#define dll_599_draw __dll599_dll_599_draw
+#define dll_599_destroy __dll599_dll_599_destroy
+#define dll_599_get_setup_flags __dll599_dll_599_get_setup_flags
+#define dll_599_get_state_size __dll599_dll_599_get_state_size
 #define dll_599_func_48C __dll599_dll_599_func_48C
 #define _data_0 __dll599__data_0
 

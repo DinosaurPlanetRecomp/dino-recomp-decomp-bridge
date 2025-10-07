@@ -5,13 +5,13 @@
 
 #define dll_722_ctor __dll722_dll_722_ctor
 #define dll_722_dtor __dll722_dll_722_dtor
-#define dll_722_func_18 __dll722_dll_722_func_18
-#define dll_722_func_118 __dll722_dll_722_func_118
+#define dll_722_create __dll722_dll_722_create
+#define dll_722_update __dll722_dll_722_update
 #define dll_722_func_998 __dll722_dll_722_func_998
-#define dll_722_func_9A4 __dll722_dll_722_func_9A4
-#define dll_722_func_B88 __dll722_dll_722_func_B88
-#define dll_722_func_BC8 __dll722_dll_722_func_BC8
-#define dll_722_func_BD8 __dll722_dll_722_func_BD8
+#define dll_722_draw __dll722_dll_722_draw
+#define dll_722_destroy __dll722_dll_722_destroy
+#define dll_722_get_setup_flags __dll722_dll_722_get_setup_flags
+#define dll_722_get_state_size __dll722_dll_722_get_state_size
 #define dll_722_func_BEC __dll722_dll_722_func_BEC
 #define dll_722_func_D00 __dll722_dll_722_func_D00
 #define dll_722_func_D18 __dll722_dll_722_func_D18

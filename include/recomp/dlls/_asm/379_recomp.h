@@ -5,13 +5,13 @@
 
 #define dll_379_ctor __dll379_dll_379_ctor
 #define dll_379_dtor __dll379_dll_379_dtor
-#define dll_379_func_18 __dll379_dll_379_func_18
-#define dll_379_func_30 __dll379_dll_379_func_30
+#define dll_379_create __dll379_dll_379_create
+#define dll_379_update __dll379_dll_379_update
 #define dll_379_func_3C __dll379_dll_379_func_3C
-#define dll_379_func_48 __dll379_dll_379_func_48
-#define dll_379_func_9C __dll379_dll_379_func_9C
-#define dll_379_func_AC __dll379_dll_379_func_AC
-#define dll_379_func_BC __dll379_dll_379_func_BC
+#define dll_379_draw __dll379_dll_379_draw
+#define dll_379_destroy __dll379_dll_379_destroy
+#define dll_379_get_setup_flags __dll379_dll_379_get_setup_flags
+#define dll_379_get_state_size __dll379_dll_379_get_state_size
 #define _oob_rodata_0 __dll379__oob_rodata_0
 
 #endif //_DLL_379_RECOMP_H

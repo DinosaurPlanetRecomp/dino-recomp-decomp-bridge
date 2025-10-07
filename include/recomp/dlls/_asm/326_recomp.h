@@ -5,12 +5,12 @@
 
 #define dll_326_ctor __dll326_dll_326_ctor
 #define dll_326_dtor __dll326_dll_326_dtor
-#define dll_326_func_18 __dll326_dll_326_func_18
-#define dll_326_func_D0 __dll326_dll_326_func_D0
+#define dll_326_create __dll326_dll_326_create
+#define dll_326_update __dll326_dll_326_update
 #define dll_326_func_140 __dll326_dll_326_func_140
-#define dll_326_func_14C __dll326_dll_326_func_14C
-#define dll_326_func_1A0 __dll326_dll_326_func_1A0
-#define dll_326_func_1B0 __dll326_dll_326_func_1B0
-#define dll_326_func_1C0 __dll326_dll_326_func_1C0
+#define dll_326_draw __dll326_dll_326_draw
+#define dll_326_destroy __dll326_dll_326_destroy
+#define dll_326_get_setup_flags __dll326_dll_326_get_setup_flags
+#define dll_326_get_state_size __dll326_dll_326_get_state_size
 
 #endif //_DLL_326_RECOMP_H

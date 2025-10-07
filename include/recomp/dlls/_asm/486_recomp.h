@@ -5,13 +5,13 @@
 
 #define dll_486_ctor __dll486_dll_486_ctor
 #define dll_486_dtor __dll486_dll_486_dtor
-#define dll_486_func_18 __dll486_dll_486_func_18
-#define dll_486_func_1EC __dll486_dll_486_func_1EC
+#define dll_486_create __dll486_dll_486_create
+#define dll_486_update __dll486_dll_486_update
 #define dll_486_func_C7C __dll486_dll_486_func_C7C
-#define dll_486_func_C88 __dll486_dll_486_func_C88
-#define dll_486_func_CDC __dll486_dll_486_func_CDC
-#define dll_486_func_D6C __dll486_dll_486_func_D6C
-#define dll_486_func_D7C __dll486_dll_486_func_D7C
+#define dll_486_draw __dll486_dll_486_draw
+#define dll_486_destroy __dll486_dll_486_destroy
+#define dll_486_get_setup_flags __dll486_dll_486_get_setup_flags
+#define dll_486_get_state_size __dll486_dll_486_get_state_size
 #define dll_486_func_D90 __dll486_dll_486_func_D90
 #define dll_486_func_1194 __dll486_dll_486_func_1194
 #define _rodata_24 __dll486__rodata_24

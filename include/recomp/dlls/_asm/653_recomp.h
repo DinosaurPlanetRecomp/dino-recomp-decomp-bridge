@@ -5,13 +5,13 @@
 
 #define dll_653_ctor __dll653_dll_653_ctor
 #define dll_653_dtor __dll653_dll_653_dtor
-#define dll_653_func_18 __dll653_dll_653_func_18
-#define dll_653_func_A8 __dll653_dll_653_func_A8
+#define dll_653_create __dll653_dll_653_create
+#define dll_653_update __dll653_dll_653_update
 #define dll_653_func_4D8 __dll653_dll_653_func_4D8
-#define dll_653_func_4E4 __dll653_dll_653_func_4E4
-#define dll_653_func_53C __dll653_dll_653_func_53C
-#define dll_653_func_5EC __dll653_dll_653_func_5EC
-#define dll_653_func_5FC __dll653_dll_653_func_5FC
+#define dll_653_draw __dll653_dll_653_draw
+#define dll_653_destroy __dll653_dll_653_destroy
+#define dll_653_get_setup_flags __dll653_dll_653_get_setup_flags
+#define dll_653_get_state_size __dll653_dll_653_get_state_size
 #define str_0 __dll653_str_0
 #define _data_0 __dll653__data_0
 

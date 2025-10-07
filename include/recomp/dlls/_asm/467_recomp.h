@@ -5,12 +5,12 @@
 
 #define dll_467_ctor __dll467_dll_467_ctor
 #define dll_467_dtor __dll467_dll_467_dtor
-#define dll_467_func_18 __dll467_dll_467_func_18
-#define dll_467_func_1E8 __dll467_dll_467_func_1E8
+#define dll_467_create __dll467_dll_467_create
+#define dll_467_update __dll467_dll_467_update
 #define dll_467_func_374 __dll467_dll_467_func_374
-#define dll_467_func_380 __dll467_dll_467_func_380
-#define dll_467_func_3D4 __dll467_dll_467_func_3D4
-#define dll_467_func_50C __dll467_dll_467_func_50C
-#define dll_467_func_51C __dll467_dll_467_func_51C
+#define dll_467_draw __dll467_dll_467_draw
+#define dll_467_destroy __dll467_dll_467_destroy
+#define dll_467_get_setup_flags __dll467_dll_467_get_setup_flags
+#define dll_467_get_state_size __dll467_dll_467_get_state_size
 
 #endif //_DLL_467_RECOMP_H

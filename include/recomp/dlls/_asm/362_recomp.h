@@ -5,14 +5,14 @@
 
 #define dll_362_ctor __dll362_dll_362_ctor
 #define dll_362_dtor __dll362_dll_362_dtor
-#define dll_362_func_18 __dll362_dll_362_func_18
-#define dll_362_func_78 __dll362_dll_362_func_78
+#define dll_362_create __dll362_dll_362_create
+#define dll_362_update __dll362_dll_362_update
 #define dll_362_func_310 __dll362_dll_362_func_310
 #define dll_362_func_414 __dll362_dll_362_func_414
-#define dll_362_func_420 __dll362_dll_362_func_420
-#define dll_362_func_474 __dll362_dll_362_func_474
-#define dll_362_func_4C4 __dll362_dll_362_func_4C4
-#define dll_362_func_4D4 __dll362_dll_362_func_4D4
+#define dll_362_draw __dll362_dll_362_draw
+#define dll_362_destroy __dll362_dll_362_destroy
+#define dll_362_get_setup_flags __dll362_dll_362_get_setup_flags
+#define dll_362_get_state_size __dll362_dll_362_get_state_size
 #define str_0 __dll362_str_0
 
 #endif //_DLL_362_RECOMP_H

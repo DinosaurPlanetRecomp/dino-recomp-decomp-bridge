@@ -5,13 +5,13 @@
 
 #define dll_609_ctor __dll609_dll_609_ctor
 #define dll_609_dtor __dll609_dll_609_dtor
-#define dll_609_func_18 __dll609_dll_609_func_18
-#define dll_609_func_1B4 __dll609_dll_609_func_1B4
+#define dll_609_create __dll609_dll_609_create
+#define dll_609_update __dll609_dll_609_update
 #define dll_609_func_7B8 __dll609_dll_609_func_7B8
-#define dll_609_func_7C4 __dll609_dll_609_func_7C4
-#define dll_609_func_818 __dll609_dll_609_func_818
-#define dll_609_func_8A4 __dll609_dll_609_func_8A4
-#define dll_609_func_8B4 __dll609_dll_609_func_8B4
+#define dll_609_draw __dll609_dll_609_draw
+#define dll_609_destroy __dll609_dll_609_destroy
+#define dll_609_get_setup_flags __dll609_dll_609_get_setup_flags
+#define dll_609_get_state_size __dll609_dll_609_get_state_size
 #define dll_609_func_8C8 __dll609_dll_609_func_8C8
 #define dll_609_func_98C __dll609_dll_609_func_98C
 #define dll_609_func_ADC __dll609_dll_609_func_ADC

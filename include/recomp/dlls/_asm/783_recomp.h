@@ -5,13 +5,13 @@
 
 #define dll_783_ctor __dll783_dll_783_ctor
 #define dll_783_dtor __dll783_dll_783_dtor
-#define dll_783_func_18 __dll783_dll_783_func_18
-#define dll_783_func_88 __dll783_dll_783_func_88
+#define dll_783_create __dll783_dll_783_create
+#define dll_783_update __dll783_dll_783_update
 #define dll_783_func_510 __dll783_dll_783_func_510
-#define dll_783_func_51C __dll783_dll_783_func_51C
-#define dll_783_func_570 __dll783_dll_783_func_570
-#define dll_783_func_580 __dll783_dll_783_func_580
-#define dll_783_func_5B4 __dll783_dll_783_func_5B4
+#define dll_783_draw __dll783_dll_783_draw
+#define dll_783_destroy __dll783_dll_783_destroy
+#define dll_783_get_setup_flags __dll783_dll_783_get_setup_flags
+#define dll_783_get_state_size __dll783_dll_783_get_state_size
 #define _rodata_0 __dll783__rodata_0
 
 #endif //_DLL_783_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_393_ctor __dll393_dll_393_ctor
 #define dll_393_dtor __dll393_dll_393_dtor
-#define dll_393_func_18 __dll393_dll_393_func_18
-#define dll_393_func_108 __dll393_dll_393_func_108
+#define dll_393_create __dll393_dll_393_create
+#define dll_393_update __dll393_dll_393_update
 #define dll_393_func_1D4 __dll393_dll_393_func_1D4
-#define dll_393_func_1E0 __dll393_dll_393_func_1E0
-#define dll_393_func_234 __dll393_dll_393_func_234
-#define dll_393_func_244 __dll393_dll_393_func_244
-#define dll_393_func_254 __dll393_dll_393_func_254
+#define dll_393_draw __dll393_dll_393_draw
+#define dll_393_destroy __dll393_dll_393_destroy
+#define dll_393_get_setup_flags __dll393_dll_393_get_setup_flags
+#define dll_393_get_state_size __dll393_dll_393_get_state_size
 #define dll_393_func_268 __dll393_dll_393_func_268
 
 #endif //_DLL_393_RECOMP_H

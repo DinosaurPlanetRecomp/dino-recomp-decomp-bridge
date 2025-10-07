@@ -5,13 +5,13 @@
 
 #define dll_272_ctor __dll272_dll_272_ctor
 #define dll_272_dtor __dll272_dll_272_dtor
-#define dll_272_func_18 __dll272_dll_272_func_18
-#define dll_272_func_430 __dll272_dll_272_func_430
+#define dll_272_create __dll272_dll_272_create
+#define dll_272_update __dll272_dll_272_update
 #define dll_272_func_994 __dll272_dll_272_func_994
-#define dll_272_func_9A0 __dll272_dll_272_func_9A0
-#define dll_272_func_A88 __dll272_dll_272_func_A88
-#define dll_272_func_B00 __dll272_dll_272_func_B00
-#define dll_272_func_B10 __dll272_dll_272_func_B10
+#define dll_272_draw __dll272_dll_272_draw
+#define dll_272_destroy __dll272_dll_272_destroy
+#define dll_272_get_setup_flags __dll272_dll_272_get_setup_flags
+#define dll_272_get_state_size __dll272_dll_272_get_state_size
 #define dll_272_func_B24 __dll272_dll_272_func_B24
 #define dll_272_func_BF8 __dll272_dll_272_func_BF8
 #define dll_272_func_10C8 __dll272_dll_272_func_10C8

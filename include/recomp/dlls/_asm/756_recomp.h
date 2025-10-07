@@ -5,16 +5,16 @@
 
 #define dll_756_ctor __dll756_dll_756_ctor
 #define dll_756_dtor __dll756_dll_756_dtor
-#define dll_756_func_18 __dll756_dll_756_func_18
-#define dll_756_func_FC __dll756_dll_756_func_FC
+#define dll_756_create __dll756_dll_756_create
+#define dll_756_update __dll756_dll_756_update
 #define dll_756_func_2E8 __dll756_dll_756_func_2E8
 #define dll_756_func_310 __dll756_dll_756_func_310
 #define dll_756_func_3AC __dll756_dll_756_func_3AC
 #define dll_756_func_74C __dll756_dll_756_func_74C
-#define dll_756_func_758 __dll756_dll_756_func_758
-#define dll_756_func_7AC __dll756_dll_756_func_7AC
-#define dll_756_func_81C __dll756_dll_756_func_81C
-#define dll_756_func_82C __dll756_dll_756_func_82C
+#define dll_756_draw __dll756_dll_756_draw
+#define dll_756_destroy __dll756_dll_756_destroy
+#define dll_756_get_setup_flags __dll756_dll_756_get_setup_flags
+#define dll_756_get_state_size __dll756_dll_756_get_state_size
 #define dll_756_func_840 __dll756_dll_756_func_840
 #define str_0 __dll756_str_0
 #define _rodata_18 __dll756__rodata_18

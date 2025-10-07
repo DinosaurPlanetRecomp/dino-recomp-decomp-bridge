@@ -5,14 +5,14 @@
 
 #define dll_586_ctor __dll586_dll_586_ctor
 #define dll_586_dtor __dll586_dll_586_dtor
-#define dll_586_func_18 __dll586_dll_586_func_18
-#define dll_586_func_B8 __dll586_dll_586_func_B8
+#define dll_586_create __dll586_dll_586_create
+#define dll_586_update __dll586_dll_586_update
 #define dll_586_func_124 __dll586_dll_586_func_124
 #define dll_586_func_130 __dll586_dll_586_func_130
-#define dll_586_func_5E4 __dll586_dll_586_func_5E4
-#define dll_586_func_638 __dll586_dll_586_func_638
-#define dll_586_func_6C8 __dll586_dll_586_func_6C8
-#define dll_586_func_6D8 __dll586_dll_586_func_6D8
+#define dll_586_draw __dll586_dll_586_draw
+#define dll_586_destroy __dll586_dll_586_destroy
+#define dll_586_get_setup_flags __dll586_dll_586_get_setup_flags
+#define dll_586_get_state_size __dll586_dll_586_get_state_size
 #define _data_0 __dll586__data_0
 
 #endif //_DLL_586_RECOMP_H

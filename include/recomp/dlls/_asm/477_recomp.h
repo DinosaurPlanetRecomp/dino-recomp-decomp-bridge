@@ -5,13 +5,13 @@
 
 #define dll_477_ctor __dll477_dll_477_ctor
 #define dll_477_dtor __dll477_dll_477_dtor
-#define dll_477_func_18 __dll477_dll_477_func_18
-#define dll_477_func_224 __dll477_dll_477_func_224
+#define dll_477_create __dll477_dll_477_create
+#define dll_477_update __dll477_dll_477_update
 #define dll_477_func_C0C __dll477_dll_477_func_C0C
-#define dll_477_func_C18 __dll477_dll_477_func_C18
-#define dll_477_func_C60 __dll477_dll_477_func_C60
-#define dll_477_func_CF8 __dll477_dll_477_func_CF8
-#define dll_477_func_D08 __dll477_dll_477_func_D08
+#define dll_477_draw __dll477_dll_477_draw
+#define dll_477_destroy __dll477_dll_477_destroy
+#define dll_477_get_setup_flags __dll477_dll_477_get_setup_flags
+#define dll_477_get_state_size __dll477_dll_477_get_state_size
 #define dll_477_func_D1C __dll477_dll_477_func_D1C
 #define dll_477_func_10A0 __dll477_dll_477_func_10A0
 #define _data_0 __dll477__data_0

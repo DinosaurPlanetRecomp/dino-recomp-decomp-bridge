@@ -5,13 +5,13 @@
 
 #define dll_531_ctor __dll531_dll_531_ctor
 #define dll_531_dtor __dll531_dll_531_dtor
-#define dll_531_func_18 __dll531_dll_531_func_18
-#define dll_531_func_E0 __dll531_dll_531_func_E0
+#define dll_531_create __dll531_dll_531_create
+#define dll_531_update __dll531_dll_531_update
 #define dll_531_func_3B0 __dll531_dll_531_func_3B0
-#define dll_531_func_3BC __dll531_dll_531_func_3BC
-#define dll_531_func_4A4 __dll531_dll_531_func_4A4
-#define dll_531_func_5B4 __dll531_dll_531_func_5B4
-#define dll_531_func_5C4 __dll531_dll_531_func_5C4
+#define dll_531_draw __dll531_dll_531_draw
+#define dll_531_destroy __dll531_dll_531_destroy
+#define dll_531_get_setup_flags __dll531_dll_531_get_setup_flags
+#define dll_531_get_state_size __dll531_dll_531_get_state_size
 #define dll_531_func_5D8 __dll531_dll_531_func_5D8
 #define dll_531_func_608 __dll531_dll_531_func_608
 #define dll_531_func_7E4 __dll531_dll_531_func_7E4

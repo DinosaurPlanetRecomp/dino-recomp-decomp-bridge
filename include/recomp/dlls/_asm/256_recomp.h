@@ -5,13 +5,13 @@
 
 #define dll_256_ctor __dll256_dll_256_ctor
 #define dll_256_dtor __dll256_dll_256_dtor
-#define dll_256_func_18 __dll256_dll_256_func_18
-#define dll_256_func_1FC __dll256_dll_256_func_1FC
+#define dll_256_create __dll256_dll_256_create
+#define dll_256_update __dll256_dll_256_update
 #define dll_256_func_9F4 __dll256_dll_256_func_9F4
-#define dll_256_func_A00 __dll256_dll_256_func_A00
-#define dll_256_func_A48 __dll256_dll_256_func_A48
-#define dll_256_func_B20 __dll256_dll_256_func_B20
-#define dll_256_func_B30 __dll256_dll_256_func_B30
+#define dll_256_draw __dll256_dll_256_draw
+#define dll_256_destroy __dll256_dll_256_destroy
+#define dll_256_get_setup_flags __dll256_dll_256_get_setup_flags
+#define dll_256_get_state_size __dll256_dll_256_get_state_size
 #define dll_256_func_B58 __dll256_dll_256_func_B58
 #define dll_256_func_B8C __dll256_dll_256_func_B8C
 #define dll_256_func_B9C __dll256_dll_256_func_B9C

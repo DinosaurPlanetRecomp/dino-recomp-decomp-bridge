@@ -5,13 +5,13 @@
 
 #define dll_475_ctor __dll475_dll_475_ctor
 #define dll_475_dtor __dll475_dll_475_dtor
-#define dll_475_func_18 __dll475_dll_475_func_18
-#define dll_475_func_19C __dll475_dll_475_func_19C
+#define dll_475_create __dll475_dll_475_create
+#define dll_475_update __dll475_dll_475_update
 #define dll_475_func_5C0 __dll475_dll_475_func_5C0
-#define dll_475_func_5CC __dll475_dll_475_func_5CC
-#define dll_475_func_620 __dll475_dll_475_func_620
-#define dll_475_func_630 __dll475_dll_475_func_630
-#define dll_475_func_640 __dll475_dll_475_func_640
+#define dll_475_draw __dll475_dll_475_draw
+#define dll_475_destroy __dll475_dll_475_destroy
+#define dll_475_get_setup_flags __dll475_dll_475_get_setup_flags
+#define dll_475_get_state_size __dll475_dll_475_get_state_size
 #define dll_475_func_654 __dll475_dll_475_func_654
 #define dll_475_func_7F8 __dll475_dll_475_func_7F8
 #define _rodata_0 __dll475__rodata_0

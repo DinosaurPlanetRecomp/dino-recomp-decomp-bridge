@@ -5,13 +5,13 @@
 
 #define dll_582_ctor __dll582_dll_582_ctor
 #define dll_582_dtor __dll582_dll_582_dtor
-#define dll_582_func_18 __dll582_dll_582_func_18
-#define dll_582_func_54 __dll582_dll_582_func_54
+#define dll_582_create __dll582_dll_582_create
+#define dll_582_update __dll582_dll_582_update
 #define dll_582_func_68 __dll582_dll_582_func_68
-#define dll_582_func_74 __dll582_dll_582_func_74
-#define dll_582_func_C8 __dll582_dll_582_func_C8
-#define dll_582_func_D8 __dll582_dll_582_func_D8
-#define dll_582_func_E8 __dll582_dll_582_func_E8
+#define dll_582_draw __dll582_dll_582_draw
+#define dll_582_destroy __dll582_dll_582_destroy
+#define dll_582_get_setup_flags __dll582_dll_582_get_setup_flags
+#define dll_582_get_state_size __dll582_dll_582_get_state_size
 #define dll_582_func_FC __dll582_dll_582_func_FC
 
 #endif //_DLL_582_RECOMP_H

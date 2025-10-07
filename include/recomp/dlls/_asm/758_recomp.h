@@ -5,13 +5,13 @@
 
 #define dll_758_ctor __dll758_dll_758_ctor
 #define dll_758_dtor __dll758_dll_758_dtor
-#define dll_758_func_18 __dll758_dll_758_func_18
-#define dll_758_func_54 __dll758_dll_758_func_54
+#define dll_758_create __dll758_dll_758_create
+#define dll_758_update __dll758_dll_758_update
 #define dll_758_func_2D8 __dll758_dll_758_func_2D8
-#define dll_758_func_2E4 __dll758_dll_758_func_2E4
-#define dll_758_func_2FC __dll758_dll_758_func_2FC
-#define dll_758_func_30C __dll758_dll_758_func_30C
-#define dll_758_func_31C __dll758_dll_758_func_31C
+#define dll_758_draw __dll758_dll_758_draw
+#define dll_758_destroy __dll758_dll_758_destroy
+#define dll_758_get_setup_flags __dll758_dll_758_get_setup_flags
+#define dll_758_get_state_size __dll758_dll_758_get_state_size
 #define str_0 __dll758_str_0
 
 #endif //_DLL_758_RECOMP_H

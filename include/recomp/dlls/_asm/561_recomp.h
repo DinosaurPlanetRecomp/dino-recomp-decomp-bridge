@@ -5,13 +5,13 @@
 
 #define dll_561_ctor __dll561_dll_561_ctor
 #define dll_561_dtor __dll561_dll_561_dtor
-#define dll_561_func_18 __dll561_dll_561_func_18
-#define dll_561_func_1FC __dll561_dll_561_func_1FC
+#define dll_561_create __dll561_dll_561_create
+#define dll_561_update __dll561_dll_561_update
 #define dll_561_func_45C __dll561_dll_561_func_45C
-#define dll_561_func_468 __dll561_dll_561_func_468
-#define dll_561_func_4BC __dll561_dll_561_func_4BC
-#define dll_561_func_4CC __dll561_dll_561_func_4CC
-#define dll_561_func_4DC __dll561_dll_561_func_4DC
+#define dll_561_draw __dll561_dll_561_draw
+#define dll_561_destroy __dll561_dll_561_destroy
+#define dll_561_get_setup_flags __dll561_dll_561_get_setup_flags
+#define dll_561_get_state_size __dll561_dll_561_get_state_size
 #define _oob_rodata_0 __dll561__oob_rodata_0
 
 #endif //_DLL_561_RECOMP_H

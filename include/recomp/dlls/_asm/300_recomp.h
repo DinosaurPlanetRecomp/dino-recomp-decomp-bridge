@@ -5,13 +5,13 @@
 
 #define dll_300_ctor __dll300_dll_300_ctor
 #define dll_300_dtor __dll300_dll_300_dtor
-#define dll_300_func_18 __dll300_dll_300_func_18
-#define dll_300_func_F8 __dll300_dll_300_func_F8
+#define dll_300_create __dll300_dll_300_create
+#define dll_300_update __dll300_dll_300_update
 #define dll_300_func_82C __dll300_dll_300_func_82C
-#define dll_300_func_838 __dll300_dll_300_func_838
-#define dll_300_func_850 __dll300_dll_300_func_850
-#define dll_300_func_860 __dll300_dll_300_func_860
-#define dll_300_func_870 __dll300_dll_300_func_870
+#define dll_300_draw __dll300_dll_300_draw
+#define dll_300_destroy __dll300_dll_300_destroy
+#define dll_300_get_setup_flags __dll300_dll_300_get_setup_flags
+#define dll_300_get_state_size __dll300_dll_300_get_state_size
 #define dll_300_func_884 __dll300_dll_300_func_884
 #define _rodata_0 __dll300__rodata_0
 

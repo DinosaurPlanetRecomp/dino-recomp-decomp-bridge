@@ -5,13 +5,13 @@
 
 #define dll_311_ctor __dll311_dll_311_ctor
 #define dll_311_dtor __dll311_dll_311_dtor
-#define dll_311_func_18 __dll311_dll_311_func_18
-#define dll_311_func_114 __dll311_dll_311_func_114
+#define dll_311_create __dll311_dll_311_create
+#define dll_311_update __dll311_dll_311_update
 #define dll_311_func_2B8 __dll311_dll_311_func_2B8
-#define dll_311_func_2C4 __dll311_dll_311_func_2C4
-#define dll_311_func_318 __dll311_dll_311_func_318
-#define dll_311_func_358 __dll311_dll_311_func_358
-#define dll_311_func_368 __dll311_dll_311_func_368
+#define dll_311_draw __dll311_dll_311_draw
+#define dll_311_destroy __dll311_dll_311_destroy
+#define dll_311_get_setup_flags __dll311_dll_311_get_setup_flags
+#define dll_311_get_state_size __dll311_dll_311_get_state_size
 #define dll_311_func_37C __dll311_dll_311_func_37C
 #define str_0 __dll311_str_0
 

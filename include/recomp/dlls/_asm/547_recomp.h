@@ -5,13 +5,13 @@
 
 #define dll_547_ctor __dll547_dll_547_ctor
 #define dll_547_dtor __dll547_dll_547_dtor
-#define dll_547_func_18 __dll547_dll_547_func_18
-#define dll_547_func_F0 __dll547_dll_547_func_F0
+#define dll_547_create __dll547_dll_547_create
+#define dll_547_update __dll547_dll_547_update
 #define dll_547_func_434 __dll547_dll_547_func_434
-#define dll_547_func_440 __dll547_dll_547_func_440
-#define dll_547_func_494 __dll547_dll_547_func_494
-#define dll_547_func_4A4 __dll547_dll_547_func_4A4
-#define dll_547_func_4B4 __dll547_dll_547_func_4B4
+#define dll_547_draw __dll547_dll_547_draw
+#define dll_547_destroy __dll547_dll_547_destroy
+#define dll_547_get_setup_flags __dll547_dll_547_get_setup_flags
+#define dll_547_get_state_size __dll547_dll_547_get_state_size
 #define dll_547_func_4C8 __dll547_dll_547_func_4C8
 #define dll_547_func_58C __dll547_dll_547_func_58C
 #define _rodata_14 __dll547__rodata_14

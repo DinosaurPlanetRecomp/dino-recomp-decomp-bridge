@@ -5,13 +5,13 @@
 
 #define dll_709_ctor __dll709_dll_709_ctor
 #define dll_709_dtor __dll709_dll_709_dtor
-#define dll_709_func_18 __dll709_dll_709_func_18
-#define dll_709_func_70 __dll709_dll_709_func_70
+#define dll_709_create __dll709_dll_709_create
+#define dll_709_update __dll709_dll_709_update
 #define dll_709_func_2D0 __dll709_dll_709_func_2D0
-#define dll_709_func_2DC __dll709_dll_709_func_2DC
-#define dll_709_func_330 __dll709_dll_709_func_330
-#define dll_709_func_340 __dll709_dll_709_func_340
-#define dll_709_func_350 __dll709_dll_709_func_350
+#define dll_709_draw __dll709_dll_709_draw
+#define dll_709_destroy __dll709_dll_709_destroy
+#define dll_709_get_setup_flags __dll709_dll_709_get_setup_flags
+#define dll_709_get_state_size __dll709_dll_709_get_state_size
 #define _rodata_0 __dll709__rodata_0
 
 #endif //_DLL_709_RECOMP_H

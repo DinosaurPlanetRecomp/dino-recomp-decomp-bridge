@@ -5,13 +5,13 @@
 
 #define dll_411_ctor __dll411_dll_411_ctor
 #define dll_411_dtor __dll411_dll_411_dtor
-#define dll_411_func_18 __dll411_dll_411_func_18
-#define dll_411_func_80 __dll411_dll_411_func_80
+#define dll_411_create __dll411_dll_411_create
+#define dll_411_update __dll411_dll_411_update
 #define dll_411_func_310 __dll411_dll_411_func_310
-#define dll_411_func_3B0 __dll411_dll_411_func_3B0
-#define dll_411_func_5D8 __dll411_dll_411_func_5D8
-#define dll_411_func_624 __dll411_dll_411_func_624
-#define dll_411_func_634 __dll411_dll_411_func_634
+#define dll_411_draw __dll411_dll_411_draw
+#define dll_411_destroy __dll411_dll_411_destroy
+#define dll_411_get_setup_flags __dll411_dll_411_get_setup_flags
+#define dll_411_get_state_size __dll411_dll_411_get_state_size
 #define dll_411_func_648 __dll411_dll_411_func_648
 #define dll_411_func_7F8 __dll411_dll_411_func_7F8
 #define dll_411_func_960 __dll411_dll_411_func_960

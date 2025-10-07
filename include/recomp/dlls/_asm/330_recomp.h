@@ -5,13 +5,13 @@
 
 #define dll_330_ctor __dll330_dll_330_ctor
 #define dll_330_dtor __dll330_dll_330_dtor
-#define dll_330_func_18 __dll330_dll_330_func_18
-#define dll_330_func_210 __dll330_dll_330_func_210
+#define dll_330_create __dll330_dll_330_create
+#define dll_330_update __dll330_dll_330_update
 #define dll_330_func_580 __dll330_dll_330_func_580
-#define dll_330_func_58C __dll330_dll_330_func_58C
-#define dll_330_func_5E0 __dll330_dll_330_func_5E0
-#define dll_330_func_650 __dll330_dll_330_func_650
-#define dll_330_func_660 __dll330_dll_330_func_660
+#define dll_330_draw __dll330_dll_330_draw
+#define dll_330_destroy __dll330_dll_330_destroy
+#define dll_330_get_setup_flags __dll330_dll_330_get_setup_flags
+#define dll_330_get_state_size __dll330_dll_330_get_state_size
 #define _rodata_0 __dll330__rodata_0
 
 #endif //_DLL_330_RECOMP_H

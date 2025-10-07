@@ -5,13 +5,13 @@
 
 #define dll_495_ctor __dll495_dll_495_ctor
 #define dll_495_dtor __dll495_dll_495_dtor
-#define dll_495_func_18 __dll495_dll_495_func_18
-#define dll_495_func_4C __dll495_dll_495_func_4C
+#define dll_495_create __dll495_dll_495_create
+#define dll_495_update __dll495_dll_495_update
 #define dll_495_func_100 __dll495_dll_495_func_100
-#define dll_495_func_10C __dll495_dll_495_func_10C
-#define dll_495_func_124 __dll495_dll_495_func_124
-#define dll_495_func_134 __dll495_dll_495_func_134
-#define dll_495_func_144 __dll495_dll_495_func_144
+#define dll_495_draw __dll495_dll_495_draw
+#define dll_495_destroy __dll495_dll_495_destroy
+#define dll_495_get_setup_flags __dll495_dll_495_get_setup_flags
+#define dll_495_get_state_size __dll495_dll_495_get_state_size
 #define dll_495_func_158 __dll495_dll_495_func_158
 
 #endif //_DLL_495_RECOMP_H

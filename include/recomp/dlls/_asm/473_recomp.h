@@ -5,13 +5,13 @@
 
 #define dll_473_ctor __dll473_dll_473_ctor
 #define dll_473_dtor __dll473_dll_473_dtor
-#define dll_473_func_18 __dll473_dll_473_func_18
-#define dll_473_func_5C __dll473_dll_473_func_5C
+#define dll_473_create __dll473_dll_473_create
+#define dll_473_update __dll473_dll_473_update
 #define dll_473_func_494 __dll473_dll_473_func_494
-#define dll_473_func_4A0 __dll473_dll_473_func_4A0
-#define dll_473_func_4F4 __dll473_dll_473_func_4F4
-#define dll_473_func_504 __dll473_dll_473_func_504
-#define dll_473_func_514 __dll473_dll_473_func_514
+#define dll_473_draw __dll473_dll_473_draw
+#define dll_473_destroy __dll473_dll_473_destroy
+#define dll_473_get_setup_flags __dll473_dll_473_get_setup_flags
+#define dll_473_get_state_size __dll473_dll_473_get_state_size
 #define str_0 __dll473_str_0
 #define _data_0 __dll473__data_0
 

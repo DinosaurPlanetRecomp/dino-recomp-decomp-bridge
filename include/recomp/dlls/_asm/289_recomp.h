@@ -5,13 +5,13 @@
 
 #define dll_289_ctor __dll289_dll_289_ctor
 #define dll_289_dtor __dll289_dll_289_dtor
-#define dll_289_func_18 __dll289_dll_289_func_18
-#define dll_289_func_40 __dll289_dll_289_func_40
+#define dll_289_create __dll289_dll_289_create
+#define dll_289_update __dll289_dll_289_update
 #define dll_289_func_400 __dll289_dll_289_func_400
-#define dll_289_func_458 __dll289_dll_289_func_458
-#define dll_289_func_4AC __dll289_dll_289_func_4AC
-#define dll_289_func_4BC __dll289_dll_289_func_4BC
-#define dll_289_func_4CC __dll289_dll_289_func_4CC
+#define dll_289_draw __dll289_dll_289_draw
+#define dll_289_destroy __dll289_dll_289_destroy
+#define dll_289_get_setup_flags __dll289_dll_289_get_setup_flags
+#define dll_289_get_state_size __dll289_dll_289_get_state_size
 #define dll_289_func_4E0 __dll289_dll_289_func_4E0
 #define _oob_rodata_0 __dll289__oob_rodata_0
 

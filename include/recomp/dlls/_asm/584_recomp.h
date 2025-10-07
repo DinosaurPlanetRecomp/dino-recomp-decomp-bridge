@@ -5,13 +5,13 @@
 
 #define dll_584_ctor __dll584_dll_584_ctor
 #define dll_584_dtor __dll584_dll_584_dtor
-#define dll_584_func_18 __dll584_dll_584_func_18
-#define dll_584_func_170 __dll584_dll_584_func_170
+#define dll_584_create __dll584_dll_584_create
+#define dll_584_update __dll584_dll_584_update
 #define dll_584_func_3C0 __dll584_dll_584_func_3C0
-#define dll_584_func_3CC __dll584_dll_584_func_3CC
-#define dll_584_func_4D0 __dll584_dll_584_func_4D0
-#define dll_584_func_518 __dll584_dll_584_func_518
-#define dll_584_func_528 __dll584_dll_584_func_528
+#define dll_584_draw __dll584_dll_584_draw
+#define dll_584_destroy __dll584_dll_584_destroy
+#define dll_584_get_setup_flags __dll584_dll_584_get_setup_flags
+#define dll_584_get_state_size __dll584_dll_584_get_state_size
 #define _rodata_0 __dll584__rodata_0
 #define _data_0 __dll584__data_0
 

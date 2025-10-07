@@ -5,13 +5,13 @@
 
 #define dll_566_ctor __dll566_dll_566_ctor
 #define dll_566_dtor __dll566_dll_566_dtor
-#define dll_566_func_18 __dll566_dll_566_func_18
-#define dll_566_func_B4 __dll566_dll_566_func_B4
+#define dll_566_create __dll566_dll_566_create
+#define dll_566_update __dll566_dll_566_update
 #define dll_566_func_C0 __dll566_dll_566_func_C0
-#define dll_566_func_CC __dll566_dll_566_func_CC
-#define dll_566_func_160 __dll566_dll_566_func_160
-#define dll_566_func_170 __dll566_dll_566_func_170
-#define dll_566_func_180 __dll566_dll_566_func_180
+#define dll_566_draw __dll566_dll_566_draw
+#define dll_566_destroy __dll566_dll_566_destroy
+#define dll_566_get_setup_flags __dll566_dll_566_get_setup_flags
+#define dll_566_get_state_size __dll566_dll_566_get_state_size
 #define dll_566_func_194 __dll566_dll_566_func_194
 
 #endif //_DLL_566_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_396_ctor __dll396_dll_396_ctor
 #define dll_396_dtor __dll396_dll_396_dtor
-#define dll_396_func_18 __dll396_dll_396_func_18
-#define dll_396_func_124 __dll396_dll_396_func_124
+#define dll_396_create __dll396_dll_396_create
+#define dll_396_update __dll396_dll_396_update
 #define dll_396_func_314 __dll396_dll_396_func_314
-#define dll_396_func_320 __dll396_dll_396_func_320
-#define dll_396_func_374 __dll396_dll_396_func_374
-#define dll_396_func_400 __dll396_dll_396_func_400
-#define dll_396_func_410 __dll396_dll_396_func_410
+#define dll_396_draw __dll396_dll_396_draw
+#define dll_396_destroy __dll396_dll_396_destroy
+#define dll_396_get_setup_flags __dll396_dll_396_get_setup_flags
+#define dll_396_get_state_size __dll396_dll_396_get_state_size
 #define dll_396_func_424 __dll396_dll_396_func_424
 #define dll_396_func_700 __dll396_dll_396_func_700
 #define dll_396_func_718 __dll396_dll_396_func_718

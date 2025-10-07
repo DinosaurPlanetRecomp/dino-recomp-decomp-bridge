@@ -5,13 +5,13 @@
 
 #define dll_402_ctor __dll402_dll_402_ctor
 #define dll_402_dtor __dll402_dll_402_dtor
-#define dll_402_func_18 __dll402_dll_402_func_18
-#define dll_402_func_150 __dll402_dll_402_func_150
+#define dll_402_create __dll402_dll_402_create
+#define dll_402_update __dll402_dll_402_update
 #define dll_402_func_80C __dll402_dll_402_func_80C
-#define dll_402_func_898 __dll402_dll_402_func_898
-#define dll_402_func_900 __dll402_dll_402_func_900
-#define dll_402_func_97C __dll402_dll_402_func_97C
-#define dll_402_func_98C __dll402_dll_402_func_98C
+#define dll_402_draw __dll402_dll_402_draw
+#define dll_402_destroy __dll402_dll_402_destroy
+#define dll_402_get_setup_flags __dll402_dll_402_get_setup_flags
+#define dll_402_get_state_size __dll402_dll_402_get_state_size
 #define dll_402_func_9A0 __dll402_dll_402_func_9A0
 #define str_0 __dll402_str_0
 #define _rodata_70 __dll402__rodata_70

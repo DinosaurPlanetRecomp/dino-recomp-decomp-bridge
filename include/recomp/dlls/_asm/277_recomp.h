@@ -5,12 +5,12 @@
 
 #define dll_277_ctor __dll277_dll_277_ctor
 #define dll_277_dtor __dll277_dll_277_dtor
-#define dll_277_func_18 __dll277_dll_277_func_18
-#define dll_277_func_80 __dll277_dll_277_func_80
+#define dll_277_create __dll277_dll_277_create
+#define dll_277_update __dll277_dll_277_update
 #define dll_277_func_26C __dll277_dll_277_func_26C
-#define dll_277_func_274 __dll277_dll_277_func_274
-#define dll_277_func_2BC __dll277_dll_277_func_2BC
-#define dll_277_func_2CC __dll277_dll_277_func_2CC
-#define dll_277_func_2DC __dll277_dll_277_func_2DC
+#define dll_277_draw __dll277_dll_277_draw
+#define dll_277_destroy __dll277_dll_277_destroy
+#define dll_277_get_setup_flags __dll277_dll_277_get_setup_flags
+#define dll_277_get_state_size __dll277_dll_277_get_state_size
 
 #endif //_DLL_277_RECOMP_H

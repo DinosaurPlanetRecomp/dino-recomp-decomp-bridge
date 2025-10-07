@@ -5,13 +5,13 @@
 
 #define dll_519_ctor __dll519_dll_519_ctor
 #define dll_519_dtor __dll519_dll_519_dtor
-#define dll_519_func_18 __dll519_dll_519_func_18
-#define dll_519_func_90 __dll519_dll_519_func_90
+#define dll_519_create __dll519_dll_519_create
+#define dll_519_update __dll519_dll_519_update
 #define dll_519_func_420 __dll519_dll_519_func_420
-#define dll_519_func_42C __dll519_dll_519_func_42C
-#define dll_519_func_480 __dll519_dll_519_func_480
-#define dll_519_func_63C __dll519_dll_519_func_63C
-#define dll_519_func_64C __dll519_dll_519_func_64C
+#define dll_519_draw __dll519_dll_519_draw
+#define dll_519_destroy __dll519_dll_519_destroy
+#define dll_519_get_setup_flags __dll519_dll_519_get_setup_flags
+#define dll_519_get_state_size __dll519_dll_519_get_state_size
 #define dll_519_func_660 __dll519_dll_519_func_660
 #define dll_519_func_8A4 __dll519_dll_519_func_8A4
 #define dll_519_func_8B4 __dll519_dll_519_func_8B4

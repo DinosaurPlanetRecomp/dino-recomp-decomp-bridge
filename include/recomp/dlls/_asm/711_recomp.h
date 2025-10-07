@@ -5,13 +5,13 @@
 
 #define dll_711_ctor __dll711_dll_711_ctor
 #define dll_711_dtor __dll711_dll_711_dtor
-#define dll_711_func_18 __dll711_dll_711_func_18
-#define dll_711_func_2A0 __dll711_dll_711_func_2A0
+#define dll_711_create __dll711_dll_711_create
+#define dll_711_update __dll711_dll_711_update
 #define dll_711_func_F34 __dll711_dll_711_func_F34
-#define dll_711_func_10D4 __dll711_dll_711_func_10D4
-#define dll_711_func_12F4 __dll711_dll_711_func_12F4
-#define dll_711_func_14B0 __dll711_dll_711_func_14B0
-#define dll_711_func_14C0 __dll711_dll_711_func_14C0
+#define dll_711_draw __dll711_dll_711_draw
+#define dll_711_destroy __dll711_dll_711_destroy
+#define dll_711_get_setup_flags __dll711_dll_711_get_setup_flags
+#define dll_711_get_state_size __dll711_dll_711_get_state_size
 #define dll_711_func_14D4 __dll711_dll_711_func_14D4
 #define dll_711_func_1500 __dll711_dll_711_func_1500
 #define dll_711_func_1510 __dll711_dll_711_func_1510

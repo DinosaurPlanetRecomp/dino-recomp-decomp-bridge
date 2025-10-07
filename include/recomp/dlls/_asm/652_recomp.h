@@ -5,13 +5,13 @@
 
 #define dll_652_ctor __dll652_dll_652_ctor
 #define dll_652_dtor __dll652_dll_652_dtor
-#define dll_652_func_18 __dll652_dll_652_func_18
-#define dll_652_func_E0 __dll652_dll_652_func_E0
+#define dll_652_create __dll652_dll_652_create
+#define dll_652_update __dll652_dll_652_update
 #define dll_652_func_1C4 __dll652_dll_652_func_1C4
-#define dll_652_func_1D0 __dll652_dll_652_func_1D0
-#define dll_652_func_1E8 __dll652_dll_652_func_1E8
-#define dll_652_func_230 __dll652_dll_652_func_230
-#define dll_652_func_240 __dll652_dll_652_func_240
+#define dll_652_draw __dll652_dll_652_draw
+#define dll_652_destroy __dll652_dll_652_destroy
+#define dll_652_get_setup_flags __dll652_dll_652_get_setup_flags
+#define dll_652_get_state_size __dll652_dll_652_get_state_size
 #define dll_652_func_254 __dll652_dll_652_func_254
 #define dll_652_func_364 __dll652_dll_652_func_364
 #define dll_652_func_45C __dll652_dll_652_func_45C

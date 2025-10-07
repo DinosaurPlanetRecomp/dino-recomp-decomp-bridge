@@ -5,13 +5,13 @@
 
 #define dll_369_ctor __dll369_dll_369_ctor
 #define dll_369_dtor __dll369_dll_369_dtor
-#define dll_369_func_18 __dll369_dll_369_func_18
-#define dll_369_func_2EC __dll369_dll_369_func_2EC
+#define dll_369_create __dll369_dll_369_create
+#define dll_369_update __dll369_dll_369_update
 #define dll_369_func_328 __dll369_dll_369_func_328
-#define dll_369_func_348 __dll369_dll_369_func_348
-#define dll_369_func_3CC __dll369_dll_369_func_3CC
-#define dll_369_func_4AC __dll369_dll_369_func_4AC
-#define dll_369_func_4BC __dll369_dll_369_func_4BC
+#define dll_369_draw __dll369_dll_369_draw
+#define dll_369_destroy __dll369_dll_369_destroy
+#define dll_369_get_setup_flags __dll369_dll_369_get_setup_flags
+#define dll_369_get_state_size __dll369_dll_369_get_state_size
 #define dll_369_func_4D0 __dll369_dll_369_func_4D0
 #define dll_369_func_678 __dll369_dll_369_func_678
 #define dll_369_func_1B8C __dll369_dll_369_func_1B8C

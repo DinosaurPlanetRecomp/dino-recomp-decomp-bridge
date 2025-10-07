@@ -5,13 +5,13 @@
 
 #define dll_694_ctor __dll694_dll_694_ctor
 #define dll_694_dtor __dll694_dll_694_dtor
-#define dll_694_func_18 __dll694_dll_694_func_18
-#define dll_694_func_1A8 __dll694_dll_694_func_1A8
+#define dll_694_create __dll694_dll_694_create
+#define dll_694_update __dll694_dll_694_update
 #define dll_694_func_424 __dll694_dll_694_func_424
-#define dll_694_func_430 __dll694_dll_694_func_430
-#define dll_694_func_448 __dll694_dll_694_func_448
-#define dll_694_func_458 __dll694_dll_694_func_458
-#define dll_694_func_468 __dll694_dll_694_func_468
+#define dll_694_draw __dll694_dll_694_draw
+#define dll_694_destroy __dll694_dll_694_destroy
+#define dll_694_get_setup_flags __dll694_dll_694_get_setup_flags
+#define dll_694_get_state_size __dll694_dll_694_get_state_size
 #define dll_694_func_47C __dll694_dll_694_func_47C
 #define dll_694_func_4E8 __dll694_dll_694_func_4E8
 #define dll_694_func_4F8 __dll694_dll_694_func_4F8

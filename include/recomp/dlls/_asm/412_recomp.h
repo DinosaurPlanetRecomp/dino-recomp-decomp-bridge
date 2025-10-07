@@ -5,13 +5,13 @@
 
 #define dll_412_ctor __dll412_dll_412_ctor
 #define dll_412_dtor __dll412_dll_412_dtor
-#define dll_412_func_18 __dll412_dll_412_func_18
-#define dll_412_func_2C __dll412_dll_412_func_2C
+#define dll_412_create __dll412_dll_412_create
+#define dll_412_update __dll412_dll_412_update
 #define dll_412_func_38 __dll412_dll_412_func_38
-#define dll_412_func_44 __dll412_dll_412_func_44
-#define dll_412_func_98 __dll412_dll_412_func_98
-#define dll_412_func_A8 __dll412_dll_412_func_A8
-#define dll_412_func_B8 __dll412_dll_412_func_B8
+#define dll_412_draw __dll412_dll_412_draw
+#define dll_412_destroy __dll412_dll_412_destroy
+#define dll_412_get_setup_flags __dll412_dll_412_get_setup_flags
+#define dll_412_get_state_size __dll412_dll_412_get_state_size
 #define _oob_rodata_0 __dll412__oob_rodata_0
 
 #endif //_DLL_412_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_768_ctor __dll768_dll_768_ctor
 #define dll_768_dtor __dll768_dll_768_dtor
-#define dll_768_func_18 __dll768_dll_768_func_18
-#define dll_768_func_88 __dll768_dll_768_func_88
+#define dll_768_create __dll768_dll_768_create
+#define dll_768_update __dll768_dll_768_update
 #define dll_768_func_2D4 __dll768_dll_768_func_2D4
-#define dll_768_func_2E0 __dll768_dll_768_func_2E0
-#define dll_768_func_334 __dll768_dll_768_func_334
-#define dll_768_func_374 __dll768_dll_768_func_374
-#define dll_768_func_384 __dll768_dll_768_func_384
+#define dll_768_draw __dll768_dll_768_draw
+#define dll_768_destroy __dll768_dll_768_destroy
+#define dll_768_get_setup_flags __dll768_dll_768_get_setup_flags
+#define dll_768_get_state_size __dll768_dll_768_get_state_size
 #define dll_768_func_398 __dll768_dll_768_func_398
 #define dll_768_func_3A8 __dll768_dll_768_func_3A8
 #define dll_768_func_40C __dll768_dll_768_func_40C

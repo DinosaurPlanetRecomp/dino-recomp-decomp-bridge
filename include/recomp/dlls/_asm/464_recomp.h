@@ -5,12 +5,12 @@
 
 #define dll_464_ctor __dll464_dll_464_ctor
 #define dll_464_dtor __dll464_dll_464_dtor
-#define dll_464_func_18 __dll464_dll_464_func_18
-#define dll_464_func_84 __dll464_dll_464_func_84
+#define dll_464_create __dll464_dll_464_create
+#define dll_464_update __dll464_dll_464_update
 #define dll_464_func_37C __dll464_dll_464_func_37C
-#define dll_464_func_388 __dll464_dll_464_func_388
-#define dll_464_func_3DC __dll464_dll_464_func_3DC
-#define dll_464_func_3EC __dll464_dll_464_func_3EC
-#define dll_464_func_3FC __dll464_dll_464_func_3FC
+#define dll_464_draw __dll464_dll_464_draw
+#define dll_464_destroy __dll464_dll_464_destroy
+#define dll_464_get_setup_flags __dll464_dll_464_get_setup_flags
+#define dll_464_get_state_size __dll464_dll_464_get_state_size
 
 #endif //_DLL_464_RECOMP_H

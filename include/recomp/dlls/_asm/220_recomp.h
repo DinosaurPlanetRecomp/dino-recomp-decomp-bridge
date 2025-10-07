@@ -5,13 +5,13 @@
 
 #define dll_220_ctor __dll220_dll_220_ctor
 #define dll_220_dtor __dll220_dll_220_dtor
-#define dll_220_func_18 __dll220_dll_220_func_18
-#define dll_220_func_118 __dll220_dll_220_func_118
+#define dll_220_create __dll220_dll_220_create
+#define dll_220_update __dll220_dll_220_update
 #define dll_220_func_670 __dll220_dll_220_func_670
-#define dll_220_func_67C __dll220_dll_220_func_67C
-#define dll_220_func_6D0 __dll220_dll_220_func_6D0
-#define dll_220_func_6E0 __dll220_dll_220_func_6E0
-#define dll_220_func_6F0 __dll220_dll_220_func_6F0
+#define dll_220_draw __dll220_dll_220_draw
+#define dll_220_destroy __dll220_dll_220_destroy
+#define dll_220_get_setup_flags __dll220_dll_220_get_setup_flags
+#define dll_220_get_state_size __dll220_dll_220_get_state_size
 #define dll_220_func_704 __dll220_dll_220_func_704
 #define dll_220_func_778 __dll220_dll_220_func_778
 #define dll_220_func_8A4 __dll220_dll_220_func_8A4

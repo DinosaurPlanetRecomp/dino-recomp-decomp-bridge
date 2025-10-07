@@ -5,13 +5,13 @@
 
 #define dll_409_ctor __dll409_dll_409_ctor
 #define dll_409_dtor __dll409_dll_409_dtor
-#define dll_409_func_70 __dll409_dll_409_func_70
-#define dll_409_func_18C __dll409_dll_409_func_18C
+#define dll_409_create __dll409_dll_409_create
+#define dll_409_update __dll409_dll_409_update
 #define dll_409_func_74C __dll409_dll_409_func_74C
-#define dll_409_func_758 __dll409_dll_409_func_758
-#define dll_409_func_7BC __dll409_dll_409_func_7BC
-#define dll_409_func_818 __dll409_dll_409_func_818
-#define dll_409_func_828 __dll409_dll_409_func_828
+#define dll_409_draw __dll409_dll_409_draw
+#define dll_409_destroy __dll409_dll_409_destroy
+#define dll_409_get_setup_flags __dll409_dll_409_get_setup_flags
+#define dll_409_get_state_size __dll409_dll_409_get_state_size
 #define dll_409_func_83C __dll409_dll_409_func_83C
 #define dll_409_func_940 __dll409_dll_409_func_940
 #define _rodata_0 __dll409__rodata_0

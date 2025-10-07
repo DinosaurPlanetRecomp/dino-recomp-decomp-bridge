@@ -5,13 +5,13 @@
 
 #define dll_754_ctor __dll754_dll_754_ctor
 #define dll_754_dtor __dll754_dll_754_dtor
-#define dll_754_func_18 __dll754_dll_754_func_18
-#define dll_754_func_F8 __dll754_dll_754_func_F8
+#define dll_754_create __dll754_dll_754_create
+#define dll_754_update __dll754_dll_754_update
 #define dll_754_func_354 __dll754_dll_754_func_354
-#define dll_754_func_360 __dll754_dll_754_func_360
-#define dll_754_func_378 __dll754_dll_754_func_378
-#define dll_754_func_388 __dll754_dll_754_func_388
-#define dll_754_func_398 __dll754_dll_754_func_398
+#define dll_754_draw __dll754_dll_754_draw
+#define dll_754_destroy __dll754_dll_754_destroy
+#define dll_754_get_setup_flags __dll754_dll_754_get_setup_flags
+#define dll_754_get_state_size __dll754_dll_754_get_state_size
 #define dll_754_func_3AC __dll754_dll_754_func_3AC
 #define str_0 __dll754_str_0
 

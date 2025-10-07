@@ -5,13 +5,13 @@
 
 #define dll_776_ctor __dll776_dll_776_ctor
 #define dll_776_dtor __dll776_dll_776_dtor
-#define dll_776_func_18 __dll776_dll_776_func_18
-#define dll_776_func_38 __dll776_dll_776_func_38
+#define dll_776_create __dll776_dll_776_create
+#define dll_776_update __dll776_dll_776_update
 #define dll_776_func_190 __dll776_dll_776_func_190
-#define dll_776_func_19C __dll776_dll_776_func_19C
-#define dll_776_func_1F0 __dll776_dll_776_func_1F0
-#define dll_776_func_200 __dll776_dll_776_func_200
-#define dll_776_func_210 __dll776_dll_776_func_210
+#define dll_776_draw __dll776_dll_776_draw
+#define dll_776_destroy __dll776_dll_776_destroy
+#define dll_776_get_setup_flags __dll776_dll_776_get_setup_flags
+#define dll_776_get_state_size __dll776_dll_776_get_state_size
 #define dll_776_func_224 __dll776_dll_776_func_224
 #define _rodata_0 __dll776__rodata_0
 #define _rodata_4 __dll776__rodata_4

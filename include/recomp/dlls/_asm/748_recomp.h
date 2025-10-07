@@ -5,13 +5,13 @@
 
 #define dll_748_ctor __dll748_dll_748_ctor
 #define dll_748_dtor __dll748_dll_748_dtor
-#define dll_748_func_18 __dll748_dll_748_func_18
-#define dll_748_func_AC __dll748_dll_748_func_AC
+#define dll_748_create __dll748_dll_748_create
+#define dll_748_update __dll748_dll_748_update
 #define dll_748_func_440 __dll748_dll_748_func_440
-#define dll_748_func_5CC __dll748_dll_748_func_5CC
-#define dll_748_func_5E4 __dll748_dll_748_func_5E4
-#define dll_748_func_5F4 __dll748_dll_748_func_5F4
-#define dll_748_func_604 __dll748_dll_748_func_604
+#define dll_748_draw __dll748_dll_748_draw
+#define dll_748_destroy __dll748_dll_748_destroy
+#define dll_748_get_setup_flags __dll748_dll_748_get_setup_flags
+#define dll_748_get_state_size __dll748_dll_748_get_state_size
 #define str_0 __dll748_str_0
 #define _data_0 __dll748__data_0
 #define _data_8 __dll748__data_8

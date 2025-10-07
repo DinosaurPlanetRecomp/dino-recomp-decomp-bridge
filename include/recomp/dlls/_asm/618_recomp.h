@@ -5,13 +5,13 @@
 
 #define dll_618_ctor __dll618_dll_618_ctor
 #define dll_618_dtor __dll618_dll_618_dtor
-#define dll_618_func_18 __dll618_dll_618_func_18
-#define dll_618_func_90 __dll618_dll_618_func_90
+#define dll_618_create __dll618_dll_618_create
+#define dll_618_update __dll618_dll_618_update
 #define dll_618_func_9C __dll618_dll_618_func_9C
-#define dll_618_func_A8 __dll618_dll_618_func_A8
-#define dll_618_func_184 __dll618_dll_618_func_184
-#define dll_618_func_1CC __dll618_dll_618_func_1CC
-#define dll_618_func_1DC __dll618_dll_618_func_1DC
+#define dll_618_draw __dll618_dll_618_draw
+#define dll_618_destroy __dll618_dll_618_destroy
+#define dll_618_get_setup_flags __dll618_dll_618_get_setup_flags
+#define dll_618_get_state_size __dll618_dll_618_get_state_size
 #define dll_618_func_1F0 __dll618_dll_618_func_1F0
 #define _rodata_0 __dll618__rodata_0
 #define _rodata_C0 __dll618__rodata_C0

@@ -5,13 +5,13 @@
 
 #define dll_703_ctor __dll703_dll_703_ctor
 #define dll_703_dtor __dll703_dll_703_dtor
-#define dll_703_func_18 __dll703_dll_703_func_18
-#define dll_703_func_A4 __dll703_dll_703_func_A4
+#define dll_703_create __dll703_dll_703_create
+#define dll_703_update __dll703_dll_703_update
 #define dll_703_func_960 __dll703_dll_703_func_960
-#define dll_703_func_96C __dll703_dll_703_func_96C
-#define dll_703_func_9FC __dll703_dll_703_func_9FC
-#define dll_703_func_A58 __dll703_dll_703_func_A58
-#define dll_703_func_A68 __dll703_dll_703_func_A68
+#define dll_703_draw __dll703_dll_703_draw
+#define dll_703_destroy __dll703_dll_703_destroy
+#define dll_703_get_setup_flags __dll703_dll_703_get_setup_flags
+#define dll_703_get_state_size __dll703_dll_703_get_state_size
 #define dll_703_func_A7C __dll703_dll_703_func_A7C
 #define str_0 __dll703_str_0
 #define _rodata_1C __dll703__rodata_1C

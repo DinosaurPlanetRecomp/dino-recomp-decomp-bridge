@@ -5,13 +5,13 @@
 
 #define dll_333_ctor __dll333_dll_333_ctor
 #define dll_333_dtor __dll333_dll_333_dtor
-#define dll_333_func_18 __dll333_dll_333_func_18
-#define dll_333_func_8C __dll333_dll_333_func_8C
+#define dll_333_create __dll333_dll_333_create
+#define dll_333_update __dll333_dll_333_update
 #define dll_333_func_2F4 __dll333_dll_333_func_2F4
-#define dll_333_func_300 __dll333_dll_333_func_300
-#define dll_333_func_318 __dll333_dll_333_func_318
-#define dll_333_func_328 __dll333_dll_333_func_328
-#define dll_333_func_338 __dll333_dll_333_func_338
+#define dll_333_draw __dll333_dll_333_draw
+#define dll_333_destroy __dll333_dll_333_destroy
+#define dll_333_get_setup_flags __dll333_dll_333_get_setup_flags
+#define dll_333_get_state_size __dll333_dll_333_get_state_size
 #define _rodata_0 __dll333__rodata_0
 
 #endif //_DLL_333_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_410_ctor __dll410_dll_410_ctor
 #define dll_410_dtor __dll410_dll_410_dtor
-#define dll_410_func_18 __dll410_dll_410_func_18
-#define dll_410_func_180 __dll410_dll_410_func_180
+#define dll_410_create __dll410_dll_410_create
+#define dll_410_update __dll410_dll_410_update
 #define dll_410_func_208 __dll410_dll_410_func_208
-#define dll_410_func_214 __dll410_dll_410_func_214
-#define dll_410_func_51C __dll410_dll_410_func_51C
-#define dll_410_func_5AC __dll410_dll_410_func_5AC
-#define dll_410_func_5BC __dll410_dll_410_func_5BC
+#define dll_410_draw __dll410_dll_410_draw
+#define dll_410_destroy __dll410_dll_410_destroy
+#define dll_410_get_setup_flags __dll410_dll_410_get_setup_flags
+#define dll_410_get_state_size __dll410_dll_410_get_state_size
 #define dll_410_func_5E4 __dll410_dll_410_func_5E4
 #define _oob_rodata_0 __dll410__oob_rodata_0
 

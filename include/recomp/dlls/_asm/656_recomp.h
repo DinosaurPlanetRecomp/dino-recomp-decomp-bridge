@@ -5,13 +5,13 @@
 
 #define dll_656_ctor __dll656_dll_656_ctor
 #define dll_656_dtor __dll656_dll_656_dtor
-#define dll_656_func_18 __dll656_dll_656_func_18
-#define dll_656_func_13C __dll656_dll_656_func_13C
+#define dll_656_create __dll656_dll_656_create
+#define dll_656_update __dll656_dll_656_update
 #define dll_656_func_85C __dll656_dll_656_func_85C
-#define dll_656_func_868 __dll656_dll_656_func_868
-#define dll_656_func_8F8 __dll656_dll_656_func_8F8
-#define dll_656_func_95C __dll656_dll_656_func_95C
-#define dll_656_func_96C __dll656_dll_656_func_96C
+#define dll_656_draw __dll656_dll_656_draw
+#define dll_656_destroy __dll656_dll_656_destroy
+#define dll_656_get_setup_flags __dll656_dll_656_get_setup_flags
+#define dll_656_get_state_size __dll656_dll_656_get_state_size
 #define str_0 __dll656_str_0
 #define _rodata_2C __dll656__rodata_2C
 #define _data_0 __dll656__data_0

@@ -5,13 +5,13 @@
 
 #define dll_364_ctor __dll364_dll_364_ctor
 #define dll_364_dtor __dll364_dll_364_dtor
-#define dll_364_func_18 __dll364_dll_364_func_18
-#define dll_364_func_6C __dll364_dll_364_func_6C
+#define dll_364_create __dll364_dll_364_create
+#define dll_364_update __dll364_dll_364_update
 #define dll_364_func_E4 __dll364_dll_364_func_E4
-#define dll_364_func_F0 __dll364_dll_364_func_F0
-#define dll_364_func_144 __dll364_dll_364_func_144
-#define dll_364_func_154 __dll364_dll_364_func_154
-#define dll_364_func_164 __dll364_dll_364_func_164
+#define dll_364_draw __dll364_dll_364_draw
+#define dll_364_destroy __dll364_dll_364_destroy
+#define dll_364_get_setup_flags __dll364_dll_364_get_setup_flags
+#define dll_364_get_state_size __dll364_dll_364_get_state_size
 #define dll_364_func_178 __dll364_dll_364_func_178
 #define _data_0 __dll364__data_0
 

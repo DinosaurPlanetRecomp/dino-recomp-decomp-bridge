@@ -5,13 +5,13 @@
 
 #define dll_371_ctor __dll371_dll_371_ctor
 #define dll_371_dtor __dll371_dll_371_dtor
-#define dll_371_func_18 __dll371_dll_371_func_18
-#define dll_371_func_134 __dll371_dll_371_func_134
+#define dll_371_create __dll371_dll_371_create
+#define dll_371_update __dll371_dll_371_update
 #define dll_371_func_2EC __dll371_dll_371_func_2EC
-#define dll_371_func_2F8 __dll371_dll_371_func_2F8
-#define dll_371_func_34C __dll371_dll_371_func_34C
-#define dll_371_func_35C __dll371_dll_371_func_35C
-#define dll_371_func_36C __dll371_dll_371_func_36C
+#define dll_371_draw __dll371_dll_371_draw
+#define dll_371_destroy __dll371_dll_371_destroy
+#define dll_371_get_setup_flags __dll371_dll_371_get_setup_flags
+#define dll_371_get_state_size __dll371_dll_371_get_state_size
 #define dll_371_func_380 __dll371_dll_371_func_380
 
 #endif //_DLL_371_RECOMP_H
