@@ -15,8 +15,8 @@
 #define SHswapstone_func_448 __dll515_SHswapstone_func_448
 #define SHswapstone_func_A8C __dll515_SHswapstone_func_A8C
 #define SHswapstone_func_AD4 __dll515_SHswapstone_func_AD4
-#define SHswapstone_func_C04 __dll515_SHswapstone_func_C04
-#define SHswapstone_func_D0C __dll515_SHswapstone_func_D0C
+#define SHswapstone_get_held_spirit __dll515_SHswapstone_get_held_spirit
+#define SHswapstone_has_spellstone __dll515_SHswapstone_has_spellstone
 #define sWarlockMountainWarps __dll515_sWarlockMountainWarps
 #define sSwapStoneWarps __dll515_sSwapStoneWarps
 

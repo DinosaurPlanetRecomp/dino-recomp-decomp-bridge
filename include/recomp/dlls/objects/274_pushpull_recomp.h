@@ -26,6 +26,7 @@
 #define dll_274_func_27C8 __dll274_dll_274_func_27C8
 #define dll_274_func_2A74 __dll274_dll_274_func_2A74
 #define str_0 __dll274_str_0
+#define str_24 __dll274_str_24
 #define _rodata_34 __dll274__rodata_34
 #define _rodata_38 __dll274__rodata_38
 #define _rodata_3C __dll274__rodata_3C

@@ -16,6 +16,7 @@
 #define dll_297_func_1304 __dll297_dll_297_func_1304
 #define dll_297_func_1544 __dll297_dll_297_func_1544
 #define str_0 __dll297_str_0
+#define str_C __dll297_str_C
 #define _rodata_18 __dll297__rodata_18
 #define _rodata_1C __dll297__rodata_1C
 #define _rodata_20 __dll297__rodata_20

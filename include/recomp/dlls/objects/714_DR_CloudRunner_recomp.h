@@ -105,5 +105,6 @@
 #define _bss_0 __dll714__bss_0
 #define _bss_20 __dll714__bss_20
 #define _bss_28 __dll714__bss_28
+#define _bss_30 __dll714__bss_30
 
 #endif //_DLL_714_RECOMP_H

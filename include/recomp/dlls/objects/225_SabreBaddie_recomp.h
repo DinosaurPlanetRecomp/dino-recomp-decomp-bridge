@@ -60,5 +60,6 @@
 #define _data_20C __dll225__data_20C
 #define _bss_0 __dll225__bss_0
 #define _bss_38 __dll225__bss_38
+#define _bss_40 __dll225__bss_40
 
 #endif //_DLL_225_RECOMP_H
