@@ -10,7 +10,7 @@
 #define dll_384_func_1C4 __dll384_dll_384_func_1C4
 #define dll_384_draw __dll384_dll_384_draw
 #define dll_384_destroy __dll384_dll_384_destroy
-#define dll_384_get_setup_flags __dll384_dll_384_get_setup_flags
+#define dll_384_get_model_flags __dll384_dll_384_get_model_flags
 #define dll_384_get_state_size __dll384_dll_384_get_state_size
 #define dll_384_func_26C __dll384_dll_384_func_26C
 

@@ -10,7 +10,7 @@
 #define dll_312_func_338 __dll312_dll_312_func_338
 #define dll_312_draw __dll312_dll_312_draw
 #define dll_312_destroy __dll312_dll_312_destroy
-#define dll_312_get_setup_flags __dll312_dll_312_get_setup_flags
+#define dll_312_get_model_flags __dll312_dll_312_get_model_flags
 #define dll_312_get_state_size __dll312_dll_312_get_state_size
 #define dll_312_func_3FC __dll312_dll_312_func_3FC
 #define str_0 __dll312_str_0

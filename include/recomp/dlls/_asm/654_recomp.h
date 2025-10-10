@@ -10,7 +10,7 @@
 #define dll_654_func_114 __dll654_dll_654_func_114
 #define dll_654_draw __dll654_dll_654_draw
 #define dll_654_destroy __dll654_dll_654_destroy
-#define dll_654_get_setup_flags __dll654_dll_654_get_setup_flags
+#define dll_654_get_model_flags __dll654_dll_654_get_model_flags
 #define dll_654_get_state_size __dll654_dll_654_get_state_size
 #define dll_654_func_1D0 __dll654_dll_654_func_1D0
 #define dll_654_func_3A0 __dll654_dll_654_func_3A0

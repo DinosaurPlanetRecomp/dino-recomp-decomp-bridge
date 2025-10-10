@@ -10,7 +10,7 @@
 #define dll_795_func_A4 __dll795_dll_795_func_A4
 #define dll_795_draw __dll795_dll_795_draw
 #define dll_795_destroy __dll795_dll_795_destroy
-#define dll_795_get_setup_flags __dll795_dll_795_get_setup_flags
+#define dll_795_get_model_flags __dll795_dll_795_get_model_flags
 #define dll_795_get_state_size __dll795_dll_795_get_state_size
 
 #endif //_DLL_795_RECOMP_H

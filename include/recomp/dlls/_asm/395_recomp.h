@@ -10,7 +10,7 @@
 #define dll_395_func_CC __dll395_dll_395_func_CC
 #define dll_395_draw __dll395_dll_395_draw
 #define dll_395_destroy __dll395_dll_395_destroy
-#define dll_395_get_setup_flags __dll395_dll_395_get_setup_flags
+#define dll_395_get_model_flags __dll395_dll_395_get_model_flags
 #define dll_395_get_state_size __dll395_dll_395_get_state_size
 #define dll_395_func_190 __dll395_dll_395_func_190
 #define dll_395_func_1B4 __dll395_dll_395_func_1B4

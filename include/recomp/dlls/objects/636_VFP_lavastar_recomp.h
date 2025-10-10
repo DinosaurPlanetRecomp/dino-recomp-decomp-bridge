@@ -10,7 +10,7 @@
 #define VFP_lavastar_func_2BC __dll636_VFP_lavastar_func_2BC
 #define VFP_lavastar_draw __dll636_VFP_lavastar_draw
 #define VFP_lavastar_destroy __dll636_VFP_lavastar_destroy
-#define VFP_lavastar_func_390 __dll636_VFP_lavastar_func_390
+#define VFP_lavastar_get_model_flags __dll636_VFP_lavastar_get_model_flags
 #define VFP_lavastar_get_state_size __dll636_VFP_lavastar_get_state_size
 #define sDLL_182 __dll636_sDLL_182
 

@@ -10,7 +10,7 @@
 #define dll_779_func_3A0 __dll779_dll_779_func_3A0
 #define dll_779_draw __dll779_dll_779_draw
 #define dll_779_destroy __dll779_dll_779_destroy
-#define dll_779_get_setup_flags __dll779_dll_779_get_setup_flags
+#define dll_779_get_model_flags __dll779_dll_779_get_model_flags
 #define dll_779_get_state_size __dll779_dll_779_get_state_size
 #define dll_779_func_464 __dll779_dll_779_func_464
 #define dll_779_func_534 __dll779_dll_779_func_534

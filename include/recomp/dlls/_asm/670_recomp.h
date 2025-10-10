@@ -10,7 +10,7 @@
 #define dll_670_func_A8 __dll670_dll_670_func_A8
 #define dll_670_draw __dll670_dll_670_draw
 #define dll_670_destroy __dll670_dll_670_destroy
-#define dll_670_get_setup_flags __dll670_dll_670_get_setup_flags
+#define dll_670_get_model_flags __dll670_dll_670_get_model_flags
 #define dll_670_get_state_size __dll670_dll_670_get_state_size
 
 #endif //_DLL_670_RECOMP_H

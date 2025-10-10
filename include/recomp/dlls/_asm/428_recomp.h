@@ -11,7 +11,7 @@
 #define dll_428_func_2D4 __dll428_dll_428_func_2D4
 #define dll_428_draw __dll428_dll_428_draw
 #define dll_428_destroy __dll428_dll_428_destroy
-#define dll_428_get_setup_flags __dll428_dll_428_get_setup_flags
+#define dll_428_get_model_flags __dll428_dll_428_get_model_flags
 #define dll_428_get_state_size __dll428_dll_428_get_state_size
 #define dll_428_func_44C __dll428_dll_428_func_44C
 #define dll_428_func_468 __dll428_dll_428_func_468

@@ -10,7 +10,7 @@
 #define dll_269_func_148 __dll269_dll_269_func_148
 #define dll_269_draw __dll269_dll_269_draw
 #define dll_269_destroy __dll269_dll_269_destroy
-#define dll_269_get_setup_flags __dll269_dll_269_get_setup_flags
+#define dll_269_get_model_flags __dll269_dll_269_get_model_flags
 #define dll_269_get_state_size __dll269_dll_269_get_state_size
 #define _data_0 __dll269__data_0
 

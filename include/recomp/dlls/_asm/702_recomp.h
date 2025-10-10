@@ -11,7 +11,7 @@
 #define dll_702_func_72C __dll702_dll_702_func_72C
 #define dll_702_draw __dll702_dll_702_draw
 #define dll_702_destroy __dll702_dll_702_destroy
-#define dll_702_get_setup_flags __dll702_dll_702_get_setup_flags
+#define dll_702_get_model_flags __dll702_dll_702_get_model_flags
 #define dll_702_get_state_size __dll702_dll_702_get_state_size
 #define dll_702_func_B60 __dll702_dll_702_func_B60
 #define dll_702_func_B88 __dll702_dll_702_func_B88

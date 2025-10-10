@@ -10,7 +10,7 @@
 #define dll_385_func_7C __dll385_dll_385_func_7C
 #define dll_385_draw __dll385_dll_385_draw
 #define dll_385_destroy __dll385_dll_385_destroy
-#define dll_385_get_setup_flags __dll385_dll_385_get_setup_flags
+#define dll_385_get_model_flags __dll385_dll_385_get_model_flags
 #define dll_385_get_state_size __dll385_dll_385_get_state_size
 #define dll_385_func_110 __dll385_dll_385_func_110
 

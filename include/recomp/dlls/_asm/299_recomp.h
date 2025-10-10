@@ -10,7 +10,7 @@
 #define dll_299_func_38 __dll299_dll_299_func_38
 #define dll_299_draw __dll299_dll_299_draw
 #define dll_299_destroy __dll299_dll_299_destroy
-#define dll_299_get_setup_flags __dll299_dll_299_get_setup_flags
+#define dll_299_get_model_flags __dll299_dll_299_get_model_flags
 #define dll_299_get_state_size __dll299_dll_299_get_state_size
 
 #endif //_DLL_299_RECOMP_H

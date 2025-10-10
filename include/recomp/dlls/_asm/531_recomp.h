@@ -10,7 +10,7 @@
 #define dll_531_func_3B0 __dll531_dll_531_func_3B0
 #define dll_531_draw __dll531_dll_531_draw
 #define dll_531_destroy __dll531_dll_531_destroy
-#define dll_531_get_setup_flags __dll531_dll_531_get_setup_flags
+#define dll_531_get_model_flags __dll531_dll_531_get_model_flags
 #define dll_531_get_state_size __dll531_dll_531_get_state_size
 #define dll_531_func_5D8 __dll531_dll_531_func_5D8
 #define dll_531_func_608 __dll531_dll_531_func_608

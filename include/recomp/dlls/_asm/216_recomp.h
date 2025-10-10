@@ -11,7 +11,7 @@
 #define dll_216_func_554 __dll216_dll_216_func_554
 #define dll_216_draw __dll216_dll_216_draw
 #define dll_216_destroy __dll216_dll_216_destroy
-#define dll_216_get_setup_flags __dll216_dll_216_get_setup_flags
+#define dll_216_get_model_flags __dll216_dll_216_get_model_flags
 #define dll_216_get_state_size __dll216_dll_216_get_state_size
 #define dll_216_func_87C __dll216_dll_216_func_87C
 #define dll_216_func_88C __dll216_dll_216_func_88C

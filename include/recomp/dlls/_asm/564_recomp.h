@@ -10,7 +10,7 @@
 #define dll_564_func_8E0 __dll564_dll_564_func_8E0
 #define dll_564_draw __dll564_dll_564_draw
 #define dll_564_destroy __dll564_dll_564_destroy
-#define dll_564_get_setup_flags __dll564_dll_564_get_setup_flags
+#define dll_564_get_model_flags __dll564_dll_564_get_model_flags
 #define dll_564_get_state_size __dll564_dll_564_get_state_size
 #define _rodata_0 __dll564__rodata_0
 #define _rodata_4 __dll564__rodata_4

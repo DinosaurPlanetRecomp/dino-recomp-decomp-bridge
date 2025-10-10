@@ -10,7 +10,7 @@
 #define dll_544_func_250 __dll544_dll_544_func_250
 #define dll_544_draw __dll544_dll_544_draw
 #define dll_544_destroy __dll544_dll_544_destroy
-#define dll_544_get_setup_flags __dll544_dll_544_get_setup_flags
+#define dll_544_get_model_flags __dll544_dll_544_get_model_flags
 #define dll_544_get_state_size __dll544_dll_544_get_state_size
 
 #endif //_DLL_544_RECOMP_H

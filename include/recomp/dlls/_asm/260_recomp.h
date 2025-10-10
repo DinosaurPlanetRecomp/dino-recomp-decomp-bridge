@@ -11,7 +11,7 @@
 #define dll_260_func_5C0 __dll260_dll_260_func_5C0
 #define dll_260_draw __dll260_dll_260_draw
 #define dll_260_destroy __dll260_dll_260_destroy
-#define dll_260_get_setup_flags __dll260_dll_260_get_setup_flags
+#define dll_260_get_model_flags __dll260_dll_260_get_model_flags
 #define dll_260_get_state_size __dll260_dll_260_get_state_size
 #define _rodata_0 __dll260__rodata_0
 #define _rodata_4 __dll260__rodata_4

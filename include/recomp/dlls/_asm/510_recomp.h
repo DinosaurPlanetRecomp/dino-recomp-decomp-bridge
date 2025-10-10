@@ -10,7 +10,7 @@
 #define dll_510_func_5E0 __dll510_dll_510_func_5E0
 #define dll_510_draw __dll510_dll_510_draw
 #define dll_510_destroy __dll510_dll_510_destroy
-#define dll_510_get_setup_flags __dll510_dll_510_get_setup_flags
+#define dll_510_get_model_flags __dll510_dll_510_get_model_flags
 #define dll_510_get_state_size __dll510_dll_510_get_state_size
 #define _rodata_14 __dll510__rodata_14
 #define _rodata_18 __dll510__rodata_18

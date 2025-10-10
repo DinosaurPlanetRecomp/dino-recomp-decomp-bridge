@@ -10,7 +10,7 @@
 #define dll_445_func_520 __dll445_dll_445_func_520
 #define dll_445_draw __dll445_dll_445_draw
 #define dll_445_destroy __dll445_dll_445_destroy
-#define dll_445_get_setup_flags __dll445_dll_445_get_setup_flags
+#define dll_445_get_model_flags __dll445_dll_445_get_model_flags
 #define dll_445_get_state_size __dll445_dll_445_get_state_size
 #define dll_445_func_628 __dll445_dll_445_func_628
 #define dll_445_func_A8C __dll445_dll_445_func_A8C

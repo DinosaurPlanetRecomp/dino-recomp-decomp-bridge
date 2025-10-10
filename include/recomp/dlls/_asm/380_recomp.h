@@ -10,7 +10,7 @@
 #define dll_380_func_480 __dll380_dll_380_func_480
 #define dll_380_draw __dll380_dll_380_draw
 #define dll_380_destroy __dll380_dll_380_destroy
-#define dll_380_get_setup_flags __dll380_dll_380_get_setup_flags
+#define dll_380_get_model_flags __dll380_dll_380_get_model_flags
 #define dll_380_get_state_size __dll380_dll_380_get_state_size
 #define dll_380_func_BE0 __dll380_dll_380_func_BE0
 #define dll_380_func_10F8 __dll380_dll_380_func_10F8

@@ -10,7 +10,7 @@
 #define dll_618_func_9C __dll618_dll_618_func_9C
 #define dll_618_draw __dll618_dll_618_draw
 #define dll_618_destroy __dll618_dll_618_destroy
-#define dll_618_get_setup_flags __dll618_dll_618_get_setup_flags
+#define dll_618_get_model_flags __dll618_dll_618_get_model_flags
 #define dll_618_get_state_size __dll618_dll_618_get_state_size
 #define dll_618_func_1F0 __dll618_dll_618_func_1F0
 #define _rodata_0 __dll618__rodata_0

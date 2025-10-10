@@ -10,7 +10,7 @@
 #define dll_409_func_74C __dll409_dll_409_func_74C
 #define dll_409_draw __dll409_dll_409_draw
 #define dll_409_destroy __dll409_dll_409_destroy
-#define dll_409_get_setup_flags __dll409_dll_409_get_setup_flags
+#define dll_409_get_model_flags __dll409_dll_409_get_model_flags
 #define dll_409_get_state_size __dll409_dll_409_get_state_size
 #define dll_409_func_83C __dll409_dll_409_func_83C
 #define dll_409_func_940 __dll409_dll_409_func_940

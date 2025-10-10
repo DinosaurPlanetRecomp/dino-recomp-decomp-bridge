@@ -10,7 +10,7 @@
 #define dll_361_func_2B8 __dll361_dll_361_func_2B8
 #define dll_361_draw __dll361_dll_361_draw
 #define dll_361_destroy __dll361_dll_361_destroy
-#define dll_361_get_setup_flags __dll361_dll_361_get_setup_flags
+#define dll_361_get_model_flags __dll361_dll_361_get_model_flags
 #define dll_361_get_state_size __dll361_dll_361_get_state_size
 #define str_0 __dll361_str_0
 #define str_24 __dll361_str_24

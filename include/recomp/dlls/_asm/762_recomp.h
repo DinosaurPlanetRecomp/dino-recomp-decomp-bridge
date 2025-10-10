@@ -10,7 +10,7 @@
 #define dll_762_func_174 __dll762_dll_762_func_174
 #define dll_762_draw __dll762_dll_762_draw
 #define dll_762_destroy __dll762_dll_762_destroy
-#define dll_762_get_setup_flags __dll762_dll_762_get_setup_flags
+#define dll_762_get_model_flags __dll762_dll_762_get_model_flags
 #define dll_762_get_state_size __dll762_dll_762_get_state_size
 
 #endif //_DLL_762_RECOMP_H

@@ -10,7 +10,7 @@
 #define dll_339_func_E0 __dll339_dll_339_func_E0
 #define dll_339_draw __dll339_dll_339_draw
 #define dll_339_destroy __dll339_dll_339_destroy
-#define dll_339_get_setup_flags __dll339_dll_339_get_setup_flags
+#define dll_339_get_model_flags __dll339_dll_339_get_model_flags
 #define dll_339_get_state_size __dll339_dll_339_get_state_size
 
 #endif //_DLL_339_RECOMP_H

@@ -10,7 +10,7 @@
 #define dll_777_func_38 __dll777_dll_777_func_38
 #define dll_777_draw __dll777_dll_777_draw
 #define dll_777_destroy __dll777_dll_777_destroy
-#define dll_777_get_setup_flags __dll777_dll_777_get_setup_flags
+#define dll_777_get_model_flags __dll777_dll_777_get_model_flags
 #define dll_777_get_state_size __dll777_dll_777_get_state_size
 #define _oob_rodata_0 __dll777__oob_rodata_0
 

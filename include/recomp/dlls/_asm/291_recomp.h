@@ -10,7 +10,7 @@
 #define dll_291_func_EFC __dll291_dll_291_func_EFC
 #define dll_291_draw __dll291_dll_291_draw
 #define dll_291_destroy __dll291_dll_291_destroy
-#define dll_291_get_setup_flags __dll291_dll_291_get_setup_flags
+#define dll_291_get_model_flags __dll291_dll_291_get_model_flags
 #define dll_291_get_state_size __dll291_dll_291_get_state_size
 #define dll_291_func_F9C __dll291_dll_291_func_F9C
 #define _rodata_0 __dll291__rodata_0

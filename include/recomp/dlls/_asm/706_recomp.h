@@ -10,7 +10,7 @@
 #define dll_706_func_190 __dll706_dll_706_func_190
 #define dll_706_draw __dll706_dll_706_draw
 #define dll_706_destroy __dll706_dll_706_destroy
-#define dll_706_get_setup_flags __dll706_dll_706_get_setup_flags
+#define dll_706_get_model_flags __dll706_dll_706_get_model_flags
 #define dll_706_get_state_size __dll706_dll_706_get_state_size
 
 #endif //_DLL_706_RECOMP_H

@@ -10,7 +10,7 @@
 #define dll_391_func_3E0 __dll391_dll_391_func_3E0
 #define dll_391_draw __dll391_dll_391_draw
 #define dll_391_destroy __dll391_dll_391_destroy
-#define dll_391_get_setup_flags __dll391_dll_391_get_setup_flags
+#define dll_391_get_model_flags __dll391_dll_391_get_model_flags
 #define dll_391_get_state_size __dll391_dll_391_get_state_size
 #define dll_391_func_55C __dll391_dll_391_func_55C
 #define dll_391_func_5A4 __dll391_dll_391_func_5A4

@@ -10,7 +10,7 @@
 #define dll_435_func_5A0 __dll435_dll_435_func_5A0
 #define dll_435_draw __dll435_dll_435_draw
 #define dll_435_destroy __dll435_dll_435_destroy
-#define dll_435_get_setup_flags __dll435_dll_435_get_setup_flags
+#define dll_435_get_model_flags __dll435_dll_435_get_model_flags
 #define dll_435_get_state_size __dll435_dll_435_get_state_size
 #define _data_0 __dll435__data_0
 #define _data_4 __dll435__data_4

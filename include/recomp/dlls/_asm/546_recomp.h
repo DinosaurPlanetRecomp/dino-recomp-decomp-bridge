@@ -10,7 +10,7 @@
 #define dll_546_func_A4 __dll546_dll_546_func_A4
 #define dll_546_draw __dll546_dll_546_draw
 #define dll_546_destroy __dll546_dll_546_destroy
-#define dll_546_get_setup_flags __dll546_dll_546_get_setup_flags
+#define dll_546_get_model_flags __dll546_dll_546_get_model_flags
 #define dll_546_get_state_size __dll546_dll_546_get_state_size
 #define str_0 __dll546_str_0
 

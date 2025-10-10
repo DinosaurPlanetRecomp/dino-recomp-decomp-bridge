@@ -10,7 +10,7 @@
 #define dll_645_func_4D4 __dll645_dll_645_func_4D4
 #define dll_645_draw __dll645_dll_645_draw
 #define dll_645_destroy __dll645_dll_645_destroy
-#define dll_645_get_setup_flags __dll645_dll_645_get_setup_flags
+#define dll_645_get_model_flags __dll645_dll_645_get_model_flags
 #define dll_645_get_state_size __dll645_dll_645_get_state_size
 #define dll_645_func_598 __dll645_dll_645_func_598
 #define _data_0 __dll645__data_0

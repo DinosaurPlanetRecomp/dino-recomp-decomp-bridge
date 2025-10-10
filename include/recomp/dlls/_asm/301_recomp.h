@@ -10,7 +10,7 @@
 #define dll_301_func_3A8 __dll301_dll_301_func_3A8
 #define dll_301_draw __dll301_dll_301_draw
 #define dll_301_destroy __dll301_dll_301_destroy
-#define dll_301_get_setup_flags __dll301_dll_301_get_setup_flags
+#define dll_301_get_model_flags __dll301_dll_301_get_model_flags
 #define dll_301_get_state_size __dll301_dll_301_get_state_size
 #define _oob_rodata_0 __dll301__oob_rodata_0
 

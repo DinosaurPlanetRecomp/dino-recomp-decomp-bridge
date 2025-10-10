@@ -10,7 +10,7 @@
 #define dll_524_func_3F8 __dll524_dll_524_func_3F8
 #define dll_524_draw __dll524_dll_524_draw
 #define dll_524_destroy __dll524_dll_524_destroy
-#define dll_524_get_setup_flags __dll524_dll_524_get_setup_flags
+#define dll_524_get_model_flags __dll524_dll_524_get_model_flags
 #define dll_524_get_state_size __dll524_dll_524_get_state_size
 #define _bss_0 __dll524__bss_0
 #define _bss_C __dll524__bss_C

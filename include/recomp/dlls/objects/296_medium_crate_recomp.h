@@ -10,7 +10,7 @@
 #define dll_296_func_9C0 __dll296_dll_296_func_9C0
 #define dll_296_draw __dll296_dll_296_draw
 #define dll_296_destroy __dll296_dll_296_destroy
-#define dll_296_func_C2C __dll296_dll_296_func_C2C
+#define dll_296_get_model_flags __dll296_dll_296_get_model_flags
 #define dll_296_get_state_size __dll296_dll_296_get_state_size
 #define dll_296_func_C50 __dll296_dll_296_func_C50
 #define _rodata_0 __dll296__rodata_0

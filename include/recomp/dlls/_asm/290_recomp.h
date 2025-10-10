@@ -10,7 +10,7 @@
 #define dll_290_func_300 __dll290_dll_290_func_300
 #define dll_290_draw __dll290_dll_290_draw
 #define dll_290_destroy __dll290_dll_290_destroy
-#define dll_290_get_setup_flags __dll290_dll_290_get_setup_flags
+#define dll_290_get_model_flags __dll290_dll_290_get_model_flags
 #define dll_290_get_state_size __dll290_dll_290_get_state_size
 #define dll_290_func_5F8 __dll290_dll_290_func_5F8
 #define dll_290_func_6CC __dll290_dll_290_func_6CC

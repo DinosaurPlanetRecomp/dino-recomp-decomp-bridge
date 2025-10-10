@@ -10,7 +10,7 @@
 #define dll_254_func_38 __dll254_dll_254_func_38
 #define dll_254_draw __dll254_dll_254_draw
 #define dll_254_destroy __dll254_dll_254_destroy
-#define dll_254_get_setup_flags __dll254_dll_254_get_setup_flags
+#define dll_254_get_model_flags __dll254_dll_254_get_model_flags
 #define dll_254_get_state_size __dll254_dll_254_get_state_size
 
 #endif //_DLL_254_RECOMP_H

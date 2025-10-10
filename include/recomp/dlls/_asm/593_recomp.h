@@ -10,7 +10,7 @@
 #define dll_593_func_61C __dll593_dll_593_func_61C
 #define dll_593_draw __dll593_dll_593_draw
 #define dll_593_destroy __dll593_dll_593_destroy
-#define dll_593_get_setup_flags __dll593_dll_593_get_setup_flags
+#define dll_593_get_model_flags __dll593_dll_593_get_model_flags
 #define dll_593_get_state_size __dll593_dll_593_get_state_size
 #define dll_593_func_7F0 __dll593_dll_593_func_7F0
 #define dll_593_func_8E4 __dll593_dll_593_func_8E4

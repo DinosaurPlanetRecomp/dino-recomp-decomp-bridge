@@ -13,7 +13,7 @@
 #define dll_712_func_AD4 __dll712_dll_712_func_AD4
 #define dll_712_draw __dll712_dll_712_draw
 #define dll_712_destroy __dll712_dll_712_destroy
-#define dll_712_get_setup_flags __dll712_dll_712_get_setup_flags
+#define dll_712_get_model_flags __dll712_dll_712_get_model_flags
 #define dll_712_get_state_size __dll712_dll_712_get_state_size
 #define dll_712_func_E88 __dll712_dll_712_func_E88
 #define dll_712_func_FA0 __dll712_dll_712_func_FA0

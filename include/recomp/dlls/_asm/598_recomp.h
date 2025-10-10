@@ -10,7 +10,7 @@
 #define dll_598_func_238 __dll598_dll_598_func_238
 #define dll_598_draw __dll598_dll_598_draw
 #define dll_598_destroy __dll598_dll_598_destroy
-#define dll_598_get_setup_flags __dll598_dll_598_get_setup_flags
+#define dll_598_get_model_flags __dll598_dll_598_get_model_flags
 #define dll_598_get_state_size __dll598_dll_598_get_state_size
 #define dll_598_func_364 __dll598_dll_598_func_364
 #define dll_598_func_470 __dll598_dll_598_func_470

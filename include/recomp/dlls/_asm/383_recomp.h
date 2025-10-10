@@ -10,7 +10,7 @@
 #define dll_383_func_C8 __dll383_dll_383_func_C8
 #define dll_383_draw __dll383_dll_383_draw
 #define dll_383_destroy __dll383_dll_383_destroy
-#define dll_383_get_setup_flags __dll383_dll_383_get_setup_flags
+#define dll_383_get_model_flags __dll383_dll_383_get_model_flags
 #define dll_383_get_state_size __dll383_dll_383_get_state_size
 #define dll_383_func_19C __dll383_dll_383_func_19C
 

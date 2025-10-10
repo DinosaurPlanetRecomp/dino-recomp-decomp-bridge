@@ -10,7 +10,7 @@
 #define dll_760_func_2A4 __dll760_dll_760_func_2A4
 #define dll_760_draw __dll760_dll_760_draw
 #define dll_760_destroy __dll760_dll_760_destroy
-#define dll_760_get_setup_flags __dll760_dll_760_get_setup_flags
+#define dll_760_get_model_flags __dll760_dll_760_get_model_flags
 #define dll_760_get_state_size __dll760_dll_760_get_state_size
 #define dll_760_func_2FC __dll760_dll_760_func_2FC
 #define str_0 __dll760_str_0

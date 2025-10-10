@@ -10,7 +10,7 @@
 #define dll_737_func_170 __dll737_dll_737_func_170
 #define dll_737_draw __dll737_dll_737_draw
 #define dll_737_destroy __dll737_dll_737_destroy
-#define dll_737_get_setup_flags __dll737_dll_737_get_setup_flags
+#define dll_737_get_model_flags __dll737_dll_737_get_model_flags
 #define dll_737_get_state_size __dll737_dll_737_get_state_size
 #define dll_737_func_294 __dll737_dll_737_func_294
 #define dll_737_func_47C __dll737_dll_737_func_47C

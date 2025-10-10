@@ -11,7 +11,7 @@
 #define dll_565_func_740 __dll565_dll_565_func_740
 #define dll_565_draw __dll565_dll_565_draw
 #define dll_565_destroy __dll565_dll_565_destroy
-#define dll_565_get_setup_flags __dll565_dll_565_get_setup_flags
+#define dll_565_get_model_flags __dll565_dll_565_get_model_flags
 #define dll_565_get_state_size __dll565_dll_565_get_state_size
 #define dll_565_func_9C4 __dll565_dll_565_func_9C4
 #define dll_565_func_9D4 __dll565_dll_565_func_9D4

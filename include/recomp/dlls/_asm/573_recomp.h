@@ -10,7 +10,7 @@
 #define dll_573_func_F14 __dll573_dll_573_func_F14
 #define dll_573_draw __dll573_dll_573_draw
 #define dll_573_destroy __dll573_dll_573_destroy
-#define dll_573_get_setup_flags __dll573_dll_573_get_setup_flags
+#define dll_573_get_model_flags __dll573_dll_573_get_model_flags
 #define dll_573_get_state_size __dll573_dll_573_get_state_size
 #define dll_573_func_1224 __dll573_dll_573_func_1224
 #define dll_573_func_12CC __dll573_dll_573_func_12CC

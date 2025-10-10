@@ -10,7 +10,7 @@
 #define dll_431_func_2D4 __dll431_dll_431_func_2D4
 #define dll_431_draw __dll431_dll_431_draw
 #define dll_431_destroy __dll431_dll_431_destroy
-#define dll_431_get_setup_flags __dll431_dll_431_get_setup_flags
+#define dll_431_get_model_flags __dll431_dll_431_get_model_flags
 #define dll_431_get_state_size __dll431_dll_431_get_state_size
 #define _rodata_0 __dll431__rodata_0
 

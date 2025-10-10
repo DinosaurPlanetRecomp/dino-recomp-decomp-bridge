@@ -10,7 +10,7 @@
 #define dll_366_func_32C __dll366_dll_366_func_32C
 #define dll_366_draw __dll366_dll_366_draw
 #define dll_366_destroy __dll366_dll_366_destroy
-#define dll_366_get_setup_flags __dll366_dll_366_get_setup_flags
+#define dll_366_get_model_flags __dll366_dll_366_get_model_flags
 #define dll_366_get_state_size __dll366_dll_366_get_state_size
 #define dll_366_func_3C0 __dll366_dll_366_func_3C0
 #define str_0 __dll366_str_0

@@ -10,7 +10,7 @@
 #define dll_622_func_190 __dll622_dll_622_func_190
 #define dll_622_draw __dll622_dll_622_draw
 #define dll_622_destroy __dll622_dll_622_destroy
-#define dll_622_get_setup_flags __dll622_dll_622_get_setup_flags
+#define dll_622_get_model_flags __dll622_dll_622_get_model_flags
 #define dll_622_get_state_size __dll622_dll_622_get_state_size
 #define _rodata_0 __dll622__rodata_0
 #define _rodata_4 __dll622__rodata_4

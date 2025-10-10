@@ -13,8 +13,8 @@
 #define dll_227_func_1518 __dll227_dll_227_func_1518
 #define dll_227_func_1524 __dll227_dll_227_func_1524
 #define dll_227_func_1578 __dll227_dll_227_func_1578
-#define dll_227_func_16F8 __dll227_dll_227_func_16F8
-#define dll_227_func_1708 __dll227_dll_227_func_1708
+#define dll_227_get_model_flags __dll227_dll_227_get_model_flags
+#define dll_227_get_state_size __dll227_dll_227_get_state_size
 #define dll_227_func_171C __dll227_dll_227_func_171C
 #define dll_227_func_172C __dll227_dll_227_func_172C
 #define dll_227_func_174C __dll227_dll_227_func_174C

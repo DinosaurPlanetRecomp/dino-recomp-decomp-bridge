@@ -10,7 +10,7 @@
 #define dll_487_func_308 __dll487_dll_487_func_308
 #define dll_487_draw __dll487_dll_487_draw
 #define dll_487_destroy __dll487_dll_487_destroy
-#define dll_487_get_setup_flags __dll487_dll_487_get_setup_flags
+#define dll_487_get_model_flags __dll487_dll_487_get_model_flags
 #define dll_487_get_state_size __dll487_dll_487_get_state_size
 #define _oob_rodata_0 __dll487__oob_rodata_0
 

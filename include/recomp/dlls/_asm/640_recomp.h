@@ -10,7 +10,7 @@
 #define dll_640_func_6F0 __dll640_dll_640_func_6F0
 #define dll_640_draw __dll640_dll_640_draw
 #define dll_640_destroy __dll640_dll_640_destroy
-#define dll_640_get_setup_flags __dll640_dll_640_get_setup_flags
+#define dll_640_get_model_flags __dll640_dll_640_get_model_flags
 #define dll_640_get_state_size __dll640_dll_640_get_state_size
 #define _rodata_0 __dll640__rodata_0
 #define _data_0 __dll640__data_0

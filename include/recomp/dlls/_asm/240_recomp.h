@@ -13,7 +13,7 @@
 #define dll_240_func_97C __dll240_dll_240_func_97C
 #define dll_240_draw __dll240_dll_240_draw
 #define dll_240_destroy __dll240_dll_240_destroy
-#define dll_240_get_setup_flags __dll240_dll_240_get_setup_flags
+#define dll_240_get_model_flags __dll240_dll_240_get_model_flags
 #define dll_240_get_state_size __dll240_dll_240_get_state_size
 #define dll_240_func_D08 __dll240_dll_240_func_D08
 #define dll_240_func_F04 __dll240_dll_240_func_F04

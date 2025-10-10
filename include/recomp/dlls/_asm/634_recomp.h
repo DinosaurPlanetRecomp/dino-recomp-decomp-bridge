@@ -10,7 +10,7 @@
 #define dll_634_func_1BC __dll634_dll_634_func_1BC
 #define dll_634_draw __dll634_dll_634_draw
 #define dll_634_destroy __dll634_dll_634_destroy
-#define dll_634_get_setup_flags __dll634_dll_634_get_setup_flags
+#define dll_634_get_model_flags __dll634_dll_634_get_model_flags
 #define dll_634_get_state_size __dll634_dll_634_get_state_size
 #define dll_634_func_280 __dll634_dll_634_func_280
 

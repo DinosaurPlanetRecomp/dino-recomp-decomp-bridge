@@ -10,7 +10,7 @@
 #define dll_655_func_208 __dll655_dll_655_func_208
 #define dll_655_draw __dll655_dll_655_draw
 #define dll_655_destroy __dll655_dll_655_destroy
-#define dll_655_get_setup_flags __dll655_dll_655_get_setup_flags
+#define dll_655_get_model_flags __dll655_dll_655_get_model_flags
 #define dll_655_get_state_size __dll655_dll_655_get_state_size
 
 #endif //_DLL_655_RECOMP_H

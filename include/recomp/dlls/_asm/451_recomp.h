@@ -10,7 +10,7 @@
 #define dll_451_func_1DC __dll451_dll_451_func_1DC
 #define dll_451_draw __dll451_dll_451_draw
 #define dll_451_destroy __dll451_dll_451_destroy
-#define dll_451_get_setup_flags __dll451_dll_451_get_setup_flags
+#define dll_451_get_model_flags __dll451_dll_451_get_model_flags
 #define dll_451_get_state_size __dll451_dll_451_get_state_size
 #define dll_451_func_234 __dll451_dll_451_func_234
 #define dll_451_func_308 __dll451_dll_451_func_308

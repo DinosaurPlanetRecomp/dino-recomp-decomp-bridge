@@ -10,7 +10,7 @@
 #define dll_651_func_7C8 __dll651_dll_651_func_7C8
 #define dll_651_draw __dll651_dll_651_draw
 #define dll_651_destroy __dll651_dll_651_destroy
-#define dll_651_get_setup_flags __dll651_dll_651_get_setup_flags
+#define dll_651_get_model_flags __dll651_dll_651_get_model_flags
 #define dll_651_get_state_size __dll651_dll_651_get_state_size
 #define _rodata_0 __dll651__rodata_0
 #define _rodata_4 __dll651__rodata_4

@@ -10,7 +10,7 @@
 #define sidesetup_func_48 __dll270_sidesetup_func_48
 #define sidesetup_draw __dll270_sidesetup_draw
 #define sidesetup_destroy __dll270_sidesetup_destroy
-#define sidesetup_func_7C __dll270_sidesetup_func_7C
+#define sidesetup_get_model_flags __dll270_sidesetup_get_model_flags
 #define sidesetup_get_state_size __dll270_sidesetup_get_state_size
 
 #endif //_DLL_270_RECOMP_H

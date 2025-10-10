@@ -10,7 +10,7 @@
 #define dll_683_func_74 __dll683_dll_683_func_74
 #define dll_683_draw __dll683_dll_683_draw
 #define dll_683_destroy __dll683_dll_683_destroy
-#define dll_683_get_setup_flags __dll683_dll_683_get_setup_flags
+#define dll_683_get_model_flags __dll683_dll_683_get_model_flags
 #define dll_683_get_state_size __dll683_dll_683_get_state_size
 #define str_0 __dll683_str_0
 

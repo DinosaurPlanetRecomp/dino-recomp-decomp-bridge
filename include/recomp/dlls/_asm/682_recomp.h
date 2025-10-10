@@ -10,7 +10,7 @@
 #define dll_682_func_87C __dll682_dll_682_func_87C
 #define dll_682_draw __dll682_dll_682_draw
 #define dll_682_destroy __dll682_dll_682_destroy
-#define dll_682_get_setup_flags __dll682_dll_682_get_setup_flags
+#define dll_682_get_model_flags __dll682_dll_682_get_model_flags
 #define dll_682_get_state_size __dll682_dll_682_get_state_size
 #define dll_682_func_9B8 __dll682_dll_682_func_9B8
 #define dll_682_func_B5C __dll682_dll_682_func_B5C

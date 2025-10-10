@@ -10,7 +10,7 @@
 #define dll_678_func_224 __dll678_dll_678_func_224
 #define dll_678_draw __dll678_dll_678_draw
 #define dll_678_destroy __dll678_dll_678_destroy
-#define dll_678_get_setup_flags __dll678_dll_678_get_setup_flags
+#define dll_678_get_model_flags __dll678_dll_678_get_model_flags
 #define dll_678_get_state_size __dll678_dll_678_get_state_size
 #define dll_678_func_2B8 __dll678_dll_678_func_2B8
 #define dll_678_func_38C __dll678_dll_678_func_38C

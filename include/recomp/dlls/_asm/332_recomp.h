@@ -10,7 +10,7 @@
 #define dll_332_func_608 __dll332_dll_332_func_608
 #define dll_332_draw __dll332_dll_332_draw
 #define dll_332_destroy __dll332_dll_332_destroy
-#define dll_332_get_setup_flags __dll332_dll_332_get_setup_flags
+#define dll_332_get_model_flags __dll332_dll_332_get_model_flags
 #define dll_332_get_state_size __dll332_dll_332_get_state_size
 #define dll_332_func_6C0 __dll332_dll_332_func_6C0
 #define dll_332_func_8E8 __dll332_dll_332_func_8E8

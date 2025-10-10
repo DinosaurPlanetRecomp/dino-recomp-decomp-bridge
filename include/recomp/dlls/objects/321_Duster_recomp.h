@@ -10,7 +10,7 @@
 #define Duster_func_754 __dll321_Duster_func_754
 #define Duster_draw __dll321_Duster_draw
 #define Duster_destroy __dll321_Duster_destroy
-#define Duster_get_setup_flags __dll321_Duster_get_setup_flags
+#define Duster_get_model_flags __dll321_Duster_get_model_flags
 #define Duster_get_state_size __dll321_Duster_get_state_size
 #define str_0 __dll321_str_0
 

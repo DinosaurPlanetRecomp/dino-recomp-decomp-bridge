@@ -10,7 +10,7 @@
 #define dll_220_func_670 __dll220_dll_220_func_670
 #define dll_220_draw __dll220_dll_220_draw
 #define dll_220_destroy __dll220_dll_220_destroy
-#define dll_220_get_setup_flags __dll220_dll_220_get_setup_flags
+#define dll_220_get_model_flags __dll220_dll_220_get_model_flags
 #define dll_220_get_state_size __dll220_dll_220_get_state_size
 #define dll_220_func_704 __dll220_dll_220_func_704
 #define dll_220_func_778 __dll220_dll_220_func_778

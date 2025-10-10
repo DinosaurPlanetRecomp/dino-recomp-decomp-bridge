@@ -10,7 +10,7 @@
 #define dll_731_func_164 __dll731_dll_731_func_164
 #define dll_731_draw __dll731_dll_731_draw
 #define dll_731_destroy __dll731_dll_731_destroy
-#define dll_731_get_setup_flags __dll731_dll_731_get_setup_flags
+#define dll_731_get_model_flags __dll731_dll_731_get_model_flags
 #define dll_731_get_state_size __dll731_dll_731_get_state_size
 #define _rodata_0 __dll731__rodata_0
 

@@ -10,7 +10,7 @@
 #define dll_506_func_184 __dll506_dll_506_func_184
 #define dll_506_draw __dll506_dll_506_draw
 #define dll_506_destroy __dll506_dll_506_destroy
-#define dll_506_get_setup_flags __dll506_dll_506_get_setup_flags
+#define dll_506_get_model_flags __dll506_dll_506_get_model_flags
 #define dll_506_get_state_size __dll506_dll_506_get_state_size
 #define _oob_rodata_0 __dll506__oob_rodata_0
 

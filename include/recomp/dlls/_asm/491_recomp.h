@@ -10,7 +10,7 @@
 #define dll_491_func_548 __dll491_dll_491_func_548
 #define dll_491_draw __dll491_dll_491_draw
 #define dll_491_destroy __dll491_dll_491_destroy
-#define dll_491_get_setup_flags __dll491_dll_491_get_setup_flags
+#define dll_491_get_model_flags __dll491_dll_491_get_model_flags
 #define dll_491_get_state_size __dll491_dll_491_get_state_size
 
 #endif //_DLL_491_RECOMP_H

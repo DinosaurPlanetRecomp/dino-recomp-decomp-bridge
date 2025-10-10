@@ -10,7 +10,7 @@
 #define dll_605_func_388 __dll605_dll_605_func_388
 #define dll_605_draw __dll605_dll_605_draw
 #define dll_605_destroy __dll605_dll_605_destroy
-#define dll_605_get_setup_flags __dll605_dll_605_get_setup_flags
+#define dll_605_get_model_flags __dll605_dll_605_get_model_flags
 #define dll_605_get_state_size __dll605_dll_605_get_state_size
 #define _rodata_0 __dll605__rodata_0
 #define _rodata_4 __dll605__rodata_4

@@ -10,7 +10,7 @@
 #define dll_503_func_CDC __dll503_dll_503_func_CDC
 #define dll_503_draw __dll503_dll_503_draw
 #define dll_503_destroy __dll503_dll_503_destroy
-#define dll_503_get_setup_flags __dll503_dll_503_get_setup_flags
+#define dll_503_get_model_flags __dll503_dll_503_get_model_flags
 #define dll_503_get_state_size __dll503_dll_503_get_state_size
 #define dll_503_func_DE4 __dll503_dll_503_func_DE4
 #define _rodata_2C __dll503__rodata_2C

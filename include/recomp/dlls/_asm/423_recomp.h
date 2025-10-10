@@ -10,7 +10,7 @@
 #define dll_423_func_1D0 __dll423_dll_423_func_1D0
 #define dll_423_draw __dll423_dll_423_draw
 #define dll_423_destroy __dll423_dll_423_destroy
-#define dll_423_get_setup_flags __dll423_dll_423_get_setup_flags
+#define dll_423_get_model_flags __dll423_dll_423_get_model_flags
 #define dll_423_get_state_size __dll423_dll_423_get_state_size
 #define dll_423_func_304 __dll423_dll_423_func_304
 #define dll_423_func_960 __dll423_dll_423_func_960

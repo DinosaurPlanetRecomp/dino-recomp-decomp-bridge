@@ -10,7 +10,7 @@
 #define dll_369_func_328 __dll369_dll_369_func_328
 #define dll_369_draw __dll369_dll_369_draw
 #define dll_369_destroy __dll369_dll_369_destroy
-#define dll_369_get_setup_flags __dll369_dll_369_get_setup_flags
+#define dll_369_get_model_flags __dll369_dll_369_get_model_flags
 #define dll_369_get_state_size __dll369_dll_369_get_state_size
 #define dll_369_func_4D0 __dll369_dll_369_func_4D0
 #define dll_369_func_678 __dll369_dll_369_func_678

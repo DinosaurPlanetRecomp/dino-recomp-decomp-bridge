@@ -11,7 +11,7 @@
 #define dll_215_func_5E0 __dll215_dll_215_func_5E0
 #define dll_215_draw __dll215_dll_215_draw
 #define dll_215_destroy __dll215_dll_215_destroy
-#define dll_215_get_setup_flags __dll215_dll_215_get_setup_flags
+#define dll_215_get_model_flags __dll215_dll_215_get_model_flags
 #define dll_215_get_state_size __dll215_dll_215_get_state_size
 #define dll_215_func_A30 __dll215_dll_215_func_A30
 #define dll_215_func_A40 __dll215_dll_215_func_A40

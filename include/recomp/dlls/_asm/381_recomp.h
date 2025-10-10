@@ -10,7 +10,7 @@
 #define dll_381_func_56C __dll381_dll_381_func_56C
 #define dll_381_draw __dll381_dll_381_draw
 #define dll_381_destroy __dll381_dll_381_destroy
-#define dll_381_get_setup_flags __dll381_dll_381_get_setup_flags
+#define dll_381_get_model_flags __dll381_dll_381_get_model_flags
 #define dll_381_get_state_size __dll381_dll_381_get_state_size
 #define dll_381_func_BC4 __dll381_dll_381_func_BC4
 #define dll_381_func_16FC __dll381_dll_381_func_16FC

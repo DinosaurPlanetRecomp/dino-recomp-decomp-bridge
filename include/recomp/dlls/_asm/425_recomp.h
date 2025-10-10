@@ -10,7 +10,7 @@
 #define dll_425_func_140 __dll425_dll_425_func_140
 #define dll_425_draw __dll425_dll_425_draw
 #define dll_425_destroy __dll425_dll_425_destroy
-#define dll_425_get_setup_flags __dll425_dll_425_get_setup_flags
+#define dll_425_get_model_flags __dll425_dll_425_get_model_flags
 #define dll_425_get_state_size __dll425_dll_425_get_state_size
 
 #endif //_DLL_425_RECOMP_H

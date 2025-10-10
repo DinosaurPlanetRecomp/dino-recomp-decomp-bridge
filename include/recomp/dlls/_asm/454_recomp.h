@@ -11,7 +11,7 @@
 #define dll_454_func_B54 __dll454_dll_454_func_B54
 #define dll_454_draw __dll454_dll_454_draw
 #define dll_454_destroy __dll454_dll_454_destroy
-#define dll_454_get_setup_flags __dll454_dll_454_get_setup_flags
+#define dll_454_get_model_flags __dll454_dll_454_get_model_flags
 #define dll_454_get_state_size __dll454_dll_454_get_state_size
 #define dll_454_func_BE8 __dll454_dll_454_func_BE8
 #define dll_454_func_CEC __dll454_dll_454_func_CEC

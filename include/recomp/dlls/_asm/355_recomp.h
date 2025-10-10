@@ -10,7 +10,7 @@
 #define dll_355_func_6E8 __dll355_dll_355_func_6E8
 #define dll_355_draw __dll355_dll_355_draw
 #define dll_355_destroy __dll355_dll_355_destroy
-#define dll_355_get_setup_flags __dll355_dll_355_get_setup_flags
+#define dll_355_get_model_flags __dll355_dll_355_get_model_flags
 #define dll_355_get_state_size __dll355_dll_355_get_state_size
 #define dll_355_func_7F4 __dll355_dll_355_func_7F4
 #define dll_355_func_B54 __dll355_dll_355_func_B54

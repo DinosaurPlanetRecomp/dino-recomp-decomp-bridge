@@ -10,7 +10,7 @@
 #define dll_370_func_7A0 __dll370_dll_370_func_7A0
 #define dll_370_draw __dll370_dll_370_draw
 #define dll_370_destroy __dll370_dll_370_destroy
-#define dll_370_get_setup_flags __dll370_dll_370_get_setup_flags
+#define dll_370_get_model_flags __dll370_dll_370_get_model_flags
 #define dll_370_get_state_size __dll370_dll_370_get_state_size
 #define dll_370_func_880 __dll370_dll_370_func_880
 #define dll_370_func_F0C __dll370_dll_370_func_F0C

@@ -10,7 +10,7 @@
 #define dll_444_func_3B4 __dll444_dll_444_func_3B4
 #define dll_444_draw __dll444_dll_444_draw
 #define dll_444_destroy __dll444_dll_444_destroy
-#define dll_444_get_setup_flags __dll444_dll_444_get_setup_flags
+#define dll_444_get_model_flags __dll444_dll_444_get_model_flags
 #define dll_444_get_state_size __dll444_dll_444_get_state_size
 #define _rodata_0 __dll444__rodata_0
 #define _bss_0 __dll444__bss_0

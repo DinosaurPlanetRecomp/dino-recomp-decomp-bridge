@@ -10,7 +10,7 @@
 #define dll_728_func_3CC __dll728_dll_728_func_3CC
 #define dll_728_draw __dll728_dll_728_draw
 #define dll_728_destroy __dll728_dll_728_destroy
-#define dll_728_get_setup_flags __dll728_dll_728_get_setup_flags
+#define dll_728_get_model_flags __dll728_dll_728_get_model_flags
 #define dll_728_get_state_size __dll728_dll_728_get_state_size
 #define dll_728_func_8F8 __dll728_dll_728_func_8F8
 #define dll_728_func_BF0 __dll728_dll_728_func_BF0

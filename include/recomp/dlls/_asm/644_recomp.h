@@ -10,7 +10,7 @@
 #define dll_644_func_560 __dll644_dll_644_func_560
 #define dll_644_draw __dll644_dll_644_draw
 #define dll_644_destroy __dll644_dll_644_destroy
-#define dll_644_get_setup_flags __dll644_dll_644_get_setup_flags
+#define dll_644_get_model_flags __dll644_dll_644_get_model_flags
 #define dll_644_get_state_size __dll644_dll_644_get_state_size
 #define dll_644_func_6AC __dll644_dll_644_func_6AC
 #define str_0 __dll644_str_0

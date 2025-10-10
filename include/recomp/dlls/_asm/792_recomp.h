@@ -10,7 +10,7 @@
 #define dll_792_func_298 __dll792_dll_792_func_298
 #define dll_792_draw __dll792_dll_792_draw
 #define dll_792_destroy __dll792_dll_792_destroy
-#define dll_792_get_setup_flags __dll792_dll_792_get_setup_flags
+#define dll_792_get_model_flags __dll792_dll_792_get_model_flags
 #define dll_792_get_state_size __dll792_dll_792_get_state_size
 #define _data_0 __dll792__data_0
 

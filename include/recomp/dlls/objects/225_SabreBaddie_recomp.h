@@ -11,7 +11,7 @@
 #define dll_225_func_450 __dll225_dll_225_func_450
 #define dll_225_draw __dll225_dll_225_draw
 #define dll_225_destroy __dll225_dll_225_destroy
-#define dll_225_get_setup_flags __dll225_dll_225_get_setup_flags
+#define dll_225_get_model_flags __dll225_dll_225_get_model_flags
 #define dll_225_get_state_size __dll225_dll_225_get_state_size
 #define dll_225_func_5C8 __dll225_dll_225_func_5C8
 #define dll_225_func_864 __dll225_dll_225_func_864

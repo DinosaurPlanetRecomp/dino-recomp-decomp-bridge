@@ -10,7 +10,7 @@
 #define dll_755_func_348 __dll755_dll_755_func_348
 #define dll_755_draw __dll755_dll_755_draw
 #define dll_755_destroy __dll755_dll_755_destroy
-#define dll_755_get_setup_flags __dll755_dll_755_get_setup_flags
+#define dll_755_get_model_flags __dll755_dll_755_get_model_flags
 #define dll_755_get_state_size __dll755_dll_755_get_state_size
 #define dll_755_func_3DC __dll755_dll_755_func_3DC
 #define str_0 __dll755_str_0

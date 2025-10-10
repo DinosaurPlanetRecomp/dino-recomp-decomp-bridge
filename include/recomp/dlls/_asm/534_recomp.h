@@ -10,7 +10,7 @@
 #define dll_534_func_1E4 __dll534_dll_534_func_1E4
 #define dll_534_draw __dll534_dll_534_draw
 #define dll_534_destroy __dll534_dll_534_destroy
-#define dll_534_get_setup_flags __dll534_dll_534_get_setup_flags
+#define dll_534_get_model_flags __dll534_dll_534_get_model_flags
 #define dll_534_get_state_size __dll534_dll_534_get_state_size
 #define dll_534_func_278 __dll534_dll_534_func_278
 #define _oob_rodata_0 __dll534__oob_rodata_0

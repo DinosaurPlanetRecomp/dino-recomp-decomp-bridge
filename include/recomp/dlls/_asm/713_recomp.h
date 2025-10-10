@@ -13,7 +13,7 @@
 #define dll_713_func_107C __dll713_dll_713_func_107C
 #define dll_713_draw __dll713_dll_713_draw
 #define dll_713_destroy __dll713_dll_713_destroy
-#define dll_713_get_setup_flags __dll713_dll_713_get_setup_flags
+#define dll_713_get_model_flags __dll713_dll_713_get_model_flags
 #define dll_713_get_state_size __dll713_dll_713_get_state_size
 #define dll_713_func_1684 __dll713_dll_713_func_1684
 #define dll_713_func_197C __dll713_dll_713_func_197C

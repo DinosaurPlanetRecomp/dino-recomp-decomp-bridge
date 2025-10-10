@@ -10,7 +10,7 @@
 #define dll_476_func_284 __dll476_dll_476_func_284
 #define dll_476_draw __dll476_dll_476_draw
 #define dll_476_destroy __dll476_dll_476_destroy
-#define dll_476_get_setup_flags __dll476_dll_476_get_setup_flags
+#define dll_476_get_model_flags __dll476_dll_476_get_model_flags
 #define dll_476_get_state_size __dll476_dll_476_get_state_size
 #define dll_476_func_364 __dll476_dll_476_func_364
 

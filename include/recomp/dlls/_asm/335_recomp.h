@@ -10,7 +10,7 @@
 #define dll_335_func_A50 __dll335_dll_335_func_A50
 #define dll_335_draw __dll335_dll_335_draw
 #define dll_335_destroy __dll335_dll_335_destroy
-#define dll_335_get_setup_flags __dll335_dll_335_get_setup_flags
+#define dll_335_get_model_flags __dll335_dll_335_get_model_flags
 #define dll_335_get_state_size __dll335_dll_335_get_state_size
 #define dll_335_func_B48 __dll335_dll_335_func_B48
 #define _rodata_0 __dll335__rodata_0

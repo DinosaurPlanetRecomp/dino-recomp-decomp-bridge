@@ -10,7 +10,7 @@
 #define dll_555_func_9BC __dll555_dll_555_func_9BC
 #define dll_555_draw __dll555_dll_555_draw
 #define dll_555_destroy __dll555_dll_555_destroy
-#define dll_555_get_setup_flags __dll555_dll_555_get_setup_flags
+#define dll_555_get_model_flags __dll555_dll_555_get_model_flags
 #define dll_555_get_state_size __dll555_dll_555_get_state_size
 #define dll_555_func_B20 __dll555_dll_555_func_B20
 #define _data_0 __dll555__data_0

@@ -10,7 +10,7 @@
 #define dll_371_func_2EC __dll371_dll_371_func_2EC
 #define dll_371_draw __dll371_dll_371_draw
 #define dll_371_destroy __dll371_dll_371_destroy
-#define dll_371_get_setup_flags __dll371_dll_371_get_setup_flags
+#define dll_371_get_model_flags __dll371_dll_371_get_model_flags
 #define dll_371_get_state_size __dll371_dll_371_get_state_size
 #define dll_371_func_380 __dll371_dll_371_func_380
 

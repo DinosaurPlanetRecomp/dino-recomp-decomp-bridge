@@ -10,7 +10,7 @@
 #define dll_386_func_2F8 __dll386_dll_386_func_2F8
 #define dll_386_draw __dll386_dll_386_draw
 #define dll_386_destroy __dll386_dll_386_destroy
-#define dll_386_get_setup_flags __dll386_dll_386_get_setup_flags
+#define dll_386_get_model_flags __dll386_dll_386_get_model_flags
 #define dll_386_get_state_size __dll386_dll_386_get_state_size
 #define dll_386_func_38C __dll386_dll_386_func_38C
 #define str_0 __dll386_str_0

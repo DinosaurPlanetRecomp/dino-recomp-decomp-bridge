@@ -10,7 +10,7 @@
 #define dll_213_func_40 __dll213_dll_213_func_40
 #define dll_213_draw __dll213_dll_213_draw
 #define dll_213_destroy __dll213_dll_213_destroy
-#define dll_213_get_setup_flags __dll213_dll_213_get_setup_flags
+#define dll_213_get_model_flags __dll213_dll_213_get_model_flags
 #define dll_213_get_state_size __dll213_dll_213_get_state_size
 
 #endif //_DLL_213_RECOMP_H

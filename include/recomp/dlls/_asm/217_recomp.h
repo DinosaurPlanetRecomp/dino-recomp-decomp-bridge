@@ -11,7 +11,7 @@
 #define dll_217_func_550 __dll217_dll_217_func_550
 #define dll_217_draw __dll217_dll_217_draw
 #define dll_217_destroy __dll217_dll_217_destroy
-#define dll_217_get_setup_flags __dll217_dll_217_get_setup_flags
+#define dll_217_get_model_flags __dll217_dll_217_get_model_flags
 #define dll_217_get_state_size __dll217_dll_217_get_state_size
 #define dll_217_func_7D0 __dll217_dll_217_func_7D0
 #define dll_217_func_7E0 __dll217_dll_217_func_7E0

@@ -10,7 +10,7 @@
 #define dll_326_func_140 __dll326_dll_326_func_140
 #define dll_326_draw __dll326_dll_326_draw
 #define dll_326_destroy __dll326_dll_326_destroy
-#define dll_326_get_setup_flags __dll326_dll_326_get_setup_flags
+#define dll_326_get_model_flags __dll326_dll_326_get_model_flags
 #define dll_326_get_state_size __dll326_dll_326_get_state_size
 
 #endif //_DLL_326_RECOMP_H

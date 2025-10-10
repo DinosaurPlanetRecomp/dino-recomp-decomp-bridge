@@ -10,7 +10,7 @@
 #define dll_346_func_38 __dll346_dll_346_func_38
 #define dll_346_draw __dll346_dll_346_draw
 #define dll_346_destroy __dll346_dll_346_destroy
-#define dll_346_get_setup_flags __dll346_dll_346_get_setup_flags
+#define dll_346_get_model_flags __dll346_dll_346_get_model_flags
 #define dll_346_get_state_size __dll346_dll_346_get_state_size
 #define _oob_rodata_0 __dll346__oob_rodata_0
 

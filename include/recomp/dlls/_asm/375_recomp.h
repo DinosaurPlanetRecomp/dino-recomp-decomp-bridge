@@ -10,7 +10,7 @@
 #define dll_375_func_274 __dll375_dll_375_func_274
 #define dll_375_draw __dll375_dll_375_draw
 #define dll_375_destroy __dll375_dll_375_destroy
-#define dll_375_get_setup_flags __dll375_dll_375_get_setup_flags
+#define dll_375_get_model_flags __dll375_dll_375_get_model_flags
 #define dll_375_get_state_size __dll375_dll_375_get_state_size
 #define dll_375_func_4B8 __dll375_dll_375_func_4B8
 #define str_0 __dll375_str_0

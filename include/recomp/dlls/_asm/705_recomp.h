@@ -10,7 +10,7 @@
 #define dll_705_func_368 __dll705_dll_705_func_368
 #define dll_705_draw __dll705_dll_705_draw
 #define dll_705_destroy __dll705_dll_705_destroy
-#define dll_705_get_setup_flags __dll705_dll_705_get_setup_flags
+#define dll_705_get_model_flags __dll705_dll_705_get_model_flags
 #define dll_705_get_state_size __dll705_dll_705_get_state_size
 #define dll_705_func_40C __dll705_dll_705_func_40C
 

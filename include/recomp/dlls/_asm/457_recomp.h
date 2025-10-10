@@ -16,7 +16,7 @@
 #define dll_457_func_DE4 __dll457_dll_457_func_DE4
 #define dll_457_draw __dll457_dll_457_draw
 #define dll_457_destroy __dll457_dll_457_destroy
-#define dll_457_get_setup_flags __dll457_dll_457_get_setup_flags
+#define dll_457_get_model_flags __dll457_dll_457_get_model_flags
 #define dll_457_get_state_size __dll457_dll_457_get_state_size
 #define dll_457_func_E3C __dll457_dll_457_func_E3C
 #define dll_457_func_12AC __dll457_dll_457_func_12AC

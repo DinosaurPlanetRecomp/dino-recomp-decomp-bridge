@@ -10,7 +10,7 @@
 #define dll_463_func_1E8 __dll463_dll_463_func_1E8
 #define dll_463_draw __dll463_dll_463_draw
 #define dll_463_destroy __dll463_dll_463_destroy
-#define dll_463_get_setup_flags __dll463_dll_463_get_setup_flags
+#define dll_463_get_model_flags __dll463_dll_463_get_model_flags
 #define dll_463_get_state_size __dll463_dll_463_get_state_size
 #define _rodata_0 __dll463__rodata_0
 

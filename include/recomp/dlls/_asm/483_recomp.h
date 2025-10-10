@@ -10,7 +10,7 @@
 #define dll_483_func_3D4 __dll483_dll_483_func_3D4
 #define dll_483_draw __dll483_dll_483_draw
 #define dll_483_destroy __dll483_dll_483_destroy
-#define dll_483_get_setup_flags __dll483_dll_483_get_setup_flags
+#define dll_483_get_model_flags __dll483_dll_483_get_model_flags
 #define dll_483_get_state_size __dll483_dll_483_get_state_size
 #define str_0 __dll483_str_0
 #define _rodata_18 __dll483__rodata_18

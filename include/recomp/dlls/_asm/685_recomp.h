@@ -10,7 +10,7 @@
 #define dll_685_func_488 __dll685_dll_685_func_488
 #define dll_685_draw __dll685_dll_685_draw
 #define dll_685_destroy __dll685_dll_685_destroy
-#define dll_685_get_setup_flags __dll685_dll_685_get_setup_flags
+#define dll_685_get_model_flags __dll685_dll_685_get_model_flags
 #define dll_685_get_state_size __dll685_dll_685_get_state_size
 #define dll_685_func_52C __dll685_dll_685_func_52C
 #define dll_685_func_544 __dll685_dll_685_func_544

@@ -10,7 +10,7 @@
 #define dll_672_func_744 __dll672_dll_672_func_744
 #define dll_672_draw __dll672_dll_672_draw
 #define dll_672_destroy __dll672_dll_672_destroy
-#define dll_672_get_setup_flags __dll672_dll_672_get_setup_flags
+#define dll_672_get_model_flags __dll672_dll_672_get_model_flags
 #define dll_672_get_state_size __dll672_dll_672_get_state_size
 #define dll_672_func_844 __dll672_dll_672_func_844
 #define dll_672_func_924 __dll672_dll_672_func_924

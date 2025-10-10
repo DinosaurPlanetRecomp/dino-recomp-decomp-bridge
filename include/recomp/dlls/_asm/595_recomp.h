@@ -10,7 +10,7 @@
 #define dll_595_func_1DC __dll595_dll_595_func_1DC
 #define dll_595_draw __dll595_dll_595_draw
 #define dll_595_destroy __dll595_dll_595_destroy
-#define dll_595_get_setup_flags __dll595_dll_595_get_setup_flags
+#define dll_595_get_model_flags __dll595_dll_595_get_model_flags
 #define dll_595_get_state_size __dll595_dll_595_get_state_size
 
 #endif //_DLL_595_RECOMP_H

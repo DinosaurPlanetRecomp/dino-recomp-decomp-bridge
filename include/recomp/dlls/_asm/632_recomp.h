@@ -10,7 +10,7 @@
 #define dll_632_func_104 __dll632_dll_632_func_104
 #define dll_632_draw __dll632_dll_632_draw
 #define dll_632_destroy __dll632_dll_632_destroy
-#define dll_632_get_setup_flags __dll632_dll_632_get_setup_flags
+#define dll_632_get_model_flags __dll632_dll_632_get_model_flags
 #define dll_632_get_state_size __dll632_dll_632_get_state_size
 #define dll_632_func_1C4 __dll632_dll_632_func_1C4
 #define _rodata_0 __dll632__rodata_0

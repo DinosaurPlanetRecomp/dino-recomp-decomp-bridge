@@ -10,7 +10,7 @@
 #define dll_341_func_204 __dll341_dll_341_func_204
 #define dll_341_draw __dll341_dll_341_draw
 #define dll_341_destroy __dll341_dll_341_destroy
-#define dll_341_get_setup_flags __dll341_dll_341_get_setup_flags
+#define dll_341_get_model_flags __dll341_dll_341_get_model_flags
 #define dll_341_get_state_size __dll341_dll_341_get_state_size
 #define dll_341_func_2D0 __dll341_dll_341_func_2D0
 #define _rodata_0 __dll341__rodata_0

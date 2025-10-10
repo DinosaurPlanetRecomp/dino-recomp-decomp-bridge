@@ -10,7 +10,7 @@
 #define dll_757_func_224 __dll757_dll_757_func_224
 #define dll_757_draw __dll757_dll_757_draw
 #define dll_757_destroy __dll757_dll_757_destroy
-#define dll_757_get_setup_flags __dll757_dll_757_get_setup_flags
+#define dll_757_get_model_flags __dll757_dll_757_get_model_flags
 #define dll_757_get_state_size __dll757_dll_757_get_state_size
 #define dll_757_func_27C __dll757_dll_757_func_27C
 #define dll_757_func_33C __dll757_dll_757_func_33C

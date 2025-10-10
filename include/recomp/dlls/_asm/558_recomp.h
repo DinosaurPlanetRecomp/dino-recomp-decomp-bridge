@@ -12,7 +12,7 @@
 #define dll_558_func_350 __dll558_dll_558_func_350
 #define dll_558_draw __dll558_dll_558_draw
 #define dll_558_destroy __dll558_dll_558_destroy
-#define dll_558_get_setup_flags __dll558_dll_558_get_setup_flags
+#define dll_558_get_model_flags __dll558_dll_558_get_model_flags
 #define dll_558_get_state_size __dll558_dll_558_get_state_size
 #define dll_558_func_3E4 __dll558_dll_558_func_3E4
 #define dll_558_func_46C __dll558_dll_558_func_46C

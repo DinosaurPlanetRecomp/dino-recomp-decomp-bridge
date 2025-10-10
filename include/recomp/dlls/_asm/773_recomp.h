@@ -11,7 +11,7 @@
 #define dll_773_func_290 __dll773_dll_773_func_290
 #define dll_773_draw __dll773_dll_773_draw
 #define dll_773_destroy __dll773_dll_773_destroy
-#define dll_773_get_setup_flags __dll773_dll_773_get_setup_flags
+#define dll_773_get_model_flags __dll773_dll_773_get_model_flags
 #define dll_773_get_state_size __dll773_dll_773_get_state_size
 #define dll_773_func_358 __dll773_dll_773_func_358
 #define dll_773_func_434 __dll773_dll_773_func_434

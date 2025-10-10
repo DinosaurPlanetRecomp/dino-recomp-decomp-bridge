@@ -11,7 +11,7 @@
 #define dll_222_func_4F0 __dll222_dll_222_func_4F0
 #define dll_222_draw __dll222_dll_222_draw
 #define dll_222_destroy __dll222_dll_222_destroy
-#define dll_222_get_setup_flags __dll222_dll_222_get_setup_flags
+#define dll_222_get_model_flags __dll222_dll_222_get_model_flags
 #define dll_222_get_state_size __dll222_dll_222_get_state_size
 #define dll_222_func_7B0 __dll222_dll_222_func_7B0
 #define dll_222_func_7C4 __dll222_dll_222_func_7C4

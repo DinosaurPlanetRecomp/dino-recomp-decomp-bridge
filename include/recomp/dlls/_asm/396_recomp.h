@@ -10,7 +10,7 @@
 #define dll_396_func_314 __dll396_dll_396_func_314
 #define dll_396_draw __dll396_dll_396_draw
 #define dll_396_destroy __dll396_dll_396_destroy
-#define dll_396_get_setup_flags __dll396_dll_396_get_setup_flags
+#define dll_396_get_model_flags __dll396_dll_396_get_model_flags
 #define dll_396_get_state_size __dll396_dll_396_get_state_size
 #define dll_396_func_424 __dll396_dll_396_func_424
 #define dll_396_func_700 __dll396_dll_396_func_700

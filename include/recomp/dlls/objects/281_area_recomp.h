@@ -10,7 +10,7 @@
 #define area_func_3C __dll281_area_func_3C
 #define area_draw __dll281_area_draw
 #define area_destroy __dll281_area_destroy
-#define area_func_70 __dll281_area_func_70
+#define area_get_model_flags __dll281_area_get_model_flags
 #define area_get_state_size __dll281_area_get_state_size
 
 #endif //_DLL_281_RECOMP_H

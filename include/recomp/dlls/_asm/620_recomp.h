@@ -10,7 +10,7 @@
 #define dll_620_func_6B0 __dll620_dll_620_func_6B0
 #define dll_620_draw __dll620_dll_620_draw
 #define dll_620_destroy __dll620_dll_620_destroy
-#define dll_620_get_setup_flags __dll620_dll_620_get_setup_flags
+#define dll_620_get_model_flags __dll620_dll_620_get_model_flags
 #define dll_620_get_state_size __dll620_dll_620_get_state_size
 #define _rodata_0 __dll620__rodata_0
 #define _rodata_4 __dll620__rodata_4

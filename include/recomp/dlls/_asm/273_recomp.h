@@ -10,7 +10,7 @@
 #define dll_273_func_45C __dll273_dll_273_func_45C
 #define dll_273_draw __dll273_dll_273_draw
 #define dll_273_destroy __dll273_dll_273_destroy
-#define dll_273_get_setup_flags __dll273_dll_273_get_setup_flags
+#define dll_273_get_model_flags __dll273_dll_273_get_model_flags
 #define dll_273_get_state_size __dll273_dll_273_get_state_size
 
 #endif //_DLL_273_RECOMP_H

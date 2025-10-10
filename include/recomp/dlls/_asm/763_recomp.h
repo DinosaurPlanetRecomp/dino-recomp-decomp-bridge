@@ -10,7 +10,7 @@
 #define dll_763_func_258 __dll763_dll_763_func_258
 #define dll_763_draw __dll763_dll_763_draw
 #define dll_763_destroy __dll763_dll_763_destroy
-#define dll_763_get_setup_flags __dll763_dll_763_get_setup_flags
+#define dll_763_get_model_flags __dll763_dll_763_get_model_flags
 #define dll_763_get_state_size __dll763_dll_763_get_state_size
 #define _data_0 __dll763__data_0
 

@@ -10,7 +10,7 @@
 #define dll_288_func_390 __dll288_dll_288_func_390
 #define dll_288_draw __dll288_dll_288_draw
 #define dll_288_destroy __dll288_dll_288_destroy
-#define dll_288_get_setup_flags __dll288_dll_288_get_setup_flags
+#define dll_288_get_model_flags __dll288_dll_288_get_model_flags
 #define dll_288_get_state_size __dll288_dll_288_get_state_size
 #define _oob_rodata_0 __dll288__oob_rodata_0
 

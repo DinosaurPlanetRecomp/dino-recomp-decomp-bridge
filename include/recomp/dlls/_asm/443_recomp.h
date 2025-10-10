@@ -10,7 +10,7 @@
 #define dll_443_func_8E8 __dll443_dll_443_func_8E8
 #define dll_443_draw __dll443_dll_443_draw
 #define dll_443_destroy __dll443_dll_443_destroy
-#define dll_443_get_setup_flags __dll443_dll_443_get_setup_flags
+#define dll_443_get_model_flags __dll443_dll_443_get_model_flags
 #define dll_443_get_state_size __dll443_dll_443_get_state_size
 #define dll_443_func_9C8 __dll443_dll_443_func_9C8
 #define _rodata_0 __dll443__rodata_0

@@ -10,7 +10,7 @@
 #define dll_722_func_998 __dll722_dll_722_func_998
 #define dll_722_draw __dll722_dll_722_draw
 #define dll_722_destroy __dll722_dll_722_destroy
-#define dll_722_get_setup_flags __dll722_dll_722_get_setup_flags
+#define dll_722_get_model_flags __dll722_dll_722_get_model_flags
 #define dll_722_get_state_size __dll722_dll_722_get_state_size
 #define dll_722_func_BEC __dll722_dll_722_func_BEC
 #define dll_722_func_D00 __dll722_dll_722_func_D00

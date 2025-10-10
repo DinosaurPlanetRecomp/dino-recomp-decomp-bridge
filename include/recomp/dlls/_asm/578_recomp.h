@@ -10,7 +10,7 @@
 #define dll_578_func_2CC __dll578_dll_578_func_2CC
 #define dll_578_draw __dll578_dll_578_draw
 #define dll_578_destroy __dll578_dll_578_destroy
-#define dll_578_get_setup_flags __dll578_dll_578_get_setup_flags
+#define dll_578_get_model_flags __dll578_dll_578_get_model_flags
 #define dll_578_get_state_size __dll578_dll_578_get_state_size
 #define dll_578_func_408 __dll578_dll_578_func_408
 

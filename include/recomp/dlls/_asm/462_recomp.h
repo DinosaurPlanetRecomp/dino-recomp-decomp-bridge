@@ -10,7 +10,7 @@
 #define dll_462_func_2D4 __dll462_dll_462_func_2D4
 #define dll_462_draw __dll462_dll_462_draw
 #define dll_462_destroy __dll462_dll_462_destroy
-#define dll_462_get_setup_flags __dll462_dll_462_get_setup_flags
+#define dll_462_get_model_flags __dll462_dll_462_get_model_flags
 #define dll_462_get_state_size __dll462_dll_462_get_state_size
 #define str_0 __dll462_str_0
 

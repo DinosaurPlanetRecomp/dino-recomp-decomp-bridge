@@ -10,7 +10,7 @@
 #define dll_406_func_250 __dll406_dll_406_func_250
 #define dll_406_draw __dll406_dll_406_draw
 #define dll_406_destroy __dll406_dll_406_destroy
-#define dll_406_get_setup_flags __dll406_dll_406_get_setup_flags
+#define dll_406_get_model_flags __dll406_dll_406_get_model_flags
 #define dll_406_get_state_size __dll406_dll_406_get_state_size
 #define str_0 __dll406_str_0
 

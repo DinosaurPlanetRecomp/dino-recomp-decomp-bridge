@@ -10,7 +10,7 @@
 #define dll_292_func_164 __dll292_dll_292_func_164
 #define dll_292_draw __dll292_dll_292_draw
 #define dll_292_destroy __dll292_dll_292_destroy
-#define dll_292_get_setup_flags __dll292_dll_292_get_setup_flags
+#define dll_292_get_model_flags __dll292_dll_292_get_model_flags
 #define dll_292_get_state_size __dll292_dll_292_get_state_size
 
 #endif //_DLL_292_RECOMP_H

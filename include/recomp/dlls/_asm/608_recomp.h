@@ -10,7 +10,7 @@
 #define dll_608_func_60 __dll608_dll_608_func_60
 #define dll_608_draw __dll608_dll_608_draw
 #define dll_608_destroy __dll608_dll_608_destroy
-#define dll_608_get_setup_flags __dll608_dll_608_get_setup_flags
+#define dll_608_get_model_flags __dll608_dll_608_get_model_flags
 #define dll_608_get_state_size __dll608_dll_608_get_state_size
 #define dll_608_func_158 __dll608_dll_608_func_158
 #define dll_608_func_3B4 __dll608_dll_608_func_3B4

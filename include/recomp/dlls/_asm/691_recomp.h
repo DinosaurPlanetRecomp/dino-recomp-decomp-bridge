@@ -10,7 +10,7 @@
 #define dll_691_func_AC __dll691_dll_691_func_AC
 #define dll_691_draw __dll691_dll_691_draw
 #define dll_691_destroy __dll691_dll_691_destroy
-#define dll_691_get_setup_flags __dll691_dll_691_get_setup_flags
+#define dll_691_get_model_flags __dll691_dll_691_get_model_flags
 #define dll_691_get_state_size __dll691_dll_691_get_state_size
 #define str_0 __dll691_str_0
 

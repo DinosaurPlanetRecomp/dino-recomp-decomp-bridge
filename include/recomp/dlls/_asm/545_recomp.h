@@ -10,7 +10,7 @@
 #define dll_545_func_37C __dll545_dll_545_func_37C
 #define dll_545_draw __dll545_dll_545_draw
 #define dll_545_destroy __dll545_dll_545_destroy
-#define dll_545_get_setup_flags __dll545_dll_545_get_setup_flags
+#define dll_545_get_model_flags __dll545_dll_545_get_model_flags
 #define dll_545_get_state_size __dll545_dll_545_get_state_size
 #define dll_545_func_4A4 __dll545_dll_545_func_4A4
 #define _rodata_0 __dll545__rodata_0

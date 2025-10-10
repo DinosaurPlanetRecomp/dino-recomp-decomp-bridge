@@ -12,7 +12,7 @@
 #define dll_280_func_954 __dll280_dll_280_func_954
 #define dll_280_draw __dll280_dll_280_draw
 #define dll_280_destroy __dll280_dll_280_destroy
-#define dll_280_get_setup_flags __dll280_dll_280_get_setup_flags
+#define dll_280_get_model_flags __dll280_dll_280_get_model_flags
 #define dll_280_get_state_size __dll280_dll_280_get_state_size
 #define dll_280_func_A88 __dll280_dll_280_func_A88
 #define dll_280_func_ADC __dll280_dll_280_func_ADC

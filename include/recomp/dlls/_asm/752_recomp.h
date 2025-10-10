@@ -10,7 +10,7 @@
 #define dll_752_func_480 __dll752_dll_752_func_480
 #define dll_752_draw __dll752_dll_752_draw
 #define dll_752_destroy __dll752_dll_752_destroy
-#define dll_752_get_setup_flags __dll752_dll_752_get_setup_flags
+#define dll_752_get_model_flags __dll752_dll_752_get_model_flags
 #define dll_752_get_state_size __dll752_dll_752_get_state_size
 #define str_0 __dll752_str_0
 

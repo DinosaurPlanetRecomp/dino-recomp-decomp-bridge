@@ -10,7 +10,7 @@
 #define dll_400_func_2B4 __dll400_dll_400_func_2B4
 #define dll_400_draw __dll400_dll_400_draw
 #define dll_400_destroy __dll400_dll_400_destroy
-#define dll_400_get_setup_flags __dll400_dll_400_get_setup_flags
+#define dll_400_get_model_flags __dll400_dll_400_get_model_flags
 #define dll_400_get_state_size __dll400_dll_400_get_state_size
 #define dll_400_func_39C __dll400_dll_400_func_39C
 #define dll_400_func_3F0 __dll400_dll_400_func_3F0

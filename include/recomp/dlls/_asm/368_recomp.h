@@ -10,7 +10,7 @@
 #define dll_368_func_390 __dll368_dll_368_func_390
 #define dll_368_draw __dll368_dll_368_draw
 #define dll_368_destroy __dll368_dll_368_destroy
-#define dll_368_get_setup_flags __dll368_dll_368_get_setup_flags
+#define dll_368_get_model_flags __dll368_dll_368_get_model_flags
 #define dll_368_get_state_size __dll368_dll_368_get_state_size
 #define dll_368_func_424 __dll368_dll_368_func_424
 #define _rodata_20 __dll368__rodata_20

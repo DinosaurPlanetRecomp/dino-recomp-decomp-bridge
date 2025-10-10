@@ -11,7 +11,7 @@
 #define dll_399_draw __dll399_dll_399_draw
 #define dll_399_func_4E0 __dll399_dll_399_func_4E0
 #define dll_399_destroy __dll399_dll_399_destroy
-#define dll_399_get_setup_flags __dll399_dll_399_get_setup_flags
+#define dll_399_get_model_flags __dll399_dll_399_get_model_flags
 #define dll_399_get_state_size __dll399_dll_399_get_state_size
 #define str_0 __dll399_str_0
 

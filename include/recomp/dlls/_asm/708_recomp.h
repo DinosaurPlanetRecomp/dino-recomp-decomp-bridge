@@ -12,7 +12,7 @@
 #define dll_708_func_988 __dll708_dll_708_func_988
 #define dll_708_draw __dll708_dll_708_draw
 #define dll_708_destroy __dll708_dll_708_destroy
-#define dll_708_get_setup_flags __dll708_dll_708_get_setup_flags
+#define dll_708_get_model_flags __dll708_dll_708_get_model_flags
 #define dll_708_get_state_size __dll708_dll_708_get_state_size
 #define dll_708_func_ABC __dll708_dll_708_func_ABC
 #define dll_708_func_FDC __dll708_dll_708_func_FDC

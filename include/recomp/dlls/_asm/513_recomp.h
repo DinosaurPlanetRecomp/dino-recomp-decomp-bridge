@@ -10,7 +10,7 @@
 #define dll_513_func_80 __dll513_dll_513_func_80
 #define dll_513_draw __dll513_dll_513_draw
 #define dll_513_destroy __dll513_dll_513_destroy
-#define dll_513_get_setup_flags __dll513_dll_513_get_setup_flags
+#define dll_513_get_model_flags __dll513_dll_513_get_model_flags
 #define dll_513_get_state_size __dll513_dll_513_get_state_size
 #define _rodata_0 __dll513__rodata_0
 

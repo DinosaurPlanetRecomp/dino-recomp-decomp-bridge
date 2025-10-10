@@ -10,7 +10,7 @@
 #define animobj_func_318 __dll214_animobj_func_318
 #define animobj_draw __dll214_animobj_draw
 #define animobj_destroy __dll214_animobj_destroy
-#define animobj_func_484 __dll214_animobj_func_484
+#define animobj_get_model_flags __dll214_animobj_get_model_flags
 #define animobj_get_state_size __dll214_animobj_get_state_size
 
 #endif //_DLL_214_RECOMP_H

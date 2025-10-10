@@ -10,7 +10,7 @@
 #define dll_382_func_F4 __dll382_dll_382_func_F4
 #define dll_382_draw __dll382_dll_382_draw
 #define dll_382_destroy __dll382_dll_382_destroy
-#define dll_382_get_setup_flags __dll382_dll_382_get_setup_flags
+#define dll_382_get_model_flags __dll382_dll_382_get_model_flags
 #define dll_382_get_state_size __dll382_dll_382_get_state_size
 
 #endif //_DLL_382_RECOMP_H

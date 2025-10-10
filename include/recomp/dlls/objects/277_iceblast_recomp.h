@@ -10,7 +10,7 @@
 #define iceblast_func_26C __dll277_iceblast_func_26C
 #define iceblast_draw __dll277_iceblast_draw
 #define iceblast_destroy __dll277_iceblast_destroy
-#define iceblast_func_2CC __dll277_iceblast_func_2CC
+#define iceblast_get_model_flags __dll277_iceblast_get_model_flags
 #define iceblast_get_state_size __dll277_iceblast_get_state_size
 
 #endif //_DLL_277_RECOMP_H

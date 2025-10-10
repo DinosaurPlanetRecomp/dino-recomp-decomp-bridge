@@ -10,7 +10,7 @@
 #define dll_549_func_1D0 __dll549_dll_549_func_1D0
 #define dll_549_draw __dll549_dll_549_draw
 #define dll_549_destroy __dll549_dll_549_destroy
-#define dll_549_get_setup_flags __dll549_dll_549_get_setup_flags
+#define dll_549_get_model_flags __dll549_dll_549_get_model_flags
 #define dll_549_get_state_size __dll549_dll_549_get_state_size
 #define dll_549_func_264 __dll549_dll_549_func_264
 #define str_0 __dll549_str_0

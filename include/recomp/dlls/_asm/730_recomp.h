@@ -10,7 +10,7 @@
 #define dll_730_func_218 __dll730_dll_730_func_218
 #define dll_730_draw __dll730_dll_730_draw
 #define dll_730_destroy __dll730_dll_730_destroy
-#define dll_730_get_setup_flags __dll730_dll_730_get_setup_flags
+#define dll_730_get_model_flags __dll730_dll_730_get_model_flags
 #define dll_730_get_state_size __dll730_dll_730_get_state_size
 #define dll_730_func_2EC __dll730_dll_730_func_2EC
 #define dll_730_func_334 __dll730_dll_730_func_334

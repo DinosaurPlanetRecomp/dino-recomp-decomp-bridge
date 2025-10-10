@@ -20,7 +20,7 @@
 #define dll_461_func_1634 __dll461_dll_461_func_1634
 #define dll_461_draw __dll461_dll_461_draw
 #define dll_461_destroy __dll461_dll_461_destroy
-#define dll_461_get_setup_flags __dll461_dll_461_get_setup_flags
+#define dll_461_get_model_flags __dll461_dll_461_get_model_flags
 #define dll_461_get_state_size __dll461_dll_461_get_state_size
 #define dll_461_func_1AE4 __dll461_dll_461_func_1AE4
 #define str_0 __dll461_str_0

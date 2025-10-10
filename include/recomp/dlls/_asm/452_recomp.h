@@ -10,7 +10,7 @@
 #define dll_452_func_3A8 __dll452_dll_452_func_3A8
 #define dll_452_draw __dll452_dll_452_draw
 #define dll_452_destroy __dll452_dll_452_destroy
-#define dll_452_get_setup_flags __dll452_dll_452_get_setup_flags
+#define dll_452_get_model_flags __dll452_dll_452_get_model_flags
 #define dll_452_get_state_size __dll452_dll_452_get_state_size
 #define dll_452_func_53C __dll452_dll_452_func_53C
 #define dll_452_func_614 __dll452_dll_452_func_614

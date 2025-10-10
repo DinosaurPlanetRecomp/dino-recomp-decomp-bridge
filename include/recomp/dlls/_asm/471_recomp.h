@@ -10,7 +10,7 @@
 #define dll_471_func_2E8 __dll471_dll_471_func_2E8
 #define dll_471_draw __dll471_dll_471_draw
 #define dll_471_destroy __dll471_dll_471_destroy
-#define dll_471_get_setup_flags __dll471_dll_471_get_setup_flags
+#define dll_471_get_model_flags __dll471_dll_471_get_model_flags
 #define dll_471_get_state_size __dll471_dll_471_get_state_size
 #define _oob_rodata_0 __dll471__oob_rodata_0
 

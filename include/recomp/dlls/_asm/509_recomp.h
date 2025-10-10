@@ -10,7 +10,7 @@
 #define dll_509_func_2C8 __dll509_dll_509_func_2C8
 #define dll_509_draw __dll509_dll_509_draw
 #define dll_509_destroy __dll509_dll_509_destroy
-#define dll_509_get_setup_flags __dll509_dll_509_get_setup_flags
+#define dll_509_get_model_flags __dll509_dll_509_get_model_flags
 #define dll_509_get_state_size __dll509_dll_509_get_state_size
 #define str_0 __dll509_str_0
 #define _rodata_1C __dll509__rodata_1C

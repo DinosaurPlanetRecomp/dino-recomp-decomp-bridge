@@ -10,7 +10,7 @@
 #define dll_484_func_178 __dll484_dll_484_func_178
 #define dll_484_draw __dll484_dll_484_draw
 #define dll_484_destroy __dll484_dll_484_destroy
-#define dll_484_get_setup_flags __dll484_dll_484_get_setup_flags
+#define dll_484_get_model_flags __dll484_dll_484_get_model_flags
 #define dll_484_get_state_size __dll484_dll_484_get_state_size
 #define _rodata_0 __dll484__rodata_0
 #define _data_0 __dll484__data_0

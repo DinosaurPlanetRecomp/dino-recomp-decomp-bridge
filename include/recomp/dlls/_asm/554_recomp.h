@@ -10,7 +10,7 @@
 #define dll_554_func_158 __dll554_dll_554_func_158
 #define dll_554_draw __dll554_dll_554_draw
 #define dll_554_destroy __dll554_dll_554_destroy
-#define dll_554_get_setup_flags __dll554_dll_554_get_setup_flags
+#define dll_554_get_model_flags __dll554_dll_554_get_model_flags
 #define dll_554_get_state_size __dll554_dll_554_get_state_size
 #define dll_554_func_254 __dll554_dll_554_func_254
 

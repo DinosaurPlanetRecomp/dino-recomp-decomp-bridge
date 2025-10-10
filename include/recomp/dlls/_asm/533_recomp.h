@@ -10,7 +10,7 @@
 #define dll_533_func_1B4 __dll533_dll_533_func_1B4
 #define dll_533_draw __dll533_dll_533_draw
 #define dll_533_destroy __dll533_dll_533_destroy
-#define dll_533_get_setup_flags __dll533_dll_533_get_setup_flags
+#define dll_533_get_model_flags __dll533_dll_533_get_model_flags
 #define dll_533_get_state_size __dll533_dll_533_get_state_size
 
 #endif //_DLL_533_RECOMP_H

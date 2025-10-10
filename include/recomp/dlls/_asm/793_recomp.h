@@ -10,7 +10,7 @@
 #define dll_793_func_85C __dll793_dll_793_func_85C
 #define dll_793_draw __dll793_dll_793_draw
 #define dll_793_destroy __dll793_dll_793_destroy
-#define dll_793_get_setup_flags __dll793_dll_793_get_setup_flags
+#define dll_793_get_model_flags __dll793_dll_793_get_model_flags
 #define dll_793_get_state_size __dll793_dll_793_get_state_size
 #define dll_793_func_950 __dll793_dll_793_func_950
 #define dll_793_func_9E0 __dll793_dll_793_func_9E0

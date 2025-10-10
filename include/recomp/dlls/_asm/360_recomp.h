@@ -10,7 +10,7 @@
 #define dll_360_func_338 __dll360_dll_360_func_338
 #define dll_360_draw __dll360_dll_360_draw
 #define dll_360_destroy __dll360_dll_360_destroy
-#define dll_360_get_setup_flags __dll360_dll_360_get_setup_flags
+#define dll_360_get_model_flags __dll360_dll_360_get_model_flags
 #define dll_360_get_state_size __dll360_dll_360_get_state_size
 #define dll_360_func_3CC __dll360_dll_360_func_3CC
 #define dll_360_func_610 __dll360_dll_360_func_610

@@ -10,7 +10,7 @@
 #define dll_790_func_438 __dll790_dll_790_func_438
 #define dll_790_draw __dll790_dll_790_draw
 #define dll_790_destroy __dll790_dll_790_destroy
-#define dll_790_get_setup_flags __dll790_dll_790_get_setup_flags
+#define dll_790_get_model_flags __dll790_dll_790_get_model_flags
 #define dll_790_get_state_size __dll790_dll_790_get_state_size
 #define dll_790_func_500 __dll790_dll_790_func_500
 #define dll_790_func_644 __dll790_dll_790_func_644

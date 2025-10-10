@@ -11,7 +11,7 @@
 #define dll_331_func_1D34 __dll331_dll_331_func_1D34
 #define dll_331_draw __dll331_dll_331_draw
 #define dll_331_destroy __dll331_dll_331_destroy
-#define dll_331_get_setup_flags __dll331_dll_331_get_setup_flags
+#define dll_331_get_model_flags __dll331_dll_331_get_model_flags
 #define dll_331_get_state_size __dll331_dll_331_get_state_size
 #define str_0 __dll331_str_0
 #define str_10 __dll331_str_10

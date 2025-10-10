@@ -11,7 +11,7 @@
 #define dll_350_func_BB8 __dll350_dll_350_func_BB8
 #define dll_350_draw __dll350_dll_350_draw
 #define dll_350_destroy __dll350_dll_350_destroy
-#define dll_350_get_setup_flags __dll350_dll_350_get_setup_flags
+#define dll_350_get_model_flags __dll350_dll_350_get_model_flags
 #define dll_350_get_state_size __dll350_dll_350_get_state_size
 #define dll_350_func_C8C __dll350_dll_350_func_C8C
 #define str_0 __dll350_str_0

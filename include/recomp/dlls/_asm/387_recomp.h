@@ -10,7 +10,7 @@
 #define dll_387_func_254 __dll387_dll_387_func_254
 #define dll_387_draw __dll387_dll_387_draw
 #define dll_387_destroy __dll387_dll_387_destroy
-#define dll_387_get_setup_flags __dll387_dll_387_get_setup_flags
+#define dll_387_get_model_flags __dll387_dll_387_get_model_flags
 #define dll_387_get_state_size __dll387_dll_387_get_state_size
 #define str_0 __dll387_str_0
 

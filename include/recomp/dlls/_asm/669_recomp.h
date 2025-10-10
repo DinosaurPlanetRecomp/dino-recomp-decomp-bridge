@@ -11,7 +11,7 @@
 #define dll_669_func_878 __dll669_dll_669_func_878
 #define dll_669_draw __dll669_dll_669_draw
 #define dll_669_destroy __dll669_dll_669_destroy
-#define dll_669_get_setup_flags __dll669_dll_669_get_setup_flags
+#define dll_669_get_model_flags __dll669_dll_669_get_model_flags
 #define dll_669_get_state_size __dll669_dll_669_get_state_size
 #define dll_669_func_C70 __dll669_dll_669_func_C70
 #define dll_669_func_110C __dll669_dll_669_func_110C

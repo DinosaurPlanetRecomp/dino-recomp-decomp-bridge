@@ -10,7 +10,7 @@
 #define dll_414_func_5A8 __dll414_dll_414_func_5A8
 #define dll_414_draw __dll414_dll_414_draw
 #define dll_414_destroy __dll414_dll_414_destroy
-#define dll_414_get_setup_flags __dll414_dll_414_get_setup_flags
+#define dll_414_get_model_flags __dll414_dll_414_get_model_flags
 #define dll_414_get_state_size __dll414_dll_414_get_state_size
 #define _rodata_1C __dll414__rodata_1C
 #define _rodata_20 __dll414__rodata_20

@@ -10,7 +10,7 @@
 #define dll_742_func_244 __dll742_dll_742_func_244
 #define dll_742_draw __dll742_dll_742_draw
 #define dll_742_destroy __dll742_dll_742_destroy
-#define dll_742_get_setup_flags __dll742_dll_742_get_setup_flags
+#define dll_742_get_model_flags __dll742_dll_742_get_model_flags
 #define dll_742_get_state_size __dll742_dll_742_get_state_size
 #define _data_0 __dll742__data_0
 #define _data_8 __dll742__data_8

@@ -10,7 +10,7 @@
 #define dll_249_func_73C __dll249_dll_249_func_73C
 #define dll_249_draw __dll249_dll_249_draw
 #define dll_249_destroy __dll249_dll_249_destroy
-#define dll_249_get_setup_flags __dll249_dll_249_get_setup_flags
+#define dll_249_get_model_flags __dll249_dll_249_get_model_flags
 #define dll_249_get_state_size __dll249_dll_249_get_state_size
 #define dll_249_func_854 __dll249_dll_249_func_854
 #define _rodata_0 __dll249__rodata_0

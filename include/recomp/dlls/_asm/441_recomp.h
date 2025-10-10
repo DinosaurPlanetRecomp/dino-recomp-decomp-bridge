@@ -10,7 +10,7 @@
 #define dll_441_func_1A0 __dll441_dll_441_func_1A0
 #define dll_441_draw __dll441_dll_441_draw
 #define dll_441_destroy __dll441_dll_441_destroy
-#define dll_441_get_setup_flags __dll441_dll_441_get_setup_flags
+#define dll_441_get_model_flags __dll441_dll_441_get_model_flags
 #define dll_441_get_state_size __dll441_dll_441_get_state_size
 #define dll_441_func_2B4 __dll441_dll_441_func_2B4
 

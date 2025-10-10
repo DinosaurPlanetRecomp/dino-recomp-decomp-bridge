@@ -16,7 +16,7 @@
 #define dll_504_func_B20 __dll504_dll_504_func_B20
 #define dll_504_draw __dll504_dll_504_draw
 #define dll_504_destroy __dll504_dll_504_destroy
-#define dll_504_get_setup_flags __dll504_dll_504_get_setup_flags
+#define dll_504_get_model_flags __dll504_dll_504_get_model_flags
 #define dll_504_get_state_size __dll504_dll_504_get_state_size
 #define dll_504_func_B78 __dll504_dll_504_func_B78
 #define dll_504_func_CF8 __dll504_dll_504_func_CF8

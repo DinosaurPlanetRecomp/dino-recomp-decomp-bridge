@@ -10,7 +10,7 @@
 #define dll_388_func_6B8 __dll388_dll_388_func_6B8
 #define dll_388_draw __dll388_dll_388_draw
 #define dll_388_destroy __dll388_dll_388_destroy
-#define dll_388_get_setup_flags __dll388_dll_388_get_setup_flags
+#define dll_388_get_model_flags __dll388_dll_388_get_model_flags
 #define dll_388_get_state_size __dll388_dll_388_get_state_size
 #define dll_388_func_AD4 __dll388_dll_388_func_AD4
 #define dll_388_func_1214 __dll388_dll_388_func_1214

@@ -10,7 +10,7 @@
 #define dll_553_func_64 __dll553_dll_553_func_64
 #define dll_553_draw __dll553_dll_553_draw
 #define dll_553_destroy __dll553_dll_553_destroy
-#define dll_553_get_setup_flags __dll553_dll_553_get_setup_flags
+#define dll_553_get_model_flags __dll553_dll_553_get_model_flags
 #define dll_553_get_state_size __dll553_dll_553_get_state_size
 #define dll_553_func_F8 __dll553_dll_553_func_F8
 

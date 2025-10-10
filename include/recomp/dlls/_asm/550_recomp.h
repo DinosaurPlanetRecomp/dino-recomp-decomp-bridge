@@ -10,7 +10,7 @@
 #define dll_550_func_3F0 __dll550_dll_550_func_3F0
 #define dll_550_draw __dll550_dll_550_draw
 #define dll_550_destroy __dll550_dll_550_destroy
-#define dll_550_get_setup_flags __dll550_dll_550_get_setup_flags
+#define dll_550_get_model_flags __dll550_dll_550_get_model_flags
 #define dll_550_get_state_size __dll550_dll_550_get_state_size
 #define _rodata_0 __dll550__rodata_0
 

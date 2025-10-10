@@ -10,7 +10,7 @@
 #define dll_412_func_38 __dll412_dll_412_func_38
 #define dll_412_draw __dll412_dll_412_draw
 #define dll_412_destroy __dll412_dll_412_destroy
-#define dll_412_get_setup_flags __dll412_dll_412_get_setup_flags
+#define dll_412_get_model_flags __dll412_dll_412_get_model_flags
 #define dll_412_get_state_size __dll412_dll_412_get_state_size
 #define _oob_rodata_0 __dll412__oob_rodata_0
 

@@ -10,7 +10,7 @@
 #define dll_611_func_420 __dll611_dll_611_func_420
 #define dll_611_draw __dll611_dll_611_draw
 #define dll_611_destroy __dll611_dll_611_destroy
-#define dll_611_get_setup_flags __dll611_dll_611_get_setup_flags
+#define dll_611_get_model_flags __dll611_dll_611_get_model_flags
 #define dll_611_get_state_size __dll611_dll_611_get_state_size
 #define dll_611_func_4B4 __dll611_dll_611_func_4B4
 #define str_0 __dll611_str_0

@@ -10,7 +10,7 @@
 #define dll_514_func_188 __dll514_dll_514_func_188
 #define dll_514_draw __dll514_dll_514_draw
 #define dll_514_destroy __dll514_dll_514_destroy
-#define dll_514_get_setup_flags __dll514_dll_514_get_setup_flags
+#define dll_514_get_model_flags __dll514_dll_514_get_model_flags
 #define dll_514_get_state_size __dll514_dll_514_get_state_size
 
 #endif //_DLL_514_RECOMP_H

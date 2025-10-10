@@ -10,7 +10,7 @@
 #define func_0002 __dll365_func_0002
 #define dll_365_draw __dll365_dll_365_draw
 #define dll_365_destroy __dll365_dll_365_destroy
-#define func_0005 __dll365_func_0005
+#define dll_365_get_model_flags __dll365_dll_365_get_model_flags
 #define dll_365_get_state_size __dll365_dll_365_get_state_size
 #define func_0007 __dll365_func_0007
 

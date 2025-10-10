@@ -10,7 +10,7 @@
 #define dll_212_func_6B8 __dll212_dll_212_func_6B8
 #define dll_212_draw __dll212_dll_212_draw
 #define dll_212_destroy __dll212_dll_212_destroy
-#define dll_212_get_setup_flags __dll212_dll_212_get_setup_flags
+#define dll_212_get_model_flags __dll212_dll_212_get_model_flags
 #define dll_212_get_state_size __dll212_dll_212_get_state_size
 #define dll_212_func_8E8 __dll212_dll_212_func_8E8
 #define dll_212_func_A94 __dll212_dll_212_func_A94

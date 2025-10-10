@@ -10,7 +10,7 @@
 #define dll_419_func_16C __dll419_dll_419_func_16C
 #define dll_419_draw __dll419_dll_419_draw
 #define dll_419_destroy __dll419_dll_419_destroy
-#define dll_419_get_setup_flags __dll419_dll_419_get_setup_flags
+#define dll_419_get_model_flags __dll419_dll_419_get_model_flags
 #define dll_419_get_state_size __dll419_dll_419_get_state_size
 #define _oob_rodata_0 __dll419__oob_rodata_0
 

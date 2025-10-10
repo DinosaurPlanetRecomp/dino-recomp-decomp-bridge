@@ -10,7 +10,7 @@
 #define dll_537_func_8F0 __dll537_dll_537_func_8F0
 #define dll_537_draw __dll537_dll_537_draw
 #define dll_537_destroy __dll537_dll_537_destroy
-#define dll_537_get_setup_flags __dll537_dll_537_get_setup_flags
+#define dll_537_get_model_flags __dll537_dll_537_get_model_flags
 #define dll_537_get_state_size __dll537_dll_537_get_state_size
 #define dll_537_func_A94 __dll537_dll_537_func_A94
 #define dll_537_func_DAC __dll537_dll_537_func_DAC

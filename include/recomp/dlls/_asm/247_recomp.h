@@ -10,7 +10,7 @@
 #define dll_247_func_808 __dll247_dll_247_func_808
 #define dll_247_draw __dll247_dll_247_draw
 #define dll_247_destroy __dll247_dll_247_destroy
-#define dll_247_get_setup_flags __dll247_dll_247_get_setup_flags
+#define dll_247_get_model_flags __dll247_dll_247_get_model_flags
 #define dll_247_get_state_size __dll247_dll_247_get_state_size
 #define dll_247_func_A5C __dll247_dll_247_func_A5C
 #define _rodata_0 __dll247__rodata_0

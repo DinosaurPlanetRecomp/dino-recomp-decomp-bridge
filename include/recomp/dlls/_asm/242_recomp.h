@@ -13,7 +13,7 @@
 #define dll_242_func_570 __dll242_dll_242_func_570
 #define dll_242_draw __dll242_dll_242_draw
 #define dll_242_destroy __dll242_dll_242_destroy
-#define dll_242_get_setup_flags __dll242_dll_242_get_setup_flags
+#define dll_242_get_model_flags __dll242_dll_242_get_model_flags
 #define dll_242_get_state_size __dll242_dll_242_get_state_size
 #define dll_242_func_6A4 __dll242_dll_242_func_6A4
 #define dll_242_func_760 __dll242_dll_242_func_760

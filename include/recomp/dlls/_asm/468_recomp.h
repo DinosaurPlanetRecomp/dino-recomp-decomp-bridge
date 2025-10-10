@@ -10,7 +10,7 @@
 #define dll_468_func_73C __dll468_dll_468_func_73C
 #define dll_468_draw __dll468_dll_468_draw
 #define dll_468_destroy __dll468_dll_468_destroy
-#define dll_468_get_setup_flags __dll468_dll_468_get_setup_flags
+#define dll_468_get_model_flags __dll468_dll_468_get_model_flags
 #define dll_468_get_state_size __dll468_dll_468_get_state_size
 #define _rodata_0 __dll468__rodata_0
 #define _data_0 __dll468__data_0

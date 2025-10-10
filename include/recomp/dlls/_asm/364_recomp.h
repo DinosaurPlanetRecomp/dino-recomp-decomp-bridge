@@ -10,7 +10,7 @@
 #define dll_364_func_E4 __dll364_dll_364_func_E4
 #define dll_364_draw __dll364_dll_364_draw
 #define dll_364_destroy __dll364_dll_364_destroy
-#define dll_364_get_setup_flags __dll364_dll_364_get_setup_flags
+#define dll_364_get_model_flags __dll364_dll_364_get_model_flags
 #define dll_364_get_state_size __dll364_dll_364_get_state_size
 #define dll_364_func_178 __dll364_dll_364_func_178
 #define _data_0 __dll364__data_0

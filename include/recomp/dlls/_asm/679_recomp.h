@@ -10,7 +10,7 @@
 #define dll_679_func_53C __dll679_dll_679_func_53C
 #define dll_679_draw __dll679_dll_679_draw
 #define dll_679_destroy __dll679_dll_679_destroy
-#define dll_679_get_setup_flags __dll679_dll_679_get_setup_flags
+#define dll_679_get_model_flags __dll679_dll_679_get_model_flags
 #define dll_679_get_state_size __dll679_dll_679_get_state_size
 #define dll_679_func_97C __dll679_dll_679_func_97C
 #define dll_679_func_9AC __dll679_dll_679_func_9AC

@@ -10,7 +10,7 @@
 #define dll_305_func_3FC __dll305_dll_305_func_3FC
 #define dll_305_draw __dll305_dll_305_draw
 #define dll_305_destroy __dll305_dll_305_destroy
-#define dll_305_get_setup_flags __dll305_dll_305_get_setup_flags
+#define dll_305_get_model_flags __dll305_dll_305_get_model_flags
 #define dll_305_get_state_size __dll305_dll_305_get_state_size
 #define dll_305_func_4D4 __dll305_dll_305_func_4D4
 #define str_0 __dll305_str_0

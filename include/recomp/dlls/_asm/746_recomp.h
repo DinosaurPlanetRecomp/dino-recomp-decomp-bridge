@@ -10,7 +10,7 @@
 #define dll_746_func_290 __dll746_dll_746_func_290
 #define dll_746_draw __dll746_dll_746_draw
 #define dll_746_destroy __dll746_dll_746_destroy
-#define dll_746_get_setup_flags __dll746_dll_746_get_setup_flags
+#define dll_746_get_model_flags __dll746_dll_746_get_model_flags
 #define dll_746_get_state_size __dll746_dll_746_get_state_size
 #define dll_746_func_648 __dll746_dll_746_func_648
 #define _rodata_0 __dll746__rodata_0

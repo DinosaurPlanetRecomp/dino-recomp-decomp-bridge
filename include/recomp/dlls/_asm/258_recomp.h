@@ -10,7 +10,7 @@
 #define dll_258_func_438 __dll258_dll_258_func_438
 #define dll_258_draw __dll258_dll_258_draw
 #define dll_258_destroy __dll258_dll_258_destroy
-#define dll_258_get_setup_flags __dll258_dll_258_get_setup_flags
+#define dll_258_get_model_flags __dll258_dll_258_get_model_flags
 #define dll_258_get_state_size __dll258_dll_258_get_state_size
 #define _rodata_0 __dll258__rodata_0
 

@@ -10,7 +10,7 @@
 #define dll_408_func_444 __dll408_dll_408_func_444
 #define dll_408_draw __dll408_dll_408_draw
 #define dll_408_destroy __dll408_dll_408_destroy
-#define dll_408_get_setup_flags __dll408_dll_408_get_setup_flags
+#define dll_408_get_model_flags __dll408_dll_408_get_model_flags
 #define dll_408_get_state_size __dll408_dll_408_get_state_size
 #define dll_408_func_4D8 __dll408_dll_408_func_4D8
 #define dll_408_func_694 __dll408_dll_408_func_694

@@ -10,7 +10,7 @@
 #define dll_300_func_82C __dll300_dll_300_func_82C
 #define dll_300_draw __dll300_dll_300_draw
 #define dll_300_destroy __dll300_dll_300_destroy
-#define dll_300_get_setup_flags __dll300_dll_300_get_setup_flags
+#define dll_300_get_model_flags __dll300_dll_300_get_model_flags
 #define dll_300_get_state_size __dll300_dll_300_get_state_size
 #define dll_300_func_884 __dll300_dll_300_func_884
 #define _rodata_0 __dll300__rodata_0

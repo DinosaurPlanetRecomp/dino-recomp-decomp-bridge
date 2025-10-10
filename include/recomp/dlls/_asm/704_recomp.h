@@ -10,7 +10,7 @@
 #define dll_704_func_650 __dll704_dll_704_func_650
 #define dll_704_draw __dll704_dll_704_draw
 #define dll_704_destroy __dll704_dll_704_destroy
-#define dll_704_get_setup_flags __dll704_dll_704_get_setup_flags
+#define dll_704_get_model_flags __dll704_dll_704_get_model_flags
 #define dll_704_get_state_size __dll704_dll_704_get_state_size
 #define _data_0 __dll704__data_0
 

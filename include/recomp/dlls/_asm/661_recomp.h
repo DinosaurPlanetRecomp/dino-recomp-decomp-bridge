@@ -10,7 +10,7 @@
 #define dll_661_func_338 __dll661_dll_661_func_338
 #define dll_661_draw __dll661_dll_661_draw
 #define dll_661_destroy __dll661_dll_661_destroy
-#define dll_661_get_setup_flags __dll661_dll_661_get_setup_flags
+#define dll_661_get_model_flags __dll661_dll_661_get_model_flags
 #define dll_661_get_state_size __dll661_dll_661_get_state_size
 #define dll_661_func_430 __dll661_dll_661_func_430
 #define _rodata_0 __dll661__rodata_0

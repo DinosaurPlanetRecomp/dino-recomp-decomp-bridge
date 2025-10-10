@@ -10,7 +10,7 @@
 #define dll_512_func_124 __dll512_dll_512_func_124
 #define dll_512_draw __dll512_dll_512_draw
 #define dll_512_destroy __dll512_dll_512_destroy
-#define dll_512_get_setup_flags __dll512_dll_512_get_setup_flags
+#define dll_512_get_model_flags __dll512_dll_512_get_model_flags
 #define dll_512_get_state_size __dll512_dll_512_get_state_size
 #define _data_0 __dll512__data_0
 #define _data_38 __dll512__data_38

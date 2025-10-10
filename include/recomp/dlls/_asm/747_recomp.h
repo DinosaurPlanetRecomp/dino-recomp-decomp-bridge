@@ -10,7 +10,7 @@
 #define dll_747_func_288 __dll747_dll_747_func_288
 #define dll_747_draw __dll747_dll_747_draw
 #define dll_747_destroy __dll747_dll_747_destroy
-#define dll_747_get_setup_flags __dll747_dll_747_get_setup_flags
+#define dll_747_get_model_flags __dll747_dll_747_get_model_flags
 #define dll_747_get_state_size __dll747_dll_747_get_state_size
 #define dll_747_func_580 __dll747_dll_747_func_580
 #define dll_747_func_7D4 __dll747_dll_747_func_7D4

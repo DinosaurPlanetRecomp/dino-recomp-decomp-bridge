@@ -10,7 +10,7 @@
 #define dll_699_func_BB0 __dll699_dll_699_func_BB0
 #define dll_699_draw __dll699_dll_699_draw
 #define dll_699_destroy __dll699_dll_699_destroy
-#define dll_699_get_setup_flags __dll699_dll_699_get_setup_flags
+#define dll_699_get_model_flags __dll699_dll_699_get_model_flags
 #define dll_699_get_state_size __dll699_dll_699_get_state_size
 #define dll_699_func_C08 __dll699_dll_699_func_C08
 #define _rodata_0 __dll699__rodata_0

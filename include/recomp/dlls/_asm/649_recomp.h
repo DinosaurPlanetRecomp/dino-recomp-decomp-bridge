@@ -10,7 +10,7 @@
 #define dll_649_func_1E8 __dll649_dll_649_func_1E8
 #define dll_649_draw __dll649_dll_649_draw
 #define dll_649_destroy __dll649_dll_649_destroy
-#define dll_649_get_setup_flags __dll649_dll_649_get_setup_flags
+#define dll_649_get_model_flags __dll649_dll_649_get_model_flags
 #define dll_649_get_state_size __dll649_dll_649_get_state_size
 #define dll_649_func_240 __dll649_dll_649_func_240
 

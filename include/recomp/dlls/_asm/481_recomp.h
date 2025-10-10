@@ -10,7 +10,7 @@
 #define dll_481_func_B08 __dll481_dll_481_func_B08
 #define dll_481_draw __dll481_dll_481_draw
 #define dll_481_destroy __dll481_dll_481_destroy
-#define dll_481_get_setup_flags __dll481_dll_481_get_setup_flags
+#define dll_481_get_model_flags __dll481_dll_481_get_model_flags
 #define dll_481_get_state_size __dll481_dll_481_get_state_size
 #define dll_481_func_C10 __dll481_dll_481_func_C10
 #define dll_481_func_1084 __dll481_dll_481_func_1084

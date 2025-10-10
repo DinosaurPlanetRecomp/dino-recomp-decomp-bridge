@@ -10,7 +10,7 @@
 #define dll_526_func_240 __dll526_dll_526_func_240
 #define dll_526_draw __dll526_dll_526_draw
 #define dll_526_destroy __dll526_dll_526_destroy
-#define dll_526_get_setup_flags __dll526_dll_526_get_setup_flags
+#define dll_526_get_model_flags __dll526_dll_526_get_model_flags
 #define dll_526_get_state_size __dll526_dll_526_get_state_size
 
 #endif //_DLL_526_RECOMP_H

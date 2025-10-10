@@ -11,7 +11,7 @@
 #define dll_318_func_EA8 __dll318_dll_318_func_EA8
 #define dll_318_draw __dll318_dll_318_draw
 #define dll_318_destroy __dll318_dll_318_destroy
-#define dll_318_get_setup_flags __dll318_dll_318_get_setup_flags
+#define dll_318_get_model_flags __dll318_dll_318_get_model_flags
 #define dll_318_get_state_size __dll318_dll_318_get_state_size
 #define dll_318_func_F74 __dll318_dll_318_func_F74
 #define dll_318_func_10BC __dll318_dll_318_func_10BC

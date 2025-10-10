@@ -10,7 +10,7 @@
 #define animator_func_300 __dll345_animator_func_300
 #define animator_draw __dll345_animator_draw
 #define animator_destroy __dll345_animator_destroy
-#define animator_func_36C __dll345_animator_func_36C
+#define animator_get_model_flags __dll345_animator_get_model_flags
 #define animator_get_state_size __dll345_animator_get_state_size
 
 #endif //_DLL_345_RECOMP_H

@@ -10,7 +10,7 @@
 #define dll_389_func_3D8 __dll389_dll_389_func_3D8
 #define dll_389_draw __dll389_dll_389_draw
 #define dll_389_destroy __dll389_dll_389_destroy
-#define dll_389_get_setup_flags __dll389_dll_389_get_setup_flags
+#define dll_389_get_model_flags __dll389_dll_389_get_model_flags
 #define dll_389_get_state_size __dll389_dll_389_get_state_size
 #define dll_389_func_490 __dll389_dll_389_func_490
 #define str_0 __dll389_str_0

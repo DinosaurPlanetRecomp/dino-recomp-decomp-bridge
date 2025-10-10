@@ -10,7 +10,7 @@
 #define dll_424_func_454 __dll424_dll_424_func_454
 #define dll_424_draw __dll424_dll_424_draw
 #define dll_424_destroy __dll424_dll_424_destroy
-#define dll_424_get_setup_flags __dll424_dll_424_get_setup_flags
+#define dll_424_get_model_flags __dll424_dll_424_get_model_flags
 #define dll_424_get_state_size __dll424_dll_424_get_state_size
 #define _oob_rodata_0 __dll424__oob_rodata_0
 

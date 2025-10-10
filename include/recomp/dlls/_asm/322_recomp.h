@@ -10,7 +10,7 @@
 #define dll_322_func_1E0 __dll322_dll_322_func_1E0
 #define dll_322_draw __dll322_dll_322_draw
 #define dll_322_destroy __dll322_dll_322_destroy
-#define dll_322_get_setup_flags __dll322_dll_322_get_setup_flags
+#define dll_322_get_model_flags __dll322_dll_322_get_model_flags
 #define dll_322_get_state_size __dll322_dll_322_get_state_size
 
 #endif //_DLL_322_RECOMP_H

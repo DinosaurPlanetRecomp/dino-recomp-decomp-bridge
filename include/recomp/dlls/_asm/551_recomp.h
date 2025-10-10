@@ -10,7 +10,7 @@
 #define dll_551_func_200 __dll551_dll_551_func_200
 #define dll_551_draw __dll551_dll_551_draw
 #define dll_551_destroy __dll551_dll_551_destroy
-#define dll_551_get_setup_flags __dll551_dll_551_get_setup_flags
+#define dll_551_get_model_flags __dll551_dll_551_get_model_flags
 #define dll_551_get_state_size __dll551_dll_551_get_state_size
 #define dll_551_func_294 __dll551_dll_551_func_294
 #define str_0 __dll551_str_0

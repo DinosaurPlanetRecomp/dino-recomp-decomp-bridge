@@ -10,7 +10,7 @@
 #define dll_464_func_37C __dll464_dll_464_func_37C
 #define dll_464_draw __dll464_dll_464_draw
 #define dll_464_destroy __dll464_dll_464_destroy
-#define dll_464_get_setup_flags __dll464_dll_464_get_setup_flags
+#define dll_464_get_model_flags __dll464_dll_464_get_model_flags
 #define dll_464_get_state_size __dll464_dll_464_get_state_size
 
 #endif //_DLL_464_RECOMP_H

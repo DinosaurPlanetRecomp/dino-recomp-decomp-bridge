@@ -10,7 +10,7 @@
 #define dll_392_func_324 __dll392_dll_392_func_324
 #define dll_392_draw __dll392_dll_392_draw
 #define dll_392_destroy __dll392_dll_392_destroy
-#define dll_392_get_setup_flags __dll392_dll_392_get_setup_flags
+#define dll_392_get_model_flags __dll392_dll_392_get_model_flags
 #define dll_392_get_state_size __dll392_dll_392_get_state_size
 #define dll_392_func_544 __dll392_dll_392_func_544
 #define dll_392_func_628 __dll392_dll_392_func_628

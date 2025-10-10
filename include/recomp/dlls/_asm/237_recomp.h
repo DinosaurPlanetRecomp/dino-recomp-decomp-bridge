@@ -12,7 +12,7 @@
 #define dll_237_func_CF4 __dll237_dll_237_func_CF4
 #define dll_237_draw __dll237_dll_237_draw
 #define dll_237_destroy __dll237_dll_237_destroy
-#define dll_237_get_setup_flags __dll237_dll_237_get_setup_flags
+#define dll_237_get_model_flags __dll237_dll_237_get_model_flags
 #define dll_237_get_state_size __dll237_dll_237_get_state_size
 #define dll_237_func_E28 __dll237_dll_237_func_E28
 #define dll_237_func_10B4 __dll237_dll_237_func_10B4

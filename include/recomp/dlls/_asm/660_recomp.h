@@ -10,7 +10,7 @@
 #define dll_660_func_328 __dll660_dll_660_func_328
 #define dll_660_draw __dll660_dll_660_draw
 #define dll_660_destroy __dll660_dll_660_destroy
-#define dll_660_get_setup_flags __dll660_dll_660_get_setup_flags
+#define dll_660_get_model_flags __dll660_dll_660_get_model_flags
 #define dll_660_get_state_size __dll660_dll_660_get_state_size
 #define _data_0 __dll660__data_0
 #define _data_4 __dll660__data_4

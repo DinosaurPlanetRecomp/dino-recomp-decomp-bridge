@@ -10,7 +10,7 @@
 #define dll_480_func_804 __dll480_dll_480_func_804
 #define dll_480_draw __dll480_dll_480_draw
 #define dll_480_destroy __dll480_dll_480_destroy
-#define dll_480_get_setup_flags __dll480_dll_480_get_setup_flags
+#define dll_480_get_model_flags __dll480_dll_480_get_model_flags
 #define dll_480_get_state_size __dll480_dll_480_get_state_size
 #define _rodata_0 __dll480__rodata_0
 #define _data_0 __dll480__data_0

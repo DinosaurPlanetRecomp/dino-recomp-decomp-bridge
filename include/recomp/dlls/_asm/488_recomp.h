@@ -10,7 +10,7 @@
 #define dll_488_func_BC4 __dll488_dll_488_func_BC4
 #define dll_488_draw __dll488_dll_488_draw
 #define dll_488_destroy __dll488_dll_488_destroy
-#define dll_488_get_setup_flags __dll488_dll_488_get_setup_flags
+#define dll_488_get_model_flags __dll488_dll_488_get_model_flags
 #define dll_488_get_state_size __dll488_dll_488_get_state_size
 #define dll_488_func_C90 __dll488_dll_488_func_C90
 #define dll_488_func_FEC __dll488_dll_488_func_FEC

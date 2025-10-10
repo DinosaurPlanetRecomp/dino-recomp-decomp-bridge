@@ -11,7 +11,7 @@
 #define dll_233_func_7B0 __dll233_dll_233_func_7B0
 #define dll_233_draw __dll233_dll_233_draw
 #define dll_233_destroy __dll233_dll_233_destroy
-#define dll_233_get_setup_flags __dll233_dll_233_get_setup_flags
+#define dll_233_get_model_flags __dll233_dll_233_get_model_flags
 #define dll_233_get_state_size __dll233_dll_233_get_state_size
 #define dll_233_func_AAC __dll233_dll_233_func_AAC
 #define dll_233_func_B28 __dll233_dll_233_func_B28

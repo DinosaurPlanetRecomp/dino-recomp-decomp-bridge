@@ -10,7 +10,7 @@
 #define dll_701_func_470 __dll701_dll_701_func_470
 #define dll_701_draw __dll701_dll_701_draw
 #define dll_701_destroy __dll701_dll_701_destroy
-#define dll_701_get_setup_flags __dll701_dll_701_get_setup_flags
+#define dll_701_get_model_flags __dll701_dll_701_get_model_flags
 #define dll_701_get_state_size __dll701_dll_701_get_state_size
 #define _data_0 __dll701__data_0
 #define _bss_0 __dll701__bss_0

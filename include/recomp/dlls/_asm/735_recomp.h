@@ -10,7 +10,7 @@
 #define dll_735_func_2E0 __dll735_dll_735_func_2E0
 #define dll_735_draw __dll735_dll_735_draw
 #define dll_735_destroy __dll735_dll_735_destroy
-#define dll_735_get_setup_flags __dll735_dll_735_get_setup_flags
+#define dll_735_get_model_flags __dll735_dll_735_get_model_flags
 #define dll_735_get_state_size __dll735_dll_735_get_state_size
 #define dll_735_func_3C4 __dll735_dll_735_func_3C4
 #define dll_735_func_3DC __dll735_dll_735_func_3DC

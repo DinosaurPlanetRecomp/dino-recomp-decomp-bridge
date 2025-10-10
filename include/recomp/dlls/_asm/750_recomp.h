@@ -11,7 +11,7 @@
 #define dll_750_func_8B4 __dll750_dll_750_func_8B4
 #define dll_750_draw __dll750_dll_750_draw
 #define dll_750_destroy __dll750_dll_750_destroy
-#define dll_750_get_setup_flags __dll750_dll_750_get_setup_flags
+#define dll_750_get_model_flags __dll750_dll_750_get_model_flags
 #define dll_750_get_state_size __dll750_dll_750_get_state_size
 #define dll_750_func_C44 __dll750_dll_750_func_C44
 #define dll_750_func_EA4 __dll750_dll_750_func_EA4

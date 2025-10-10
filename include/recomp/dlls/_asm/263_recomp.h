@@ -10,7 +10,7 @@
 #define dll_263_func_44C __dll263_dll_263_func_44C
 #define dll_263_draw __dll263_dll_263_draw
 #define dll_263_destroy __dll263_dll_263_destroy
-#define dll_263_get_setup_flags __dll263_dll_263_get_setup_flags
+#define dll_263_get_model_flags __dll263_dll_263_get_model_flags
 #define dll_263_get_state_size __dll263_dll_263_get_state_size
 #define _rodata_0 __dll263__rodata_0
 

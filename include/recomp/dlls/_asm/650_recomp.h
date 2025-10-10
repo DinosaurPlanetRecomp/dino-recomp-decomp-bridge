@@ -10,7 +10,7 @@
 #define dll_650_func_648 __dll650_dll_650_func_648
 #define dll_650_draw __dll650_dll_650_draw
 #define dll_650_destroy __dll650_dll_650_destroy
-#define dll_650_get_setup_flags __dll650_dll_650_get_setup_flags
+#define dll_650_get_model_flags __dll650_dll_650_get_model_flags
 #define dll_650_get_state_size __dll650_dll_650_get_state_size
 #define dll_650_func_EAC __dll650_dll_650_func_EAC
 #define str_0 __dll650_str_0

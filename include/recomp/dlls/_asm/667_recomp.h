@@ -10,7 +10,7 @@
 #define dll_667_func_420 __dll667_dll_667_func_420
 #define dll_667_draw __dll667_dll_667_draw
 #define dll_667_destroy __dll667_dll_667_destroy
-#define dll_667_get_setup_flags __dll667_dll_667_get_setup_flags
+#define dll_667_get_model_flags __dll667_dll_667_get_model_flags
 #define dll_667_get_state_size __dll667_dll_667_get_state_size
 #define dll_667_func_4B4 __dll667_dll_667_func_4B4
 #define dll_667_func_620 __dll667_dll_667_func_620

@@ -10,7 +10,7 @@
 #define dll_681_func_110 __dll681_dll_681_func_110
 #define dll_681_draw __dll681_dll_681_draw
 #define dll_681_destroy __dll681_dll_681_destroy
-#define dll_681_get_setup_flags __dll681_dll_681_get_setup_flags
+#define dll_681_get_model_flags __dll681_dll_681_get_model_flags
 #define dll_681_get_state_size __dll681_dll_681_get_state_size
 #define str_0 __dll681_str_0
 #define _rodata_28 __dll681__rodata_28

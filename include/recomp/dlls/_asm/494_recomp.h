@@ -10,7 +10,7 @@
 #define dll_494_func_1CC __dll494_dll_494_func_1CC
 #define dll_494_draw __dll494_dll_494_draw
 #define dll_494_destroy __dll494_dll_494_destroy
-#define dll_494_get_setup_flags __dll494_dll_494_get_setup_flags
+#define dll_494_get_model_flags __dll494_dll_494_get_model_flags
 #define dll_494_get_state_size __dll494_dll_494_get_state_size
 #define dll_494_func_2CC __dll494_dll_494_func_2CC
 

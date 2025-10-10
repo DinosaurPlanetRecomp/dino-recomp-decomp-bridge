@@ -10,7 +10,7 @@
 #define dll_576_func_190 __dll576_dll_576_func_190
 #define dll_576_draw __dll576_dll_576_draw
 #define dll_576_destroy __dll576_dll_576_destroy
-#define dll_576_get_setup_flags __dll576_dll_576_get_setup_flags
+#define dll_576_get_model_flags __dll576_dll_576_get_model_flags
 #define dll_576_get_state_size __dll576_dll_576_get_state_size
 #define _rodata_0 __dll576__rodata_0
 #define _rodata_4 __dll576__rodata_4

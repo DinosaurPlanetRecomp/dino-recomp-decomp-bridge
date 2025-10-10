@@ -10,7 +10,7 @@
 #define dll_448_func_8A4 __dll448_dll_448_func_8A4
 #define dll_448_draw __dll448_dll_448_draw
 #define dll_448_destroy __dll448_dll_448_destroy
-#define dll_448_get_setup_flags __dll448_dll_448_get_setup_flags
+#define dll_448_get_model_flags __dll448_dll_448_get_model_flags
 #define dll_448_get_state_size __dll448_dll_448_get_state_size
 #define dll_448_func_938 __dll448_dll_448_func_938
 #define dll_448_func_A34 __dll448_dll_448_func_A34

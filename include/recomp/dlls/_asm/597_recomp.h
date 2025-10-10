@@ -10,7 +10,7 @@
 #define dll_597_func_314 __dll597_dll_597_func_314
 #define dll_597_draw __dll597_dll_597_draw
 #define dll_597_destroy __dll597_dll_597_destroy
-#define dll_597_get_setup_flags __dll597_dll_597_get_setup_flags
+#define dll_597_get_model_flags __dll597_dll_597_get_model_flags
 #define dll_597_get_state_size __dll597_dll_597_get_state_size
 #define dll_597_func_428 __dll597_dll_597_func_428
 #define _rodata_0 __dll597__rodata_0

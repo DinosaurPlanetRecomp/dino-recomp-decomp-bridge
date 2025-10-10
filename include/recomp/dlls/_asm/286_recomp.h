@@ -10,7 +10,7 @@
 #define dll_286_func_300 __dll286_dll_286_func_300
 #define dll_286_draw __dll286_dll_286_draw
 #define dll_286_destroy __dll286_dll_286_destroy
-#define dll_286_get_setup_flags __dll286_dll_286_get_setup_flags
+#define dll_286_get_model_flags __dll286_dll_286_get_model_flags
 #define dll_286_get_state_size __dll286_dll_286_get_state_size
 #define _rodata_0 __dll286__rodata_0
 

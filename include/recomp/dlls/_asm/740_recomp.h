@@ -10,7 +10,7 @@
 #define dll_740_func_364 __dll740_dll_740_func_364
 #define dll_740_draw __dll740_dll_740_draw
 #define dll_740_destroy __dll740_dll_740_destroy
-#define dll_740_get_setup_flags __dll740_dll_740_get_setup_flags
+#define dll_740_get_model_flags __dll740_dll_740_get_model_flags
 #define dll_740_get_state_size __dll740_dll_740_get_state_size
 #define dll_740_func_3F8 __dll740_dll_740_func_3F8
 #define dll_740_func_4B8 __dll740_dll_740_func_4B8

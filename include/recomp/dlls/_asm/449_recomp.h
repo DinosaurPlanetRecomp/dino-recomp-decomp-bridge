@@ -10,7 +10,7 @@
 #define dll_449_func_1F4 __dll449_dll_449_func_1F4
 #define dll_449_draw __dll449_dll_449_draw
 #define dll_449_destroy __dll449_dll_449_destroy
-#define dll_449_get_setup_flags __dll449_dll_449_get_setup_flags
+#define dll_449_get_model_flags __dll449_dll_449_get_model_flags
 #define dll_449_get_state_size __dll449_dll_449_get_state_size
 #define dll_449_func_2B8 __dll449_dll_449_func_2B8
 

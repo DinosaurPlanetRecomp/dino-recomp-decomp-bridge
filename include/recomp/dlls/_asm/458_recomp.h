@@ -10,7 +10,7 @@
 #define dll_458_func_260 __dll458_dll_458_func_260
 #define dll_458_draw __dll458_dll_458_draw
 #define dll_458_destroy __dll458_dll_458_destroy
-#define dll_458_get_setup_flags __dll458_dll_458_get_setup_flags
+#define dll_458_get_model_flags __dll458_dll_458_get_model_flags
 #define dll_458_get_state_size __dll458_dll_458_get_state_size
 
 #endif //_DLL_458_RECOMP_H

@@ -10,7 +10,7 @@
 #define SHswapstone_func_278 __dll515_SHswapstone_func_278
 #define SHswapstone_draw __dll515_SHswapstone_draw
 #define SHswapstone_destroy __dll515_SHswapstone_destroy
-#define SHswapstone_func_3D4 __dll515_SHswapstone_func_3D4
+#define SHswapstone_get_model_flags __dll515_SHswapstone_get_model_flags
 #define SHswapstone_get_state_size __dll515_SHswapstone_get_state_size
 #define SHswapstone_func_448 __dll515_SHswapstone_func_448
 #define SHswapstone_func_A8C __dll515_SHswapstone_func_A8C

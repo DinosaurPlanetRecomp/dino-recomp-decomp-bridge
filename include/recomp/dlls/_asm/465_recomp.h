@@ -10,7 +10,7 @@
 #define dll_465_func_CC __dll465_dll_465_func_CC
 #define dll_465_draw __dll465_dll_465_draw
 #define dll_465_destroy __dll465_dll_465_destroy
-#define dll_465_get_setup_flags __dll465_dll_465_get_setup_flags
+#define dll_465_get_model_flags __dll465_dll_465_get_model_flags
 #define dll_465_get_state_size __dll465_dll_465_get_state_size
 
 #endif //_DLL_465_RECOMP_H

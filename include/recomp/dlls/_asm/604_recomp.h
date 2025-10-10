@@ -10,7 +10,7 @@
 #define dll_604_func_6BC __dll604_dll_604_func_6BC
 #define dll_604_draw __dll604_dll_604_draw
 #define dll_604_destroy __dll604_dll_604_destroy
-#define dll_604_get_setup_flags __dll604_dll_604_get_setup_flags
+#define dll_604_get_model_flags __dll604_dll_604_get_model_flags
 #define dll_604_get_state_size __dll604_dll_604_get_state_size
 #define _rodata_0 __dll604__rodata_0
 

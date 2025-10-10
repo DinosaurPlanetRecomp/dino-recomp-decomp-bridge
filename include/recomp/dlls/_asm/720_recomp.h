@@ -12,7 +12,7 @@
 #define dll_720_func_3D0 __dll720_dll_720_func_3D0
 #define dll_720_func_3E4 __dll720_dll_720_func_3E4
 #define dll_720_destroy __dll720_dll_720_destroy
-#define dll_720_get_setup_flags __dll720_dll_720_get_setup_flags
+#define dll_720_get_model_flags __dll720_dll_720_get_model_flags
 #define dll_720_get_state_size __dll720_dll_720_get_state_size
 #define dll_720_func_460 __dll720_dll_720_func_460
 #define dll_720_func_478 __dll720_dll_720_func_478

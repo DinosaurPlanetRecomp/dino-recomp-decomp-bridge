@@ -10,7 +10,7 @@
 #define dll_342_func_488 __dll342_dll_342_func_488
 #define dll_342_draw __dll342_dll_342_draw
 #define dll_342_destroy __dll342_dll_342_destroy
-#define dll_342_get_setup_flags __dll342_dll_342_get_setup_flags
+#define dll_342_get_model_flags __dll342_dll_342_get_model_flags
 #define dll_342_get_state_size __dll342_dll_342_get_state_size
 #define dll_342_func_540 __dll342_dll_342_func_540
 #define dll_342_func_5E8 __dll342_dll_342_func_5E8

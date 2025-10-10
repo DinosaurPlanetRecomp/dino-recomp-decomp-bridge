@@ -10,7 +10,7 @@
 #define dll_665_func_56C __dll665_dll_665_func_56C
 #define dll_665_draw __dll665_dll_665_draw
 #define dll_665_destroy __dll665_dll_665_destroy
-#define dll_665_get_setup_flags __dll665_dll_665_get_setup_flags
+#define dll_665_get_model_flags __dll665_dll_665_get_model_flags
 #define dll_665_get_state_size __dll665_dll_665_get_state_size
 #define dll_665_func_6A4 __dll665_dll_665_func_6A4
 #define dll_665_func_748 __dll665_dll_665_func_748

@@ -10,7 +10,7 @@
 #define dll_710_func_A8 __dll710_dll_710_func_A8
 #define dll_710_draw __dll710_dll_710_draw
 #define dll_710_destroy __dll710_dll_710_destroy
-#define dll_710_get_setup_flags __dll710_dll_710_get_setup_flags
+#define dll_710_get_model_flags __dll710_dll_710_get_model_flags
 #define dll_710_get_state_size __dll710_dll_710_get_state_size
 #define _oob_rodata_0 __dll710__oob_rodata_0
 

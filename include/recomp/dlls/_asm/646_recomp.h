@@ -10,7 +10,7 @@
 #define dll_646_func_128 __dll646_dll_646_func_128
 #define dll_646_draw __dll646_dll_646_draw
 #define dll_646_destroy __dll646_dll_646_destroy
-#define dll_646_get_setup_flags __dll646_dll_646_get_setup_flags
+#define dll_646_get_model_flags __dll646_dll_646_get_model_flags
 #define dll_646_get_state_size __dll646_dll_646_get_state_size
 #define dll_646_func_1B8 __dll646_dll_646_func_1B8
 #define dll_646_func_548 __dll646_dll_646_func_548

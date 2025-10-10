@@ -10,7 +10,7 @@
 #define dll_417_func_2D8 __dll417_dll_417_func_2D8
 #define dll_417_draw __dll417_dll_417_draw
 #define dll_417_destroy __dll417_dll_417_destroy
-#define dll_417_get_setup_flags __dll417_dll_417_get_setup_flags
+#define dll_417_get_model_flags __dll417_dll_417_get_model_flags
 #define dll_417_get_state_size __dll417_dll_417_get_state_size
 #define dll_417_func_3B8 __dll417_dll_417_func_3B8
 #define dll_417_func_400 __dll417_dll_417_func_400

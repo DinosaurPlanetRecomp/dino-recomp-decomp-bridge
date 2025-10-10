@@ -10,7 +10,7 @@
 #define dll_703_func_960 __dll703_dll_703_func_960
 #define dll_703_draw __dll703_dll_703_draw
 #define dll_703_destroy __dll703_dll_703_destroy
-#define dll_703_get_setup_flags __dll703_dll_703_get_setup_flags
+#define dll_703_get_model_flags __dll703_dll_703_get_model_flags
 #define dll_703_get_state_size __dll703_dll_703_get_state_size
 #define dll_703_func_A7C __dll703_dll_703_func_A7C
 #define str_0 __dll703_str_0

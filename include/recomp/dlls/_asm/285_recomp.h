@@ -10,7 +10,7 @@
 #define dll_285_func_398 __dll285_dll_285_func_398
 #define dll_285_draw __dll285_dll_285_draw
 #define dll_285_destroy __dll285_dll_285_destroy
-#define dll_285_get_setup_flags __dll285_dll_285_get_setup_flags
+#define dll_285_get_model_flags __dll285_dll_285_get_model_flags
 #define dll_285_get_state_size __dll285_dll_285_get_state_size
 #define dll_285_func_49C __dll285_dll_285_func_49C
 #define _rodata_0 __dll285__rodata_0

@@ -10,7 +10,7 @@
 #define dll_211_func_D1C __dll211_dll_211_func_D1C
 #define dll_211_draw __dll211_dll_211_draw
 #define dll_211_destroy __dll211_dll_211_destroy
-#define dll_211_get_setup_flags __dll211_dll_211_get_setup_flags
+#define dll_211_get_model_flags __dll211_dll_211_get_model_flags
 #define dll_211_get_state_size __dll211_dll_211_get_state_size
 #define dll_211_func_1064 __dll211_dll_211_func_1064
 #define dll_211_func_1074 __dll211_dll_211_func_1074

@@ -10,7 +10,7 @@
 #define dll_440_func_774 __dll440_dll_440_func_774
 #define dll_440_draw __dll440_dll_440_draw
 #define dll_440_destroy __dll440_dll_440_destroy
-#define dll_440_get_setup_flags __dll440_dll_440_get_setup_flags
+#define dll_440_get_model_flags __dll440_dll_440_get_model_flags
 #define dll_440_get_state_size __dll440_dll_440_get_state_size
 #define dll_440_func_940 __dll440_dll_440_func_940
 #define _rodata_0 __dll440__rodata_0

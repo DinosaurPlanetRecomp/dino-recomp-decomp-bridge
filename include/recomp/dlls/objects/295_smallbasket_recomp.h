@@ -10,7 +10,7 @@
 #define dll_295_func_C0C __dll295_dll_295_func_C0C
 #define dll_295_draw __dll295_dll_295_draw
 #define dll_295_destroy __dll295_dll_295_destroy
-#define dll_295_get_setup_flags __dll295_dll_295_get_setup_flags
+#define dll_295_get_model_flags __dll295_dll_295_get_model_flags
 #define dll_295_get_state_size __dll295_dll_295_get_state_size
 #define dll_295_func_DC0 __dll295_dll_295_func_DC0
 #define dll_295_func_E78 __dll295_dll_295_func_E78

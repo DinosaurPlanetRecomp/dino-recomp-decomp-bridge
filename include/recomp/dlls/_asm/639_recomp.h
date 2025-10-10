@@ -10,7 +10,7 @@
 #define dll_639_func_CBC __dll639_dll_639_func_CBC
 #define dll_639_draw __dll639_dll_639_draw
 #define dll_639_destroy __dll639_dll_639_destroy
-#define dll_639_get_setup_flags __dll639_dll_639_get_setup_flags
+#define dll_639_get_model_flags __dll639_dll_639_get_model_flags
 #define dll_639_get_state_size __dll639_dll_639_get_state_size
 #define _rodata_1C __dll639__rodata_1C
 #define _rodata_20 __dll639__rodata_20

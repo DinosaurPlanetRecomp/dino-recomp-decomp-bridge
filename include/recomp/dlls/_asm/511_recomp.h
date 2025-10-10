@@ -10,7 +10,7 @@
 #define dll_511_func_C8 __dll511_dll_511_func_C8
 #define dll_511_draw __dll511_dll_511_draw
 #define dll_511_destroy __dll511_dll_511_destroy
-#define dll_511_get_setup_flags __dll511_dll_511_get_setup_flags
+#define dll_511_get_model_flags __dll511_dll_511_get_model_flags
 #define dll_511_get_state_size __dll511_dll_511_get_state_size
 
 #endif //_DLL_511_RECOMP_H

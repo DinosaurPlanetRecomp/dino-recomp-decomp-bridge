@@ -11,7 +11,7 @@
 #define dll_688_func_474 __dll688_dll_688_func_474
 #define dll_688_draw __dll688_dll_688_draw
 #define dll_688_destroy __dll688_dll_688_destroy
-#define dll_688_get_setup_flags __dll688_dll_688_get_setup_flags
+#define dll_688_get_model_flags __dll688_dll_688_get_model_flags
 #define dll_688_get_state_size __dll688_dll_688_get_state_size
 #define dll_688_func_6DC __dll688_dll_688_func_6DC
 #define dll_688_func_6F0 __dll688_dll_688_func_6F0

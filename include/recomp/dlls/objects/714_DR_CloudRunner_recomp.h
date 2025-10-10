@@ -14,7 +14,7 @@
 #define dll_714_func_B70 __dll714_dll_714_func_B70
 #define dll_714_draw __dll714_dll_714_draw
 #define dll_714_destroy __dll714_dll_714_destroy
-#define dll_714_get_setup_flags __dll714_dll_714_get_setup_flags
+#define dll_714_get_model_flags __dll714_dll_714_get_model_flags
 #define dll_714_get_state_size __dll714_dll_714_get_state_size
 #define dll_714_func_F74 __dll714_dll_714_func_F74
 #define dll_714_func_10BC __dll714_dll_714_func_10BC

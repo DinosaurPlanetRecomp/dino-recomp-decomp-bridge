@@ -10,8 +10,8 @@
 #define dll_638_func_51C __dll638_dll_638_func_51C
 #define dll_638_func_528 __dll638_dll_638_func_528
 #define dll_638_func_540 __dll638_dll_638_func_540
-#define dll_638_func_5C0 __dll638_dll_638_func_5C0
-#define dll_638_func_5D0 __dll638_dll_638_func_5D0
+#define dll_638_get_model_flags __dll638_dll_638_get_model_flags
+#define dll_638_get_state_size __dll638_dll_638_get_state_size
 #define dll_638_func_5E4 __dll638_dll_638_func_5E4
 #define dll_638_func_62C __dll638_dll_638_func_62C
 #define dll_638_func_6C4 __dll638_dll_638_func_6C4

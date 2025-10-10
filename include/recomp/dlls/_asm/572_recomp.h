@@ -10,7 +10,7 @@
 #define dll_572_func_42C __dll572_dll_572_func_42C
 #define dll_572_draw __dll572_dll_572_draw
 #define dll_572_destroy __dll572_dll_572_destroy
-#define dll_572_get_setup_flags __dll572_dll_572_get_setup_flags
+#define dll_572_get_model_flags __dll572_dll_572_get_model_flags
 #define dll_572_get_state_size __dll572_dll_572_get_state_size
 #define dll_572_func_5C8 __dll572_dll_572_func_5C8
 #define dll_572_func_68C __dll572_dll_572_func_68C

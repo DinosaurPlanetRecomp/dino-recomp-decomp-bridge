@@ -10,7 +10,7 @@
 #define dll_758_func_2D8 __dll758_dll_758_func_2D8
 #define dll_758_draw __dll758_dll_758_draw
 #define dll_758_destroy __dll758_dll_758_destroy
-#define dll_758_get_setup_flags __dll758_dll_758_get_setup_flags
+#define dll_758_get_model_flags __dll758_dll_758_get_model_flags
 #define dll_758_get_state_size __dll758_dll_758_get_state_size
 #define str_0 __dll758_str_0
 

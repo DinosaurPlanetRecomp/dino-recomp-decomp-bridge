@@ -10,7 +10,7 @@
 #define dll_482_func_490 __dll482_dll_482_func_490
 #define dll_482_draw __dll482_dll_482_draw
 #define dll_482_destroy __dll482_dll_482_destroy
-#define dll_482_get_setup_flags __dll482_dll_482_get_setup_flags
+#define dll_482_get_model_flags __dll482_dll_482_get_model_flags
 #define dll_482_get_state_size __dll482_dll_482_get_state_size
 
 #endif //_DLL_482_RECOMP_H

@@ -10,7 +10,7 @@
 #define dll_500_func_268 __dll500_dll_500_func_268
 #define dll_500_draw __dll500_dll_500_draw
 #define dll_500_destroy __dll500_dll_500_destroy
-#define dll_500_get_setup_flags __dll500_dll_500_get_setup_flags
+#define dll_500_get_model_flags __dll500_dll_500_get_model_flags
 #define dll_500_get_state_size __dll500_dll_500_get_state_size
 #define dll_500_func_2C0 __dll500_dll_500_func_2C0
 #define _rodata_0 __dll500__rodata_0

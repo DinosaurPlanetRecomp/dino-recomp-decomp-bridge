@@ -10,7 +10,7 @@
 #define dll_336_func_144 __dll336_dll_336_func_144
 #define dll_336_draw __dll336_dll_336_draw
 #define dll_336_destroy __dll336_dll_336_destroy
-#define dll_336_get_setup_flags __dll336_dll_336_get_setup_flags
+#define dll_336_get_model_flags __dll336_dll_336_get_model_flags
 #define dll_336_get_state_size __dll336_dll_336_get_state_size
 #define _rodata_0 __dll336__rodata_0
 

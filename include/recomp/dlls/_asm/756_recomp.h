@@ -13,7 +13,7 @@
 #define dll_756_func_74C __dll756_dll_756_func_74C
 #define dll_756_draw __dll756_dll_756_draw
 #define dll_756_destroy __dll756_dll_756_destroy
-#define dll_756_get_setup_flags __dll756_dll_756_get_setup_flags
+#define dll_756_get_model_flags __dll756_dll_756_get_model_flags
 #define dll_756_get_state_size __dll756_dll_756_get_state_size
 #define dll_756_func_840 __dll756_dll_756_func_840
 #define str_0 __dll756_str_0

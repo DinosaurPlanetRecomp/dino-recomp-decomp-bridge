@@ -10,7 +10,7 @@
 #define dll_226_func_50C __dll226_dll_226_func_50C
 #define dll_226_draw __dll226_dll_226_draw
 #define dll_226_destroy __dll226_dll_226_destroy
-#define dll_226_get_setup_flags __dll226_dll_226_get_setup_flags
+#define dll_226_get_model_flags __dll226_dll_226_get_model_flags
 #define dll_226_get_state_size __dll226_dll_226_get_state_size
 #define dll_226_func_5DC __dll226_dll_226_func_5DC
 #define dll_226_func_620 __dll226_dll_226_func_620

@@ -11,7 +11,7 @@
 #define dll_218_func_648 __dll218_dll_218_func_648
 #define dll_218_draw __dll218_dll_218_draw
 #define dll_218_destroy __dll218_dll_218_destroy
-#define dll_218_get_setup_flags __dll218_dll_218_get_setup_flags
+#define dll_218_get_model_flags __dll218_dll_218_get_model_flags
 #define dll_218_get_state_size __dll218_dll_218_get_state_size
 #define dll_218_func_9B0 __dll218_dll_218_func_9B0
 #define dll_218_func_9C0 __dll218_dll_218_func_9C0

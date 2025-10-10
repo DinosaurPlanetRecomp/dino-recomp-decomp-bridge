@@ -10,7 +10,7 @@
 #define dll_686_func_8B4 __dll686_dll_686_func_8B4
 #define dll_686_draw __dll686_dll_686_draw
 #define dll_686_destroy __dll686_dll_686_destroy
-#define dll_686_get_setup_flags __dll686_dll_686_get_setup_flags
+#define dll_686_get_model_flags __dll686_dll_686_get_model_flags
 #define dll_686_get_state_size __dll686_dll_686_get_state_size
 #define dll_686_func_9BC __dll686_dll_686_func_9BC
 #define dll_686_func_A24 __dll686_dll_686_func_A24

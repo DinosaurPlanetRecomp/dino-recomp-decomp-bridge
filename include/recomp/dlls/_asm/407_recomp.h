@@ -10,7 +10,7 @@
 #define dll_407_func_238 __dll407_dll_407_func_238
 #define dll_407_draw __dll407_dll_407_draw
 #define dll_407_destroy __dll407_dll_407_destroy
-#define dll_407_get_setup_flags __dll407_dll_407_get_setup_flags
+#define dll_407_get_model_flags __dll407_dll_407_get_model_flags
 #define dll_407_get_state_size __dll407_dll_407_get_state_size
 #define dll_407_func_494 __dll407_dll_407_func_494
 #define dll_407_func_6D8 __dll407_dll_407_func_6D8

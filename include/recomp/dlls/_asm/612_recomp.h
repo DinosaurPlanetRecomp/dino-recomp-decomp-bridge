@@ -10,7 +10,7 @@
 #define dll_612_func_1604 __dll612_dll_612_func_1604
 #define dll_612_draw __dll612_dll_612_draw
 #define dll_612_destroy __dll612_dll_612_destroy
-#define dll_612_get_setup_flags __dll612_dll_612_get_setup_flags
+#define dll_612_get_model_flags __dll612_dll_612_get_model_flags
 #define dll_612_get_state_size __dll612_dll_612_get_state_size
 #define dll_612_func_17B8 __dll612_dll_612_func_17B8
 #define _rodata_0 __dll612__rodata_0

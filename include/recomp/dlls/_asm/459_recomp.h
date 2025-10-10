@@ -10,7 +10,7 @@
 #define dll_459_func_1BC __dll459_dll_459_func_1BC
 #define dll_459_draw __dll459_dll_459_draw
 #define dll_459_destroy __dll459_dll_459_destroy
-#define dll_459_get_setup_flags __dll459_dll_459_get_setup_flags
+#define dll_459_get_model_flags __dll459_dll_459_get_model_flags
 #define dll_459_get_state_size __dll459_dll_459_get_state_size
 #define dll_459_func_214 __dll459_dll_459_func_214
 #define dll_459_func_3F8 __dll459_dll_459_func_3F8

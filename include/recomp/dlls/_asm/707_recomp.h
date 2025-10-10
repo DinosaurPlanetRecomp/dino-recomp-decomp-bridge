@@ -19,7 +19,7 @@
 #define dll_707_func_1E14 __dll707_dll_707_func_1E14
 #define dll_707_draw __dll707_dll_707_draw
 #define dll_707_destroy __dll707_dll_707_destroy
-#define dll_707_get_setup_flags __dll707_dll_707_get_setup_flags
+#define dll_707_get_model_flags __dll707_dll_707_get_model_flags
 #define dll_707_get_state_size __dll707_dll_707_get_state_size
 #define str_0 __dll707_str_0
 #define _rodata_28 __dll707__rodata_28

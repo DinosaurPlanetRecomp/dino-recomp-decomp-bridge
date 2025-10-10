@@ -10,7 +10,7 @@
 #define dll_479_func_2D0 __dll479_dll_479_func_2D0
 #define dll_479_draw __dll479_dll_479_draw
 #define dll_479_destroy __dll479_dll_479_destroy
-#define dll_479_get_setup_flags __dll479_dll_479_get_setup_flags
+#define dll_479_get_model_flags __dll479_dll_479_get_model_flags
 #define dll_479_get_state_size __dll479_dll_479_get_state_size
 #define str_0 __dll479_str_0
 

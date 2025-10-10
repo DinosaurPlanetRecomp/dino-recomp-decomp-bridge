@@ -10,7 +10,7 @@
 #define dll_776_func_190 __dll776_dll_776_func_190
 #define dll_776_draw __dll776_dll_776_draw
 #define dll_776_destroy __dll776_dll_776_destroy
-#define dll_776_get_setup_flags __dll776_dll_776_get_setup_flags
+#define dll_776_get_model_flags __dll776_dll_776_get_model_flags
 #define dll_776_get_state_size __dll776_dll_776_get_state_size
 #define dll_776_func_224 __dll776_dll_776_func_224
 #define _rodata_0 __dll776__rodata_0

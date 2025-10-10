@@ -10,7 +10,7 @@
 #define dll_582_func_68 __dll582_dll_582_func_68
 #define dll_582_draw __dll582_dll_582_draw
 #define dll_582_destroy __dll582_dll_582_destroy
-#define dll_582_get_setup_flags __dll582_dll_582_get_setup_flags
+#define dll_582_get_model_flags __dll582_dll_582_get_model_flags
 #define dll_582_get_state_size __dll582_dll_582_get_state_size
 #define dll_582_func_FC __dll582_dll_582_func_FC
 

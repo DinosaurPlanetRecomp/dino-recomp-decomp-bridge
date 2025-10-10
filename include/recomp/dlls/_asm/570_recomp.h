@@ -10,7 +10,7 @@
 #define dll_570_func_1A8 __dll570_dll_570_func_1A8
 #define dll_570_draw __dll570_dll_570_draw
 #define dll_570_destroy __dll570_dll_570_destroy
-#define dll_570_get_setup_flags __dll570_dll_570_get_setup_flags
+#define dll_570_get_model_flags __dll570_dll_570_get_model_flags
 #define dll_570_get_state_size __dll570_dll_570_get_state_size
 #define dll_570_func_2AC __dll570_dll_570_func_2AC
 #define dll_570_func_360 __dll570_dll_570_func_360

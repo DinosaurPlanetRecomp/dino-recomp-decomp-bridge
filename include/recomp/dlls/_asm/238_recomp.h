@@ -11,7 +11,7 @@
 #define dll_238_func_6B4 __dll238_dll_238_func_6B4
 #define dll_238_draw __dll238_dll_238_draw
 #define dll_238_destroy __dll238_dll_238_destroy
-#define dll_238_get_setup_flags __dll238_dll_238_get_setup_flags
+#define dll_238_get_model_flags __dll238_dll_238_get_model_flags
 #define dll_238_get_state_size __dll238_dll_238_get_state_size
 #define dll_238_func_7E8 __dll238_dll_238_func_7E8
 #define dll_238_func_90C __dll238_dll_238_func_90C

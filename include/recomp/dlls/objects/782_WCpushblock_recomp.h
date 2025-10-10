@@ -10,8 +10,8 @@
 #define dll_782_func_F38 __dll782_dll_782_func_F38
 #define dll_782_func_F44 __dll782_dll_782_func_F44
 #define dll_782_func_F98 __dll782_dll_782_func_F98
-#define dll_782_func_FA8 __dll782_dll_782_func_FA8
-#define dll_782_func_FDC __dll782_dll_782_func_FDC
+#define dll_782_get_model_flags __dll782_dll_782_get_model_flags
+#define dll_782_get_state_size __dll782_dll_782_get_state_size
 #define dll_782_func_FF0 __dll782_dll_782_func_FF0
 #define _rodata_0 __dll782__rodata_0
 #define _rodata_20 __dll782__rodata_20

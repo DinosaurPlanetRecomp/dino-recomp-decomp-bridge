@@ -10,7 +10,7 @@
 #define dll_521_func_3DC __dll521_dll_521_func_3DC
 #define dll_521_draw __dll521_dll_521_draw
 #define dll_521_destroy __dll521_dll_521_destroy
-#define dll_521_get_setup_flags __dll521_dll_521_get_setup_flags
+#define dll_521_get_model_flags __dll521_dll_521_get_model_flags
 #define dll_521_get_state_size __dll521_dll_521_get_state_size
 #define dll_521_func_4C8 __dll521_dll_521_func_4C8
 

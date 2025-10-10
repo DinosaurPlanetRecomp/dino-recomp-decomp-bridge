@@ -10,7 +10,7 @@
 #define dll_265_func_22C __dll265_dll_265_func_22C
 #define dll_265_draw __dll265_dll_265_draw
 #define dll_265_destroy __dll265_dll_265_destroy
-#define dll_265_get_setup_flags __dll265_dll_265_get_setup_flags
+#define dll_265_get_model_flags __dll265_dll_265_get_model_flags
 #define dll_265_get_state_size __dll265_dll_265_get_state_size
 #define str_0 __dll265_str_0
 #define _rodata_30 __dll265__rodata_30

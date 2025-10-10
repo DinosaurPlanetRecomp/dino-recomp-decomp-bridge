@@ -10,7 +10,7 @@
 #define dll_709_func_2D0 __dll709_dll_709_func_2D0
 #define dll_709_draw __dll709_dll_709_draw
 #define dll_709_destroy __dll709_dll_709_destroy
-#define dll_709_get_setup_flags __dll709_dll_709_get_setup_flags
+#define dll_709_get_model_flags __dll709_dll_709_get_model_flags
 #define dll_709_get_state_size __dll709_dll_709_get_state_size
 #define _rodata_0 __dll709__rodata_0
 

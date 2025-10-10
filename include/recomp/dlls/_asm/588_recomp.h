@@ -10,7 +10,7 @@
 #define dll_588_func_E0 __dll588_dll_588_func_E0
 #define dll_588_draw __dll588_dll_588_draw
 #define dll_588_destroy __dll588_dll_588_destroy
-#define dll_588_get_setup_flags __dll588_dll_588_get_setup_flags
+#define dll_588_get_model_flags __dll588_dll_588_get_model_flags
 #define dll_588_get_state_size __dll588_dll_588_get_state_size
 
 #endif //_DLL_588_RECOMP_H

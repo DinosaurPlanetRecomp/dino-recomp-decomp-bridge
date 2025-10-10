@@ -11,7 +11,7 @@
 #define kamerian_flame_func_518 __dll264_kamerian_flame_func_518
 #define kamerian_flame_draw __dll264_kamerian_flame_draw
 #define kamerian_flame_destroy __dll264_kamerian_flame_destroy
-#define kamerian_flame_func_668 __dll264_kamerian_flame_func_668
+#define kamerian_flame_get_model_flags __dll264_kamerian_flame_get_model_flags
 #define kamerian_flame_get_state_size __dll264_kamerian_flame_get_state_size
 #define impactSoundID __dll264_impactSoundID
 #define _bss_2 __dll264__bss_2

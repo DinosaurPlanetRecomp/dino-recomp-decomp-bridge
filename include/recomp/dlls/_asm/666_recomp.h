@@ -10,7 +10,7 @@
 #define dll_666_func_4C4 __dll666_dll_666_func_4C4
 #define dll_666_draw __dll666_dll_666_draw
 #define dll_666_destroy __dll666_dll_666_destroy
-#define dll_666_get_setup_flags __dll666_dll_666_get_setup_flags
+#define dll_666_get_model_flags __dll666_dll_666_get_model_flags
 #define dll_666_get_state_size __dll666_dll_666_get_state_size
 #define dll_666_func_618 __dll666_dll_666_func_618
 #define dll_666_func_630 __dll666_dll_666_func_630

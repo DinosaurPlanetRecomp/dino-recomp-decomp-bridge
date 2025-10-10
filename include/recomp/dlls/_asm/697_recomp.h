@@ -11,7 +11,7 @@
 #define dll_697_func_24C __dll697_dll_697_func_24C
 #define dll_697_draw __dll697_dll_697_draw
 #define dll_697_destroy __dll697_dll_697_destroy
-#define dll_697_get_setup_flags __dll697_dll_697_get_setup_flags
+#define dll_697_get_model_flags __dll697_dll_697_get_model_flags
 #define dll_697_get_state_size __dll697_dll_697_get_state_size
 #define dll_697_func_454 __dll697_dll_697_func_454
 #define dll_697_func_50C __dll697_dll_697_func_50C

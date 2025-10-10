@@ -10,7 +10,7 @@
 #define dll_696_func_30C __dll696_dll_696_func_30C
 #define dll_696_draw __dll696_dll_696_draw
 #define dll_696_destroy __dll696_dll_696_destroy
-#define dll_696_get_setup_flags __dll696_dll_696_get_setup_flags
+#define dll_696_get_model_flags __dll696_dll_696_get_model_flags
 #define dll_696_get_state_size __dll696_dll_696_get_state_size
 #define dll_696_func_364 __dll696_dll_696_func_364
 

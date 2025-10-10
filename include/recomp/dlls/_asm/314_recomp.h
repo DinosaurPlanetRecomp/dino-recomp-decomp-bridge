@@ -10,7 +10,7 @@
 #define dll_314_func_500 __dll314_dll_314_func_500
 #define dll_314_draw __dll314_dll_314_draw
 #define dll_314_destroy __dll314_dll_314_destroy
-#define dll_314_get_setup_flags __dll314_dll_314_get_setup_flags
+#define dll_314_get_model_flags __dll314_dll_314_get_model_flags
 #define dll_314_get_state_size __dll314_dll_314_get_state_size
 #define dll_314_func_590 __dll314_dll_314_func_590
 #define dll_314_func_5B4 __dll314_dll_314_func_5B4

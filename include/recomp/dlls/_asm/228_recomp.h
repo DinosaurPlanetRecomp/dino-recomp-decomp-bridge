@@ -11,7 +11,7 @@
 #define dll_228_func_43C __dll228_dll_228_func_43C
 #define dll_228_draw __dll228_dll_228_draw
 #define dll_228_destroy __dll228_dll_228_destroy
-#define dll_228_get_setup_flags __dll228_dll_228_get_setup_flags
+#define dll_228_get_model_flags __dll228_dll_228_get_model_flags
 #define dll_228_get_state_size __dll228_dll_228_get_state_size
 #define dll_228_func_5D4 __dll228_dll_228_func_5D4
 #define dll_228_func_5E8 __dll228_dll_228_func_5E8

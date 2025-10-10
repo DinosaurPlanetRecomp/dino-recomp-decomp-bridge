@@ -10,7 +10,7 @@
 #define dll_474_func_240 __dll474_dll_474_func_240
 #define dll_474_draw __dll474_dll_474_draw
 #define dll_474_destroy __dll474_dll_474_destroy
-#define dll_474_get_setup_flags __dll474_dll_474_get_setup_flags
+#define dll_474_get_model_flags __dll474_dll_474_get_model_flags
 #define dll_474_get_state_size __dll474_dll_474_get_state_size
 #define str_0 __dll474_str_0
 #define _rodata_80 __dll474__rodata_80

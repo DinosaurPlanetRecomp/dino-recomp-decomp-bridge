@@ -10,7 +10,7 @@
 #define dll_244_func_50C __dll244_dll_244_func_50C
 #define dll_244_draw __dll244_dll_244_draw
 #define dll_244_destroy __dll244_dll_244_destroy
-#define dll_244_get_setup_flags __dll244_dll_244_get_setup_flags
+#define dll_244_get_model_flags __dll244_dll_244_get_model_flags
 #define dll_244_get_state_size __dll244_dll_244_get_state_size
 #define dll_244_func_5AC __dll244_dll_244_func_5AC
 #define _rodata_0 __dll244__rodata_0

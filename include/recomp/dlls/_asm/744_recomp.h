@@ -10,7 +10,7 @@
 #define dll_744_func_300 __dll744_dll_744_func_300
 #define dll_744_draw __dll744_dll_744_draw
 #define dll_744_destroy __dll744_dll_744_destroy
-#define dll_744_get_setup_flags __dll744_dll_744_get_setup_flags
+#define dll_744_get_model_flags __dll744_dll_744_get_model_flags
 #define dll_744_get_state_size __dll744_dll_744_get_state_size
 #define dll_744_func_3C4 __dll744_dll_744_func_3C4
 #define dll_744_func_3F4 __dll744_dll_744_func_3F4

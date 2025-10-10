@@ -10,7 +10,7 @@
 #define dll_566_func_C0 __dll566_dll_566_func_C0
 #define dll_566_draw __dll566_dll_566_draw
 #define dll_566_destroy __dll566_dll_566_destroy
-#define dll_566_get_setup_flags __dll566_dll_566_get_setup_flags
+#define dll_566_get_model_flags __dll566_dll_566_get_model_flags
 #define dll_566_get_state_size __dll566_dll_566_get_state_size
 #define dll_566_func_194 __dll566_dll_566_func_194
 

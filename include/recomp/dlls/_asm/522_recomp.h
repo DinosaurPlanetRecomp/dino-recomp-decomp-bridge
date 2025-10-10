@@ -10,7 +10,7 @@
 #define dll_522_func_750 __dll522_dll_522_func_750
 #define dll_522_draw __dll522_dll_522_draw
 #define dll_522_destroy __dll522_dll_522_destroy
-#define dll_522_get_setup_flags __dll522_dll_522_get_setup_flags
+#define dll_522_get_model_flags __dll522_dll_522_get_model_flags
 #define dll_522_get_state_size __dll522_dll_522_get_state_size
 
 #endif //_DLL_522_RECOMP_H

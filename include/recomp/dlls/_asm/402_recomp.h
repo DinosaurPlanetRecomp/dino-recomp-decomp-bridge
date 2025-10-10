@@ -10,7 +10,7 @@
 #define dll_402_func_80C __dll402_dll_402_func_80C
 #define dll_402_draw __dll402_dll_402_draw
 #define dll_402_destroy __dll402_dll_402_destroy
-#define dll_402_get_setup_flags __dll402_dll_402_get_setup_flags
+#define dll_402_get_model_flags __dll402_dll_402_get_model_flags
 #define dll_402_get_state_size __dll402_dll_402_get_state_size
 #define dll_402_func_9A0 __dll402_dll_402_func_9A0
 #define str_0 __dll402_str_0

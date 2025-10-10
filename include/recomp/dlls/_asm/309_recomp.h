@@ -10,7 +10,7 @@
 #define dll_309_func_3B8 __dll309_dll_309_func_3B8
 #define dll_309_draw __dll309_dll_309_draw
 #define dll_309_destroy __dll309_dll_309_destroy
-#define dll_309_get_setup_flags __dll309_dll_309_get_setup_flags
+#define dll_309_get_model_flags __dll309_dll_309_get_model_flags
 #define dll_309_get_state_size __dll309_dll_309_get_state_size
 #define dll_309_func_47C __dll309_dll_309_func_47C
 #define str_0 __dll309_str_0

@@ -10,7 +10,7 @@
 #define dll_556_func_778 __dll556_dll_556_func_778
 #define dll_556_draw __dll556_dll_556_draw
 #define dll_556_destroy __dll556_dll_556_destroy
-#define dll_556_get_setup_flags __dll556_dll_556_get_setup_flags
+#define dll_556_get_model_flags __dll556_dll_556_get_model_flags
 #define dll_556_get_state_size __dll556_dll_556_get_state_size
 #define dll_556_func_844 __dll556_dll_556_func_844
 #define _rodata_0 __dll556__rodata_0

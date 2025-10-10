@@ -11,7 +11,7 @@
 #define dll_775_func_3B0 __dll775_dll_775_func_3B0
 #define dll_775_draw __dll775_dll_775_draw
 #define dll_775_destroy __dll775_dll_775_destroy
-#define dll_775_get_setup_flags __dll775_dll_775_get_setup_flags
+#define dll_775_get_model_flags __dll775_dll_775_get_model_flags
 #define dll_775_get_state_size __dll775_dll_775_get_state_size
 #define dll_775_func_4A8 __dll775_dll_775_func_4A8
 #define dll_775_func_584 __dll775_dll_775_func_584

@@ -11,7 +11,7 @@
 #define dll_232_func_828 __dll232_dll_232_func_828
 #define dll_232_draw __dll232_dll_232_draw
 #define dll_232_destroy __dll232_dll_232_destroy
-#define dll_232_get_setup_flags __dll232_dll_232_get_setup_flags
+#define dll_232_get_model_flags __dll232_dll_232_get_model_flags
 #define dll_232_get_state_size __dll232_dll_232_get_state_size
 #define dll_232_func_95C __dll232_dll_232_func_95C
 #define dll_232_func_978 __dll232_dll_232_func_978

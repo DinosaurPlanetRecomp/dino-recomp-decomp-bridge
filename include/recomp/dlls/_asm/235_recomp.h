@@ -16,7 +16,7 @@
 #define dll_235_func_B9C __dll235_dll_235_func_B9C
 #define dll_235_draw __dll235_dll_235_draw
 #define dll_235_destroy __dll235_dll_235_destroy
-#define dll_235_get_setup_flags __dll235_dll_235_get_setup_flags
+#define dll_235_get_model_flags __dll235_dll_235_get_model_flags
 #define dll_235_get_state_size __dll235_dll_235_get_state_size
 #define dll_235_func_129C __dll235_dll_235_func_129C
 #define dll_235_func_1714 __dll235_dll_235_func_1714

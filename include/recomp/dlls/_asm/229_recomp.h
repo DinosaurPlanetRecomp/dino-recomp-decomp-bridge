@@ -23,7 +23,7 @@
 #define dll_229_func_1B78 __dll229_dll_229_func_1B78
 #define dll_229_draw __dll229_dll_229_draw
 #define dll_229_destroy __dll229_dll_229_destroy
-#define dll_229_get_setup_flags __dll229_dll_229_get_setup_flags
+#define dll_229_get_model_flags __dll229_dll_229_get_model_flags
 #define dll_229_get_state_size __dll229_dll_229_get_state_size
 #define dll_229_func_1FD8 __dll229_dll_229_func_1FD8
 #define dll_229_func_1FEC __dll229_dll_229_func_1FEC

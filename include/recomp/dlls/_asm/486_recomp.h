@@ -10,7 +10,7 @@
 #define dll_486_func_C7C __dll486_dll_486_func_C7C
 #define dll_486_draw __dll486_dll_486_draw
 #define dll_486_destroy __dll486_dll_486_destroy
-#define dll_486_get_setup_flags __dll486_dll_486_get_setup_flags
+#define dll_486_get_model_flags __dll486_dll_486_get_model_flags
 #define dll_486_get_state_size __dll486_dll_486_get_state_size
 #define dll_486_func_D90 __dll486_dll_486_func_D90
 #define dll_486_func_1194 __dll486_dll_486_func_1194

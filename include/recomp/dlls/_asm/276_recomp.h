@@ -10,7 +10,7 @@
 #define dll_276_func_8DC __dll276_dll_276_func_8DC
 #define dll_276_draw __dll276_dll_276_draw
 #define dll_276_destroy __dll276_dll_276_destroy
-#define dll_276_get_setup_flags __dll276_dll_276_get_setup_flags
+#define dll_276_get_model_flags __dll276_dll_276_get_model_flags
 #define dll_276_get_state_size __dll276_dll_276_get_state_size
 #define str_0 __dll276_str_0
 #define _rodata_A8 __dll276__rodata_A8

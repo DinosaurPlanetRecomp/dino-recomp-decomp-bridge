@@ -10,7 +10,7 @@
 #define MMshrine_func_B3C __dll466_MMshrine_func_B3C
 #define MMshrine_draw __dll466_MMshrine_draw
 #define MMshrine_destroy __dll466_MMshrine_destroy
-#define MMshrine_func_C2C __dll466_MMshrine_func_C2C
+#define MMshrine_get_model_flags __dll466_MMshrine_get_model_flags
 #define MMshrine_get_state_size __dll466_MMshrine_get_state_size
 #define dll_466_func_C50 __dll466_dll_466_func_C50
 #define MMshrine_func_1140 __dll466_MMshrine_func_1140

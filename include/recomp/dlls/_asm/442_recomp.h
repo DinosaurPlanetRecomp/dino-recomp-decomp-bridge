@@ -10,7 +10,7 @@
 #define dll_442_func_204 __dll442_dll_442_func_204
 #define dll_442_draw __dll442_dll_442_draw
 #define dll_442_destroy __dll442_dll_442_destroy
-#define dll_442_get_setup_flags __dll442_dll_442_get_setup_flags
+#define dll_442_get_model_flags __dll442_dll_442_get_model_flags
 #define dll_442_get_state_size __dll442_dll_442_get_state_size
 #define dll_442_func_298 __dll442_dll_442_func_298
 

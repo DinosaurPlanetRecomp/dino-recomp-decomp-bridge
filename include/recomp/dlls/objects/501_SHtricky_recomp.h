@@ -10,7 +10,7 @@
 #define SHtricky_func_1A8 __dll501_SHtricky_func_1A8
 #define SHtricky_draw __dll501_SHtricky_draw
 #define SHtricky_destroy __dll501_SHtricky_destroy
-#define SHtricky_func_1DC __dll501_SHtricky_func_1DC
+#define SHtricky_get_model_flags __dll501_SHtricky_get_model_flags
 #define SHtricky_get_state_size __dll501_SHtricky_get_state_size
 #define _oob_rodata_0 __dll501__oob_rodata_0
 

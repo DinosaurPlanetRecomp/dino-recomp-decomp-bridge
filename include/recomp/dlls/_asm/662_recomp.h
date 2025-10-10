@@ -10,7 +10,7 @@
 #define dll_662_func_D28 __dll662_dll_662_func_D28
 #define dll_662_draw __dll662_dll_662_draw
 #define dll_662_destroy __dll662_dll_662_destroy
-#define dll_662_get_setup_flags __dll662_dll_662_get_setup_flags
+#define dll_662_get_model_flags __dll662_dll_662_get_model_flags
 #define dll_662_get_state_size __dll662_dll_662_get_state_size
 #define dll_662_func_FA8 __dll662_dll_662_func_FA8
 #define dll_662_func_1240 __dll662_dll_662_func_1240

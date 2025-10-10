@@ -10,7 +10,7 @@
 #define dll_698_func_4AC __dll698_dll_698_func_4AC
 #define dll_698_draw __dll698_dll_698_draw
 #define dll_698_destroy __dll698_dll_698_destroy
-#define dll_698_get_setup_flags __dll698_dll_698_get_setup_flags
+#define dll_698_get_model_flags __dll698_dll_698_get_model_flags
 #define dll_698_get_state_size __dll698_dll_698_get_state_size
 #define dll_698_func_564 __dll698_dll_698_func_564
 #define dll_698_func_6E4 __dll698_dll_698_func_6E4

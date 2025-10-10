@@ -10,7 +10,7 @@
 #define dll_617_func_3C __dll617_dll_617_func_3C
 #define dll_617_draw __dll617_dll_617_draw
 #define dll_617_destroy __dll617_dll_617_destroy
-#define dll_617_get_setup_flags __dll617_dll_617_get_setup_flags
+#define dll_617_get_model_flags __dll617_dll_617_get_model_flags
 #define dll_617_get_state_size __dll617_dll_617_get_state_size
 #define _oob_rodata_0 __dll617__oob_rodata_0
 

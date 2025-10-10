@@ -10,7 +10,7 @@
 #define dll_447_func_66C __dll447_dll_447_func_66C
 #define dll_447_draw __dll447_dll_447_draw
 #define dll_447_destroy __dll447_dll_447_destroy
-#define dll_447_get_setup_flags __dll447_dll_447_get_setup_flags
+#define dll_447_get_model_flags __dll447_dll_447_get_model_flags
 #define dll_447_get_state_size __dll447_dll_447_get_state_size
 
 #endif //_DLL_447_RECOMP_H

@@ -10,7 +10,7 @@
 #define dll_349_func_A28 __dll349_dll_349_func_A28
 #define dll_349_draw __dll349_dll_349_draw
 #define dll_349_destroy __dll349_dll_349_destroy
-#define dll_349_get_setup_flags __dll349_dll_349_get_setup_flags
+#define dll_349_get_model_flags __dll349_dll_349_get_model_flags
 #define dll_349_get_state_size __dll349_dll_349_get_state_size
 #define dll_349_func_C98 __dll349_dll_349_func_C98
 #define dll_349_func_1268 __dll349_dll_349_func_1268

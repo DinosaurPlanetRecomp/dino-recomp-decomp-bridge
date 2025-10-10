@@ -10,7 +10,7 @@
 #define dll_352_func_EE0 __dll352_dll_352_func_EE0
 #define dll_352_draw __dll352_dll_352_draw
 #define dll_352_destroy __dll352_dll_352_destroy
-#define dll_352_get_setup_flags __dll352_dll_352_get_setup_flags
+#define dll_352_get_model_flags __dll352_dll_352_get_model_flags
 #define dll_352_get_state_size __dll352_dll_352_get_state_size
 #define dll_352_func_1008 __dll352_dll_352_func_1008
 #define dll_352_func_11A0 __dll352_dll_352_func_11A0

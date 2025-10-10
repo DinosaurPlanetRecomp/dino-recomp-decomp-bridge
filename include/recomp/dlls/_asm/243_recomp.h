@@ -11,7 +11,7 @@
 #define dll_243_func_44C __dll243_dll_243_func_44C
 #define dll_243_draw __dll243_dll_243_draw
 #define dll_243_destroy __dll243_dll_243_destroy
-#define dll_243_get_setup_flags __dll243_dll_243_get_setup_flags
+#define dll_243_get_model_flags __dll243_dll_243_get_model_flags
 #define dll_243_get_state_size __dll243_dll_243_get_state_size
 #define dll_243_func_6D8 __dll243_dll_243_func_6D8
 #define dll_243_func_6EC __dll243_dll_243_func_6EC

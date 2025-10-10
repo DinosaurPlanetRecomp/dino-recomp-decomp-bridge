@@ -11,7 +11,7 @@
 #define dll_236_func_6C4 __dll236_dll_236_func_6C4
 #define dll_236_draw __dll236_dll_236_draw
 #define dll_236_destroy __dll236_dll_236_destroy
-#define dll_236_get_setup_flags __dll236_dll_236_get_setup_flags
+#define dll_236_get_model_flags __dll236_dll_236_get_model_flags
 #define dll_236_get_state_size __dll236_dll_236_get_state_size
 #define dll_236_func_7F8 __dll236_dll_236_func_7F8
 #define dll_236_func_A20 __dll236_dll_236_func_A20

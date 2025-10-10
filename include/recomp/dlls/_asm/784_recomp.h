@@ -10,7 +10,7 @@
 #define dll_784_func_120 __dll784_dll_784_func_120
 #define dll_784_draw __dll784_dll_784_draw
 #define dll_784_destroy __dll784_dll_784_destroy
-#define dll_784_get_setup_flags __dll784_dll_784_get_setup_flags
+#define dll_784_get_model_flags __dll784_dll_784_get_model_flags
 #define dll_784_get_state_size __dll784_dll_784_get_state_size
 #define dll_784_func_2A0 __dll784_dll_784_func_2A0
 #define _oob_rodata_0 __dll784__oob_rodata_0

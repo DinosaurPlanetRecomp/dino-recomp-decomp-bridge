@@ -10,7 +10,7 @@
 #define dll_274_func_87C __dll274_dll_274_func_87C
 #define dll_274_draw __dll274_dll_274_draw
 #define dll_274_destroy __dll274_dll_274_destroy
-#define dll_274_get_setup_flags __dll274_dll_274_get_setup_flags
+#define dll_274_get_model_flags __dll274_dll_274_get_model_flags
 #define dll_274_get_state_size __dll274_dll_274_get_state_size
 #define dll_274_func_1190 __dll274_dll_274_func_1190
 #define dll_274_func_176C __dll274_dll_274_func_176C

@@ -10,7 +10,7 @@
 #define dll_768_func_2D4 __dll768_dll_768_func_2D4
 #define dll_768_draw __dll768_dll_768_draw
 #define dll_768_destroy __dll768_dll_768_destroy
-#define dll_768_get_setup_flags __dll768_dll_768_get_setup_flags
+#define dll_768_get_model_flags __dll768_dll_768_get_model_flags
 #define dll_768_get_state_size __dll768_dll_768_get_state_size
 #define dll_768_func_398 __dll768_dll_768_func_398
 #define dll_768_func_3A8 __dll768_dll_768_func_3A8

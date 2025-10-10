@@ -10,7 +10,7 @@
 #define dll_304_func_84C __dll304_dll_304_func_84C
 #define dll_304_draw __dll304_dll_304_draw
 #define dll_304_destroy __dll304_dll_304_destroy
-#define dll_304_get_setup_flags __dll304_dll_304_get_setup_flags
+#define dll_304_get_model_flags __dll304_dll_304_get_model_flags
 #define dll_304_get_state_size __dll304_dll_304_get_state_size
 #define dll_304_func_984 __dll304_dll_304_func_984
 #define dll_304_func_AB0 __dll304_dll_304_func_AB0

@@ -10,7 +10,7 @@
 #define dll_353_func_354 __dll353_dll_353_func_354
 #define dll_353_draw __dll353_dll_353_draw
 #define dll_353_destroy __dll353_dll_353_destroy
-#define dll_353_get_setup_flags __dll353_dll_353_get_setup_flags
+#define dll_353_get_model_flags __dll353_dll_353_get_model_flags
 #define dll_353_get_state_size __dll353_dll_353_get_state_size
 #define dll_353_func_3E8 __dll353_dll_353_func_3E8
 

@@ -10,7 +10,7 @@
 #define sfxplayer_func_458 __dll266_sfxplayer_func_458
 #define sfxplayer_draw __dll266_sfxplayer_draw
 #define sfxplayer_destroy __dll266_sfxplayer_destroy
-#define sfxplayer_func_51C __dll266_sfxplayer_func_51C
+#define sfxplayer_get_model_flags __dll266_sfxplayer_get_model_flags
 #define sfxplayer_get_state_size __dll266_sfxplayer_get_state_size
 #define _oob_rodata_0 __dll266__oob_rodata_0
 

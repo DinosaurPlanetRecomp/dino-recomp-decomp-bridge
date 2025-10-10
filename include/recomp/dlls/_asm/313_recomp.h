@@ -10,7 +10,7 @@
 #define dll_313_func_F8 __dll313_dll_313_func_F8
 #define dll_313_draw __dll313_dll_313_draw
 #define dll_313_destroy __dll313_dll_313_destroy
-#define dll_313_get_setup_flags __dll313_dll_313_get_setup_flags
+#define dll_313_get_model_flags __dll313_dll_313_get_model_flags
 #define dll_313_get_state_size __dll313_dll_313_get_state_size
 #define str_0 __dll313_str_0
 

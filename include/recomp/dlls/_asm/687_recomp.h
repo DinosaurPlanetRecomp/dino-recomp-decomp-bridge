@@ -10,7 +10,7 @@
 #define dll_687_func_14C __dll687_dll_687_func_14C
 #define dll_687_draw __dll687_dll_687_draw
 #define dll_687_destroy __dll687_dll_687_destroy
-#define dll_687_get_setup_flags __dll687_dll_687_get_setup_flags
+#define dll_687_get_model_flags __dll687_dll_687_get_model_flags
 #define dll_687_get_state_size __dll687_dll_687_get_state_size
 #define dll_687_func_1E0 __dll687_dll_687_func_1E0
 #define dll_687_func_3A4 __dll687_dll_687_func_3A4

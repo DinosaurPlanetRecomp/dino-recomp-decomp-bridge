@@ -10,7 +10,7 @@
 #define dll_456_func_70 __dll456_dll_456_func_70
 #define dll_456_draw __dll456_dll_456_draw
 #define dll_456_destroy __dll456_dll_456_destroy
-#define dll_456_get_setup_flags __dll456_dll_456_get_setup_flags
+#define dll_456_get_model_flags __dll456_dll_456_get_model_flags
 #define dll_456_get_state_size __dll456_dll_456_get_state_size
 
 #endif //_DLL_456_RECOMP_H

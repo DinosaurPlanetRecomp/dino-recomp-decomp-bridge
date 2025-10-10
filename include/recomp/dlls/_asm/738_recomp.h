@@ -10,7 +10,7 @@
 #define dll_738_func_74C __dll738_dll_738_func_74C
 #define dll_738_draw __dll738_dll_738_draw
 #define dll_738_destroy __dll738_dll_738_destroy
-#define dll_738_get_setup_flags __dll738_dll_738_get_setup_flags
+#define dll_738_get_model_flags __dll738_dll_738_get_model_flags
 #define dll_738_get_state_size __dll738_dll_738_get_state_size
 #define str_0 __dll738_str_0
 #define str_8 __dll738_str_8

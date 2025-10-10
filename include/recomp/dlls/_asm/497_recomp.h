@@ -10,7 +10,7 @@
 #define dll_497_func_538 __dll497_dll_497_func_538
 #define dll_497_draw __dll497_dll_497_draw
 #define dll_497_destroy __dll497_dll_497_destroy
-#define dll_497_get_setup_flags __dll497_dll_497_get_setup_flags
+#define dll_497_get_model_flags __dll497_dll_497_get_model_flags
 #define dll_497_get_state_size __dll497_dll_497_get_state_size
 #define dll_497_func_610 __dll497_dll_497_func_610
 #define str_0 __dll497_str_0

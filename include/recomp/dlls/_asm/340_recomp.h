@@ -10,7 +10,7 @@
 #define dll_340_func_384 __dll340_dll_340_func_384
 #define dll_340_draw __dll340_dll_340_draw
 #define dll_340_destroy __dll340_dll_340_destroy
-#define dll_340_get_setup_flags __dll340_dll_340_get_setup_flags
+#define dll_340_get_model_flags __dll340_dll_340_get_model_flags
 #define dll_340_get_state_size __dll340_dll_340_get_state_size
 #define dll_340_func_414 __dll340_dll_340_func_414
 #define dll_340_func_4BC __dll340_dll_340_func_4BC

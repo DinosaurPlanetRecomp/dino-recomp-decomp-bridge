@@ -10,7 +10,7 @@
 #define dll_561_func_45C __dll561_dll_561_func_45C
 #define dll_561_draw __dll561_dll_561_draw
 #define dll_561_destroy __dll561_dll_561_destroy
-#define dll_561_get_setup_flags __dll561_dll_561_get_setup_flags
+#define dll_561_get_model_flags __dll561_dll_561_get_model_flags
 #define dll_561_get_state_size __dll561_dll_561_get_state_size
 #define _oob_rodata_0 __dll561__oob_rodata_0
 

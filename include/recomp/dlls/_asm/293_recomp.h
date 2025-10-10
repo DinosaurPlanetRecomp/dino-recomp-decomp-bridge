@@ -10,7 +10,7 @@
 #define dll_293_func_18C __dll293_dll_293_func_18C
 #define dll_293_draw __dll293_dll_293_draw
 #define dll_293_destroy __dll293_dll_293_destroy
-#define dll_293_get_setup_flags __dll293_dll_293_get_setup_flags
+#define dll_293_get_model_flags __dll293_dll_293_get_model_flags
 #define dll_293_get_state_size __dll293_dll_293_get_state_size
 
 #endif //_DLL_293_RECOMP_H

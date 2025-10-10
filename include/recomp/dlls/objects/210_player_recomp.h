@@ -19,8 +19,8 @@
 #define dll_210_func_363C __dll210_dll_210_func_363C
 #define dll_210_func_3B40 __dll210_dll_210_func_3B40
 #define dll_210_func_3E50 __dll210_dll_210_func_3E50
-#define dll_210_func_3F40 __dll210_dll_210_func_3F40
-#define dll_210_func_3F50 __dll210_dll_210_func_3F50
+#define dll_210_get_model_flags __dll210_dll_210_get_model_flags
+#define dll_210_get_state_size __dll210_dll_210_get_state_size
 #define dll_210_func_3F64 __dll210_dll_210_func_3F64
 #define dll_210_func_4038 __dll210_dll_210_func_4038
 #define dll_210_func_4114 __dll210_dll_210_func_4114

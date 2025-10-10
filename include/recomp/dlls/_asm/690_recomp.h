@@ -10,7 +10,7 @@
 #define dll_690_func_2E8 __dll690_dll_690_func_2E8
 #define dll_690_draw __dll690_dll_690_draw
 #define dll_690_destroy __dll690_dll_690_destroy
-#define dll_690_get_setup_flags __dll690_dll_690_get_setup_flags
+#define dll_690_get_model_flags __dll690_dll_690_get_model_flags
 #define dll_690_get_state_size __dll690_dll_690_get_state_size
 #define dll_690_func_628 __dll690_dll_690_func_628
 #define dll_690_func_884 __dll690_dll_690_func_884

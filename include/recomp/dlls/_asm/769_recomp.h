@@ -11,7 +11,7 @@
 #define dll_769_func_378 __dll769_dll_769_func_378
 #define dll_769_draw __dll769_dll_769_draw
 #define dll_769_destroy __dll769_dll_769_destroy
-#define dll_769_get_setup_flags __dll769_dll_769_get_setup_flags
+#define dll_769_get_model_flags __dll769_dll_769_get_model_flags
 #define dll_769_get_state_size __dll769_dll_769_get_state_size
 #define dll_769_func_494 __dll769_dll_769_func_494
 #define dll_769_func_4F4 __dll769_dll_769_func_4F4

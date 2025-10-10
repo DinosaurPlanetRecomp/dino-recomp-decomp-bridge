@@ -10,7 +10,7 @@
 #define GPbonfire_func_7F4 __dll723_GPbonfire_func_7F4
 #define GPbonfire_draw __dll723_GPbonfire_draw
 #define GPbonfire_destroy __dll723_GPbonfire_destroy
-#define GPbonfire_get_setup_flags __dll723_GPbonfire_get_setup_flags
+#define GPbonfire_get_model_flags __dll723_GPbonfire_get_model_flags
 #define GPbonfire_get_state_size __dll723_GPbonfire_get_state_size
 #define GPbonfire_func_910 __dll723_GPbonfire_func_910
 #define GPbonfire_start_burning __dll723_GPbonfire_start_burning

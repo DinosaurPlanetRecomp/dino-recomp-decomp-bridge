@@ -10,7 +10,7 @@
 #define dll_719_func_3B0 __dll719_dll_719_func_3B0
 #define dll_719_draw __dll719_dll_719_draw
 #define dll_719_destroy __dll719_dll_719_destroy
-#define dll_719_get_setup_flags __dll719_dll_719_get_setup_flags
+#define dll_719_get_model_flags __dll719_dll_719_get_model_flags
 #define dll_719_get_state_size __dll719_dll_719_get_state_size
 #define dll_719_func_438 __dll719_dll_719_func_438
 #define dll_719_func_4E4 __dll719_dll_719_func_4E4

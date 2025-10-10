@@ -10,7 +10,7 @@
 #define dll_256_func_9F4 __dll256_dll_256_func_9F4
 #define dll_256_draw __dll256_dll_256_draw
 #define dll_256_destroy __dll256_dll_256_destroy
-#define dll_256_get_setup_flags __dll256_dll_256_get_setup_flags
+#define dll_256_get_model_flags __dll256_dll_256_get_model_flags
 #define dll_256_get_state_size __dll256_dll_256_get_state_size
 #define dll_256_func_B58 __dll256_dll_256_func_B58
 #define dll_256_func_B8C __dll256_dll_256_func_B8C

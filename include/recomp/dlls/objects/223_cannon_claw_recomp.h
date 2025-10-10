@@ -11,7 +11,7 @@
 #define cannon_claw_func_200 __dll223_cannon_claw_func_200
 #define cannon_claw_draw __dll223_cannon_claw_draw
 #define cannon_claw_destroy __dll223_cannon_claw_destroy
-#define cannon_claw_func_27C __dll223_cannon_claw_func_27C
+#define cannon_claw_get_model_flags __dll223_cannon_claw_get_model_flags
 #define cannon_claw_get_state_size __dll223_cannon_claw_get_state_size
 
 #endif //_DLL_223_RECOMP_H

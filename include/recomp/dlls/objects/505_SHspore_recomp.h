@@ -12,7 +12,7 @@
 #define SHspore_func_B88 __dll505_SHspore_func_B88
 #define SHspore_draw __dll505_SHspore_draw
 #define SHspore_destroy __dll505_SHspore_destroy
-#define SHspore_func_BF4 __dll505_SHspore_func_BF4
+#define SHspore_get_model_flags __dll505_SHspore_get_model_flags
 #define SHspore_get_state_size __dll505_SHspore_get_state_size
 #define _data_0 __dll505__data_0
 #define _data_C __dll505__data_C

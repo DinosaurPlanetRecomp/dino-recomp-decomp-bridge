@@ -10,7 +10,7 @@
 #define dll_394_func_480 __dll394_dll_394_func_480
 #define dll_394_draw __dll394_dll_394_draw
 #define dll_394_destroy __dll394_dll_394_destroy
-#define dll_394_get_setup_flags __dll394_dll_394_get_setup_flags
+#define dll_394_get_model_flags __dll394_dll_394_get_model_flags
 #define dll_394_get_state_size __dll394_dll_394_get_state_size
 #define _rodata_0 __dll394__rodata_0
 #define _rodata_4 __dll394__rodata_4

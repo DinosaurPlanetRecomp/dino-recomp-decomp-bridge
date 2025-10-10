@@ -10,7 +10,7 @@
 #define dll_262_func_954 __dll262_dll_262_func_954
 #define dll_262_draw __dll262_dll_262_draw
 #define dll_262_destroy __dll262_dll_262_destroy
-#define dll_262_get_setup_flags __dll262_dll_262_get_setup_flags
+#define dll_262_get_model_flags __dll262_dll_262_get_model_flags
 #define dll_262_get_state_size __dll262_dll_262_get_state_size
 #define _rodata_0 __dll262__rodata_0
 #define _data_0 __dll262__data_0

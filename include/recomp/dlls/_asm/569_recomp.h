@@ -10,7 +10,7 @@
 #define dll_569_func_2A0 __dll569_dll_569_func_2A0
 #define dll_569_draw __dll569_dll_569_draw
 #define dll_569_destroy __dll569_dll_569_destroy
-#define dll_569_get_setup_flags __dll569_dll_569_get_setup_flags
+#define dll_569_get_model_flags __dll569_dll_569_get_model_flags
 #define dll_569_get_state_size __dll569_dll_569_get_state_size
 #define _oob_rodata_0 __dll569__oob_rodata_0
 

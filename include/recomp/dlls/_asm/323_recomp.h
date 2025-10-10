@@ -10,7 +10,7 @@
 #define dll_323_func_7C __dll323_dll_323_func_7C
 #define dll_323_draw __dll323_dll_323_draw
 #define dll_323_destroy __dll323_dll_323_destroy
-#define dll_323_get_setup_flags __dll323_dll_323_get_setup_flags
+#define dll_323_get_model_flags __dll323_dll_323_get_model_flags
 #define dll_323_get_state_size __dll323_dll_323_get_state_size
 #define _oob_rodata_0 __dll323__oob_rodata_0
 

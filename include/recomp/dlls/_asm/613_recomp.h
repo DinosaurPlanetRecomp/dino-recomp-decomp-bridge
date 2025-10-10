@@ -10,7 +10,7 @@
 #define dll_613_func_6C __dll613_dll_613_func_6C
 #define dll_613_draw __dll613_dll_613_draw
 #define dll_613_destroy __dll613_dll_613_destroy
-#define dll_613_get_setup_flags __dll613_dll_613_get_setup_flags
+#define dll_613_get_model_flags __dll613_dll_613_get_model_flags
 #define dll_613_get_state_size __dll613_dll_613_get_state_size
 #define _rodata_0 __dll613__rodata_0
 

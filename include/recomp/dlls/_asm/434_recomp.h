@@ -10,7 +10,7 @@
 #define dll_434_func_3D8 __dll434_dll_434_func_3D8
 #define dll_434_draw __dll434_dll_434_draw
 #define dll_434_destroy __dll434_dll_434_destroy
-#define dll_434_get_setup_flags __dll434_dll_434_get_setup_flags
+#define dll_434_get_model_flags __dll434_dll_434_get_model_flags
 #define dll_434_get_state_size __dll434_dll_434_get_state_size
 #define _oob_rodata_0 __dll434__oob_rodata_0
 

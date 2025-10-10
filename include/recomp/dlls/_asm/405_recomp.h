@@ -11,7 +11,7 @@
 #define dll_405_func_FC __dll405_dll_405_func_FC
 #define dll_405_draw __dll405_dll_405_draw
 #define dll_405_destroy __dll405_dll_405_destroy
-#define dll_405_get_setup_flags __dll405_dll_405_get_setup_flags
+#define dll_405_get_model_flags __dll405_dll_405_get_model_flags
 #define dll_405_get_state_size __dll405_dll_405_get_state_size
 #define _oob_rodata_0 __dll405__oob_rodata_0
 

@@ -10,7 +10,7 @@
 #define dll_725_func_2A4 __dll725_dll_725_func_2A4
 #define dll_725_draw __dll725_dll_725_draw
 #define dll_725_destroy __dll725_dll_725_destroy
-#define dll_725_get_setup_flags __dll725_dll_725_get_setup_flags
+#define dll_725_get_model_flags __dll725_dll_725_get_model_flags
 #define dll_725_get_state_size __dll725_dll_725_get_state_size
 #define dll_725_func_354 __dll725_dll_725_func_354
 #define dll_725_func_3A4 __dll725_dll_725_func_3A4

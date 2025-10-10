@@ -10,7 +10,7 @@
 #define dll_306_func_610 __dll306_dll_306_func_610
 #define dll_306_draw __dll306_dll_306_draw
 #define dll_306_destroy __dll306_dll_306_destroy
-#define dll_306_get_setup_flags __dll306_dll_306_get_setup_flags
+#define dll_306_get_model_flags __dll306_dll_306_get_model_flags
 #define dll_306_get_state_size __dll306_dll_306_get_state_size
 #define dll_306_func_6E0 __dll306_dll_306_func_6E0
 #define dll_306_func_7FC __dll306_dll_306_func_7FC

@@ -10,7 +10,7 @@
 #define dll_772_func_170 __dll772_dll_772_func_170
 #define dll_772_draw __dll772_dll_772_draw
 #define dll_772_destroy __dll772_dll_772_destroy
-#define dll_772_get_setup_flags __dll772_dll_772_get_setup_flags
+#define dll_772_get_model_flags __dll772_dll_772_get_model_flags
 #define dll_772_get_state_size __dll772_dll_772_get_state_size
 #define _rodata_0 __dll772__rodata_0
 

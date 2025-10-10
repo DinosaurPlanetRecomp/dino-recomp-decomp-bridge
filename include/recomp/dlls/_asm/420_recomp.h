@@ -10,7 +10,7 @@
 #define dll_420_func_578 __dll420_dll_420_func_578
 #define dll_420_draw __dll420_dll_420_draw
 #define dll_420_destroy __dll420_dll_420_destroy
-#define dll_420_get_setup_flags __dll420_dll_420_get_setup_flags
+#define dll_420_get_model_flags __dll420_dll_420_get_model_flags
 #define dll_420_get_state_size __dll420_dll_420_get_state_size
 #define dll_420_func_AD8 __dll420_dll_420_func_AD8
 #define dll_420_func_DFC __dll420_dll_420_func_DFC

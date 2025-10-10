@@ -10,7 +10,7 @@
 #define dll_373_func_DB8 __dll373_dll_373_func_DB8
 #define dll_373_draw __dll373_dll_373_draw
 #define dll_373_destroy __dll373_dll_373_destroy
-#define dll_373_get_setup_flags __dll373_dll_373_get_setup_flags
+#define dll_373_get_model_flags __dll373_dll_373_get_model_flags
 #define dll_373_get_state_size __dll373_dll_373_get_state_size
 #define dll_373_func_E9C __dll373_dll_373_func_E9C
 #define dll_373_func_12A4 __dll373_dll_373_func_12A4

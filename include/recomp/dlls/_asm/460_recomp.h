@@ -10,7 +10,7 @@
 #define dll_460_func_270 __dll460_dll_460_func_270
 #define dll_460_draw __dll460_dll_460_draw
 #define dll_460_destroy __dll460_dll_460_destroy
-#define dll_460_get_setup_flags __dll460_dll_460_get_setup_flags
+#define dll_460_get_model_flags __dll460_dll_460_get_model_flags
 #define dll_460_get_state_size __dll460_dll_460_get_state_size
 
 #endif //_DLL_460_RECOMP_H

@@ -10,7 +10,7 @@
 #define dll_282_func_5D8 __dll282_dll_282_func_5D8
 #define dll_282_draw __dll282_dll_282_draw
 #define dll_282_destroy __dll282_dll_282_destroy
-#define dll_282_get_setup_flags __dll282_dll_282_get_setup_flags
+#define dll_282_get_model_flags __dll282_dll_282_get_model_flags
 #define dll_282_get_state_size __dll282_dll_282_get_state_size
 #define _data_0 __dll282__data_0
 #define _data_4 __dll282__data_4

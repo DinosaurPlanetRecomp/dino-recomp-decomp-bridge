@@ -10,7 +10,7 @@
 #define dll_315_func_38C __dll315_dll_315_func_38C
 #define dll_315_draw __dll315_dll_315_draw
 #define dll_315_destroy __dll315_dll_315_destroy
-#define dll_315_get_setup_flags __dll315_dll_315_get_setup_flags
+#define dll_315_get_model_flags __dll315_dll_315_get_model_flags
 #define dll_315_get_state_size __dll315_dll_315_get_state_size
 #define dll_315_func_41C __dll315_dll_315_func_41C
 #define dll_315_func_440 __dll315_dll_315_func_440

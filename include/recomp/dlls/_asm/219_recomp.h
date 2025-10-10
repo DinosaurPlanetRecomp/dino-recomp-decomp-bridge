@@ -11,7 +11,7 @@
 #define dll_219_func_334 __dll219_dll_219_func_334
 #define dll_219_draw __dll219_dll_219_draw
 #define dll_219_destroy __dll219_dll_219_destroy
-#define dll_219_get_setup_flags __dll219_dll_219_get_setup_flags
+#define dll_219_get_model_flags __dll219_dll_219_get_model_flags
 #define dll_219_get_state_size __dll219_dll_219_get_state_size
 #define dll_219_func_4AC __dll219_dll_219_func_4AC
 #define dll_219_func_4BC __dll219_dll_219_func_4BC

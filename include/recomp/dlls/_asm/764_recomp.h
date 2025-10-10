@@ -10,7 +10,7 @@
 #define dll_764_func_170 __dll764_dll_764_func_170
 #define dll_764_draw __dll764_dll_764_draw
 #define dll_764_destroy __dll764_dll_764_destroy
-#define dll_764_get_setup_flags __dll764_dll_764_get_setup_flags
+#define dll_764_get_model_flags __dll764_dll_764_get_model_flags
 #define dll_764_get_state_size __dll764_dll_764_get_state_size
 #define dll_764_func_218 __dll764_dll_764_func_218
 #define dll_764_func_28C __dll764_dll_764_func_28C

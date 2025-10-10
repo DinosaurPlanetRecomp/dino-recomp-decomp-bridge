@@ -11,7 +11,7 @@
 #define dll_230_func_8D8 __dll230_dll_230_func_8D8
 #define dll_230_draw __dll230_dll_230_draw
 #define dll_230_destroy __dll230_dll_230_destroy
-#define dll_230_get_setup_flags __dll230_dll_230_get_setup_flags
+#define dll_230_get_model_flags __dll230_dll_230_get_model_flags
 #define dll_230_get_state_size __dll230_dll_230_get_state_size
 #define dll_230_func_A1C __dll230_dll_230_func_A1C
 #define dll_230_func_BFC __dll230_dll_230_func_BFC

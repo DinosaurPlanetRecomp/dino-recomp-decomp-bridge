@@ -10,7 +10,7 @@
 #define DFPLift_func_7EC __dll641_DFPLift_func_7EC
 #define DFPLift_draw __dll641_DFPLift_draw
 #define DFPLift_destroy __dll641_DFPLift_destroy
-#define DFPLift_func_8F8 __dll641_DFPLift_func_8F8
+#define DFPLift_get_model_flags __dll641_DFPLift_get_model_flags
 #define DFPLift_get_state_size __dll641_DFPLift_get_state_size
 #define DFPLift_func_91C __dll641_DFPLift_func_91C
 

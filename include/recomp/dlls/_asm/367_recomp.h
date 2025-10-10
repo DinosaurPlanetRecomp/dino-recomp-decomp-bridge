@@ -10,7 +10,7 @@
 #define dll_367_func_654 __dll367_dll_367_func_654
 #define dll_367_draw __dll367_dll_367_draw
 #define dll_367_destroy __dll367_dll_367_destroy
-#define dll_367_get_setup_flags __dll367_dll_367_get_setup_flags
+#define dll_367_get_model_flags __dll367_dll_367_get_model_flags
 #define dll_367_get_state_size __dll367_dll_367_get_state_size
 #define dll_367_func_728 __dll367_dll_367_func_728
 #define dll_367_func_7F0 __dll367_dll_367_func_7F0

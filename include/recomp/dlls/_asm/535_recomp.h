@@ -10,7 +10,7 @@
 #define dll_535_func_1D0 __dll535_dll_535_func_1D0
 #define dll_535_draw __dll535_dll_535_draw
 #define dll_535_destroy __dll535_dll_535_destroy
-#define dll_535_get_setup_flags __dll535_dll_535_get_setup_flags
+#define dll_535_get_model_flags __dll535_dll_535_get_model_flags
 #define dll_535_get_state_size __dll535_dll_535_get_state_size
 #define dll_535_func_278 __dll535_dll_535_func_278
 #define _oob_rodata_0 __dll535__oob_rodata_0

@@ -10,7 +10,7 @@
 #define dll_437_func_4A4 __dll437_dll_437_func_4A4
 #define dll_437_draw __dll437_dll_437_draw
 #define dll_437_destroy __dll437_dll_437_destroy
-#define dll_437_get_setup_flags __dll437_dll_437_get_setup_flags
+#define dll_437_get_model_flags __dll437_dll_437_get_model_flags
 #define dll_437_get_state_size __dll437_dll_437_get_state_size
 #define dll_437_func_CC0 __dll437_dll_437_func_CC0
 #define dll_437_func_1164 __dll437_dll_437_func_1164

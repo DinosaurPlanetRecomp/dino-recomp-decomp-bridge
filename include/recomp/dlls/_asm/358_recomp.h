@@ -10,7 +10,7 @@
 #define dll_358_func_A98 __dll358_dll_358_func_A98
 #define dll_358_draw __dll358_dll_358_draw
 #define dll_358_destroy __dll358_dll_358_destroy
-#define dll_358_get_setup_flags __dll358_dll_358_get_setup_flags
+#define dll_358_get_model_flags __dll358_dll_358_get_model_flags
 #define dll_358_get_state_size __dll358_dll_358_get_state_size
 #define dll_358_func_B6C __dll358_dll_358_func_B6C
 #define _rodata_0 __dll358__rodata_0

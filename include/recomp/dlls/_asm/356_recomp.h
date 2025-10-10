@@ -11,7 +11,7 @@
 #define dll_356_func_15DC __dll356_dll_356_func_15DC
 #define dll_356_draw __dll356_dll_356_draw
 #define dll_356_destroy __dll356_dll_356_destroy
-#define dll_356_get_setup_flags __dll356_dll_356_get_setup_flags
+#define dll_356_get_model_flags __dll356_dll_356_get_model_flags
 #define dll_356_get_state_size __dll356_dll_356_get_state_size
 #define dll_356_func_17EC __dll356_dll_356_func_17EC
 #define dll_356_func_1A04 __dll356_dll_356_func_1A04

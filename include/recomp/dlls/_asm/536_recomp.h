@@ -10,7 +10,7 @@
 #define dll_536_func_634 __dll536_dll_536_func_634
 #define dll_536_draw __dll536_dll_536_draw
 #define dll_536_destroy __dll536_dll_536_destroy
-#define dll_536_get_setup_flags __dll536_dll_536_get_setup_flags
+#define dll_536_get_model_flags __dll536_dll_536_get_model_flags
 #define dll_536_get_state_size __dll536_dll_536_get_state_size
 #define _rodata_0 __dll536__rodata_0
 #define _rodata_4 __dll536__rodata_4

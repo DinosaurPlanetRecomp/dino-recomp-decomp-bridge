@@ -10,7 +10,7 @@
 #define dll_610_func_4BC __dll610_dll_610_func_4BC
 #define dll_610_draw __dll610_dll_610_draw
 #define dll_610_destroy __dll610_dll_610_destroy
-#define dll_610_get_setup_flags __dll610_dll_610_get_setup_flags
+#define dll_610_get_model_flags __dll610_dll_610_get_model_flags
 #define dll_610_get_state_size __dll610_dll_610_get_state_size
 #define dll_610_func_5C4 __dll610_dll_610_func_5C4
 #define _rodata_0 __dll610__rodata_0

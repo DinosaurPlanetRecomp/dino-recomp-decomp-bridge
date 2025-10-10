@@ -10,7 +10,7 @@
 #define dll_357_func_140 __dll357_dll_357_func_140
 #define dll_357_draw __dll357_dll_357_draw
 #define dll_357_destroy __dll357_dll_357_destroy
-#define dll_357_get_setup_flags __dll357_dll_357_get_setup_flags
+#define dll_357_get_model_flags __dll357_dll_357_get_model_flags
 #define dll_357_get_state_size __dll357_dll_357_get_state_size
 #define dll_357_func_1C8 __dll357_dll_357_func_1C8
 #define _rodata_0 __dll357__rodata_0

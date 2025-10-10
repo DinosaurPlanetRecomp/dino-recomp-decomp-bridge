@@ -10,7 +10,7 @@
 #define dll_430_func_E0 __dll430_dll_430_func_E0
 #define dll_430_draw __dll430_dll_430_draw
 #define dll_430_destroy __dll430_dll_430_destroy
-#define dll_430_get_setup_flags __dll430_dll_430_get_setup_flags
+#define dll_430_get_model_flags __dll430_dll_430_get_model_flags
 #define dll_430_get_state_size __dll430_dll_430_get_state_size
 #define dll_430_func_174 __dll430_dll_430_func_174
 

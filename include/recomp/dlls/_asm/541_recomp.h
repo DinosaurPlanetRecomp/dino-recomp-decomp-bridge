@@ -10,7 +10,7 @@
 #define dll_541_func_180 __dll541_dll_541_func_180
 #define dll_541_draw __dll541_dll_541_draw
 #define dll_541_destroy __dll541_dll_541_destroy
-#define dll_541_get_setup_flags __dll541_dll_541_get_setup_flags
+#define dll_541_get_model_flags __dll541_dll_541_get_model_flags
 #define dll_541_get_state_size __dll541_dll_541_get_state_size
 #define _rodata_0 __dll541__rodata_0
 #define _rodata_4 __dll541__rodata_4

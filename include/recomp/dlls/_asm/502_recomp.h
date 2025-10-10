@@ -10,7 +10,7 @@
 #define dll_502_func_848 __dll502_dll_502_func_848
 #define dll_502_draw __dll502_dll_502_draw
 #define dll_502_destroy __dll502_dll_502_destroy
-#define dll_502_get_setup_flags __dll502_dll_502_get_setup_flags
+#define dll_502_get_model_flags __dll502_dll_502_get_model_flags
 #define dll_502_get_state_size __dll502_dll_502_get_state_size
 #define dll_502_func_910 __dll502_dll_502_func_910
 #define dll_502_func_C70 __dll502_dll_502_func_C70

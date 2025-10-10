@@ -10,7 +10,7 @@
 #define dll_330_func_580 __dll330_dll_330_func_580
 #define dll_330_draw __dll330_dll_330_draw
 #define dll_330_destroy __dll330_dll_330_destroy
-#define dll_330_get_setup_flags __dll330_dll_330_get_setup_flags
+#define dll_330_get_model_flags __dll330_dll_330_get_model_flags
 #define dll_330_get_state_size __dll330_dll_330_get_state_size
 #define _rodata_0 __dll330__rodata_0
 

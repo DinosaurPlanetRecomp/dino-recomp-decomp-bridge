@@ -10,7 +10,7 @@
 #define dll_733_func_69C __dll733_dll_733_func_69C
 #define dll_733_draw __dll733_dll_733_draw
 #define dll_733_destroy __dll733_dll_733_destroy
-#define dll_733_get_setup_flags __dll733_dll_733_get_setup_flags
+#define dll_733_get_model_flags __dll733_dll_733_get_model_flags
 #define dll_733_get_state_size __dll733_dll_733_get_state_size
 #define dll_733_func_9A4 __dll733_dll_733_func_9A4
 #define dll_733_func_AF0 __dll733_dll_733_func_AF0

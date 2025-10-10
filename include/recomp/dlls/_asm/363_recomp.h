@@ -10,7 +10,7 @@
 #define dll_363_func_68 __dll363_dll_363_func_68
 #define dll_363_draw __dll363_dll_363_draw
 #define dll_363_destroy __dll363_dll_363_destroy
-#define dll_363_get_setup_flags __dll363_dll_363_get_setup_flags
+#define dll_363_get_model_flags __dll363_dll_363_get_model_flags
 #define dll_363_get_state_size __dll363_dll_363_get_state_size
 
 #endif //_DLL_363_RECOMP_H

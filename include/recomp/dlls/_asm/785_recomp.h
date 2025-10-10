@@ -10,7 +10,7 @@
 #define dll_785_func_554 __dll785_dll_785_func_554
 #define dll_785_draw __dll785_dll_785_draw
 #define dll_785_destroy __dll785_dll_785_destroy
-#define dll_785_get_setup_flags __dll785_dll_785_get_setup_flags
+#define dll_785_get_model_flags __dll785_dll_785_get_model_flags
 #define dll_785_get_state_size __dll785_dll_785_get_state_size
 #define dll_785_func_634 __dll785_dll_785_func_634
 #define str_0 __dll785_str_0

@@ -10,7 +10,7 @@
 #define dll_542_func_268 __dll542_dll_542_func_268
 #define dll_542_draw __dll542_dll_542_draw
 #define dll_542_destroy __dll542_dll_542_destroy
-#define dll_542_get_setup_flags __dll542_dll_542_get_setup_flags
+#define dll_542_get_model_flags __dll542_dll_542_get_model_flags
 #define dll_542_get_state_size __dll542_dll_542_get_state_size
 
 #endif //_DLL_542_RECOMP_H

@@ -10,7 +10,7 @@
 #define dll_577_func_B40 __dll577_dll_577_func_B40
 #define dll_577_draw __dll577_dll_577_draw
 #define dll_577_destroy __dll577_dll_577_destroy
-#define dll_577_get_setup_flags __dll577_dll_577_get_setup_flags
+#define dll_577_get_model_flags __dll577_dll_577_get_model_flags
 #define dll_577_get_state_size __dll577_dll_577_get_state_size
 #define _rodata_14 __dll577__rodata_14
 

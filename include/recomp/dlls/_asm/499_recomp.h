@@ -10,7 +10,7 @@
 #define dll_499_func_21C __dll499_dll_499_func_21C
 #define dll_499_draw __dll499_dll_499_draw
 #define dll_499_destroy __dll499_dll_499_destroy
-#define dll_499_get_setup_flags __dll499_dll_499_get_setup_flags
+#define dll_499_get_model_flags __dll499_dll_499_get_model_flags
 #define dll_499_get_state_size __dll499_dll_499_get_state_size
 #define _rodata_0 __dll499__rodata_0
 

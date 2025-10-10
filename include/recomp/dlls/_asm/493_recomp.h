@@ -10,7 +10,7 @@
 #define dll_493_func_1E8 __dll493_dll_493_func_1E8
 #define dll_493_draw __dll493_dll_493_draw
 #define dll_493_destroy __dll493_dll_493_destroy
-#define dll_493_get_setup_flags __dll493_dll_493_get_setup_flags
+#define dll_493_get_model_flags __dll493_dll_493_get_model_flags
 #define dll_493_get_state_size __dll493_dll_493_get_state_size
 #define _data_0 __dll493__data_0
 

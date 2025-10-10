@@ -10,7 +10,7 @@
 #define dll_433_func_E04 __dll433_dll_433_func_E04
 #define dll_433_draw __dll433_dll_433_draw
 #define dll_433_destroy __dll433_dll_433_destroy
-#define dll_433_get_setup_flags __dll433_dll_433_get_setup_flags
+#define dll_433_get_model_flags __dll433_dll_433_get_model_flags
 #define dll_433_get_state_size __dll433_dll_433_get_state_size
 #define dll_433_func_F18 __dll433_dll_433_func_F18
 #define dll_433_func_12AC __dll433_dll_433_func_12AC

@@ -10,7 +10,7 @@
 #define dll_615_func_17B0 __dll615_dll_615_func_17B0
 #define dll_615_draw __dll615_dll_615_draw
 #define dll_615_destroy __dll615_dll_615_destroy
-#define dll_615_get_setup_flags __dll615_dll_615_get_setup_flags
+#define dll_615_get_model_flags __dll615_dll_615_get_model_flags
 #define dll_615_get_state_size __dll615_dll_615_get_state_size
 #define dll_615_func_19FC __dll615_dll_615_func_19FC
 #define dll_615_func_1AC8 __dll615_dll_615_func_1AC8

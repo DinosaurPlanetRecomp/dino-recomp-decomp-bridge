@@ -10,7 +10,7 @@
 #define dll_680_func_2E8 __dll680_dll_680_func_2E8
 #define dll_680_draw __dll680_dll_680_draw
 #define dll_680_destroy __dll680_dll_680_destroy
-#define dll_680_get_setup_flags __dll680_dll_680_get_setup_flags
+#define dll_680_get_model_flags __dll680_dll_680_get_model_flags
 #define dll_680_get_state_size __dll680_dll_680_get_state_size
 #define dll_680_func_3C8 __dll680_dll_680_func_3C8
 #define dll_680_func_3E0 __dll680_dll_680_func_3E0

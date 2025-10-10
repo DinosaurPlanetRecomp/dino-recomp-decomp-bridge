@@ -10,7 +10,7 @@
 #define dll_275_func_83C __dll275_dll_275_func_83C
 #define dll_275_draw __dll275_dll_275_draw
 #define dll_275_destroy __dll275_dll_275_destroy
-#define dll_275_get_setup_flags __dll275_dll_275_get_setup_flags
+#define dll_275_get_model_flags __dll275_dll_275_get_model_flags
 #define dll_275_get_state_size __dll275_dll_275_get_state_size
 #define dll_275_func_89C __dll275_dll_275_func_89C
 #define str_0 __dll275_str_0

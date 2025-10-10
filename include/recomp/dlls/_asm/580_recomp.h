@@ -10,7 +10,7 @@
 #define dll_580_func_4C0 __dll580_dll_580_func_4C0
 #define dll_580_draw __dll580_dll_580_draw
 #define dll_580_destroy __dll580_dll_580_destroy
-#define dll_580_get_setup_flags __dll580_dll_580_get_setup_flags
+#define dll_580_get_model_flags __dll580_dll_580_get_model_flags
 #define dll_580_get_state_size __dll580_dll_580_get_state_size
 #define _oob_rodata_0 __dll580__oob_rodata_0
 

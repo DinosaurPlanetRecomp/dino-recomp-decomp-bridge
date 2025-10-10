@@ -10,7 +10,7 @@
 #define dll_560_func_5DC __dll560_dll_560_func_5DC
 #define dll_560_draw __dll560_dll_560_draw
 #define dll_560_destroy __dll560_dll_560_destroy
-#define dll_560_get_setup_flags __dll560_dll_560_get_setup_flags
+#define dll_560_get_model_flags __dll560_dll_560_get_model_flags
 #define dll_560_get_state_size __dll560_dll_560_get_state_size
 #define _rodata_0 __dll560__rodata_0
 #define _rodata_4 __dll560__rodata_4

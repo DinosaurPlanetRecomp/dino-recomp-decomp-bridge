@@ -10,7 +10,7 @@
 #define dll_467_func_374 __dll467_dll_467_func_374
 #define dll_467_draw __dll467_dll_467_draw
 #define dll_467_destroy __dll467_dll_467_destroy
-#define dll_467_get_setup_flags __dll467_dll_467_get_setup_flags
+#define dll_467_get_model_flags __dll467_dll_467_get_model_flags
 #define dll_467_get_state_size __dll467_dll_467_get_state_size
 
 #endif //_DLL_467_RECOMP_H

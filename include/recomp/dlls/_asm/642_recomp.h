@@ -10,7 +10,7 @@
 #define dll_642_func_420 __dll642_dll_642_func_420
 #define dll_642_draw __dll642_dll_642_draw
 #define dll_642_destroy __dll642_dll_642_destroy
-#define dll_642_get_setup_flags __dll642_dll_642_get_setup_flags
+#define dll_642_get_model_flags __dll642_dll_642_get_model_flags
 #define dll_642_get_state_size __dll642_dll_642_get_state_size
 #define dll_642_func_4B4 __dll642_dll_642_func_4B4
 

@@ -10,7 +10,7 @@
 #define dll_439_func_38 __dll439_dll_439_func_38
 #define dll_439_draw __dll439_dll_439_draw
 #define dll_439_destroy __dll439_dll_439_destroy
-#define dll_439_get_setup_flags __dll439_dll_439_get_setup_flags
+#define dll_439_get_model_flags __dll439_dll_439_get_model_flags
 #define dll_439_get_state_size __dll439_dll_439_get_state_size
 #define dll_439_func_1D0 __dll439_dll_439_func_1D0
 #define dll_439_func_30C __dll439_dll_439_func_30C

@@ -10,7 +10,7 @@
 #define dll_717_func_450 __dll717_dll_717_func_450
 #define dll_717_draw __dll717_dll_717_draw
 #define dll_717_destroy __dll717_dll_717_destroy
-#define dll_717_get_setup_flags __dll717_dll_717_get_setup_flags
+#define dll_717_get_model_flags __dll717_dll_717_get_model_flags
 #define dll_717_get_state_size __dll717_dll_717_get_state_size
 #define dll_717_func_514 __dll717_dll_717_func_514
 #define dll_717_func_5C0 __dll717_dll_717_func_5C0

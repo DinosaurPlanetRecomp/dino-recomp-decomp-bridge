@@ -10,7 +10,7 @@
 #define dll_539_func_2A4 __dll539_dll_539_func_2A4
 #define dll_539_draw __dll539_dll_539_draw
 #define dll_539_destroy __dll539_dll_539_destroy
-#define dll_539_get_setup_flags __dll539_dll_539_get_setup_flags
+#define dll_539_get_model_flags __dll539_dll_539_get_model_flags
 #define dll_539_get_state_size __dll539_dll_539_get_state_size
 #define dll_539_func_368 __dll539_dll_539_func_368
 

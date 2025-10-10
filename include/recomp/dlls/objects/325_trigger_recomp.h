@@ -10,7 +10,7 @@
 #define trigger_func_7D4 __dll325_trigger_func_7D4
 #define trigger_draw __dll325_trigger_draw
 #define trigger_destroy __dll325_trigger_destroy
-#define trigger_func_990 __dll325_trigger_func_990
+#define trigger_get_model_flags __dll325_trigger_get_model_flags
 #define trigger_get_state_size __dll325_trigger_get_state_size
 #define trigger_process_commands __dll325_trigger_process_commands
 #define trigger_func_1754 __dll325_trigger_func_1754

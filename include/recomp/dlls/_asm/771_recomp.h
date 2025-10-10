@@ -10,7 +10,7 @@
 #define dll_771_func_60C __dll771_dll_771_func_60C
 #define dll_771_draw __dll771_dll_771_draw
 #define dll_771_destroy __dll771_dll_771_destroy
-#define dll_771_get_setup_flags __dll771_dll_771_get_setup_flags
+#define dll_771_get_model_flags __dll771_dll_771_get_model_flags
 #define dll_771_get_state_size __dll771_dll_771_get_state_size
 #define dll_771_func_6BC __dll771_dll_771_func_6BC
 #define dll_771_func_7DC __dll771_dll_771_func_7DC

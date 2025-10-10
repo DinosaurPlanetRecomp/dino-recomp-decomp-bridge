@@ -11,7 +11,7 @@
 #define dll_586_func_130 __dll586_dll_586_func_130
 #define dll_586_draw __dll586_dll_586_draw
 #define dll_586_destroy __dll586_dll_586_destroy
-#define dll_586_get_setup_flags __dll586_dll_586_get_setup_flags
+#define dll_586_get_model_flags __dll586_dll_586_get_model_flags
 #define dll_586_get_state_size __dll586_dll_586_get_state_size
 #define _data_0 __dll586__data_0
 

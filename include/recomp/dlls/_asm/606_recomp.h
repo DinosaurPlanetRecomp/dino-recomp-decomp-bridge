@@ -10,7 +10,7 @@
 #define dll_606_func_420 __dll606_dll_606_func_420
 #define dll_606_draw __dll606_dll_606_draw
 #define dll_606_destroy __dll606_dll_606_destroy
-#define dll_606_get_setup_flags __dll606_dll_606_get_setup_flags
+#define dll_606_get_model_flags __dll606_dll_606_get_model_flags
 #define dll_606_get_state_size __dll606_dll_606_get_state_size
 #define _data_0 __dll606__data_0
 #define _data_4 __dll606__data_4

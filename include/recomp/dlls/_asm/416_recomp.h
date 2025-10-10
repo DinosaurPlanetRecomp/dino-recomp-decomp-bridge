@@ -10,7 +10,7 @@
 #define dll_416_func_380 __dll416_dll_416_func_380
 #define dll_416_draw __dll416_dll_416_draw
 #define dll_416_destroy __dll416_dll_416_destroy
-#define dll_416_get_setup_flags __dll416_dll_416_get_setup_flags
+#define dll_416_get_model_flags __dll416_dll_416_get_model_flags
 #define dll_416_get_state_size __dll416_dll_416_get_state_size
 
 #endif //_DLL_416_RECOMP_H

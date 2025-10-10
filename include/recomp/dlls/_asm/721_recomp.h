@@ -10,7 +10,7 @@
 #define dll_721_func_4F0 __dll721_dll_721_func_4F0
 #define dll_721_draw __dll721_dll_721_draw
 #define dll_721_destroy __dll721_dll_721_destroy
-#define dll_721_get_setup_flags __dll721_dll_721_get_setup_flags
+#define dll_721_get_model_flags __dll721_dll_721_get_model_flags
 #define dll_721_get_state_size __dll721_dll_721_get_state_size
 #define dll_721_func_5FC __dll721_dll_721_func_5FC
 #define dll_721_func_7D4 __dll721_dll_721_func_7D4

@@ -11,7 +11,7 @@
 #define dll_567_func_37C __dll567_dll_567_func_37C
 #define dll_567_draw __dll567_dll_567_draw
 #define dll_567_destroy __dll567_dll_567_destroy
-#define dll_567_get_setup_flags __dll567_dll_567_get_setup_flags
+#define dll_567_get_model_flags __dll567_dll_567_get_model_flags
 #define dll_567_get_state_size __dll567_dll_567_get_state_size
 #define dll_567_func_6CC __dll567_dll_567_func_6CC
 #define dll_567_func_6DC __dll567_dll_567_func_6DC

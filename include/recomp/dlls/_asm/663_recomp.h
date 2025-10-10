@@ -10,7 +10,7 @@
 #define dll_663_func_360 __dll663_dll_663_func_360
 #define dll_663_draw __dll663_dll_663_draw
 #define dll_663_destroy __dll663_dll_663_destroy
-#define dll_663_get_setup_flags __dll663_dll_663_get_setup_flags
+#define dll_663_get_model_flags __dll663_dll_663_get_model_flags
 #define dll_663_get_state_size __dll663_dll_663_get_state_size
 #define str_0 __dll663_str_0
 #define _data_0 __dll663__data_0

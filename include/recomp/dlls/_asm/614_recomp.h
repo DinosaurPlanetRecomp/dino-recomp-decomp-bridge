@@ -10,7 +10,7 @@
 #define dll_614_func_2C4 __dll614_dll_614_func_2C4
 #define dll_614_draw __dll614_dll_614_draw
 #define dll_614_destroy __dll614_dll_614_destroy
-#define dll_614_get_setup_flags __dll614_dll_614_get_setup_flags
+#define dll_614_get_model_flags __dll614_dll_614_get_model_flags
 #define dll_614_get_state_size __dll614_dll_614_get_state_size
 #define _rodata_0 __dll614__rodata_0
 #define _data_0 __dll614__data_0

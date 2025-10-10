@@ -10,7 +10,7 @@
 #define dll_477_func_C0C __dll477_dll_477_func_C0C
 #define dll_477_draw __dll477_dll_477_draw
 #define dll_477_destroy __dll477_dll_477_destroy
-#define dll_477_get_setup_flags __dll477_dll_477_get_setup_flags
+#define dll_477_get_model_flags __dll477_dll_477_get_model_flags
 #define dll_477_get_state_size __dll477_dll_477_get_state_size
 #define dll_477_func_D1C __dll477_dll_477_func_D1C
 #define dll_477_func_10A0 __dll477_dll_477_func_10A0

@@ -10,7 +10,7 @@
 #define dll_600_func_2A8 __dll600_dll_600_func_2A8
 #define dll_600_draw __dll600_dll_600_draw
 #define dll_600_destroy __dll600_dll_600_destroy
-#define dll_600_get_setup_flags __dll600_dll_600_get_setup_flags
+#define dll_600_get_model_flags __dll600_dll_600_get_model_flags
 #define dll_600_get_state_size __dll600_dll_600_get_state_size
 #define dll_600_func_348 __dll600_dll_600_func_348
 #define _rodata_0 __dll600__rodata_0

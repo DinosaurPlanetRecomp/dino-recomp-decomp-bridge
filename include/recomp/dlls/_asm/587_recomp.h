@@ -10,7 +10,7 @@
 #define dll_587_func_340 __dll587_dll_587_func_340
 #define dll_587_draw __dll587_dll_587_draw
 #define dll_587_destroy __dll587_dll_587_destroy
-#define dll_587_get_setup_flags __dll587_dll_587_get_setup_flags
+#define dll_587_get_model_flags __dll587_dll_587_get_model_flags
 #define dll_587_get_state_size __dll587_dll_587_get_state_size
 #define dll_587_func_548 __dll587_dll_587_func_548
 #define dll_587_func_75C __dll587_dll_587_func_75C

@@ -10,7 +10,7 @@
 #define dll_754_func_354 __dll754_dll_754_func_354
 #define dll_754_draw __dll754_dll_754_draw
 #define dll_754_destroy __dll754_dll_754_destroy
-#define dll_754_get_setup_flags __dll754_dll_754_get_setup_flags
+#define dll_754_get_model_flags __dll754_dll_754_get_model_flags
 #define dll_754_get_state_size __dll754_dll_754_get_state_size
 #define dll_754_func_3AC __dll754_dll_754_func_3AC
 #define str_0 __dll754_str_0

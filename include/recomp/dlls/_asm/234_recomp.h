@@ -11,7 +11,7 @@
 #define dll_234_func_85C __dll234_dll_234_func_85C
 #define dll_234_draw __dll234_dll_234_draw
 #define dll_234_destroy __dll234_dll_234_destroy
-#define dll_234_get_setup_flags __dll234_dll_234_get_setup_flags
+#define dll_234_get_model_flags __dll234_dll_234_get_model_flags
 #define dll_234_get_state_size __dll234_dll_234_get_state_size
 #define dll_234_func_A10 __dll234_dll_234_func_A10
 #define dll_234_func_A8C __dll234_dll_234_func_A8C

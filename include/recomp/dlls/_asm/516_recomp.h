@@ -11,7 +11,7 @@
 #define dll_516_func_2FC __dll516_dll_516_func_2FC
 #define dll_516_draw __dll516_dll_516_draw
 #define dll_516_destroy __dll516_dll_516_destroy
-#define dll_516_get_setup_flags __dll516_dll_516_get_setup_flags
+#define dll_516_get_model_flags __dll516_dll_516_get_model_flags
 #define dll_516_get_state_size __dll516_dll_516_get_state_size
 #define dll_516_func_538 __dll516_dll_516_func_538
 #define dll_516_func_570 __dll516_dll_516_func_570

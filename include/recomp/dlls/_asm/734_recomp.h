@@ -10,7 +10,7 @@
 #define dll_734_func_7E0 __dll734_dll_734_func_7E0
 #define dll_734_draw __dll734_dll_734_draw
 #define dll_734_destroy __dll734_dll_734_destroy
-#define dll_734_get_setup_flags __dll734_dll_734_get_setup_flags
+#define dll_734_get_model_flags __dll734_dll_734_get_model_flags
 #define dll_734_get_state_size __dll734_dll_734_get_state_size
 #define dll_734_func_C34 __dll734_dll_734_func_C34
 #define dll_734_func_D30 __dll734_dll_734_func_D30

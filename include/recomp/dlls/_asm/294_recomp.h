@@ -11,7 +11,7 @@
 #define dll_294_func_8C8 __dll294_dll_294_func_8C8
 #define dll_294_draw __dll294_dll_294_draw
 #define dll_294_destroy __dll294_dll_294_destroy
-#define dll_294_get_setup_flags __dll294_dll_294_get_setup_flags
+#define dll_294_get_model_flags __dll294_dll_294_get_model_flags
 #define dll_294_get_state_size __dll294_dll_294_get_state_size
 #define dll_294_func_968 __dll294_dll_294_func_968
 #define str_0 __dll294_str_0

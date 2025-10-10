@@ -10,7 +10,7 @@
 #define dll_530_func_388 __dll530_dll_530_func_388
 #define dll_530_draw __dll530_dll_530_draw
 #define dll_530_destroy __dll530_dll_530_destroy
-#define dll_530_get_setup_flags __dll530_dll_530_get_setup_flags
+#define dll_530_get_model_flags __dll530_dll_530_get_model_flags
 #define dll_530_get_state_size __dll530_dll_530_get_state_size
 #define dll_530_func_4FC __dll530_dll_530_func_4FC
 #define dll_530_func_59C __dll530_dll_530_func_59C

@@ -10,7 +10,7 @@
 #define dll_571_func_134 __dll571_dll_571_func_134
 #define dll_571_draw __dll571_dll_571_draw
 #define dll_571_destroy __dll571_dll_571_destroy
-#define dll_571_get_setup_flags __dll571_dll_571_get_setup_flags
+#define dll_571_get_model_flags __dll571_dll_571_get_model_flags
 #define dll_571_get_state_size __dll571_dll_571_get_state_size
 #define dll_571_func_1C4 __dll571_dll_571_func_1C4
 #define _rodata_0 __dll571__rodata_0

@@ -10,7 +10,7 @@
 #define DBdiamond_func_204 __dll668_DBdiamond_func_204
 #define DBdiamond_draw __dll668_DBdiamond_draw
 #define DBdiamond_destroy __dll668_DBdiamond_destroy
-#define DBdiamond_func_2BC __dll668_DBdiamond_func_2BC
+#define DBdiamond_get_model_flags __dll668_DBdiamond_get_model_flags
 #define DBdiamond_get_state_size __dll668_DBdiamond_get_state_size
 
 #endif //_DLL_668_RECOMP_H

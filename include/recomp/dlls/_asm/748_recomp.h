@@ -10,7 +10,7 @@
 #define dll_748_func_440 __dll748_dll_748_func_440
 #define dll_748_draw __dll748_dll_748_draw
 #define dll_748_destroy __dll748_dll_748_destroy
-#define dll_748_get_setup_flags __dll748_dll_748_get_setup_flags
+#define dll_748_get_model_flags __dll748_dll_748_get_model_flags
 #define dll_748_get_state_size __dll748_dll_748_get_state_size
 #define str_0 __dll748_str_0
 #define _data_0 __dll748__data_0

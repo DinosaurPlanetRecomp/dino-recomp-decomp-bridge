@@ -10,7 +10,7 @@
 #define dll_658_func_430 __dll658_dll_658_func_430
 #define dll_658_draw __dll658_dll_658_draw
 #define dll_658_destroy __dll658_dll_658_destroy
-#define dll_658_get_setup_flags __dll658_dll_658_get_setup_flags
+#define dll_658_get_model_flags __dll658_dll_658_get_model_flags
 #define dll_658_get_state_size __dll658_dll_658_get_state_size
 #define dll_658_func_61C __dll658_dll_658_func_61C
 #define dll_658_func_720 __dll658_dll_658_func_720

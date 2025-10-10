@@ -10,7 +10,7 @@
 #define dll_674_func_310 __dll674_dll_674_func_310
 #define dll_674_draw __dll674_dll_674_draw
 #define dll_674_destroy __dll674_dll_674_destroy
-#define dll_674_get_setup_flags __dll674_dll_674_get_setup_flags
+#define dll_674_get_model_flags __dll674_dll_674_get_model_flags
 #define dll_674_get_state_size __dll674_dll_674_get_state_size
 #define _rodata_0 __dll674__rodata_0
 #define _rodata_4 __dll674__rodata_4

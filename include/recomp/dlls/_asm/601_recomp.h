@@ -10,7 +10,7 @@
 #define dll_601_func_2EC __dll601_dll_601_func_2EC
 #define dll_601_draw __dll601_dll_601_draw
 #define dll_601_destroy __dll601_dll_601_destroy
-#define dll_601_get_setup_flags __dll601_dll_601_get_setup_flags
+#define dll_601_get_model_flags __dll601_dll_601_get_model_flags
 #define dll_601_get_state_size __dll601_dll_601_get_state_size
 #define dll_601_func_3CC __dll601_dll_601_func_3CC
 

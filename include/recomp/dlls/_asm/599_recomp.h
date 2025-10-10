@@ -10,7 +10,7 @@
 #define dll_599_func_384 __dll599_dll_599_func_384
 #define dll_599_draw __dll599_dll_599_draw
 #define dll_599_destroy __dll599_dll_599_destroy
-#define dll_599_get_setup_flags __dll599_dll_599_get_setup_flags
+#define dll_599_get_model_flags __dll599_dll_599_get_model_flags
 #define dll_599_get_state_size __dll599_dll_599_get_state_size
 #define dll_599_func_48C __dll599_dll_599_func_48C
 #define _data_0 __dll599__data_0

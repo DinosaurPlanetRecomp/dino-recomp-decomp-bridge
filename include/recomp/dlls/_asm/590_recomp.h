@@ -10,7 +10,7 @@
 #define dll_590_func_4F0 __dll590_dll_590_func_4F0
 #define dll_590_draw __dll590_dll_590_draw
 #define dll_590_destroy __dll590_dll_590_destroy
-#define dll_590_get_setup_flags __dll590_dll_590_get_setup_flags
+#define dll_590_get_model_flags __dll590_dll_590_get_model_flags
 #define dll_590_get_state_size __dll590_dll_590_get_state_size
 #define dll_590_func_678 __dll590_dll_590_func_678
 #define _data_0 __dll590__data_0

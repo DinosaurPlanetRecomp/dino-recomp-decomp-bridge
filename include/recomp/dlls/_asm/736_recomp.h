@@ -10,7 +10,7 @@
 #define dll_736_func_304 __dll736_dll_736_func_304
 #define dll_736_draw __dll736_dll_736_draw
 #define dll_736_destroy __dll736_dll_736_destroy
-#define dll_736_get_setup_flags __dll736_dll_736_get_setup_flags
+#define dll_736_get_model_flags __dll736_dll_736_get_model_flags
 #define dll_736_get_state_size __dll736_dll_736_get_state_size
 #define _bss_0 __dll736__bss_0
 

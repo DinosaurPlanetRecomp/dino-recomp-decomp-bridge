@@ -10,7 +10,7 @@
 #define dll_780_func_4E8 __dll780_dll_780_func_4E8
 #define dll_780_draw __dll780_dll_780_draw
 #define dll_780_destroy __dll780_dll_780_destroy
-#define dll_780_get_setup_flags __dll780_dll_780_get_setup_flags
+#define dll_780_get_model_flags __dll780_dll_780_get_model_flags
 #define dll_780_get_state_size __dll780_dll_780_get_state_size
 
 #endif //_DLL_780_RECOMP_H

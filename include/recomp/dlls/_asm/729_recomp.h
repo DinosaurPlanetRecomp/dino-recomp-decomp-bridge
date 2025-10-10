@@ -10,7 +10,7 @@
 #define dll_729_func_BC __dll729_dll_729_func_BC
 #define dll_729_draw __dll729_dll_729_draw
 #define dll_729_destroy __dll729_dll_729_destroy
-#define dll_729_get_setup_flags __dll729_dll_729_get_setup_flags
+#define dll_729_get_model_flags __dll729_dll_729_get_model_flags
 #define dll_729_get_state_size __dll729_dll_729_get_state_size
 #define dll_729_func_150 __dll729_dll_729_func_150
 #define dll_729_func_178 __dll729_dll_729_func_178

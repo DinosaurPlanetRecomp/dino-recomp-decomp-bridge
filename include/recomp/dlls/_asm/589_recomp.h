@@ -10,7 +10,7 @@
 #define dll_589_func_C0 __dll589_dll_589_func_C0
 #define dll_589_draw __dll589_dll_589_draw
 #define dll_589_destroy __dll589_dll_589_destroy
-#define dll_589_get_setup_flags __dll589_dll_589_get_setup_flags
+#define dll_589_get_model_flags __dll589_dll_589_get_model_flags
 #define dll_589_get_state_size __dll589_dll_589_get_state_size
 #define _oob_rodata_0 __dll589__oob_rodata_0
 

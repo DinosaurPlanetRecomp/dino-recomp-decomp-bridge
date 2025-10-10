@@ -10,7 +10,7 @@
 #define dll_630_func_420 __dll630_dll_630_func_420
 #define dll_630_draw __dll630_dll_630_draw
 #define dll_630_destroy __dll630_dll_630_destroy
-#define dll_630_get_setup_flags __dll630_dll_630_get_setup_flags
+#define dll_630_get_model_flags __dll630_dll_630_get_model_flags
 #define dll_630_get_state_size __dll630_dll_630_get_state_size
 #define dll_630_func_4B4 __dll630_dll_630_func_4B4
 

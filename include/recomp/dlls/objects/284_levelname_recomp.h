@@ -10,7 +10,7 @@
 #define levelname_func_304 __dll284_levelname_func_304
 #define levelname_draw __dll284_levelname_draw
 #define levelname_destroy __dll284_levelname_destroy
-#define levelname_func_4E4 __dll284_levelname_func_4E4
+#define levelname_get_model_flags __dll284_levelname_get_model_flags
 #define levelname_get_state_size __dll284_levelname_get_state_size
 #define levelname_anim_callback __dll284_levelname_anim_callback
 #define _data_0 __dll284__data_0

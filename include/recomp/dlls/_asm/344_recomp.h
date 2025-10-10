@@ -10,7 +10,7 @@
 #define dll_344_func_1D4 __dll344_dll_344_func_1D4
 #define dll_344_draw __dll344_dll_344_draw
 #define dll_344_destroy __dll344_dll_344_destroy
-#define dll_344_get_setup_flags __dll344_dll_344_get_setup_flags
+#define dll_344_get_model_flags __dll344_dll_344_get_model_flags
 #define dll_344_get_state_size __dll344_dll_344_get_state_size
 #define dll_344_func_514 __dll344_dll_344_func_514
 #define dll_344_func_5AC __dll344_dll_344_func_5AC

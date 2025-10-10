@@ -10,7 +10,7 @@
 #define dll_783_func_510 __dll783_dll_783_func_510
 #define dll_783_draw __dll783_dll_783_draw
 #define dll_783_destroy __dll783_dll_783_destroy
-#define dll_783_get_setup_flags __dll783_dll_783_get_setup_flags
+#define dll_783_get_model_flags __dll783_dll_783_get_model_flags
 #define dll_783_get_state_size __dll783_dll_783_get_state_size
 #define _rodata_0 __dll783__rodata_0
 

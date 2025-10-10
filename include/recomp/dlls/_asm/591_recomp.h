@@ -10,7 +10,7 @@
 #define dll_591_func_D50 __dll591_dll_591_func_D50
 #define dll_591_draw __dll591_dll_591_draw
 #define dll_591_destroy __dll591_dll_591_destroy
-#define dll_591_get_setup_flags __dll591_dll_591_get_setup_flags
+#define dll_591_get_model_flags __dll591_dll_591_get_model_flags
 #define dll_591_get_state_size __dll591_dll_591_get_state_size
 #define _rodata_24 __dll591__rodata_24
 #define _rodata_28 __dll591__rodata_28

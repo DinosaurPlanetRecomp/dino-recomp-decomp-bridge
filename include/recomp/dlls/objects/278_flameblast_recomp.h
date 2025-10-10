@@ -12,7 +12,7 @@
 #define flameblast_func_274 __dll278_flameblast_func_274
 #define flameblast_draw __dll278_flameblast_draw
 #define flameblast_destroy __dll278_flameblast_destroy
-#define flameblast_func_2EC __dll278_flameblast_func_2EC
+#define flameblast_get_model_flags __dll278_flameblast_get_model_flags
 #define flameblast_get_state_size __dll278_flameblast_get_state_size
 
 #endif //_DLL_278_RECOMP_H

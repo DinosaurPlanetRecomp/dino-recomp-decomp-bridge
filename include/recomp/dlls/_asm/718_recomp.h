@@ -10,7 +10,7 @@
 #define dll_718_func_25C __dll718_dll_718_func_25C
 #define dll_718_draw __dll718_dll_718_draw
 #define dll_718_destroy __dll718_dll_718_destroy
-#define dll_718_get_setup_flags __dll718_dll_718_get_setup_flags
+#define dll_718_get_model_flags __dll718_dll_718_get_model_flags
 #define dll_718_get_state_size __dll718_dll_718_get_state_size
 #define dll_718_func_320 __dll718_dll_718_func_320
 #define dll_718_func_388 __dll718_dll_718_func_388

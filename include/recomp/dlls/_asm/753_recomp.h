@@ -10,7 +10,7 @@
 #define dll_753_func_818 __dll753_dll_753_func_818
 #define dll_753_draw __dll753_dll_753_draw
 #define dll_753_destroy __dll753_dll_753_destroy
-#define dll_753_get_setup_flags __dll753_dll_753_get_setup_flags
+#define dll_753_get_model_flags __dll753_dll_753_get_model_flags
 #define dll_753_get_state_size __dll753_dll_753_get_state_size
 #define str_0 __dll753_str_0
 #define str_10 __dll753_str_10

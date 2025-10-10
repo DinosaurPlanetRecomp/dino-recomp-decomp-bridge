@@ -10,7 +10,7 @@
 #define dll_653_func_4D8 __dll653_dll_653_func_4D8
 #define dll_653_draw __dll653_dll_653_draw
 #define dll_653_destroy __dll653_dll_653_destroy
-#define dll_653_get_setup_flags __dll653_dll_653_get_setup_flags
+#define dll_653_get_model_flags __dll653_dll_653_get_model_flags
 #define dll_653_get_state_size __dll653_dll_653_get_state_size
 #define str_0 __dll653_str_0
 #define _data_0 __dll653__data_0

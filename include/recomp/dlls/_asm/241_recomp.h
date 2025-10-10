@@ -10,7 +10,7 @@
 #define dll_241_func_6C __dll241_dll_241_func_6C
 #define dll_241_draw __dll241_dll_241_draw
 #define dll_241_destroy __dll241_dll_241_destroy
-#define dll_241_get_setup_flags __dll241_dll_241_get_setup_flags
+#define dll_241_get_model_flags __dll241_dll_241_get_model_flags
 #define dll_241_get_state_size __dll241_dll_241_get_state_size
 #define dll_241_func_10C __dll241_dll_241_func_10C
 

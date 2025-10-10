@@ -10,7 +10,7 @@
 #define dll_766_func_31C __dll766_dll_766_func_31C
 #define dll_766_draw __dll766_dll_766_draw
 #define dll_766_destroy __dll766_dll_766_destroy
-#define dll_766_get_setup_flags __dll766_dll_766_get_setup_flags
+#define dll_766_get_model_flags __dll766_dll_766_get_model_flags
 #define dll_766_get_state_size __dll766_dll_766_get_state_size
 #define dll_766_func_42C __dll766_dll_766_func_42C
 #define str_0 __dll766_str_0

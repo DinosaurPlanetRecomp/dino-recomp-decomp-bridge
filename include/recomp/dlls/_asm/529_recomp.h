@@ -10,7 +10,7 @@
 #define dll_529_func_4BC __dll529_dll_529_func_4BC
 #define dll_529_draw __dll529_dll_529_draw
 #define dll_529_destroy __dll529_dll_529_destroy
-#define dll_529_get_setup_flags __dll529_dll_529_get_setup_flags
+#define dll_529_get_model_flags __dll529_dll_529_get_model_flags
 #define dll_529_get_state_size __dll529_dll_529_get_state_size
 #define dll_529_func_6A0 __dll529_dll_529_func_6A0
 #define dll_529_func_6B8 __dll529_dll_529_func_6B8

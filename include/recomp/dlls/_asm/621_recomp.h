@@ -10,7 +10,7 @@
 #define dll_621_func_5B4 __dll621_dll_621_func_5B4
 #define dll_621_draw __dll621_dll_621_draw
 #define dll_621_destroy __dll621_dll_621_destroy
-#define dll_621_get_setup_flags __dll621_dll_621_get_setup_flags
+#define dll_621_get_model_flags __dll621_dll_621_get_model_flags
 #define dll_621_get_state_size __dll621_dll_621_get_state_size
 #define _rodata_0 __dll621__rodata_0
 #define _data_0 __dll621__data_0

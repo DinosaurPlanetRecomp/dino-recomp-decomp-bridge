@@ -10,7 +10,7 @@
 #define dll_453_func_198 __dll453_dll_453_func_198
 #define dll_453_draw __dll453_dll_453_draw
 #define dll_453_destroy __dll453_dll_453_destroy
-#define dll_453_get_setup_flags __dll453_dll_453_get_setup_flags
+#define dll_453_get_model_flags __dll453_dll_453_get_model_flags
 #define dll_453_get_state_size __dll453_dll_453_get_state_size
 
 #endif //_DLL_453_RECOMP_H

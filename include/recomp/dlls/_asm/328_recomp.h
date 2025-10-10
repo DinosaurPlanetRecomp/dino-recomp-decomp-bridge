@@ -10,7 +10,7 @@
 #define dll_328_func_278 __dll328_dll_328_func_278
 #define dll_328_draw __dll328_dll_328_draw
 #define dll_328_destroy __dll328_dll_328_destroy
-#define dll_328_get_setup_flags __dll328_dll_328_get_setup_flags
+#define dll_328_get_model_flags __dll328_dll_328_get_model_flags
 #define dll_328_get_state_size __dll328_dll_328_get_state_size
 #define dll_328_func_3AC __dll328_dll_328_func_3AC
 #define dll_328_func_87C __dll328_dll_328_func_87C

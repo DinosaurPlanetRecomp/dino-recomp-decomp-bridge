@@ -10,7 +10,7 @@
 #define dll_470_func_8E8 __dll470_dll_470_func_8E8
 #define dll_470_draw __dll470_dll_470_draw
 #define dll_470_destroy __dll470_dll_470_destroy
-#define dll_470_get_setup_flags __dll470_dll_470_get_setup_flags
+#define dll_470_get_model_flags __dll470_dll_470_get_model_flags
 #define dll_470_get_state_size __dll470_dll_470_get_state_size
 #define _rodata_0 __dll470__rodata_0
 #define _data_0 __dll470__data_0

@@ -10,7 +10,7 @@
 #define dll_426_func_B0 __dll426_dll_426_func_B0
 #define dll_426_draw __dll426_dll_426_draw
 #define dll_426_destroy __dll426_dll_426_destroy
-#define dll_426_get_setup_flags __dll426_dll_426_get_setup_flags
+#define dll_426_get_model_flags __dll426_dll_426_get_model_flags
 #define dll_426_get_state_size __dll426_dll_426_get_state_size
 
 #endif //_DLL_426_RECOMP_H

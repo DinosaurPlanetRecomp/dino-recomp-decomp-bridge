@@ -10,7 +10,7 @@
 #define dll_401_func_4AC __dll401_dll_401_func_4AC
 #define dll_401_draw __dll401_dll_401_draw
 #define dll_401_destroy __dll401_dll_401_destroy
-#define dll_401_get_setup_flags __dll401_dll_401_get_setup_flags
+#define dll_401_get_model_flags __dll401_dll_401_get_model_flags
 #define dll_401_get_state_size __dll401_dll_401_get_state_size
 #define dll_401_func_81C __dll401_dll_401_func_81C
 #define dll_401_func_8E4 __dll401_dll_401_func_8E4

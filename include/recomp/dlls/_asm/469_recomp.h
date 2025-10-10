@@ -10,7 +10,7 @@
 #define dll_469_func_1320 __dll469_dll_469_func_1320
 #define dll_469_draw __dll469_dll_469_draw
 #define dll_469_destroy __dll469_dll_469_destroy
-#define dll_469_get_setup_flags __dll469_dll_469_get_setup_flags
+#define dll_469_get_model_flags __dll469_dll_469_get_model_flags
 #define dll_469_get_state_size __dll469_dll_469_get_state_size
 #define dll_469_func_1454 __dll469_dll_469_func_1454
 #define dll_469_func_1484 __dll469_dll_469_func_1484

@@ -10,7 +10,7 @@
 #define dll_765_func_88 __dll765_dll_765_func_88
 #define dll_765_draw __dll765_dll_765_draw
 #define dll_765_destroy __dll765_dll_765_destroy
-#define dll_765_get_setup_flags __dll765_dll_765_get_setup_flags
+#define dll_765_get_model_flags __dll765_dll_765_get_model_flags
 #define dll_765_get_state_size __dll765_dll_765_get_state_size
 #define dll_765_func_144 __dll765_dll_765_func_144
 #define dll_765_func_224 __dll765_dll_765_func_224

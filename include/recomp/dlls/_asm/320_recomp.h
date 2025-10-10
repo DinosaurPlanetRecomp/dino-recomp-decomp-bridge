@@ -10,7 +10,7 @@
 #define dll_320_func_3D4 __dll320_dll_320_func_3D4
 #define dll_320_draw __dll320_dll_320_draw
 #define dll_320_destroy __dll320_dll_320_destroy
-#define dll_320_get_setup_flags __dll320_dll_320_get_setup_flags
+#define dll_320_get_model_flags __dll320_dll_320_get_model_flags
 #define dll_320_get_state_size __dll320_dll_320_get_state_size
 #define _rodata_0 __dll320__rodata_0
 #define _data_0 __dll320__data_0

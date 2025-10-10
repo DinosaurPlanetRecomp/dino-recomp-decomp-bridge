@@ -10,7 +10,7 @@
 #define dll_548_func_1AC __dll548_dll_548_func_1AC
 #define dll_548_draw __dll548_dll_548_draw
 #define dll_548_destroy __dll548_dll_548_destroy
-#define dll_548_get_setup_flags __dll548_dll_548_get_setup_flags
+#define dll_548_get_model_flags __dll548_dll_548_get_model_flags
 #define dll_548_get_state_size __dll548_dll_548_get_state_size
 #define dll_548_func_41C __dll548_dll_548_func_41C
 #define dll_548_func_6E8 __dll548_dll_548_func_6E8

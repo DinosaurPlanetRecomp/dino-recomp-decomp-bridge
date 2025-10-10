@@ -11,7 +11,7 @@
 #define dll_794_func_37C __dll794_dll_794_func_37C
 #define dll_794_draw __dll794_dll_794_draw
 #define dll_794_destroy __dll794_dll_794_destroy
-#define dll_794_get_setup_flags __dll794_dll_794_get_setup_flags
+#define dll_794_get_model_flags __dll794_dll_794_get_model_flags
 #define dll_794_get_state_size __dll794_dll_794_get_state_size
 #define str_0 __dll794_str_0
 

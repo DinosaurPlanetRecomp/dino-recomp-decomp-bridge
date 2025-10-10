@@ -19,7 +19,7 @@
 #define dll_231_func_2300 __dll231_dll_231_func_2300
 #define dll_231_draw __dll231_dll_231_draw
 #define dll_231_destroy __dll231_dll_231_destroy
-#define dll_231_get_setup_flags __dll231_dll_231_get_setup_flags
+#define dll_231_get_model_flags __dll231_dll_231_get_model_flags
 #define dll_231_get_state_size __dll231_dll_231_get_state_size
 #define dll_231_func_2724 __dll231_dll_231_func_2724
 #define dll_231_func_27C8 __dll231_dll_231_func_27C8

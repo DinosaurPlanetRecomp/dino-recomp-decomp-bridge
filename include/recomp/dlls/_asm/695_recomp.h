@@ -10,7 +10,7 @@
 #define dll_695_func_128 __dll695_dll_695_func_128
 #define dll_695_draw __dll695_dll_695_draw
 #define dll_695_destroy __dll695_dll_695_destroy
-#define dll_695_get_setup_flags __dll695_dll_695_get_setup_flags
+#define dll_695_get_model_flags __dll695_dll_695_get_model_flags
 #define dll_695_get_state_size __dll695_dll_695_get_state_size
 #define dll_695_func_1C8 __dll695_dll_695_func_1C8
 #define _data_0 __dll695__data_0

@@ -10,7 +10,7 @@
 #define dll_255_func_7DC __dll255_dll_255_func_7DC
 #define dll_255_draw __dll255_dll_255_draw
 #define dll_255_destroy __dll255_dll_255_destroy
-#define dll_255_get_setup_flags __dll255_dll_255_get_setup_flags
+#define dll_255_get_model_flags __dll255_dll_255_get_model_flags
 #define dll_255_get_state_size __dll255_dll_255_get_state_size
 #define dll_255_func_9F0 __dll255_dll_255_func_9F0
 #define _data_0 __dll255__data_0

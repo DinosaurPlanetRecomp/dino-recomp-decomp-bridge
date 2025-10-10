@@ -10,7 +10,7 @@
 #define dll_297_func_1164 __dll297_dll_297_func_1164
 #define dll_297_draw __dll297_dll_297_draw
 #define dll_297_destroy __dll297_dll_297_destroy
-#define dll_297_get_setup_flags __dll297_dll_297_get_setup_flags
+#define dll_297_get_model_flags __dll297_dll_297_get_model_flags
 #define dll_297_get_state_size __dll297_dll_297_get_state_size
 #define dll_297_func_1284 __dll297_dll_297_func_1284
 #define dll_297_func_1304 __dll297_dll_297_func_1304

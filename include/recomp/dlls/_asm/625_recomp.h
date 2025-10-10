@@ -10,7 +10,7 @@
 #define dll_625_func_1FC __dll625_dll_625_func_1FC
 #define dll_625_draw __dll625_dll_625_draw
 #define dll_625_destroy __dll625_dll_625_destroy
-#define dll_625_get_setup_flags __dll625_dll_625_get_setup_flags
+#define dll_625_get_model_flags __dll625_dll_625_get_model_flags
 #define dll_625_get_state_size __dll625_dll_625_get_state_size
 #define dll_625_func_28C __dll625_dll_625_func_28C
 #define dll_625_func_3C4 __dll625_dll_625_func_3C4

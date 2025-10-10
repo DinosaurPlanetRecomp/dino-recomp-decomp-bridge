@@ -12,7 +12,7 @@
 #define dll_724_func_2CC __dll724_dll_724_func_2CC
 #define dll_724_func_2E0 __dll724_dll_724_func_2E0
 #define dll_724_destroy __dll724_dll_724_destroy
-#define dll_724_get_setup_flags __dll724_dll_724_get_setup_flags
+#define dll_724_get_model_flags __dll724_dll_724_get_model_flags
 #define dll_724_get_state_size __dll724_dll_724_get_state_size
 #define dll_724_func_35C __dll724_dll_724_func_35C
 #define dll_724_func_374 __dll724_dll_724_func_374

@@ -10,7 +10,7 @@
 #define dll_700_func_BC __dll700_dll_700_func_BC
 #define dll_700_draw __dll700_dll_700_draw
 #define dll_700_destroy __dll700_dll_700_destroy
-#define dll_700_get_setup_flags __dll700_dll_700_get_setup_flags
+#define dll_700_get_model_flags __dll700_dll_700_get_model_flags
 #define dll_700_get_state_size __dll700_dll_700_get_state_size
 #define _oob_rodata_0 __dll700__oob_rodata_0
 

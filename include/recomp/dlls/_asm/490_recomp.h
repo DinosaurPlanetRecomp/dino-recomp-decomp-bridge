@@ -10,7 +10,7 @@
 #define dll_490_func_66C __dll490_dll_490_func_66C
 #define dll_490_draw __dll490_dll_490_draw
 #define dll_490_destroy __dll490_dll_490_destroy
-#define dll_490_get_setup_flags __dll490_dll_490_get_setup_flags
+#define dll_490_get_model_flags __dll490_dll_490_get_model_flags
 #define dll_490_get_state_size __dll490_dll_490_get_state_size
 #define dll_490_func_700 __dll490_dll_490_func_700
 #define dll_490_func_8A4 __dll490_dll_490_func_8A4

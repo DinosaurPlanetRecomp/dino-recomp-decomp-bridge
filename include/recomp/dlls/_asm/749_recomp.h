@@ -10,7 +10,7 @@
 #define dll_749_func_4BC __dll749_dll_749_func_4BC
 #define dll_749_draw __dll749_dll_749_draw
 #define dll_749_destroy __dll749_dll_749_destroy
-#define dll_749_get_setup_flags __dll749_dll_749_get_setup_flags
+#define dll_749_get_model_flags __dll749_dll_749_get_model_flags
 #define dll_749_get_state_size __dll749_dll_749_get_state_size
 #define dll_749_func_594 __dll749_dll_749_func_594
 #define dll_749_func_870 __dll749_dll_749_func_870

@@ -10,7 +10,7 @@
 #define dll_575_func_770 __dll575_dll_575_func_770
 #define dll_575_draw __dll575_dll_575_draw
 #define dll_575_destroy __dll575_dll_575_destroy
-#define dll_575_get_setup_flags __dll575_dll_575_get_setup_flags
+#define dll_575_get_model_flags __dll575_dll_575_get_model_flags
 #define dll_575_get_state_size __dll575_dll_575_get_state_size
 #define str_0 __dll575_str_0
 #define _data_0 __dll575__data_0

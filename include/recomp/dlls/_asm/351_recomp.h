@@ -10,7 +10,7 @@
 #define dll_351_func_950 __dll351_dll_351_func_950
 #define dll_351_draw __dll351_dll_351_draw
 #define dll_351_destroy __dll351_dll_351_destroy
-#define dll_351_get_setup_flags __dll351_dll_351_get_setup_flags
+#define dll_351_get_model_flags __dll351_dll_351_get_model_flags
 #define dll_351_get_state_size __dll351_dll_351_get_state_size
 #define dll_351_func_A28 __dll351_dll_351_func_A28
 #define dll_351_func_C90 __dll351_dll_351_func_C90

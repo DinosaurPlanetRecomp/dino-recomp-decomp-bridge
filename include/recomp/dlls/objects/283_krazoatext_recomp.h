@@ -10,8 +10,8 @@
 #define krazoatext_func_324 __dll283_krazoatext_func_324
 #define krazoatext_draw __dll283_krazoatext_draw
 #define krazoatext_destroy __dll283_krazoatext_destroy
+#define dll_283_get_model_flags __dll283_dll_283_get_model_flags
 #define krazoatext_func_414 __dll283_krazoatext_func_414
-#define dll_283_get_setup_flags __dll283_dll_283_get_setup_flags
 #define dll_283_get_state_size __dll283_dll_283_get_state_size
 #define krazoatext_get_state_size __dll283_krazoatext_get_state_size
 #define krazoatext_print __dll283_krazoatext_print

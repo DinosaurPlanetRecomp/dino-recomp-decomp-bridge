@@ -10,7 +10,7 @@
 #define dll_574_func_464 __dll574_dll_574_func_464
 #define dll_574_draw __dll574_dll_574_draw
 #define dll_574_destroy __dll574_dll_574_destroy
-#define dll_574_get_setup_flags __dll574_dll_574_get_setup_flags
+#define dll_574_get_model_flags __dll574_dll_574_get_model_flags
 #define dll_574_get_state_size __dll574_dll_574_get_state_size
 #define _rodata_0 __dll574__rodata_0
 #define _data_0 __dll574__data_0

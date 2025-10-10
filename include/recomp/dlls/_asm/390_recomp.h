@@ -10,7 +10,7 @@
 #define dll_390_func_310 __dll390_dll_390_func_310
 #define dll_390_draw __dll390_dll_390_draw
 #define dll_390_destroy __dll390_dll_390_destroy
-#define dll_390_get_setup_flags __dll390_dll_390_get_setup_flags
+#define dll_390_get_model_flags __dll390_dll_390_get_model_flags
 #define dll_390_get_state_size __dll390_dll_390_get_state_size
 #define dll_390_func_3E8 __dll390_dll_390_func_3E8
 #define dll_390_func_884 __dll390_dll_390_func_884

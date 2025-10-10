@@ -10,7 +10,7 @@
 #define dll_664_func_49C __dll664_dll_664_func_49C
 #define dll_664_draw __dll664_dll_664_draw
 #define dll_664_destroy __dll664_dll_664_destroy
-#define dll_664_get_setup_flags __dll664_dll_664_get_setup_flags
+#define dll_664_get_model_flags __dll664_dll_664_get_model_flags
 #define dll_664_get_state_size __dll664_dll_664_get_state_size
 #define _rodata_0 __dll664__rodata_0
 

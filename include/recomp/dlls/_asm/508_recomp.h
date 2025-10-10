@@ -10,7 +10,7 @@
 #define dll_508_func_474 __dll508_dll_508_func_474
 #define dll_508_draw __dll508_dll_508_draw
 #define dll_508_destroy __dll508_dll_508_destroy
-#define dll_508_get_setup_flags __dll508_dll_508_get_setup_flags
+#define dll_508_get_model_flags __dll508_dll_508_get_model_flags
 #define dll_508_get_state_size __dll508_dll_508_get_state_size
 #define dll_508_func_584 __dll508_dll_508_func_584
 #define dll_508_func_608 __dll508_dll_508_func_608

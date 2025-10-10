@@ -10,7 +10,7 @@
 #define dll_492_func_834 __dll492_dll_492_func_834
 #define dll_492_draw __dll492_dll_492_draw
 #define dll_492_destroy __dll492_dll_492_destroy
-#define dll_492_get_setup_flags __dll492_dll_492_get_setup_flags
+#define dll_492_get_model_flags __dll492_dll_492_get_model_flags
 #define dll_492_get_state_size __dll492_dll_492_get_state_size
 #define str_0 __dll492_str_0
 #define _rodata_14 __dll492__rodata_14

@@ -10,7 +10,7 @@
 #define dll_472_func_F10 __dll472_dll_472_func_F10
 #define dll_472_draw __dll472_dll_472_draw
 #define dll_472_destroy __dll472_dll_472_destroy
-#define dll_472_get_setup_flags __dll472_dll_472_get_setup_flags
+#define dll_472_get_model_flags __dll472_dll_472_get_model_flags
 #define dll_472_get_state_size __dll472_dll_472_get_state_size
 #define dll_472_func_1024 __dll472_dll_472_func_1024
 #define dll_472_func_13E0 __dll472_dll_472_func_13E0

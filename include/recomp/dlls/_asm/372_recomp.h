@@ -10,7 +10,7 @@
 #define dll_372_func_160 __dll372_dll_372_func_160
 #define dll_372_draw __dll372_dll_372_draw
 #define dll_372_destroy __dll372_dll_372_destroy
-#define dll_372_get_setup_flags __dll372_dll_372_get_setup_flags
+#define dll_372_get_model_flags __dll372_dll_372_get_model_flags
 #define dll_372_get_state_size __dll372_dll_372_get_state_size
 #define dll_372_func_288 __dll372_dll_372_func_288
 #define dll_372_func_11B8 __dll372_dll_372_func_11B8

@@ -10,8 +10,8 @@
 #define dll_496_func_770 __dll496_dll_496_func_770
 #define dll_496_func_77C __dll496_dll_496_func_77C
 #define dll_496_func_804 __dll496_dll_496_func_804
-#define dll_496_func_828 __dll496_dll_496_func_828
-#define dll_496_func_838 __dll496_dll_496_func_838
+#define dll_496_get_model_flags __dll496_dll_496_get_model_flags
+#define dll_496_get_state_size __dll496_dll_496_get_state_size
 #define dll_496_func_84C __dll496_dll_496_func_84C
 #define dll_496_func_980 __dll496_dll_496_func_980
 #define dll_496_func_CC4 __dll496_dll_496_func_CC4

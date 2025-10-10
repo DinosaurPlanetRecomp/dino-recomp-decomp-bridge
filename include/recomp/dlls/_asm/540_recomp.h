@@ -10,7 +10,7 @@
 #define dll_540_func_108 __dll540_dll_540_func_108
 #define dll_540_draw __dll540_dll_540_draw
 #define dll_540_destroy __dll540_dll_540_destroy
-#define dll_540_get_setup_flags __dll540_dll_540_get_setup_flags
+#define dll_540_get_model_flags __dll540_dll_540_get_model_flags
 #define dll_540_get_state_size __dll540_dll_540_get_state_size
 #define dll_540_func_1CC __dll540_dll_540_func_1CC
 #define dll_540_func_28C __dll540_dll_540_func_28C

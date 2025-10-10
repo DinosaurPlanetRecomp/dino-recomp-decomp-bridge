@@ -11,7 +11,7 @@
 #define dll_732_func_123C __dll732_dll_732_func_123C
 #define dll_732_draw __dll732_dll_732_draw
 #define dll_732_destroy __dll732_dll_732_destroy
-#define dll_732_get_setup_flags __dll732_dll_732_get_setup_flags
+#define dll_732_get_model_flags __dll732_dll_732_get_model_flags
 #define dll_732_get_state_size __dll732_dll_732_get_state_size
 #define dll_732_func_18FC __dll732_dll_732_func_18FC
 #define dll_732_func_1980 __dll732_dll_732_func_1980

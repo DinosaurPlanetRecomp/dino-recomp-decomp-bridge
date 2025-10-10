@@ -10,7 +10,7 @@
 #define dll_327_func_230 __dll327_dll_327_func_230
 #define dll_327_draw __dll327_dll_327_draw
 #define dll_327_destroy __dll327_dll_327_destroy
-#define dll_327_get_setup_flags __dll327_dll_327_get_setup_flags
+#define dll_327_get_model_flags __dll327_dll_327_get_model_flags
 #define dll_327_get_state_size __dll327_dll_327_get_state_size
 #define _rodata_0 __dll327__rodata_0
 

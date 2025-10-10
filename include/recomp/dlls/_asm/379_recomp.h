@@ -10,7 +10,7 @@
 #define dll_379_func_3C __dll379_dll_379_func_3C
 #define dll_379_draw __dll379_dll_379_draw
 #define dll_379_destroy __dll379_dll_379_destroy
-#define dll_379_get_setup_flags __dll379_dll_379_get_setup_flags
+#define dll_379_get_model_flags __dll379_dll_379_get_model_flags
 #define dll_379_get_state_size __dll379_dll_379_get_state_size
 #define _oob_rodata_0 __dll379__oob_rodata_0
 

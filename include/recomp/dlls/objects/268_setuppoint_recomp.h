@@ -10,7 +10,7 @@
 #define setuppoint_func_64 __dll268_setuppoint_func_64
 #define setuppoint_draw __dll268_setuppoint_draw
 #define setuppoint_destroy __dll268_setuppoint_destroy
-#define setuppoint_func_D4 __dll268_setuppoint_func_D4
+#define setuppoint_get_model_flags __dll268_setuppoint_get_model_flags
 #define setuppoint_get_state_size __dll268_setuppoint_get_state_size
 
 #endif //_DLL_268_RECOMP_H

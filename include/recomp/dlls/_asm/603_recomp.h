@@ -10,7 +10,7 @@
 #define dll_603_func_2A4 __dll603_dll_603_func_2A4
 #define dll_603_draw __dll603_dll_603_draw
 #define dll_603_destroy __dll603_dll_603_destroy
-#define dll_603_get_setup_flags __dll603_dll_603_get_setup_flags
+#define dll_603_get_model_flags __dll603_dll_603_get_model_flags
 #define dll_603_get_state_size __dll603_dll_603_get_state_size
 #define _data_0 __dll603__data_0
 

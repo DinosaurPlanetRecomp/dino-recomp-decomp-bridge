@@ -10,7 +10,7 @@
 #define dll_579_func_610 __dll579_dll_579_func_610
 #define dll_579_draw __dll579_dll_579_draw
 #define dll_579_destroy __dll579_dll_579_destroy
-#define dll_579_get_setup_flags __dll579_dll_579_get_setup_flags
+#define dll_579_get_model_flags __dll579_dll_579_get_model_flags
 #define dll_579_get_state_size __dll579_dll_579_get_state_size
 #define _rodata_0 __dll579__rodata_0
 

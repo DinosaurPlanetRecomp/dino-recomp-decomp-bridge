@@ -10,7 +10,7 @@
 #define dll_422_func_4B0 __dll422_dll_422_func_4B0
 #define dll_422_draw __dll422_dll_422_draw
 #define dll_422_destroy __dll422_dll_422_destroy
-#define dll_422_get_setup_flags __dll422_dll_422_get_setup_flags
+#define dll_422_get_model_flags __dll422_dll_422_get_model_flags
 #define dll_422_get_state_size __dll422_dll_422_get_state_size
 
 #endif //_DLL_422_RECOMP_H

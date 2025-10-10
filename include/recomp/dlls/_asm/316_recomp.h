@@ -15,7 +15,7 @@
 #define dll_316_func_F80 __dll316_dll_316_func_F80
 #define dll_316_draw __dll316_dll_316_draw
 #define dll_316_destroy __dll316_dll_316_destroy
-#define dll_316_get_setup_flags __dll316_dll_316_get_setup_flags
+#define dll_316_get_model_flags __dll316_dll_316_get_model_flags
 #define dll_316_get_state_size __dll316_dll_316_get_state_size
 #define dll_316_func_10D0 __dll316_dll_316_func_10D0
 #define dll_316_func_10E0 __dll316_dll_316_func_10E0

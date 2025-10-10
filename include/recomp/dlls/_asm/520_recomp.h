@@ -10,7 +10,7 @@
 #define dll_520_func_7B4 __dll520_dll_520_func_7B4
 #define dll_520_draw __dll520_dll_520_draw
 #define dll_520_destroy __dll520_dll_520_destroy
-#define dll_520_get_setup_flags __dll520_dll_520_get_setup_flags
+#define dll_520_get_model_flags __dll520_dll_520_get_model_flags
 #define dll_520_get_state_size __dll520_dll_520_get_state_size
 #define dll_520_func_914 __dll520_dll_520_func_914
 #define dll_520_func_BAC __dll520_dll_520_func_BAC

@@ -10,7 +10,7 @@
 #define dll_446_func_1DC __dll446_dll_446_func_1DC
 #define dll_446_draw __dll446_dll_446_draw
 #define dll_446_destroy __dll446_dll_446_destroy
-#define dll_446_get_setup_flags __dll446_dll_446_get_setup_flags
+#define dll_446_get_model_flags __dll446_dll_446_get_model_flags
 #define dll_446_get_state_size __dll446_dll_446_get_state_size
 #define _data_0 __dll446__data_0
 

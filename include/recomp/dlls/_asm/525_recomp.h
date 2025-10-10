@@ -10,7 +10,7 @@
 #define dll_525_func_598 __dll525_dll_525_func_598
 #define dll_525_draw __dll525_dll_525_draw
 #define dll_525_destroy __dll525_dll_525_destroy
-#define dll_525_get_setup_flags __dll525_dll_525_get_setup_flags
+#define dll_525_get_model_flags __dll525_dll_525_get_model_flags
 #define dll_525_get_state_size __dll525_dll_525_get_state_size
 #define dll_525_func_684 __dll525_dll_525_func_684
 #define dll_525_func_81C __dll525_dll_525_func_81C

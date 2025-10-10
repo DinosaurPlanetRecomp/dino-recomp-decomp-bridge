@@ -10,7 +10,7 @@
 #define dll_631_func_1EC __dll631_dll_631_func_1EC
 #define dll_631_draw __dll631_dll_631_draw
 #define dll_631_destroy __dll631_dll_631_destroy
-#define dll_631_get_setup_flags __dll631_dll_631_get_setup_flags
+#define dll_631_get_model_flags __dll631_dll_631_get_model_flags
 #define dll_631_get_state_size __dll631_dll_631_get_state_size
 #define dll_631_func_2C4 __dll631_dll_631_func_2C4
 #define dll_631_func_5E4 __dll631_dll_631_func_5E4

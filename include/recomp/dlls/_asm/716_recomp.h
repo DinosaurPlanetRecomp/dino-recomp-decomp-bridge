@@ -10,7 +10,7 @@
 #define dll_716_func_26C __dll716_dll_716_func_26C
 #define dll_716_draw __dll716_dll_716_draw
 #define dll_716_destroy __dll716_dll_716_destroy
-#define dll_716_get_setup_flags __dll716_dll_716_get_setup_flags
+#define dll_716_get_model_flags __dll716_dll_716_get_model_flags
 #define dll_716_get_state_size __dll716_dll_716_get_state_size
 #define dll_716_func_354 __dll716_dll_716_func_354
 #define dll_716_func_49C __dll716_dll_716_func_49C

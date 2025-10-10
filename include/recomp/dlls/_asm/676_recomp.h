@@ -10,7 +10,7 @@
 #define dll_676_func_408 __dll676_dll_676_func_408
 #define dll_676_draw __dll676_dll_676_draw
 #define dll_676_destroy __dll676_dll_676_destroy
-#define dll_676_get_setup_flags __dll676_dll_676_get_setup_flags
+#define dll_676_get_model_flags __dll676_dll_676_get_model_flags
 #define dll_676_get_state_size __dll676_dll_676_get_state_size
 #define str_0 __dll676_str_0
 #define _rodata_14 __dll676__rodata_14

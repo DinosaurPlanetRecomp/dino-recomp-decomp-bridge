@@ -10,7 +10,7 @@
 #define dll_568_func_49C __dll568_dll_568_func_49C
 #define dll_568_draw __dll568_dll_568_draw
 #define dll_568_destroy __dll568_dll_568_destroy
-#define dll_568_get_setup_flags __dll568_dll_568_get_setup_flags
+#define dll_568_get_model_flags __dll568_dll_568_get_model_flags
 #define dll_568_get_state_size __dll568_dll_568_get_state_size
 #define dll_568_func_604 __dll568_dll_568_func_604
 #define dll_568_func_614 __dll568_dll_568_func_614

@@ -10,7 +10,7 @@
 #define dll_418_func_1C0 __dll418_dll_418_func_1C0
 #define dll_418_draw __dll418_dll_418_draw
 #define dll_418_destroy __dll418_dll_418_destroy
-#define dll_418_get_setup_flags __dll418_dll_418_get_setup_flags
+#define dll_418_get_model_flags __dll418_dll_418_get_model_flags
 #define dll_418_get_state_size __dll418_dll_418_get_state_size
 #define str_0 __dll418_str_0
 #define _rodata_28 __dll418__rodata_28
