@@ -13782,8 +13782,6 @@ vram = 0x8136A03C
 size = 0x650
 
 symbols = [
-    { name = "__dll549_str_0", vram = 0x8136A5EC },
-    { name = "__dll549_str_28", vram = 0x8136A614 },
 ]
 
 [[section]]

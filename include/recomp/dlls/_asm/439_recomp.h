@@ -5,13 +5,13 @@
 
 #define dll_439_ctor __dll439_dll_439_ctor
 #define dll_439_dtor __dll439_dll_439_dtor
-#define dll_439_create __dll439_dll_439_create
+#define dll_439_setup __dll439_dll_439_setup
+#define dll_439_control __dll439_dll_439_control
 #define dll_439_update __dll439_dll_439_update
-#define dll_439_func_38 __dll439_dll_439_func_38
-#define dll_439_draw __dll439_dll_439_draw
-#define dll_439_destroy __dll439_dll_439_destroy
+#define dll_439_print __dll439_dll_439_print
+#define dll_439_free __dll439_dll_439_free
 #define dll_439_get_model_flags __dll439_dll_439_get_model_flags
-#define dll_439_get_state_size __dll439_dll_439_get_state_size
+#define dll_439_get_data_size __dll439_dll_439_get_data_size
 #define dll_439_func_1D0 __dll439_dll_439_func_1D0
 #define dll_439_func_30C __dll439_dll_439_func_30C
 #define dll_439_func_3A4 __dll439_dll_439_func_3A4

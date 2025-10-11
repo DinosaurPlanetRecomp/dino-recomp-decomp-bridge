@@ -5,13 +5,13 @@
 
 #define sfxplayer_ctor __dll266_sfxplayer_ctor
 #define sfxplayer_dtor __dll266_sfxplayer_dtor
-#define sfxplayer_create __dll266_sfxplayer_create
+#define sfxplayer_setup __dll266_sfxplayer_setup
+#define sfxplayer_control __dll266_sfxplayer_control
 #define sfxplayer_update __dll266_sfxplayer_update
-#define sfxplayer_func_458 __dll266_sfxplayer_func_458
-#define sfxplayer_draw __dll266_sfxplayer_draw
-#define sfxplayer_destroy __dll266_sfxplayer_destroy
+#define sfxplayer_print __dll266_sfxplayer_print
+#define sfxplayer_free __dll266_sfxplayer_free
 #define sfxplayer_get_model_flags __dll266_sfxplayer_get_model_flags
-#define sfxplayer_get_state_size __dll266_sfxplayer_get_state_size
+#define sfxplayer_get_data_size __dll266_sfxplayer_get_data_size
 #define _oob_rodata_0 __dll266__oob_rodata_0
 
 #endif //_DLL_266_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_673_ctor __dll673_dll_673_ctor
 #define dll_673_dtor __dll673_dll_673_dtor
-#define dll_673_create __dll673_dll_673_create
+#define dll_673_setup __dll673_dll_673_setup
+#define dll_673_control __dll673_dll_673_control
 #define dll_673_update __dll673_dll_673_update
-#define dll_673_func_238 __dll673_dll_673_func_238
-#define dll_673_draw __dll673_dll_673_draw
-#define dll_673_destroy __dll673_dll_673_destroy
+#define dll_673_print __dll673_dll_673_print
+#define dll_673_free __dll673_dll_673_free
 #define dll_673_get_model_flags __dll673_dll_673_get_model_flags
-#define dll_673_get_state_size __dll673_dll_673_get_state_size
+#define dll_673_get_data_size __dll673_dll_673_get_data_size
 #define dll_673_func_2CC __dll673_dll_673_func_2CC
 #define dll_673_func_49C __dll673_dll_673_func_49C
 #define str_0 __dll673_str_0

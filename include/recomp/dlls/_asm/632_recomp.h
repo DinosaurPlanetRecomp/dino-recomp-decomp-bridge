@@ -5,13 +5,13 @@
 
 #define dll_632_ctor __dll632_dll_632_ctor
 #define dll_632_dtor __dll632_dll_632_dtor
-#define dll_632_create __dll632_dll_632_create
+#define dll_632_setup __dll632_dll_632_setup
+#define dll_632_control __dll632_dll_632_control
 #define dll_632_update __dll632_dll_632_update
-#define dll_632_func_104 __dll632_dll_632_func_104
-#define dll_632_draw __dll632_dll_632_draw
-#define dll_632_destroy __dll632_dll_632_destroy
+#define dll_632_print __dll632_dll_632_print
+#define dll_632_free __dll632_dll_632_free
 #define dll_632_get_model_flags __dll632_dll_632_get_model_flags
-#define dll_632_get_state_size __dll632_dll_632_get_state_size
+#define dll_632_get_data_size __dll632_dll_632_get_data_size
 #define dll_632_func_1C4 __dll632_dll_632_func_1C4
 #define _rodata_0 __dll632__rodata_0
 #define _rodata_4 __dll632__rodata_4

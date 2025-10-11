@@ -5,13 +5,13 @@
 
 #define dll_441_ctor __dll441_dll_441_ctor
 #define dll_441_dtor __dll441_dll_441_dtor
-#define dll_441_create __dll441_dll_441_create
+#define dll_441_setup __dll441_dll_441_setup
+#define dll_441_control __dll441_dll_441_control
 #define dll_441_update __dll441_dll_441_update
-#define dll_441_func_1A0 __dll441_dll_441_func_1A0
-#define dll_441_draw __dll441_dll_441_draw
-#define dll_441_destroy __dll441_dll_441_destroy
+#define dll_441_print __dll441_dll_441_print
+#define dll_441_free __dll441_dll_441_free
 #define dll_441_get_model_flags __dll441_dll_441_get_model_flags
-#define dll_441_get_state_size __dll441_dll_441_get_state_size
+#define dll_441_get_data_size __dll441_dll_441_get_data_size
 #define dll_441_func_2B4 __dll441_dll_441_func_2B4
 
 #endif //_DLL_441_RECOMP_H

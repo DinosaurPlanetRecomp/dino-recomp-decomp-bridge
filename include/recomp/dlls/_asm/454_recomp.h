@@ -5,14 +5,14 @@
 
 #define dll_454_ctor __dll454_dll_454_ctor
 #define dll_454_dtor __dll454_dll_454_dtor
-#define dll_454_create __dll454_dll_454_create
-#define dll_454_update __dll454_dll_454_update
+#define dll_454_setup __dll454_dll_454_setup
+#define dll_454_control __dll454_dll_454_control
 #define dll_454_func_AB0 __dll454_dll_454_func_AB0
-#define dll_454_func_B54 __dll454_dll_454_func_B54
-#define dll_454_draw __dll454_dll_454_draw
-#define dll_454_destroy __dll454_dll_454_destroy
+#define dll_454_update __dll454_dll_454_update
+#define dll_454_print __dll454_dll_454_print
+#define dll_454_free __dll454_dll_454_free
 #define dll_454_get_model_flags __dll454_dll_454_get_model_flags
-#define dll_454_get_state_size __dll454_dll_454_get_state_size
+#define dll_454_get_data_size __dll454_dll_454_get_data_size
 #define dll_454_func_BE8 __dll454_dll_454_func_BE8
 #define dll_454_func_CEC __dll454_dll_454_func_CEC
 #define dll_454_func_DC4 __dll454_dll_454_func_DC4

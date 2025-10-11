@@ -5,12 +5,12 @@
 
 #define dll_447_ctor __dll447_dll_447_ctor
 #define dll_447_dtor __dll447_dll_447_dtor
-#define dll_447_create __dll447_dll_447_create
+#define dll_447_setup __dll447_dll_447_setup
+#define dll_447_control __dll447_dll_447_control
 #define dll_447_update __dll447_dll_447_update
-#define dll_447_func_66C __dll447_dll_447_func_66C
-#define dll_447_draw __dll447_dll_447_draw
-#define dll_447_destroy __dll447_dll_447_destroy
+#define dll_447_print __dll447_dll_447_print
+#define dll_447_free __dll447_dll_447_free
 #define dll_447_get_model_flags __dll447_dll_447_get_model_flags
-#define dll_447_get_state_size __dll447_dll_447_get_state_size
+#define dll_447_get_data_size __dll447_dll_447_get_data_size
 
 #endif //_DLL_447_RECOMP_H

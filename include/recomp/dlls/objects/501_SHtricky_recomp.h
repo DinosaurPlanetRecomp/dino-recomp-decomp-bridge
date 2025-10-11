@@ -5,13 +5,13 @@
 
 #define SHtricky_ctor __dll501_SHtricky_ctor
 #define SHtricky_dtor __dll501_SHtricky_dtor
-#define SHtricky_create __dll501_SHtricky_create
+#define SHtricky_setup __dll501_SHtricky_setup
+#define SHtricky_control __dll501_SHtricky_control
 #define SHtricky_update __dll501_SHtricky_update
-#define SHtricky_func_1A8 __dll501_SHtricky_func_1A8
-#define SHtricky_draw __dll501_SHtricky_draw
-#define SHtricky_destroy __dll501_SHtricky_destroy
+#define SHtricky_print __dll501_SHtricky_print
+#define SHtricky_free __dll501_SHtricky_free
 #define SHtricky_get_model_flags __dll501_SHtricky_get_model_flags
-#define SHtricky_get_state_size __dll501_SHtricky_get_state_size
+#define SHtricky_get_data_size __dll501_SHtricky_get_data_size
 #define _oob_rodata_0 __dll501__oob_rodata_0
 
 #endif //_DLL_501_RECOMP_H

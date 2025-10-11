@@ -5,13 +5,13 @@
 
 #define dll_745_ctor __dll745_dll_745_ctor
 #define dll_745_dtor __dll745_dll_745_dtor
-#define dll_745_create __dll745_dll_745_create
+#define dll_745_setup __dll745_dll_745_setup
+#define dll_745_control __dll745_dll_745_control
 #define dll_745_update __dll745_dll_745_update
-#define dll_745_func_930 __dll745_dll_745_func_930
-#define dll_745_draw __dll745_dll_745_draw
-#define dll_745_destroy __dll745_dll_745_destroy
+#define dll_745_print __dll745_dll_745_print
+#define dll_745_free __dll745_dll_745_free
 #define dll_745_get_model_flags __dll745_dll_745_get_model_flags
-#define dll_745_get_state_size __dll745_dll_745_get_state_size
+#define dll_745_get_data_size __dll745_dll_745_get_data_size
 #define dll_745_func_CAC __dll745_dll_745_func_CAC
 #define dll_745_func_DEC __dll745_dll_745_func_DEC
 #define str_0 __dll745_str_0

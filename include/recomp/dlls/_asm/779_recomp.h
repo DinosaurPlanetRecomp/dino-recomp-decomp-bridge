@@ -5,13 +5,13 @@
 
 #define dll_779_ctor __dll779_dll_779_ctor
 #define dll_779_dtor __dll779_dll_779_dtor
-#define dll_779_create __dll779_dll_779_create
+#define dll_779_setup __dll779_dll_779_setup
+#define dll_779_control __dll779_dll_779_control
 #define dll_779_update __dll779_dll_779_update
-#define dll_779_func_3A0 __dll779_dll_779_func_3A0
-#define dll_779_draw __dll779_dll_779_draw
-#define dll_779_destroy __dll779_dll_779_destroy
+#define dll_779_print __dll779_dll_779_print
+#define dll_779_free __dll779_dll_779_free
 #define dll_779_get_model_flags __dll779_dll_779_get_model_flags
-#define dll_779_get_state_size __dll779_dll_779_get_state_size
+#define dll_779_get_data_size __dll779_dll_779_get_data_size
 #define dll_779_func_464 __dll779_dll_779_func_464
 #define dll_779_func_534 __dll779_dll_779_func_534
 #define dll_779_func_64C __dll779_dll_779_func_64C

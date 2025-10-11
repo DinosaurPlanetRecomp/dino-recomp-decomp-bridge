@@ -5,13 +5,13 @@
 
 #define dll_730_ctor __dll730_dll_730_ctor
 #define dll_730_dtor __dll730_dll_730_dtor
-#define dll_730_create __dll730_dll_730_create
+#define dll_730_setup __dll730_dll_730_setup
+#define dll_730_control __dll730_dll_730_control
 #define dll_730_update __dll730_dll_730_update
-#define dll_730_func_218 __dll730_dll_730_func_218
-#define dll_730_draw __dll730_dll_730_draw
-#define dll_730_destroy __dll730_dll_730_destroy
+#define dll_730_print __dll730_dll_730_print
+#define dll_730_free __dll730_dll_730_free
 #define dll_730_get_model_flags __dll730_dll_730_get_model_flags
-#define dll_730_get_state_size __dll730_dll_730_get_state_size
+#define dll_730_get_data_size __dll730_dll_730_get_data_size
 #define dll_730_func_2EC __dll730_dll_730_func_2EC
 #define dll_730_func_334 __dll730_dll_730_func_334
 #define dll_730_func_34C __dll730_dll_730_func_34C

@@ -5,14 +5,14 @@
 
 #define dll_405_ctor __dll405_dll_405_ctor
 #define dll_405_dtor __dll405_dll_405_dtor
-#define dll_405_create __dll405_dll_405_create
+#define dll_405_setup __dll405_dll_405_setup
+#define dll_405_control __dll405_dll_405_control
 #define dll_405_update __dll405_dll_405_update
-#define dll_405_func_F0 __dll405_dll_405_func_F0
 #define dll_405_func_FC __dll405_dll_405_func_FC
-#define dll_405_draw __dll405_dll_405_draw
-#define dll_405_destroy __dll405_dll_405_destroy
+#define dll_405_print __dll405_dll_405_print
+#define dll_405_free __dll405_dll_405_free
 #define dll_405_get_model_flags __dll405_dll_405_get_model_flags
-#define dll_405_get_state_size __dll405_dll_405_get_state_size
+#define dll_405_get_data_size __dll405_dll_405_get_data_size
 #define _oob_rodata_0 __dll405__oob_rodata_0
 
 #endif //_DLL_405_RECOMP_H

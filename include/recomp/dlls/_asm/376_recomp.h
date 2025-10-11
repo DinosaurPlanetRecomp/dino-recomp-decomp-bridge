@@ -5,13 +5,13 @@
 
 #define dll_376_ctor __dll376_dll_376_ctor
 #define dll_376_dtor __dll376_dll_376_dtor
-#define dll_376_create __dll376_dll_376_create
+#define dll_376_setup __dll376_dll_376_setup
+#define dll_376_control __dll376_dll_376_control
 #define dll_376_update __dll376_dll_376_update
-#define dll_376_func_590 __dll376_dll_376_func_590
-#define dll_376_draw __dll376_dll_376_draw
-#define dll_376_destroy __dll376_dll_376_destroy
+#define dll_376_print __dll376_dll_376_print
+#define dll_376_free __dll376_dll_376_free
 #define dll_376_get_model_flags __dll376_dll_376_get_model_flags
-#define dll_376_get_state_size __dll376_dll_376_get_state_size
+#define dll_376_get_data_size __dll376_dll_376_get_data_size
 #define dll_376_func_8F4 __dll376_dll_376_func_8F4
 #define dll_376_func_9F8 __dll376_dll_376_func_9F8
 #define dll_376_func_A3C __dll376_dll_376_func_A3C

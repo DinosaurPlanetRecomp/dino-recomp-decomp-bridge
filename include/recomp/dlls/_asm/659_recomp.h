@@ -5,13 +5,13 @@
 
 #define dll_659_ctor __dll659_dll_659_ctor
 #define dll_659_dtor __dll659_dll_659_dtor
-#define dll_659_create __dll659_dll_659_create
+#define dll_659_setup __dll659_dll_659_setup
+#define dll_659_control __dll659_dll_659_control
 #define dll_659_update __dll659_dll_659_update
-#define dll_659_func_330 __dll659_dll_659_func_330
-#define dll_659_draw __dll659_dll_659_draw
-#define dll_659_destroy __dll659_dll_659_destroy
+#define dll_659_print __dll659_dll_659_print
+#define dll_659_free __dll659_dll_659_free
 #define dll_659_get_model_flags __dll659_dll_659_get_model_flags
-#define dll_659_get_state_size __dll659_dll_659_get_state_size
+#define dll_659_get_data_size __dll659_dll_659_get_data_size
 #define dll_659_func_3C4 __dll659_dll_659_func_3C4
 #define dll_659_func_57C __dll659_dll_659_func_57C
 #define str_0 __dll659_str_0

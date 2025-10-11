@@ -5,13 +5,13 @@
 
 #define dll_699_ctor __dll699_dll_699_ctor
 #define dll_699_dtor __dll699_dll_699_dtor
-#define dll_699_create __dll699_dll_699_create
+#define dll_699_setup __dll699_dll_699_setup
+#define dll_699_control __dll699_dll_699_control
 #define dll_699_update __dll699_dll_699_update
-#define dll_699_func_BB0 __dll699_dll_699_func_BB0
-#define dll_699_draw __dll699_dll_699_draw
-#define dll_699_destroy __dll699_dll_699_destroy
+#define dll_699_print __dll699_dll_699_print
+#define dll_699_free __dll699_dll_699_free
 #define dll_699_get_model_flags __dll699_dll_699_get_model_flags
-#define dll_699_get_state_size __dll699_dll_699_get_state_size
+#define dll_699_get_data_size __dll699_dll_699_get_data_size
 #define dll_699_func_C08 __dll699_dll_699_func_C08
 #define _rodata_0 __dll699__rodata_0
 #define _data_0 __dll699__data_0

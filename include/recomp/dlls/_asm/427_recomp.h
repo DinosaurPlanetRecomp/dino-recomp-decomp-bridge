@@ -5,13 +5,13 @@
 
 #define dll_427_ctor __dll427_dll_427_ctor
 #define dll_427_dtor __dll427_dll_427_dtor
-#define dll_427_create __dll427_dll_427_create
+#define dll_427_setup __dll427_dll_427_setup
+#define dll_427_control __dll427_dll_427_control
 #define dll_427_update __dll427_dll_427_update
-#define dll_427_func_2F4 __dll427_dll_427_func_2F4
-#define dll_427_draw __dll427_dll_427_draw
-#define dll_427_destroy __dll427_dll_427_destroy
+#define dll_427_print __dll427_dll_427_print
+#define dll_427_free __dll427_dll_427_free
 #define dll_427_get_model_flags __dll427_dll_427_get_model_flags
-#define dll_427_get_state_size __dll427_dll_427_get_state_size
+#define dll_427_get_data_size __dll427_dll_427_get_data_size
 #define dll_427_func_388 __dll427_dll_427_func_388
 #define dll_427_func_420 __dll427_dll_427_func_420
 #define _oob_rodata_0 __dll427__oob_rodata_0

@@ -5,13 +5,13 @@
 
 #define dll_572_ctor __dll572_dll_572_ctor
 #define dll_572_dtor __dll572_dll_572_dtor
-#define dll_572_create __dll572_dll_572_create
+#define dll_572_setup __dll572_dll_572_setup
+#define dll_572_control __dll572_dll_572_control
 #define dll_572_update __dll572_dll_572_update
-#define dll_572_func_42C __dll572_dll_572_func_42C
-#define dll_572_draw __dll572_dll_572_draw
-#define dll_572_destroy __dll572_dll_572_destroy
+#define dll_572_print __dll572_dll_572_print
+#define dll_572_free __dll572_dll_572_free
 #define dll_572_get_model_flags __dll572_dll_572_get_model_flags
-#define dll_572_get_state_size __dll572_dll_572_get_state_size
+#define dll_572_get_data_size __dll572_dll_572_get_data_size
 #define dll_572_func_5C8 __dll572_dll_572_func_5C8
 #define dll_572_func_68C __dll572_dll_572_func_68C
 #define dll_572_func_69C __dll572_dll_572_func_69C

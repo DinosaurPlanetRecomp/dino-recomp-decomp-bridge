@@ -5,13 +5,13 @@
 
 #define dll_497_ctor __dll497_dll_497_ctor
 #define dll_497_dtor __dll497_dll_497_dtor
-#define dll_497_create __dll497_dll_497_create
+#define dll_497_setup __dll497_dll_497_setup
+#define dll_497_control __dll497_dll_497_control
 #define dll_497_update __dll497_dll_497_update
-#define dll_497_func_538 __dll497_dll_497_func_538
-#define dll_497_draw __dll497_dll_497_draw
-#define dll_497_destroy __dll497_dll_497_destroy
+#define dll_497_print __dll497_dll_497_print
+#define dll_497_free __dll497_dll_497_free
 #define dll_497_get_model_flags __dll497_dll_497_get_model_flags
-#define dll_497_get_state_size __dll497_dll_497_get_state_size
+#define dll_497_get_data_size __dll497_dll_497_get_data_size
 #define dll_497_func_610 __dll497_dll_497_func_610
 #define str_0 __dll497_str_0
 #define _rodata_30 __dll497__rodata_30

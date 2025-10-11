@@ -5,16 +5,16 @@
 
 #define dll_227_ctor __dll227_dll_227_ctor
 #define dll_227_dtor __dll227_dll_227_dtor
-#define dll_227_func_18 __dll227_dll_227_func_18
-#define dll_227_func_354 __dll227_dll_227_func_354
+#define dll_227_setup __dll227_dll_227_setup
+#define dll_227_control __dll227_dll_227_control
 #define dll_227_func_420 __dll227_dll_227_func_420
 #define dll_227_func_658 __dll227_dll_227_func_658
 #define dll_227_func_C04 __dll227_dll_227_func_C04
-#define dll_227_func_1518 __dll227_dll_227_func_1518
-#define dll_227_func_1524 __dll227_dll_227_func_1524
-#define dll_227_func_1578 __dll227_dll_227_func_1578
+#define dll_227_update __dll227_dll_227_update
+#define dll_227_print __dll227_dll_227_print
+#define dll_227_free __dll227_dll_227_free
 #define dll_227_get_model_flags __dll227_dll_227_get_model_flags
-#define dll_227_get_state_size __dll227_dll_227_get_state_size
+#define dll_227_get_data_size __dll227_dll_227_get_data_size
 #define dll_227_func_171C __dll227_dll_227_func_171C
 #define dll_227_func_172C __dll227_dll_227_func_172C
 #define dll_227_func_174C __dll227_dll_227_func_174C

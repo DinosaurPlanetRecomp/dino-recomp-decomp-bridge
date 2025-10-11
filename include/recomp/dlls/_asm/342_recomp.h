@@ -5,13 +5,13 @@
 
 #define dll_342_ctor __dll342_dll_342_ctor
 #define dll_342_dtor __dll342_dll_342_dtor
-#define dll_342_create __dll342_dll_342_create
+#define dll_342_setup __dll342_dll_342_setup
+#define dll_342_control __dll342_dll_342_control
 #define dll_342_update __dll342_dll_342_update
-#define dll_342_func_488 __dll342_dll_342_func_488
-#define dll_342_draw __dll342_dll_342_draw
-#define dll_342_destroy __dll342_dll_342_destroy
+#define dll_342_print __dll342_dll_342_print
+#define dll_342_free __dll342_dll_342_free
 #define dll_342_get_model_flags __dll342_dll_342_get_model_flags
-#define dll_342_get_state_size __dll342_dll_342_get_state_size
+#define dll_342_get_data_size __dll342_dll_342_get_data_size
 #define dll_342_func_540 __dll342_dll_342_func_540
 #define dll_342_func_5E8 __dll342_dll_342_func_5E8
 #define _data_0 __dll342__data_0

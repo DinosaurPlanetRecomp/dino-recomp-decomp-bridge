@@ -5,14 +5,14 @@
 
 #define dll_397_ctor __dll397_dll_397_ctor
 #define dll_397_dtor __dll397_dll_397_dtor
-#define dll_397_create __dll397_dll_397_create
+#define dll_397_setup __dll397_dll_397_setup
+#define dll_397_control __dll397_dll_397_control
 #define dll_397_update __dll397_dll_397_update
-#define dll_397_func_BD4 __dll397_dll_397_func_BD4
-#define dll_397_draw __dll397_dll_397_draw
+#define dll_397_print __dll397_dll_397_print
 #define dll_397_func_FAC __dll397_dll_397_func_FAC
-#define dll_397_destroy __dll397_dll_397_destroy
+#define dll_397_free __dll397_dll_397_free
 #define dll_397_get_model_flags __dll397_dll_397_get_model_flags
-#define dll_397_get_state_size __dll397_dll_397_get_state_size
+#define dll_397_get_data_size __dll397_dll_397_get_data_size
 #define dll_397_func_1168 __dll397_dll_397_func_1168
 #define dll_397_func_1214 __dll397_dll_397_func_1214
 #define dll_397_func_13DC __dll397_dll_397_func_13DC

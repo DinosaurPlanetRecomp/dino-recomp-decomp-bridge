@@ -5,13 +5,13 @@
 
 #define dll_430_ctor __dll430_dll_430_ctor
 #define dll_430_dtor __dll430_dll_430_dtor
-#define dll_430_create __dll430_dll_430_create
+#define dll_430_setup __dll430_dll_430_setup
+#define dll_430_control __dll430_dll_430_control
 #define dll_430_update __dll430_dll_430_update
-#define dll_430_func_E0 __dll430_dll_430_func_E0
-#define dll_430_draw __dll430_dll_430_draw
-#define dll_430_destroy __dll430_dll_430_destroy
+#define dll_430_print __dll430_dll_430_print
+#define dll_430_free __dll430_dll_430_free
 #define dll_430_get_model_flags __dll430_dll_430_get_model_flags
-#define dll_430_get_state_size __dll430_dll_430_get_state_size
+#define dll_430_get_data_size __dll430_dll_430_get_data_size
 #define dll_430_func_174 __dll430_dll_430_func_174
 
 #endif //_DLL_430_RECOMP_H

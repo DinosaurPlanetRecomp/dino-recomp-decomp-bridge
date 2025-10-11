@@ -5,13 +5,13 @@
 
 #define dll_395_ctor __dll395_dll_395_ctor
 #define dll_395_dtor __dll395_dll_395_dtor
-#define dll_395_create __dll395_dll_395_create
+#define dll_395_setup __dll395_dll_395_setup
+#define dll_395_control __dll395_dll_395_control
 #define dll_395_update __dll395_dll_395_update
-#define dll_395_func_CC __dll395_dll_395_func_CC
-#define dll_395_draw __dll395_dll_395_draw
-#define dll_395_destroy __dll395_dll_395_destroy
+#define dll_395_print __dll395_dll_395_print
+#define dll_395_free __dll395_dll_395_free
 #define dll_395_get_model_flags __dll395_dll_395_get_model_flags
-#define dll_395_get_state_size __dll395_dll_395_get_state_size
+#define dll_395_get_data_size __dll395_dll_395_get_data_size
 #define dll_395_func_190 __dll395_dll_395_func_190
 #define dll_395_func_1B4 __dll395_dll_395_func_1B4
 

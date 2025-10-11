@@ -5,13 +5,13 @@
 
 #define Duster_ctor __dll321_Duster_ctor
 #define Duster_dtor __dll321_Duster_dtor
-#define Duster_create __dll321_Duster_create
+#define Duster_setup __dll321_Duster_setup
+#define Duster_control __dll321_Duster_control
 #define Duster_update __dll321_Duster_update
-#define Duster_func_754 __dll321_Duster_func_754
-#define Duster_draw __dll321_Duster_draw
-#define Duster_destroy __dll321_Duster_destroy
+#define Duster_print __dll321_Duster_print
+#define Duster_free __dll321_Duster_free
 #define Duster_get_model_flags __dll321_Duster_get_model_flags
-#define Duster_get_state_size __dll321_Duster_get_state_size
+#define Duster_get_data_size __dll321_Duster_get_data_size
 #define str_0 __dll321_str_0
 
 #endif //_DLL_321_RECOMP_H

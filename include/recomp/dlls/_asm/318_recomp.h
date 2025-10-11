@@ -5,14 +5,14 @@
 
 #define dll_318_ctor __dll318_dll_318_ctor
 #define dll_318_dtor __dll318_dll_318_dtor
-#define dll_318_create __dll318_dll_318_create
+#define dll_318_setup __dll318_dll_318_setup
 #define dll_318_func_84 __dll318_dll_318_func_84
+#define dll_318_control __dll318_dll_318_control
 #define dll_318_update __dll318_dll_318_update
-#define dll_318_func_EA8 __dll318_dll_318_func_EA8
-#define dll_318_draw __dll318_dll_318_draw
-#define dll_318_destroy __dll318_dll_318_destroy
+#define dll_318_print __dll318_dll_318_print
+#define dll_318_free __dll318_dll_318_free
 #define dll_318_get_model_flags __dll318_dll_318_get_model_flags
-#define dll_318_get_state_size __dll318_dll_318_get_state_size
+#define dll_318_get_data_size __dll318_dll_318_get_data_size
 #define dll_318_func_F74 __dll318_dll_318_func_F74
 #define dll_318_func_10BC __dll318_dll_318_func_10BC
 #define dll_318_func_11C8 __dll318_dll_318_func_11C8

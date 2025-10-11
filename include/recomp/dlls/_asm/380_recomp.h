@@ -5,13 +5,13 @@
 
 #define dll_380_ctor __dll380_dll_380_ctor
 #define dll_380_dtor __dll380_dll_380_dtor
-#define dll_380_create __dll380_dll_380_create
+#define dll_380_setup __dll380_dll_380_setup
+#define dll_380_control __dll380_dll_380_control
 #define dll_380_update __dll380_dll_380_update
-#define dll_380_func_480 __dll380_dll_380_func_480
-#define dll_380_draw __dll380_dll_380_draw
-#define dll_380_destroy __dll380_dll_380_destroy
+#define dll_380_print __dll380_dll_380_print
+#define dll_380_free __dll380_dll_380_free
 #define dll_380_get_model_flags __dll380_dll_380_get_model_flags
-#define dll_380_get_state_size __dll380_dll_380_get_state_size
+#define dll_380_get_data_size __dll380_dll_380_get_data_size
 #define dll_380_func_BE0 __dll380_dll_380_func_BE0
 #define dll_380_func_10F8 __dll380_dll_380_func_10F8
 #define dll_380_func_1330 __dll380_dll_380_func_1330

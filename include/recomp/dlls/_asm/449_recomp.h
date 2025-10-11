@@ -5,13 +5,13 @@
 
 #define dll_449_ctor __dll449_dll_449_ctor
 #define dll_449_dtor __dll449_dll_449_dtor
-#define dll_449_create __dll449_dll_449_create
+#define dll_449_setup __dll449_dll_449_setup
+#define dll_449_control __dll449_dll_449_control
 #define dll_449_update __dll449_dll_449_update
-#define dll_449_func_1F4 __dll449_dll_449_func_1F4
-#define dll_449_draw __dll449_dll_449_draw
-#define dll_449_destroy __dll449_dll_449_destroy
+#define dll_449_print __dll449_dll_449_print
+#define dll_449_free __dll449_dll_449_free
 #define dll_449_get_model_flags __dll449_dll_449_get_model_flags
-#define dll_449_get_state_size __dll449_dll_449_get_state_size
+#define dll_449_get_data_size __dll449_dll_449_get_data_size
 #define dll_449_func_2B8 __dll449_dll_449_func_2B8
 
 #endif //_DLL_449_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_765_ctor __dll765_dll_765_ctor
 #define dll_765_dtor __dll765_dll_765_dtor
-#define dll_765_create __dll765_dll_765_create
+#define dll_765_setup __dll765_dll_765_setup
+#define dll_765_control __dll765_dll_765_control
 #define dll_765_update __dll765_dll_765_update
-#define dll_765_func_88 __dll765_dll_765_func_88
-#define dll_765_draw __dll765_dll_765_draw
-#define dll_765_destroy __dll765_dll_765_destroy
+#define dll_765_print __dll765_dll_765_print
+#define dll_765_free __dll765_dll_765_free
 #define dll_765_get_model_flags __dll765_dll_765_get_model_flags
-#define dll_765_get_state_size __dll765_dll_765_get_state_size
+#define dll_765_get_data_size __dll765_dll_765_get_data_size
 #define dll_765_func_144 __dll765_dll_765_func_144
 #define dll_765_func_224 __dll765_dll_765_func_224
 #define str_0 __dll765_str_0

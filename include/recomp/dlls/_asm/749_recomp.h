@@ -5,13 +5,13 @@
 
 #define dll_749_ctor __dll749_dll_749_ctor
 #define dll_749_dtor __dll749_dll_749_dtor
-#define dll_749_create __dll749_dll_749_create
+#define dll_749_setup __dll749_dll_749_setup
+#define dll_749_control __dll749_dll_749_control
 #define dll_749_update __dll749_dll_749_update
-#define dll_749_func_4BC __dll749_dll_749_func_4BC
-#define dll_749_draw __dll749_dll_749_draw
-#define dll_749_destroy __dll749_dll_749_destroy
+#define dll_749_print __dll749_dll_749_print
+#define dll_749_free __dll749_dll_749_free
 #define dll_749_get_model_flags __dll749_dll_749_get_model_flags
-#define dll_749_get_state_size __dll749_dll_749_get_state_size
+#define dll_749_get_data_size __dll749_dll_749_get_data_size
 #define dll_749_func_594 __dll749_dll_749_func_594
 #define dll_749_func_870 __dll749_dll_749_func_870
 #define dll_749_func_89C __dll749_dll_749_func_89C

@@ -5,13 +5,13 @@
 
 #define dll_737_ctor __dll737_dll_737_ctor
 #define dll_737_dtor __dll737_dll_737_dtor
-#define dll_737_create __dll737_dll_737_create
+#define dll_737_setup __dll737_dll_737_setup
+#define dll_737_control __dll737_dll_737_control
 #define dll_737_update __dll737_dll_737_update
-#define dll_737_func_170 __dll737_dll_737_func_170
-#define dll_737_draw __dll737_dll_737_draw
-#define dll_737_destroy __dll737_dll_737_destroy
+#define dll_737_print __dll737_dll_737_print
+#define dll_737_free __dll737_dll_737_free
 #define dll_737_get_model_flags __dll737_dll_737_get_model_flags
-#define dll_737_get_state_size __dll737_dll_737_get_state_size
+#define dll_737_get_data_size __dll737_dll_737_get_data_size
 #define dll_737_func_294 __dll737_dll_737_func_294
 #define dll_737_func_47C __dll737_dll_737_func_47C
 #define dll_737_func_604 __dll737_dll_737_func_604

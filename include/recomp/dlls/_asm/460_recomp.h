@@ -5,12 +5,12 @@
 
 #define dll_460_ctor __dll460_dll_460_ctor
 #define dll_460_dtor __dll460_dll_460_dtor
-#define dll_460_create __dll460_dll_460_create
+#define dll_460_setup __dll460_dll_460_setup
+#define dll_460_control __dll460_dll_460_control
 #define dll_460_update __dll460_dll_460_update
-#define dll_460_func_270 __dll460_dll_460_func_270
-#define dll_460_draw __dll460_dll_460_draw
-#define dll_460_destroy __dll460_dll_460_destroy
+#define dll_460_print __dll460_dll_460_print
+#define dll_460_free __dll460_dll_460_free
 #define dll_460_get_model_flags __dll460_dll_460_get_model_flags
-#define dll_460_get_state_size __dll460_dll_460_get_state_size
+#define dll_460_get_data_size __dll460_dll_460_get_data_size
 
 #endif //_DLL_460_RECOMP_H

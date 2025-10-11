@@ -5,13 +5,13 @@
 
 #define dll_695_ctor __dll695_dll_695_ctor
 #define dll_695_dtor __dll695_dll_695_dtor
-#define dll_695_create __dll695_dll_695_create
+#define dll_695_setup __dll695_dll_695_setup
+#define dll_695_control __dll695_dll_695_control
 #define dll_695_update __dll695_dll_695_update
-#define dll_695_func_128 __dll695_dll_695_func_128
-#define dll_695_draw __dll695_dll_695_draw
-#define dll_695_destroy __dll695_dll_695_destroy
+#define dll_695_print __dll695_dll_695_print
+#define dll_695_free __dll695_dll_695_free
 #define dll_695_get_model_flags __dll695_dll_695_get_model_flags
-#define dll_695_get_state_size __dll695_dll_695_get_state_size
+#define dll_695_get_data_size __dll695_dll_695_get_data_size
 #define dll_695_func_1C8 __dll695_dll_695_func_1C8
 #define _data_0 __dll695__data_0
 #define _data_4 __dll695__data_4

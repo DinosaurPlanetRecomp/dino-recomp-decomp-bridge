@@ -5,13 +5,13 @@
 
 #define dll_408_ctor __dll408_dll_408_ctor
 #define dll_408_dtor __dll408_dll_408_dtor
-#define dll_408_create __dll408_dll_408_create
+#define dll_408_setup __dll408_dll_408_setup
+#define dll_408_control __dll408_dll_408_control
 #define dll_408_update __dll408_dll_408_update
-#define dll_408_func_444 __dll408_dll_408_func_444
-#define dll_408_draw __dll408_dll_408_draw
-#define dll_408_destroy __dll408_dll_408_destroy
+#define dll_408_print __dll408_dll_408_print
+#define dll_408_free __dll408_dll_408_free
 #define dll_408_get_model_flags __dll408_dll_408_get_model_flags
-#define dll_408_get_state_size __dll408_dll_408_get_state_size
+#define dll_408_get_data_size __dll408_dll_408_get_data_size
 #define dll_408_func_4D8 __dll408_dll_408_func_4D8
 #define dll_408_func_694 __dll408_dll_408_func_694
 #define dll_408_func_AB4 __dll408_dll_408_func_AB4

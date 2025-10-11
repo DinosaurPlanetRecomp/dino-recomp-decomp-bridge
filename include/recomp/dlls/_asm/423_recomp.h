@@ -5,13 +5,13 @@
 
 #define dll_423_ctor __dll423_dll_423_ctor
 #define dll_423_dtor __dll423_dll_423_dtor
-#define dll_423_create __dll423_dll_423_create
+#define dll_423_setup __dll423_dll_423_setup
+#define dll_423_control __dll423_dll_423_control
 #define dll_423_update __dll423_dll_423_update
-#define dll_423_func_1D0 __dll423_dll_423_func_1D0
-#define dll_423_draw __dll423_dll_423_draw
-#define dll_423_destroy __dll423_dll_423_destroy
+#define dll_423_print __dll423_dll_423_print
+#define dll_423_free __dll423_dll_423_free
 #define dll_423_get_model_flags __dll423_dll_423_get_model_flags
-#define dll_423_get_state_size __dll423_dll_423_get_state_size
+#define dll_423_get_data_size __dll423_dll_423_get_data_size
 #define dll_423_func_304 __dll423_dll_423_func_304
 #define dll_423_func_960 __dll423_dll_423_func_960
 #define _rodata_0 __dll423__rodata_0

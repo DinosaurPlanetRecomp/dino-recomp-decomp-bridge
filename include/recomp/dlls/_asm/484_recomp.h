@@ -5,13 +5,13 @@
 
 #define dll_484_ctor __dll484_dll_484_ctor
 #define dll_484_dtor __dll484_dll_484_dtor
-#define dll_484_create __dll484_dll_484_create
+#define dll_484_setup __dll484_dll_484_setup
+#define dll_484_control __dll484_dll_484_control
 #define dll_484_update __dll484_dll_484_update
-#define dll_484_func_178 __dll484_dll_484_func_178
-#define dll_484_draw __dll484_dll_484_draw
-#define dll_484_destroy __dll484_dll_484_destroy
+#define dll_484_print __dll484_dll_484_print
+#define dll_484_free __dll484_dll_484_free
 #define dll_484_get_model_flags __dll484_dll_484_get_model_flags
-#define dll_484_get_state_size __dll484_dll_484_get_state_size
+#define dll_484_get_data_size __dll484_dll_484_get_data_size
 #define _rodata_0 __dll484__rodata_0
 #define _data_0 __dll484__data_0
 

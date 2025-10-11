@@ -5,13 +5,13 @@
 
 #define dll_521_ctor __dll521_dll_521_ctor
 #define dll_521_dtor __dll521_dll_521_dtor
-#define dll_521_create __dll521_dll_521_create
+#define dll_521_setup __dll521_dll_521_setup
+#define dll_521_control __dll521_dll_521_control
 #define dll_521_update __dll521_dll_521_update
-#define dll_521_func_3DC __dll521_dll_521_func_3DC
-#define dll_521_draw __dll521_dll_521_draw
-#define dll_521_destroy __dll521_dll_521_destroy
+#define dll_521_print __dll521_dll_521_print
+#define dll_521_free __dll521_dll_521_free
 #define dll_521_get_model_flags __dll521_dll_521_get_model_flags
-#define dll_521_get_state_size __dll521_dll_521_get_state_size
+#define dll_521_get_data_size __dll521_dll_521_get_data_size
 #define dll_521_func_4C8 __dll521_dll_521_func_4C8
 
 #endif //_DLL_521_RECOMP_H

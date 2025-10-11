@@ -5,13 +5,13 @@
 
 #define dll_792_ctor __dll792_dll_792_ctor
 #define dll_792_dtor __dll792_dll_792_dtor
-#define dll_792_create __dll792_dll_792_create
+#define dll_792_setup __dll792_dll_792_setup
+#define dll_792_control __dll792_dll_792_control
 #define dll_792_update __dll792_dll_792_update
-#define dll_792_func_298 __dll792_dll_792_func_298
-#define dll_792_draw __dll792_dll_792_draw
-#define dll_792_destroy __dll792_dll_792_destroy
+#define dll_792_print __dll792_dll_792_print
+#define dll_792_free __dll792_dll_792_free
 #define dll_792_get_model_flags __dll792_dll_792_get_model_flags
-#define dll_792_get_state_size __dll792_dll_792_get_state_size
+#define dll_792_get_data_size __dll792_dll_792_get_data_size
 #define _data_0 __dll792__data_0
 
 #endif //_DLL_792_RECOMP_H

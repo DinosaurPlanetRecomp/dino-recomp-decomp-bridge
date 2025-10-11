@@ -5,13 +5,13 @@
 
 #define dll_710_ctor __dll710_dll_710_ctor
 #define dll_710_dtor __dll710_dll_710_dtor
-#define dll_710_create __dll710_dll_710_create
+#define dll_710_setup __dll710_dll_710_setup
+#define dll_710_control __dll710_dll_710_control
 #define dll_710_update __dll710_dll_710_update
-#define dll_710_func_A8 __dll710_dll_710_func_A8
-#define dll_710_draw __dll710_dll_710_draw
-#define dll_710_destroy __dll710_dll_710_destroy
+#define dll_710_print __dll710_dll_710_print
+#define dll_710_free __dll710_dll_710_free
 #define dll_710_get_model_flags __dll710_dll_710_get_model_flags
-#define dll_710_get_state_size __dll710_dll_710_get_state_size
+#define dll_710_get_data_size __dll710_dll_710_get_data_size
 #define _oob_rodata_0 __dll710__oob_rodata_0
 
 #endif //_DLL_710_RECOMP_H

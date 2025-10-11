@@ -5,13 +5,13 @@
 
 #define dll_789_ctor __dll789_dll_789_ctor
 #define dll_789_dtor __dll789_dll_789_dtor
-#define dll_789_create __dll789_dll_789_create
+#define dll_789_setup __dll789_dll_789_setup
+#define dll_789_control __dll789_dll_789_control
 #define dll_789_update __dll789_dll_789_update
-#define dll_789_func_464 __dll789_dll_789_func_464
-#define dll_789_draw __dll789_dll_789_draw
-#define dll_789_destroy __dll789_dll_789_destroy
+#define dll_789_print __dll789_dll_789_print
+#define dll_789_free __dll789_dll_789_free
 #define dll_789_get_model_flags __dll789_dll_789_get_model_flags
-#define dll_789_get_state_size __dll789_dll_789_get_state_size
+#define dll_789_get_data_size __dll789_dll_789_get_data_size
 #define dll_789_func_51C __dll789_dll_789_func_51C
 #define _rodata_0 __dll789__rodata_0
 #define _data_0 __dll789__data_0

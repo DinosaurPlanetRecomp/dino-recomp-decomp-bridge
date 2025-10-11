@@ -5,13 +5,13 @@
 
 #define dll_443_ctor __dll443_dll_443_ctor
 #define dll_443_dtor __dll443_dll_443_dtor
-#define dll_443_create __dll443_dll_443_create
+#define dll_443_setup __dll443_dll_443_setup
+#define dll_443_control __dll443_dll_443_control
 #define dll_443_update __dll443_dll_443_update
-#define dll_443_func_8E8 __dll443_dll_443_func_8E8
-#define dll_443_draw __dll443_dll_443_draw
-#define dll_443_destroy __dll443_dll_443_destroy
+#define dll_443_print __dll443_dll_443_print
+#define dll_443_free __dll443_dll_443_free
 #define dll_443_get_model_flags __dll443_dll_443_get_model_flags
-#define dll_443_get_state_size __dll443_dll_443_get_state_size
+#define dll_443_get_data_size __dll443_dll_443_get_data_size
 #define dll_443_func_9C8 __dll443_dll_443_func_9C8
 #define _rodata_0 __dll443__rodata_0
 #define _rodata_4 __dll443__rodata_4

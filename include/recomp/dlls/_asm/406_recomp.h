@@ -5,13 +5,13 @@
 
 #define dll_406_ctor __dll406_dll_406_ctor
 #define dll_406_dtor __dll406_dll_406_dtor
-#define dll_406_create __dll406_dll_406_create
+#define dll_406_setup __dll406_dll_406_setup
+#define dll_406_control __dll406_dll_406_control
 #define dll_406_update __dll406_dll_406_update
-#define dll_406_func_250 __dll406_dll_406_func_250
-#define dll_406_draw __dll406_dll_406_draw
-#define dll_406_destroy __dll406_dll_406_destroy
+#define dll_406_print __dll406_dll_406_print
+#define dll_406_free __dll406_dll_406_free
 #define dll_406_get_model_flags __dll406_dll_406_get_model_flags
-#define dll_406_get_state_size __dll406_dll_406_get_state_size
+#define dll_406_get_data_size __dll406_dll_406_get_data_size
 #define str_0 __dll406_str_0
 
 #endif //_DLL_406_RECOMP_H

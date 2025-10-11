@@ -5,13 +5,13 @@
 
 #define dll_301_ctor __dll301_dll_301_ctor
 #define dll_301_dtor __dll301_dll_301_dtor
-#define dll_301_create __dll301_dll_301_create
+#define dll_301_setup __dll301_dll_301_setup
+#define dll_301_control __dll301_dll_301_control
 #define dll_301_update __dll301_dll_301_update
-#define dll_301_func_3A8 __dll301_dll_301_func_3A8
-#define dll_301_draw __dll301_dll_301_draw
-#define dll_301_destroy __dll301_dll_301_destroy
+#define dll_301_print __dll301_dll_301_print
+#define dll_301_free __dll301_dll_301_free
 #define dll_301_get_model_flags __dll301_dll_301_get_model_flags
-#define dll_301_get_state_size __dll301_dll_301_get_state_size
+#define dll_301_get_data_size __dll301_dll_301_get_data_size
 #define _oob_rodata_0 __dll301__oob_rodata_0
 
 #endif //_DLL_301_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_378_ctor __dll378_dll_378_ctor
 #define dll_378_dtor __dll378_dll_378_dtor
-#define dll_378_create __dll378_dll_378_create
+#define dll_378_setup __dll378_dll_378_setup
+#define dll_378_control __dll378_dll_378_control
 #define dll_378_update __dll378_dll_378_update
-#define dll_378_func_BC __dll378_dll_378_func_BC
-#define dll_378_draw __dll378_dll_378_draw
-#define dll_378_destroy __dll378_dll_378_destroy
+#define dll_378_print __dll378_dll_378_print
+#define dll_378_free __dll378_dll_378_free
 #define dll_378_get_model_flags __dll378_dll_378_get_model_flags
-#define dll_378_get_state_size __dll378_dll_378_get_state_size
+#define dll_378_get_data_size __dll378_dll_378_get_data_size
 #define dll_378_func_16C __dll378_dll_378_func_16C
 #define _data_0 __dll378__data_0
 

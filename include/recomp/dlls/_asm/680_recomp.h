@@ -5,13 +5,13 @@
 
 #define dll_680_ctor __dll680_dll_680_ctor
 #define dll_680_dtor __dll680_dll_680_dtor
-#define dll_680_create __dll680_dll_680_create
+#define dll_680_setup __dll680_dll_680_setup
+#define dll_680_control __dll680_dll_680_control
 #define dll_680_update __dll680_dll_680_update
-#define dll_680_func_2E8 __dll680_dll_680_func_2E8
-#define dll_680_draw __dll680_dll_680_draw
-#define dll_680_destroy __dll680_dll_680_destroy
+#define dll_680_print __dll680_dll_680_print
+#define dll_680_free __dll680_dll_680_free
 #define dll_680_get_model_flags __dll680_dll_680_get_model_flags
-#define dll_680_get_state_size __dll680_dll_680_get_state_size
+#define dll_680_get_data_size __dll680_dll_680_get_data_size
 #define dll_680_func_3C8 __dll680_dll_680_func_3C8
 #define dll_680_func_3E0 __dll680_dll_680_func_3E0
 #define dll_680_func_720 __dll680_dll_680_func_720

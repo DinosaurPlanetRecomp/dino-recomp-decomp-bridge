@@ -5,13 +5,13 @@
 
 #define dll_767_ctor __dll767_dll_767_ctor
 #define dll_767_dtor __dll767_dll_767_dtor
-#define dll_767_create __dll767_dll_767_create
+#define dll_767_setup __dll767_dll_767_setup
+#define dll_767_control __dll767_dll_767_control
 #define dll_767_update __dll767_dll_767_update
-#define dll_767_func_350 __dll767_dll_767_func_350
-#define dll_767_draw __dll767_dll_767_draw
-#define dll_767_destroy __dll767_dll_767_destroy
+#define dll_767_print __dll767_dll_767_print
+#define dll_767_free __dll767_dll_767_free
 #define dll_767_get_model_flags __dll767_dll_767_get_model_flags
-#define dll_767_get_state_size __dll767_dll_767_get_state_size
+#define dll_767_get_data_size __dll767_dll_767_get_data_size
 #define dll_767_func_47C __dll767_dll_767_func_47C
 #define dll_767_func_4AC __dll767_dll_767_func_4AC
 #define _rodata_0 __dll767__rodata_0

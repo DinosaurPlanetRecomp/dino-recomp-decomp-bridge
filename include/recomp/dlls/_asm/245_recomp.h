@@ -5,13 +5,13 @@
 
 #define dll_245_ctor __dll245_dll_245_ctor
 #define dll_245_dtor __dll245_dll_245_dtor
-#define dll_245_create __dll245_dll_245_create
+#define dll_245_setup __dll245_dll_245_setup
+#define dll_245_control __dll245_dll_245_control
 #define dll_245_update __dll245_dll_245_update
-#define dll_245_func_808 __dll245_dll_245_func_808
-#define dll_245_draw __dll245_dll_245_draw
-#define dll_245_destroy __dll245_dll_245_destroy
+#define dll_245_print __dll245_dll_245_print
+#define dll_245_free __dll245_dll_245_free
 #define dll_245_get_model_flags __dll245_dll_245_get_model_flags
-#define dll_245_get_state_size __dll245_dll_245_get_state_size
+#define dll_245_get_data_size __dll245_dll_245_get_data_size
 #define dll_245_func_A5C __dll245_dll_245_func_A5C
 #define _rodata_0 __dll245__rodata_0
 #define _rodata_4 __dll245__rodata_4

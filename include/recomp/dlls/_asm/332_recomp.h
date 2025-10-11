@@ -5,13 +5,13 @@
 
 #define dll_332_ctor __dll332_dll_332_ctor
 #define dll_332_dtor __dll332_dll_332_dtor
-#define dll_332_create __dll332_dll_332_create
+#define dll_332_setup __dll332_dll_332_setup
+#define dll_332_control __dll332_dll_332_control
 #define dll_332_update __dll332_dll_332_update
-#define dll_332_func_608 __dll332_dll_332_func_608
-#define dll_332_draw __dll332_dll_332_draw
-#define dll_332_destroy __dll332_dll_332_destroy
+#define dll_332_print __dll332_dll_332_print
+#define dll_332_free __dll332_dll_332_free
 #define dll_332_get_model_flags __dll332_dll_332_get_model_flags
-#define dll_332_get_state_size __dll332_dll_332_get_state_size
+#define dll_332_get_data_size __dll332_dll_332_get_data_size
 #define dll_332_func_6C0 __dll332_dll_332_func_6C0
 #define dll_332_func_8E8 __dll332_dll_332_func_8E8
 #define _rodata_0 __dll332__rodata_0

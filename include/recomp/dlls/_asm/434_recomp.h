@@ -5,13 +5,13 @@
 
 #define dll_434_ctor __dll434_dll_434_ctor
 #define dll_434_dtor __dll434_dll_434_dtor
-#define dll_434_create __dll434_dll_434_create
+#define dll_434_setup __dll434_dll_434_setup
+#define dll_434_control __dll434_dll_434_control
 #define dll_434_update __dll434_dll_434_update
-#define dll_434_func_3D8 __dll434_dll_434_func_3D8
-#define dll_434_draw __dll434_dll_434_draw
-#define dll_434_destroy __dll434_dll_434_destroy
+#define dll_434_print __dll434_dll_434_print
+#define dll_434_free __dll434_dll_434_free
 #define dll_434_get_model_flags __dll434_dll_434_get_model_flags
-#define dll_434_get_state_size __dll434_dll_434_get_state_size
+#define dll_434_get_data_size __dll434_dll_434_get_data_size
 #define _oob_rodata_0 __dll434__oob_rodata_0
 
 #endif //_DLL_434_RECOMP_H

@@ -5,12 +5,12 @@
 
 #define dll_588_ctor __dll588_dll_588_ctor
 #define dll_588_dtor __dll588_dll_588_dtor
-#define dll_588_create __dll588_dll_588_create
+#define dll_588_setup __dll588_dll_588_setup
+#define dll_588_control __dll588_dll_588_control
 #define dll_588_update __dll588_dll_588_update
-#define dll_588_func_E0 __dll588_dll_588_func_E0
-#define dll_588_draw __dll588_dll_588_draw
-#define dll_588_destroy __dll588_dll_588_destroy
+#define dll_588_print __dll588_dll_588_print
+#define dll_588_free __dll588_dll_588_free
 #define dll_588_get_model_flags __dll588_dll_588_get_model_flags
-#define dll_588_get_state_size __dll588_dll_588_get_state_size
+#define dll_588_get_data_size __dll588_dll_588_get_data_size
 
 #endif //_DLL_588_RECOMP_H

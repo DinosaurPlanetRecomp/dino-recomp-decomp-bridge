@@ -5,13 +5,13 @@
 
 #define dll_647_ctor __dll647_dll_647_ctor
 #define dll_647_dtor __dll647_dll_647_dtor
-#define dll_647_create __dll647_dll_647_create
+#define dll_647_setup __dll647_dll_647_setup
+#define dll_647_control __dll647_dll_647_control
 #define dll_647_update __dll647_dll_647_update
-#define dll_647_func_670 __dll647_dll_647_func_670
-#define dll_647_draw __dll647_dll_647_draw
-#define dll_647_destroy __dll647_dll_647_destroy
+#define dll_647_print __dll647_dll_647_print
+#define dll_647_free __dll647_dll_647_free
 #define dll_647_get_model_flags __dll647_dll_647_get_model_flags
-#define dll_647_get_state_size __dll647_dll_647_get_state_size
+#define dll_647_get_data_size __dll647_dll_647_get_data_size
 #define dll_647_func_784 __dll647_dll_647_func_784
 #define dll_647_func_7A0 __dll647_dll_647_func_7A0
 #define dll_647_func_8A0 __dll647_dll_647_func_8A0

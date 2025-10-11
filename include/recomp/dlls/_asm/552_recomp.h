@@ -5,13 +5,13 @@
 
 #define dll_552_ctor __dll552_dll_552_ctor
 #define dll_552_dtor __dll552_dll_552_dtor
-#define dll_552_create __dll552_dll_552_create
+#define dll_552_setup __dll552_dll_552_setup
+#define dll_552_control __dll552_dll_552_control
 #define dll_552_update __dll552_dll_552_update
-#define dll_552_func_1C4 __dll552_dll_552_func_1C4
-#define dll_552_draw __dll552_dll_552_draw
-#define dll_552_destroy __dll552_dll_552_destroy
+#define dll_552_print __dll552_dll_552_print
+#define dll_552_free __dll552_dll_552_free
 #define dll_552_get_model_flags __dll552_dll_552_get_model_flags
-#define dll_552_get_state_size __dll552_dll_552_get_state_size
+#define dll_552_get_data_size __dll552_dll_552_get_data_size
 #define dll_552_func_258 __dll552_dll_552_func_258
 #define str_0 __dll552_str_0
 #define _rodata_C __dll552__rodata_C

@@ -5,13 +5,13 @@
 
 #define dll_626_ctor __dll626_dll_626_ctor
 #define dll_626_dtor __dll626_dll_626_dtor
-#define dll_626_create __dll626_dll_626_create
+#define dll_626_setup __dll626_dll_626_setup
+#define dll_626_control __dll626_dll_626_control
 #define dll_626_update __dll626_dll_626_update
-#define dll_626_func_A4C __dll626_dll_626_func_A4C
-#define dll_626_draw __dll626_dll_626_draw
-#define dll_626_destroy __dll626_dll_626_destroy
+#define dll_626_print __dll626_dll_626_print
+#define dll_626_free __dll626_dll_626_free
 #define dll_626_get_model_flags __dll626_dll_626_get_model_flags
-#define dll_626_get_state_size __dll626_dll_626_get_state_size
+#define dll_626_get_data_size __dll626_dll_626_get_data_size
 #define dll_626_func_B7C __dll626_dll_626_func_B7C
 #define dll_626_func_11AC __dll626_dll_626_func_11AC
 #define dll_626_func_172C __dll626_dll_626_func_172C

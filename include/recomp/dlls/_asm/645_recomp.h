@@ -5,13 +5,13 @@
 
 #define dll_645_ctor __dll645_dll_645_ctor
 #define dll_645_dtor __dll645_dll_645_dtor
-#define dll_645_create __dll645_dll_645_create
+#define dll_645_setup __dll645_dll_645_setup
+#define dll_645_control __dll645_dll_645_control
 #define dll_645_update __dll645_dll_645_update
-#define dll_645_func_4D4 __dll645_dll_645_func_4D4
-#define dll_645_draw __dll645_dll_645_draw
-#define dll_645_destroy __dll645_dll_645_destroy
+#define dll_645_print __dll645_dll_645_print
+#define dll_645_free __dll645_dll_645_free
 #define dll_645_get_model_flags __dll645_dll_645_get_model_flags
-#define dll_645_get_state_size __dll645_dll_645_get_state_size
+#define dll_645_get_data_size __dll645_dll_645_get_data_size
 #define dll_645_func_598 __dll645_dll_645_func_598
 #define _data_0 __dll645__data_0
 #define _data_4 __dll645__data_4

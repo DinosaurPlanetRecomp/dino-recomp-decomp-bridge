@@ -5,13 +5,13 @@
 
 #define dll_296_ctor __dll296_dll_296_ctor
 #define dll_296_dtor __dll296_dll_296_dtor
-#define dll_296_create __dll296_dll_296_create
-#define dll_296_update __dll296_dll_296_update
-#define dll_296_func_9C0 __dll296_dll_296_func_9C0
-#define dll_296_draw __dll296_dll_296_draw
-#define dll_296_destroy __dll296_dll_296_destroy
+#define dll_295_setup __dll296_dll_295_setup
+#define dll_295_control __dll296_dll_295_control
+#define dll_295_update __dll296_dll_295_update
+#define dll_295_print __dll296_dll_295_print
+#define dll_295_free __dll296_dll_295_free
 #define dll_296_get_model_flags __dll296_dll_296_get_model_flags
-#define dll_296_get_state_size __dll296_dll_296_get_state_size
+#define dll_296_get_data_size __dll296_dll_296_get_data_size
 #define dll_296_func_C50 __dll296_dll_296_func_C50
 #define _rodata_0 __dll296__rodata_0
 #define _rodata_4 __dll296__rodata_4

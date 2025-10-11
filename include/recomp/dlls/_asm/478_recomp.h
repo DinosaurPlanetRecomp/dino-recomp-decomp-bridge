@@ -5,13 +5,13 @@
 
 #define dll_478_ctor __dll478_dll_478_ctor
 #define dll_478_dtor __dll478_dll_478_dtor
-#define dll_478_create __dll478_dll_478_create
+#define dll_478_setup __dll478_dll_478_setup
+#define dll_478_control __dll478_dll_478_control
 #define dll_478_update __dll478_dll_478_update
-#define dll_478_func_5F8 __dll478_dll_478_func_5F8
-#define dll_478_draw __dll478_dll_478_draw
-#define dll_478_destroy __dll478_dll_478_destroy
+#define dll_478_print __dll478_dll_478_print
+#define dll_478_free __dll478_dll_478_free
 #define dll_478_get_model_flags __dll478_dll_478_get_model_flags
-#define dll_478_get_state_size __dll478_dll_478_get_state_size
+#define dll_478_get_data_size __dll478_dll_478_get_data_size
 #define dll_478_func_6B0 __dll478_dll_478_func_6B0
 #define _rodata_0 __dll478__rodata_0
 #define _rodata_4 __dll478__rodata_4

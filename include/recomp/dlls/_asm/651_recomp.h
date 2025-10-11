@@ -5,13 +5,13 @@
 
 #define dll_651_ctor __dll651_dll_651_ctor
 #define dll_651_dtor __dll651_dll_651_dtor
-#define dll_651_create __dll651_dll_651_create
+#define dll_651_setup __dll651_dll_651_setup
+#define dll_651_control __dll651_dll_651_control
 #define dll_651_update __dll651_dll_651_update
-#define dll_651_func_7C8 __dll651_dll_651_func_7C8
-#define dll_651_draw __dll651_dll_651_draw
-#define dll_651_destroy __dll651_dll_651_destroy
+#define dll_651_print __dll651_dll_651_print
+#define dll_651_free __dll651_dll_651_free
 #define dll_651_get_model_flags __dll651_dll_651_get_model_flags
-#define dll_651_get_state_size __dll651_dll_651_get_state_size
+#define dll_651_get_data_size __dll651_dll_651_get_data_size
 #define _rodata_0 __dll651__rodata_0
 #define _rodata_4 __dll651__rodata_4
 #define _rodata_8 __dll651__rodata_8

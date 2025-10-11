@@ -5,13 +5,13 @@
 
 #define dll_770_ctor __dll770_dll_770_ctor
 #define dll_770_dtor __dll770_dll_770_dtor
-#define dll_770_create __dll770_dll_770_create
+#define dll_770_setup __dll770_dll_770_setup
+#define dll_770_control __dll770_dll_770_control
 #define dll_770_update __dll770_dll_770_update
-#define dll_770_func_41C __dll770_dll_770_func_41C
-#define dll_770_draw __dll770_dll_770_draw
-#define dll_770_destroy __dll770_dll_770_destroy
+#define dll_770_print __dll770_dll_770_print
+#define dll_770_free __dll770_dll_770_free
 #define dll_770_get_model_flags __dll770_dll_770_get_model_flags
-#define dll_770_get_state_size __dll770_dll_770_get_state_size
+#define dll_770_get_data_size __dll770_dll_770_get_data_size
 #define _rodata_0 __dll770__rodata_0
 #define _rodata_4 __dll770__rodata_4
 

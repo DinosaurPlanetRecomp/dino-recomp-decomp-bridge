@@ -5,13 +5,13 @@
 
 #define dll_589_ctor __dll589_dll_589_ctor
 #define dll_589_dtor __dll589_dll_589_dtor
-#define dll_589_create __dll589_dll_589_create
+#define dll_589_setup __dll589_dll_589_setup
+#define dll_589_control __dll589_dll_589_control
 #define dll_589_update __dll589_dll_589_update
-#define dll_589_func_C0 __dll589_dll_589_func_C0
-#define dll_589_draw __dll589_dll_589_draw
-#define dll_589_destroy __dll589_dll_589_destroy
+#define dll_589_print __dll589_dll_589_print
+#define dll_589_free __dll589_dll_589_free
 #define dll_589_get_model_flags __dll589_dll_589_get_model_flags
-#define dll_589_get_state_size __dll589_dll_589_get_state_size
+#define dll_589_get_data_size __dll589_dll_589_get_data_size
 #define _oob_rodata_0 __dll589__oob_rodata_0
 
 #endif //_DLL_589_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_269_ctor __dll269_dll_269_ctor
 #define dll_269_dtor __dll269_dll_269_dtor
-#define dll_269_create __dll269_dll_269_create
+#define dll_269_setup __dll269_dll_269_setup
+#define dll_269_control __dll269_dll_269_control
 #define dll_269_update __dll269_dll_269_update
-#define dll_269_func_148 __dll269_dll_269_func_148
-#define dll_269_draw __dll269_dll_269_draw
-#define dll_269_destroy __dll269_dll_269_destroy
+#define dll_269_print __dll269_dll_269_print
+#define dll_269_free __dll269_dll_269_free
 #define dll_269_get_model_flags __dll269_dll_269_get_model_flags
-#define dll_269_get_state_size __dll269_dll_269_get_state_size
+#define dll_269_get_data_size __dll269_dll_269_get_data_size
 #define _data_0 __dll269__data_0
 
 #endif //_DLL_269_RECOMP_H

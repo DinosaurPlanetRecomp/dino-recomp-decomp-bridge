@@ -5,12 +5,12 @@
 
 #define area_ctor __dll281_area_ctor
 #define area_dtor __dll281_area_dtor
-#define area_create __dll281_area_create
+#define area_setup __dll281_area_setup
+#define area_control __dll281_area_control
 #define area_update __dll281_area_update
-#define area_func_3C __dll281_area_func_3C
-#define area_draw __dll281_area_draw
-#define area_destroy __dll281_area_destroy
+#define area_print __dll281_area_print
+#define area_free __dll281_area_free
 #define area_get_model_flags __dll281_area_get_model_flags
-#define area_get_state_size __dll281_area_get_state_size
+#define area_get_data_size __dll281_area_get_data_size
 
 #endif //_DLL_281_RECOMP_H

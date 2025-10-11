@@ -5,13 +5,13 @@
 
 #define dll_437_ctor __dll437_dll_437_ctor
 #define dll_437_dtor __dll437_dll_437_dtor
-#define dll_437_create __dll437_dll_437_create
+#define dll_437_setup __dll437_dll_437_setup
+#define dll_437_control __dll437_dll_437_control
 #define dll_437_update __dll437_dll_437_update
-#define dll_437_func_4A4 __dll437_dll_437_func_4A4
-#define dll_437_draw __dll437_dll_437_draw
-#define dll_437_destroy __dll437_dll_437_destroy
+#define dll_437_print __dll437_dll_437_print
+#define dll_437_free __dll437_dll_437_free
 #define dll_437_get_model_flags __dll437_dll_437_get_model_flags
-#define dll_437_get_state_size __dll437_dll_437_get_state_size
+#define dll_437_get_data_size __dll437_dll_437_get_data_size
 #define dll_437_func_CC0 __dll437_dll_437_func_CC0
 #define dll_437_func_1164 __dll437_dll_437_func_1164
 #define dll_437_func_139C __dll437_dll_437_func_139C

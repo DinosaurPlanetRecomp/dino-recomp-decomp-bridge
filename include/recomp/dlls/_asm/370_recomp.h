@@ -5,13 +5,13 @@
 
 #define dll_370_ctor __dll370_dll_370_ctor
 #define dll_370_dtor __dll370_dll_370_dtor
-#define dll_370_create __dll370_dll_370_create
+#define dll_370_setup __dll370_dll_370_setup
+#define dll_370_control __dll370_dll_370_control
 #define dll_370_update __dll370_dll_370_update
-#define dll_370_func_7A0 __dll370_dll_370_func_7A0
-#define dll_370_draw __dll370_dll_370_draw
-#define dll_370_destroy __dll370_dll_370_destroy
+#define dll_370_print __dll370_dll_370_print
+#define dll_370_free __dll370_dll_370_free
 #define dll_370_get_model_flags __dll370_dll_370_get_model_flags
-#define dll_370_get_state_size __dll370_dll_370_get_state_size
+#define dll_370_get_data_size __dll370_dll_370_get_data_size
 #define dll_370_func_880 __dll370_dll_370_func_880
 #define dll_370_func_F0C __dll370_dll_370_func_F0C
 #define str_0 __dll370_str_0

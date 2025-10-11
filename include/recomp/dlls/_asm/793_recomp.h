@@ -5,13 +5,13 @@
 
 #define dll_793_ctor __dll793_dll_793_ctor
 #define dll_793_dtor __dll793_dll_793_dtor
-#define dll_793_create __dll793_dll_793_create
+#define dll_793_setup __dll793_dll_793_setup
+#define dll_793_control __dll793_dll_793_control
 #define dll_793_update __dll793_dll_793_update
-#define dll_793_func_85C __dll793_dll_793_func_85C
-#define dll_793_draw __dll793_dll_793_draw
-#define dll_793_destroy __dll793_dll_793_destroy
+#define dll_793_print __dll793_dll_793_print
+#define dll_793_free __dll793_dll_793_free
 #define dll_793_get_model_flags __dll793_dll_793_get_model_flags
-#define dll_793_get_state_size __dll793_dll_793_get_state_size
+#define dll_793_get_data_size __dll793_dll_793_get_data_size
 #define dll_793_func_950 __dll793_dll_793_func_950
 #define dll_793_func_9E0 __dll793_dll_793_func_9E0
 #define dll_793_func_B28 __dll793_dll_793_func_B28

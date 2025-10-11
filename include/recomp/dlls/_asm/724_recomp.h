@@ -5,15 +5,15 @@
 
 #define dll_724_ctor __dll724_dll_724_ctor
 #define dll_724_dtor __dll724_dll_724_dtor
-#define dll_724_create __dll724_dll_724_create
+#define dll_724_setup __dll724_dll_724_setup
+#define dll_724_control __dll724_dll_724_control
 #define dll_724_update __dll724_dll_724_update
-#define dll_724_func_2A8 __dll724_dll_724_func_2A8
-#define dll_724_draw __dll724_dll_724_draw
+#define dll_724_print __dll724_dll_724_print
 #define dll_724_func_2CC __dll724_dll_724_func_2CC
 #define dll_724_func_2E0 __dll724_dll_724_func_2E0
-#define dll_724_destroy __dll724_dll_724_destroy
+#define dll_724_free __dll724_dll_724_free
 #define dll_724_get_model_flags __dll724_dll_724_get_model_flags
-#define dll_724_get_state_size __dll724_dll_724_get_state_size
+#define dll_724_get_data_size __dll724_dll_724_get_data_size
 #define dll_724_func_35C __dll724_dll_724_func_35C
 #define dll_724_func_374 __dll724_dll_724_func_374
 #define str_0 __dll724_str_0

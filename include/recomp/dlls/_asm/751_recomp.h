@@ -5,13 +5,13 @@
 
 #define dll_751_ctor __dll751_dll_751_ctor
 #define dll_751_dtor __dll751_dll_751_dtor
-#define dll_751_create __dll751_dll_751_create
+#define dll_751_setup __dll751_dll_751_setup
+#define dll_751_control __dll751_dll_751_control
 #define dll_751_update __dll751_dll_751_update
-#define dll_751_func_7D4 __dll751_dll_751_func_7D4
-#define dll_751_draw __dll751_dll_751_draw
-#define dll_751_destroy __dll751_dll_751_destroy
+#define dll_751_print __dll751_dll_751_print
+#define dll_751_free __dll751_dll_751_free
 #define dll_751_get_model_flags __dll751_dll_751_get_model_flags
-#define dll_751_get_state_size __dll751_dll_751_get_state_size
+#define dll_751_get_data_size __dll751_dll_751_get_data_size
 #define _rodata_0 __dll751__rodata_0
 #define _rodata_4 __dll751__rodata_4
 

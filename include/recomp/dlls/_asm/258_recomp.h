@@ -5,13 +5,13 @@
 
 #define dll_258_ctor __dll258_dll_258_ctor
 #define dll_258_dtor __dll258_dll_258_dtor
-#define dll_258_create __dll258_dll_258_create
+#define dll_258_setup __dll258_dll_258_setup
+#define dll_258_control __dll258_dll_258_control
 #define dll_258_update __dll258_dll_258_update
-#define dll_258_func_438 __dll258_dll_258_func_438
-#define dll_258_draw __dll258_dll_258_draw
-#define dll_258_destroy __dll258_dll_258_destroy
+#define dll_258_print __dll258_dll_258_print
+#define dll_258_free __dll258_dll_258_free
 #define dll_258_get_model_flags __dll258_dll_258_get_model_flags
-#define dll_258_get_state_size __dll258_dll_258_get_state_size
+#define dll_258_get_data_size __dll258_dll_258_get_data_size
 #define _rodata_0 __dll258__rodata_0
 
 #endif //_DLL_258_RECOMP_H

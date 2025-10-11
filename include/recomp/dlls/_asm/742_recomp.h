@@ -5,13 +5,13 @@
 
 #define dll_742_ctor __dll742_dll_742_ctor
 #define dll_742_dtor __dll742_dll_742_dtor
-#define dll_742_create __dll742_dll_742_create
+#define dll_742_setup __dll742_dll_742_setup
+#define dll_742_control __dll742_dll_742_control
 #define dll_742_update __dll742_dll_742_update
-#define dll_742_func_244 __dll742_dll_742_func_244
-#define dll_742_draw __dll742_dll_742_draw
-#define dll_742_destroy __dll742_dll_742_destroy
+#define dll_742_print __dll742_dll_742_print
+#define dll_742_free __dll742_dll_742_free
 #define dll_742_get_model_flags __dll742_dll_742_get_model_flags
-#define dll_742_get_state_size __dll742_dll_742_get_state_size
+#define dll_742_get_data_size __dll742_dll_742_get_data_size
 #define _data_0 __dll742__data_0
 #define _data_8 __dll742__data_8
 

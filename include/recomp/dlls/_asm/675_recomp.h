@@ -5,13 +5,13 @@
 
 #define dll_675_ctor __dll675_dll_675_ctor
 #define dll_675_dtor __dll675_dll_675_dtor
-#define dll_675_create __dll675_dll_675_create
+#define dll_675_setup __dll675_dll_675_setup
+#define dll_675_control __dll675_dll_675_control
 #define dll_675_update __dll675_dll_675_update
-#define dll_675_func_680 __dll675_dll_675_func_680
-#define dll_675_draw __dll675_dll_675_draw
-#define dll_675_destroy __dll675_dll_675_destroy
+#define dll_675_print __dll675_dll_675_print
+#define dll_675_free __dll675_dll_675_free
 #define dll_675_get_model_flags __dll675_dll_675_get_model_flags
-#define dll_675_get_state_size __dll675_dll_675_get_state_size
+#define dll_675_get_data_size __dll675_dll_675_get_data_size
 #define dll_675_func_714 __dll675_dll_675_func_714
 #define dll_675_func_7F4 __dll675_dll_675_func_7F4
 #define str_0 __dll675_str_0

@@ -5,13 +5,13 @@
 
 #define dll_411_ctor __dll411_dll_411_ctor
 #define dll_411_dtor __dll411_dll_411_dtor
-#define dll_411_create __dll411_dll_411_create
+#define dll_411_setup __dll411_dll_411_setup
+#define dll_411_control __dll411_dll_411_control
 #define dll_411_update __dll411_dll_411_update
-#define dll_411_func_310 __dll411_dll_411_func_310
-#define dll_411_draw __dll411_dll_411_draw
-#define dll_411_destroy __dll411_dll_411_destroy
+#define dll_411_print __dll411_dll_411_print
+#define dll_411_free __dll411_dll_411_free
 #define dll_411_get_model_flags __dll411_dll_411_get_model_flags
-#define dll_411_get_state_size __dll411_dll_411_get_state_size
+#define dll_411_get_data_size __dll411_dll_411_get_data_size
 #define dll_411_func_648 __dll411_dll_411_func_648
 #define dll_411_func_7F8 __dll411_dll_411_func_7F8
 #define dll_411_func_960 __dll411_dll_411_func_960

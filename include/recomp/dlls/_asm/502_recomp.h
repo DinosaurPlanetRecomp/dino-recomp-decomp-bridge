@@ -5,13 +5,13 @@
 
 #define dll_502_ctor __dll502_dll_502_ctor
 #define dll_502_dtor __dll502_dll_502_dtor
-#define dll_502_create __dll502_dll_502_create
+#define dll_502_setup __dll502_dll_502_setup
+#define dll_502_control __dll502_dll_502_control
 #define dll_502_update __dll502_dll_502_update
-#define dll_502_func_848 __dll502_dll_502_func_848
-#define dll_502_draw __dll502_dll_502_draw
-#define dll_502_destroy __dll502_dll_502_destroy
+#define dll_502_print __dll502_dll_502_print
+#define dll_502_free __dll502_dll_502_free
 #define dll_502_get_model_flags __dll502_dll_502_get_model_flags
-#define dll_502_get_state_size __dll502_dll_502_get_state_size
+#define dll_502_get_data_size __dll502_dll_502_get_data_size
 #define dll_502_func_910 __dll502_dll_502_func_910
 #define dll_502_func_C70 __dll502_dll_502_func_C70
 #define dll_502_func_D74 __dll502_dll_502_func_D74

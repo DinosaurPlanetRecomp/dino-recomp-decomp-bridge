@@ -5,12 +5,12 @@
 
 #define dll_780_ctor __dll780_dll_780_ctor
 #define dll_780_dtor __dll780_dll_780_dtor
-#define dll_780_create __dll780_dll_780_create
+#define dll_780_setup __dll780_dll_780_setup
+#define dll_780_control __dll780_dll_780_control
 #define dll_780_update __dll780_dll_780_update
-#define dll_780_func_4E8 __dll780_dll_780_func_4E8
-#define dll_780_draw __dll780_dll_780_draw
-#define dll_780_destroy __dll780_dll_780_destroy
+#define dll_780_print __dll780_dll_780_print
+#define dll_780_free __dll780_dll_780_free
 #define dll_780_get_model_flags __dll780_dll_780_get_model_flags
-#define dll_780_get_state_size __dll780_dll_780_get_state_size
+#define dll_780_get_data_size __dll780_dll_780_get_data_size
 
 #endif //_DLL_780_RECOMP_H

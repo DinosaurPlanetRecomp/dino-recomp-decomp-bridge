@@ -5,13 +5,13 @@
 
 #define dll_657_ctor __dll657_dll_657_ctor
 #define dll_657_dtor __dll657_dll_657_dtor
-#define dll_657_create __dll657_dll_657_create
+#define dll_657_setup __dll657_dll_657_setup
+#define dll_657_control __dll657_dll_657_control
 #define dll_657_update __dll657_dll_657_update
-#define dll_657_func_200 __dll657_dll_657_func_200
-#define dll_657_draw __dll657_dll_657_draw
-#define dll_657_destroy __dll657_dll_657_destroy
+#define dll_657_print __dll657_dll_657_print
+#define dll_657_free __dll657_dll_657_free
 #define dll_657_get_model_flags __dll657_dll_657_get_model_flags
-#define dll_657_get_state_size __dll657_dll_657_get_state_size
+#define dll_657_get_data_size __dll657_dll_657_get_data_size
 #define str_0 __dll657_str_0
 #define _bss_0 __dll657__bss_0
 

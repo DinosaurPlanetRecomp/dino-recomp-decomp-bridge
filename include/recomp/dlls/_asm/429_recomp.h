@@ -5,13 +5,13 @@
 
 #define dll_429_ctor __dll429_dll_429_ctor
 #define dll_429_dtor __dll429_dll_429_dtor
-#define dll_429_create __dll429_dll_429_create
+#define dll_429_setup __dll429_dll_429_setup
+#define dll_429_control __dll429_dll_429_control
 #define dll_429_update __dll429_dll_429_update
-#define dll_429_func_290 __dll429_dll_429_func_290
-#define dll_429_draw __dll429_dll_429_draw
-#define dll_429_destroy __dll429_dll_429_destroy
+#define dll_429_print __dll429_dll_429_print
+#define dll_429_free __dll429_dll_429_free
 #define dll_429_get_model_flags __dll429_dll_429_get_model_flags
-#define dll_429_get_state_size __dll429_dll_429_get_state_size
+#define dll_429_get_data_size __dll429_dll_429_get_data_size
 #define dll_429_func_324 __dll429_dll_429_func_324
 
 #endif //_DLL_429_RECOMP_H

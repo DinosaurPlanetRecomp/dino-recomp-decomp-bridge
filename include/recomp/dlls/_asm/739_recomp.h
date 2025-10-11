@@ -5,13 +5,13 @@
 
 #define dll_739_ctor __dll739_dll_739_ctor
 #define dll_739_dtor __dll739_dll_739_dtor
-#define dll_739_create __dll739_dll_739_create
+#define dll_739_setup __dll739_dll_739_setup
+#define dll_739_control __dll739_dll_739_control
 #define dll_739_update __dll739_dll_739_update
-#define dll_739_func_68C __dll739_dll_739_func_68C
-#define dll_739_draw __dll739_dll_739_draw
-#define dll_739_destroy __dll739_dll_739_destroy
+#define dll_739_print __dll739_dll_739_print
+#define dll_739_free __dll739_dll_739_free
 #define dll_739_get_model_flags __dll739_dll_739_get_model_flags
-#define dll_739_get_state_size __dll739_dll_739_get_state_size
+#define dll_739_get_data_size __dll739_dll_739_get_data_size
 #define dll_739_func_7B4 __dll739_dll_739_func_7B4
 #define dll_739_func_9C8 __dll739_dll_739_func_9C8
 #define dll_739_func_B04 __dll739_dll_739_func_B04

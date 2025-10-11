@@ -5,13 +5,13 @@
 
 #define dll_414_ctor __dll414_dll_414_ctor
 #define dll_414_dtor __dll414_dll_414_dtor
-#define dll_414_create __dll414_dll_414_create
+#define dll_414_setup __dll414_dll_414_setup
+#define dll_414_control __dll414_dll_414_control
 #define dll_414_update __dll414_dll_414_update
-#define dll_414_func_5A8 __dll414_dll_414_func_5A8
-#define dll_414_draw __dll414_dll_414_draw
-#define dll_414_destroy __dll414_dll_414_destroy
+#define dll_414_print __dll414_dll_414_print
+#define dll_414_free __dll414_dll_414_free
 #define dll_414_get_model_flags __dll414_dll_414_get_model_flags
-#define dll_414_get_state_size __dll414_dll_414_get_state_size
+#define dll_414_get_data_size __dll414_dll_414_get_data_size
 #define _rodata_1C __dll414__rodata_1C
 #define _rodata_20 __dll414__rodata_20
 #define _rodata_24 __dll414__rodata_24

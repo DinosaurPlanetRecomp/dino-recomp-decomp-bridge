@@ -5,13 +5,13 @@
 
 #define dll_523_ctor __dll523_dll_523_ctor
 #define dll_523_dtor __dll523_dll_523_dtor
-#define dll_523_create __dll523_dll_523_create
+#define dll_523_setup __dll523_dll_523_setup
+#define dll_523_control __dll523_dll_523_control
 #define dll_523_update __dll523_dll_523_update
-#define dll_523_func_548 __dll523_dll_523_func_548
-#define dll_523_draw __dll523_dll_523_draw
-#define dll_523_destroy __dll523_dll_523_destroy
+#define dll_523_print __dll523_dll_523_print
+#define dll_523_free __dll523_dll_523_free
 #define dll_523_get_model_flags __dll523_dll_523_get_model_flags
-#define dll_523_get_state_size __dll523_dll_523_get_state_size
+#define dll_523_get_data_size __dll523_dll_523_get_data_size
 #define dll_523_func_6E8 __dll523_dll_523_func_6E8
 #define dll_523_func_A2C __dll523_dll_523_func_A2C
 #define dll_523_func_AF8 __dll523_dll_523_func_AF8

@@ -5,12 +5,12 @@
 
 #define dll_425_ctor __dll425_dll_425_ctor
 #define dll_425_dtor __dll425_dll_425_dtor
-#define dll_425_create __dll425_dll_425_create
+#define dll_425_setup __dll425_dll_425_setup
+#define dll_425_control __dll425_dll_425_control
 #define dll_425_update __dll425_dll_425_update
-#define dll_425_func_140 __dll425_dll_425_func_140
-#define dll_425_draw __dll425_dll_425_draw
-#define dll_425_destroy __dll425_dll_425_destroy
+#define dll_425_print __dll425_dll_425_print
+#define dll_425_free __dll425_dll_425_free
 #define dll_425_get_model_flags __dll425_dll_425_get_model_flags
-#define dll_425_get_state_size __dll425_dll_425_get_state_size
+#define dll_425_get_data_size __dll425_dll_425_get_data_size
 
 #endif //_DLL_425_RECOMP_H

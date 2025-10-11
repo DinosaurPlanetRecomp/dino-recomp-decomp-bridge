@@ -5,13 +5,13 @@
 
 #define dll_366_ctor __dll366_dll_366_ctor
 #define dll_366_dtor __dll366_dll_366_dtor
-#define dll_366_create __dll366_dll_366_create
+#define dll_366_setup __dll366_dll_366_setup
+#define dll_366_control __dll366_dll_366_control
 #define dll_366_update __dll366_dll_366_update
-#define dll_366_func_32C __dll366_dll_366_func_32C
-#define dll_366_draw __dll366_dll_366_draw
-#define dll_366_destroy __dll366_dll_366_destroy
+#define dll_366_print __dll366_dll_366_print
+#define dll_366_free __dll366_dll_366_free
 #define dll_366_get_model_flags __dll366_dll_366_get_model_flags
-#define dll_366_get_state_size __dll366_dll_366_get_state_size
+#define dll_366_get_data_size __dll366_dll_366_get_data_size
 #define dll_366_func_3C0 __dll366_dll_366_func_3C0
 #define str_0 __dll366_str_0
 #define _data_0 __dll366__data_0

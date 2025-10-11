@@ -5,12 +5,12 @@
 
 #define dll_453_ctor __dll453_dll_453_ctor
 #define dll_453_dtor __dll453_dll_453_dtor
-#define dll_453_create __dll453_dll_453_create
+#define dll_453_setup __dll453_dll_453_setup
+#define dll_453_control __dll453_dll_453_control
 #define dll_453_update __dll453_dll_453_update
-#define dll_453_func_198 __dll453_dll_453_func_198
-#define dll_453_draw __dll453_dll_453_draw
-#define dll_453_destroy __dll453_dll_453_destroy
+#define dll_453_print __dll453_dll_453_print
+#define dll_453_free __dll453_dll_453_free
 #define dll_453_get_model_flags __dll453_dll_453_get_model_flags
-#define dll_453_get_state_size __dll453_dll_453_get_state_size
+#define dll_453_get_data_size __dll453_dll_453_get_data_size
 
 #endif //_DLL_453_RECOMP_H

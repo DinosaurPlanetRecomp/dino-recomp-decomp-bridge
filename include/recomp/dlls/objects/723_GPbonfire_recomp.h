@@ -5,13 +5,13 @@
 
 #define GPbonfire_ctor __dll723_GPbonfire_ctor
 #define GPbonfire_dtor __dll723_GPbonfire_dtor
-#define GPbonfire_create __dll723_GPbonfire_create
+#define GPbonfire_setup __dll723_GPbonfire_setup
+#define GPbonfire_control __dll723_GPbonfire_control
 #define GPbonfire_update __dll723_GPbonfire_update
-#define GPbonfire_func_7F4 __dll723_GPbonfire_func_7F4
-#define GPbonfire_draw __dll723_GPbonfire_draw
-#define GPbonfire_destroy __dll723_GPbonfire_destroy
+#define GPbonfire_print __dll723_GPbonfire_print
+#define GPbonfire_free __dll723_GPbonfire_free
 #define GPbonfire_get_model_flags __dll723_GPbonfire_get_model_flags
-#define GPbonfire_get_state_size __dll723_GPbonfire_get_state_size
+#define GPbonfire_get_data_size __dll723_GPbonfire_get_data_size
 #define GPbonfire_func_910 __dll723_GPbonfire_func_910
 #define GPbonfire_start_burning __dll723_GPbonfire_start_burning
 #define GPbonfire_func_A08 __dll723_GPbonfire_func_A08

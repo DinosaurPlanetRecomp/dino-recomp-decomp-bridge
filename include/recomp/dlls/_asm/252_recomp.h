@@ -5,13 +5,13 @@
 
 #define dll_252_ctor __dll252_dll_252_ctor
 #define dll_252_dtor __dll252_dll_252_dtor
-#define dll_252_create __dll252_dll_252_create
+#define dll_252_setup __dll252_dll_252_setup
+#define dll_252_control __dll252_dll_252_control
 #define dll_252_update __dll252_dll_252_update
-#define dll_252_func_888 __dll252_dll_252_func_888
-#define dll_252_draw __dll252_dll_252_draw
-#define dll_252_destroy __dll252_dll_252_destroy
+#define dll_252_print __dll252_dll_252_print
+#define dll_252_free __dll252_dll_252_free
 #define dll_252_get_model_flags __dll252_dll_252_get_model_flags
-#define dll_252_get_state_size __dll252_dll_252_get_state_size
+#define dll_252_get_data_size __dll252_dll_252_get_data_size
 #define str_0 __dll252_str_0
 #define _rodata_1C __dll252__rodata_1C
 #define _rodata_20 __dll252__rodata_20

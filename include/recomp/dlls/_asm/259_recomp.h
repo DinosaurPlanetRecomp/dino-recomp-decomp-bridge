@@ -5,13 +5,13 @@
 
 #define dll_259_ctor __dll259_dll_259_ctor
 #define dll_259_dtor __dll259_dll_259_dtor
-#define dll_259_create __dll259_dll_259_create
+#define dll_259_setup __dll259_dll_259_setup
+#define dll_259_control __dll259_dll_259_control
 #define dll_259_update __dll259_dll_259_update
-#define dll_259_func_310 __dll259_dll_259_func_310
-#define dll_259_draw __dll259_dll_259_draw
-#define dll_259_destroy __dll259_dll_259_destroy
+#define dll_259_print __dll259_dll_259_print
+#define dll_259_free __dll259_dll_259_free
 #define dll_259_get_model_flags __dll259_dll_259_get_model_flags
-#define dll_259_get_state_size __dll259_dll_259_get_state_size
+#define dll_259_get_data_size __dll259_dll_259_get_data_size
 #define dll_259_func_3D0 __dll259_dll_259_func_3D0
 #define _data_0 __dll259__data_0
 

@@ -5,13 +5,13 @@
 
 #define dll_524_ctor __dll524_dll_524_ctor
 #define dll_524_dtor __dll524_dll_524_dtor
-#define dll_524_create __dll524_dll_524_create
+#define dll_524_setup __dll524_dll_524_setup
+#define dll_524_control __dll524_dll_524_control
 #define dll_524_update __dll524_dll_524_update
-#define dll_524_func_3F8 __dll524_dll_524_func_3F8
-#define dll_524_draw __dll524_dll_524_draw
-#define dll_524_destroy __dll524_dll_524_destroy
+#define dll_524_print __dll524_dll_524_print
+#define dll_524_free __dll524_dll_524_free
 #define dll_524_get_model_flags __dll524_dll_524_get_model_flags
-#define dll_524_get_state_size __dll524_dll_524_get_state_size
+#define dll_524_get_data_size __dll524_dll_524_get_data_size
 #define _bss_0 __dll524__bss_0
 #define _bss_C __dll524__bss_C
 #define _bss_10 __dll524__bss_10

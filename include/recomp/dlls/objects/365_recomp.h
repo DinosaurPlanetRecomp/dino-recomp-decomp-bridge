@@ -5,13 +5,13 @@
 
 #define init __dll365_init
 #define fini __dll365_fini
-#define dll_365_create __dll365_dll_365_create
+#define dll_365_setup __dll365_dll_365_setup
+#define dll_365_control __dll365_dll_365_control
 #define dll_365_update __dll365_dll_365_update
-#define func_0002 __dll365_func_0002
-#define dll_365_draw __dll365_dll_365_draw
-#define dll_365_destroy __dll365_dll_365_destroy
+#define dll_365_print __dll365_dll_365_print
+#define dll_365_free __dll365_dll_365_free
 #define dll_365_get_model_flags __dll365_dll_365_get_model_flags
-#define dll_365_get_state_size __dll365_dll_365_get_state_size
+#define dll_365_get_data_size __dll365_dll_365_get_data_size
 #define func_0007 __dll365_func_0007
 
 #endif //_DLL_365_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_348_ctor __dll348_dll_348_ctor
 #define dll_348_dtor __dll348_dll_348_dtor
-#define dll_348_create __dll348_dll_348_create
+#define dll_348_setup __dll348_dll_348_setup
+#define dll_348_control __dll348_dll_348_control
 #define dll_348_update __dll348_dll_348_update
-#define dll_348_func_4F4 __dll348_dll_348_func_4F4
-#define dll_348_draw __dll348_dll_348_draw
-#define dll_348_destroy __dll348_dll_348_destroy
+#define dll_348_print __dll348_dll_348_print
+#define dll_348_free __dll348_dll_348_free
 #define dll_348_get_model_flags __dll348_dll_348_get_model_flags
-#define dll_348_get_state_size __dll348_dll_348_get_state_size
+#define dll_348_get_data_size __dll348_dll_348_get_data_size
 #define dll_348_func_588 __dll348_dll_348_func_588
 #define str_0 __dll348_str_0
 

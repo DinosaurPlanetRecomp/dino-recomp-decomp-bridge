@@ -5,13 +5,13 @@
 
 #define dll_639_ctor __dll639_dll_639_ctor
 #define dll_639_dtor __dll639_dll_639_dtor
-#define dll_639_create __dll639_dll_639_create
+#define dll_639_setup __dll639_dll_639_setup
+#define dll_639_control __dll639_dll_639_control
 #define dll_639_update __dll639_dll_639_update
-#define dll_639_func_CBC __dll639_dll_639_func_CBC
-#define dll_639_draw __dll639_dll_639_draw
-#define dll_639_destroy __dll639_dll_639_destroy
+#define dll_639_print __dll639_dll_639_print
+#define dll_639_free __dll639_dll_639_free
 #define dll_639_get_model_flags __dll639_dll_639_get_model_flags
-#define dll_639_get_state_size __dll639_dll_639_get_state_size
+#define dll_639_get_data_size __dll639_dll_639_get_data_size
 #define _rodata_1C __dll639__rodata_1C
 #define _rodata_20 __dll639__rodata_20
 

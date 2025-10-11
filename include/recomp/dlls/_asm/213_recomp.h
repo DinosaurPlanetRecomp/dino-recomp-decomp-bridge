@@ -5,12 +5,12 @@
 
 #define dll_213_ctor __dll213_dll_213_ctor
 #define dll_213_dtor __dll213_dll_213_dtor
-#define dll_213_create __dll213_dll_213_create
+#define dll_213_setup __dll213_dll_213_setup
+#define dll_213_control __dll213_dll_213_control
 #define dll_213_update __dll213_dll_213_update
-#define dll_213_func_40 __dll213_dll_213_func_40
-#define dll_213_draw __dll213_dll_213_draw
-#define dll_213_destroy __dll213_dll_213_destroy
+#define dll_213_print __dll213_dll_213_print
+#define dll_213_free __dll213_dll_213_free
 #define dll_213_get_model_flags __dll213_dll_213_get_model_flags
-#define dll_213_get_state_size __dll213_dll_213_get_state_size
+#define dll_213_get_data_size __dll213_dll_213_get_data_size
 
 #endif //_DLL_213_RECOMP_H

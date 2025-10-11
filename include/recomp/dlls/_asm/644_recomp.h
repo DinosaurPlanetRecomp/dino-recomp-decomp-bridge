@@ -5,13 +5,13 @@
 
 #define dll_644_ctor __dll644_dll_644_ctor
 #define dll_644_dtor __dll644_dll_644_dtor
-#define dll_644_create __dll644_dll_644_create
+#define dll_644_setup __dll644_dll_644_setup
+#define dll_644_control __dll644_dll_644_control
 #define dll_644_update __dll644_dll_644_update
-#define dll_644_func_560 __dll644_dll_644_func_560
-#define dll_644_draw __dll644_dll_644_draw
-#define dll_644_destroy __dll644_dll_644_destroy
+#define dll_644_print __dll644_dll_644_print
+#define dll_644_free __dll644_dll_644_free
 #define dll_644_get_model_flags __dll644_dll_644_get_model_flags
-#define dll_644_get_state_size __dll644_dll_644_get_state_size
+#define dll_644_get_data_size __dll644_dll_644_get_data_size
 #define dll_644_func_6AC __dll644_dll_644_func_6AC
 #define str_0 __dll644_str_0
 #define _rodata_C __dll644__rodata_C

@@ -5,13 +5,13 @@
 
 #define dll_346_ctor __dll346_dll_346_ctor
 #define dll_346_dtor __dll346_dll_346_dtor
-#define dll_346_create __dll346_dll_346_create
+#define dll_346_setup __dll346_dll_346_setup
+#define dll_346_control __dll346_dll_346_control
 #define dll_346_update __dll346_dll_346_update
-#define dll_346_func_38 __dll346_dll_346_func_38
-#define dll_346_draw __dll346_dll_346_draw
-#define dll_346_destroy __dll346_dll_346_destroy
+#define dll_346_print __dll346_dll_346_print
+#define dll_346_free __dll346_dll_346_free
 #define dll_346_get_model_flags __dll346_dll_346_get_model_flags
-#define dll_346_get_state_size __dll346_dll_346_get_state_size
+#define dll_346_get_data_size __dll346_dll_346_get_data_size
 #define _oob_rodata_0 __dll346__oob_rodata_0
 
 #endif //_DLL_346_RECOMP_H

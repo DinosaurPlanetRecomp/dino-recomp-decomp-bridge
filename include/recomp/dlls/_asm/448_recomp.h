@@ -5,13 +5,13 @@
 
 #define dll_448_ctor __dll448_dll_448_ctor
 #define dll_448_dtor __dll448_dll_448_dtor
-#define dll_448_create __dll448_dll_448_create
+#define dll_448_setup __dll448_dll_448_setup
+#define dll_448_control __dll448_dll_448_control
 #define dll_448_update __dll448_dll_448_update
-#define dll_448_func_8A4 __dll448_dll_448_func_8A4
-#define dll_448_draw __dll448_dll_448_draw
-#define dll_448_destroy __dll448_dll_448_destroy
+#define dll_448_print __dll448_dll_448_print
+#define dll_448_free __dll448_dll_448_free
 #define dll_448_get_model_flags __dll448_dll_448_get_model_flags
-#define dll_448_get_state_size __dll448_dll_448_get_state_size
+#define dll_448_get_data_size __dll448_dll_448_get_data_size
 #define dll_448_func_938 __dll448_dll_448_func_938
 #define dll_448_func_A34 __dll448_dll_448_func_A34
 #define dll_448_func_B5C __dll448_dll_448_func_B5C

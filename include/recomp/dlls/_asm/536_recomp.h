@@ -5,13 +5,13 @@
 
 #define dll_536_ctor __dll536_dll_536_ctor
 #define dll_536_dtor __dll536_dll_536_dtor
-#define dll_536_create __dll536_dll_536_create
+#define dll_536_setup __dll536_dll_536_setup
+#define dll_536_control __dll536_dll_536_control
 #define dll_536_update __dll536_dll_536_update
-#define dll_536_func_634 __dll536_dll_536_func_634
-#define dll_536_draw __dll536_dll_536_draw
-#define dll_536_destroy __dll536_dll_536_destroy
+#define dll_536_print __dll536_dll_536_print
+#define dll_536_free __dll536_dll_536_free
 #define dll_536_get_model_flags __dll536_dll_536_get_model_flags
-#define dll_536_get_state_size __dll536_dll_536_get_state_size
+#define dll_536_get_data_size __dll536_dll_536_get_data_size
 #define _rodata_0 __dll536__rodata_0
 #define _rodata_4 __dll536__rodata_4
 #define _rodata_8 __dll536__rodata_8

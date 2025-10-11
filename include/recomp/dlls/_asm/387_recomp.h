@@ -5,13 +5,13 @@
 
 #define dll_387_ctor __dll387_dll_387_ctor
 #define dll_387_dtor __dll387_dll_387_dtor
-#define dll_387_create __dll387_dll_387_create
+#define dll_387_setup __dll387_dll_387_setup
+#define dll_387_control __dll387_dll_387_control
 #define dll_387_update __dll387_dll_387_update
-#define dll_387_func_254 __dll387_dll_387_func_254
-#define dll_387_draw __dll387_dll_387_draw
-#define dll_387_destroy __dll387_dll_387_destroy
+#define dll_387_print __dll387_dll_387_print
+#define dll_387_free __dll387_dll_387_free
 #define dll_387_get_model_flags __dll387_dll_387_get_model_flags
-#define dll_387_get_state_size __dll387_dll_387_get_state_size
+#define dll_387_get_data_size __dll387_dll_387_get_data_size
 #define str_0 __dll387_str_0
 
 #endif //_DLL_387_RECOMP_H

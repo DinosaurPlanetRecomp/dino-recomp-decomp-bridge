@@ -5,15 +5,15 @@
 
 #define dll_280_ctor __dll280_dll_280_ctor
 #define dll_280_dtor __dll280_dll_280_dtor
-#define dll_280_create __dll280_dll_280_create
+#define dll_280_setup __dll280_dll_280_setup
 #define dll_280_func_1A4 __dll280_dll_280_func_1A4
 #define dll_280_func_250 __dll280_dll_280_func_250
+#define dll_280_control __dll280_dll_280_control
 #define dll_280_update __dll280_dll_280_update
-#define dll_280_func_954 __dll280_dll_280_func_954
-#define dll_280_draw __dll280_dll_280_draw
-#define dll_280_destroy __dll280_dll_280_destroy
+#define dll_280_print __dll280_dll_280_print
+#define dll_280_free __dll280_dll_280_free
 #define dll_280_get_model_flags __dll280_dll_280_get_model_flags
-#define dll_280_get_state_size __dll280_dll_280_get_state_size
+#define dll_280_get_data_size __dll280_dll_280_get_data_size
 #define dll_280_func_A88 __dll280_dll_280_func_A88
 #define dll_280_func_ADC __dll280_dll_280_func_ADC
 #define dll_280_func_B3C __dll280_dll_280_func_B3C

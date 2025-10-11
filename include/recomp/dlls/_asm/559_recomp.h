@@ -5,13 +5,13 @@
 
 #define dll_559_ctor __dll559_dll_559_ctor
 #define dll_559_dtor __dll559_dll_559_dtor
-#define dll_559_create __dll559_dll_559_create
+#define dll_559_setup __dll559_dll_559_setup
+#define dll_559_control __dll559_dll_559_control
 #define dll_559_update __dll559_dll_559_update
-#define dll_559_func_458 __dll559_dll_559_func_458
-#define dll_559_draw __dll559_dll_559_draw
-#define dll_559_destroy __dll559_dll_559_destroy
+#define dll_559_print __dll559_dll_559_print
+#define dll_559_free __dll559_dll_559_free
 #define dll_559_get_model_flags __dll559_dll_559_get_model_flags
-#define dll_559_get_state_size __dll559_dll_559_get_state_size
+#define dll_559_get_data_size __dll559_dll_559_get_data_size
 #define _rodata_0 __dll559__rodata_0
 #define _rodata_4 __dll559__rodata_4
 #define _rodata_8 __dll559__rodata_8

@@ -5,13 +5,13 @@
 
 #define dll_658_ctor __dll658_dll_658_ctor
 #define dll_658_dtor __dll658_dll_658_dtor
-#define dll_658_create __dll658_dll_658_create
+#define dll_658_setup __dll658_dll_658_setup
+#define dll_658_control __dll658_dll_658_control
 #define dll_658_update __dll658_dll_658_update
-#define dll_658_func_430 __dll658_dll_658_func_430
-#define dll_658_draw __dll658_dll_658_draw
-#define dll_658_destroy __dll658_dll_658_destroy
+#define dll_658_print __dll658_dll_658_print
+#define dll_658_free __dll658_dll_658_free
 #define dll_658_get_model_flags __dll658_dll_658_get_model_flags
-#define dll_658_get_state_size __dll658_dll_658_get_state_size
+#define dll_658_get_data_size __dll658_dll_658_get_data_size
 #define dll_658_func_61C __dll658_dll_658_func_61C
 #define dll_658_func_720 __dll658_dll_658_func_720
 #define dll_658_func_ACC __dll658_dll_658_func_ACC

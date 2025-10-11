@@ -5,13 +5,13 @@
 
 #define dll_546_ctor __dll546_dll_546_ctor
 #define dll_546_dtor __dll546_dll_546_dtor
-#define dll_546_create __dll546_dll_546_create
+#define dll_546_setup __dll546_dll_546_setup
+#define dll_546_control __dll546_dll_546_control
 #define dll_546_update __dll546_dll_546_update
-#define dll_546_func_A4 __dll546_dll_546_func_A4
-#define dll_546_draw __dll546_dll_546_draw
-#define dll_546_destroy __dll546_dll_546_destroy
+#define dll_546_print __dll546_dll_546_print
+#define dll_546_free __dll546_dll_546_free
 #define dll_546_get_model_flags __dll546_dll_546_get_model_flags
-#define dll_546_get_state_size __dll546_dll_546_get_state_size
+#define dll_546_get_data_size __dll546_dll_546_get_data_size
 #define str_0 __dll546_str_0
 
 #endif //_DLL_546_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_735_ctor __dll735_dll_735_ctor
 #define dll_735_dtor __dll735_dll_735_dtor
-#define dll_735_create __dll735_dll_735_create
+#define dll_735_setup __dll735_dll_735_setup
+#define dll_735_control __dll735_dll_735_control
 #define dll_735_update __dll735_dll_735_update
-#define dll_735_func_2E0 __dll735_dll_735_func_2E0
-#define dll_735_draw __dll735_dll_735_draw
-#define dll_735_destroy __dll735_dll_735_destroy
+#define dll_735_print __dll735_dll_735_print
+#define dll_735_free __dll735_dll_735_free
 #define dll_735_get_model_flags __dll735_dll_735_get_model_flags
-#define dll_735_get_state_size __dll735_dll_735_get_state_size
+#define dll_735_get_data_size __dll735_dll_735_get_data_size
 #define dll_735_func_3C4 __dll735_dll_735_func_3C4
 #define dll_735_func_3DC __dll735_dll_735_func_3DC
 #define dll_735_func_750 __dll735_dll_735_func_750

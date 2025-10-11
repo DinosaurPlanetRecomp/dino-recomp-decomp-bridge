@@ -5,13 +5,13 @@
 
 #define dll_551_ctor __dll551_dll_551_ctor
 #define dll_551_dtor __dll551_dll_551_dtor
-#define dll_551_create __dll551_dll_551_create
+#define dll_551_setup __dll551_dll_551_setup
+#define dll_551_control __dll551_dll_551_control
 #define dll_551_update __dll551_dll_551_update
-#define dll_551_func_200 __dll551_dll_551_func_200
-#define dll_551_draw __dll551_dll_551_draw
-#define dll_551_destroy __dll551_dll_551_destroy
+#define dll_551_print __dll551_dll_551_print
+#define dll_551_free __dll551_dll_551_free
 #define dll_551_get_model_flags __dll551_dll_551_get_model_flags
-#define dll_551_get_state_size __dll551_dll_551_get_state_size
+#define dll_551_get_data_size __dll551_dll_551_get_data_size
 #define dll_551_func_294 __dll551_dll_551_func_294
 #define str_0 __dll551_str_0
 #define str_28 __dll551_str_28

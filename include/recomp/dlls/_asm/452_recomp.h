@@ -5,13 +5,13 @@
 
 #define dll_452_ctor __dll452_dll_452_ctor
 #define dll_452_dtor __dll452_dll_452_dtor
-#define dll_452_create __dll452_dll_452_create
+#define dll_452_setup __dll452_dll_452_setup
+#define dll_452_control __dll452_dll_452_control
 #define dll_452_update __dll452_dll_452_update
-#define dll_452_func_3A8 __dll452_dll_452_func_3A8
-#define dll_452_draw __dll452_dll_452_draw
-#define dll_452_destroy __dll452_dll_452_destroy
+#define dll_452_print __dll452_dll_452_print
+#define dll_452_free __dll452_dll_452_free
 #define dll_452_get_model_flags __dll452_dll_452_get_model_flags
-#define dll_452_get_state_size __dll452_dll_452_get_state_size
+#define dll_452_get_data_size __dll452_dll_452_get_data_size
 #define dll_452_func_53C __dll452_dll_452_func_53C
 #define dll_452_func_614 __dll452_dll_452_func_614
 #define str_0 __dll452_str_0

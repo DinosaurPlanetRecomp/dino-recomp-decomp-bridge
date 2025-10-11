@@ -5,12 +5,12 @@
 
 #define dll_762_ctor __dll762_dll_762_ctor
 #define dll_762_dtor __dll762_dll_762_dtor
-#define dll_762_create __dll762_dll_762_create
+#define dll_762_setup __dll762_dll_762_setup
+#define dll_762_control __dll762_dll_762_control
 #define dll_762_update __dll762_dll_762_update
-#define dll_762_func_174 __dll762_dll_762_func_174
-#define dll_762_draw __dll762_dll_762_draw
-#define dll_762_destroy __dll762_dll_762_destroy
+#define dll_762_print __dll762_dll_762_print
+#define dll_762_free __dll762_dll_762_free
 #define dll_762_get_model_flags __dll762_dll_762_get_model_flags
-#define dll_762_get_state_size __dll762_dll_762_get_state_size
+#define dll_762_get_data_size __dll762_dll_762_get_data_size
 
 #endif //_DLL_762_RECOMP_H

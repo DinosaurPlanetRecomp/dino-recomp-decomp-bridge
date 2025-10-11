@@ -5,13 +5,13 @@
 
 #define dll_579_ctor __dll579_dll_579_ctor
 #define dll_579_dtor __dll579_dll_579_dtor
-#define dll_579_create __dll579_dll_579_create
+#define dll_579_setup __dll579_dll_579_setup
+#define dll_579_control __dll579_dll_579_control
 #define dll_579_update __dll579_dll_579_update
-#define dll_579_func_610 __dll579_dll_579_func_610
-#define dll_579_draw __dll579_dll_579_draw
-#define dll_579_destroy __dll579_dll_579_destroy
+#define dll_579_print __dll579_dll_579_print
+#define dll_579_free __dll579_dll_579_free
 #define dll_579_get_model_flags __dll579_dll_579_get_model_flags
-#define dll_579_get_state_size __dll579_dll_579_get_state_size
+#define dll_579_get_data_size __dll579_dll_579_get_data_size
 #define _rodata_0 __dll579__rodata_0
 
 #endif //_DLL_579_RECOMP_H

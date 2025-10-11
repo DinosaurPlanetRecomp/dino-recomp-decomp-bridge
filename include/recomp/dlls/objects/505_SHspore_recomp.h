@@ -5,15 +5,15 @@
 
 #define SHspore_ctor __dll505_SHspore_ctor
 #define SHspore_dtor __dll505_SHspore_dtor
-#define SHspore_create __dll505_SHspore_create
-#define SHspore_update __dll505_SHspore_update
+#define SHspore_setup __dll505_SHspore_setup
+#define SHspore_control __dll505_SHspore_control
 #define SHspore_func_750 __dll505_SHspore_func_750
 #define SHspore_func_A00 __dll505_SHspore_func_A00
-#define SHspore_func_B88 __dll505_SHspore_func_B88
-#define SHspore_draw __dll505_SHspore_draw
-#define SHspore_destroy __dll505_SHspore_destroy
+#define SHspore_update __dll505_SHspore_update
+#define SHspore_print __dll505_SHspore_print
+#define SHspore_free __dll505_SHspore_free
 #define SHspore_get_model_flags __dll505_SHspore_get_model_flags
-#define SHspore_get_state_size __dll505_SHspore_get_state_size
+#define SHspore_get_data_size __dll505_SHspore_get_data_size
 #define _data_0 __dll505__data_0
 #define _data_C __dll505__data_C
 

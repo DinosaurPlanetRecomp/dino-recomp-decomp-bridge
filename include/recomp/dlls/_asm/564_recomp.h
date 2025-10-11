@@ -5,13 +5,13 @@
 
 #define dll_564_ctor __dll564_dll_564_ctor
 #define dll_564_dtor __dll564_dll_564_dtor
-#define dll_564_create __dll564_dll_564_create
+#define dll_564_setup __dll564_dll_564_setup
+#define dll_564_control __dll564_dll_564_control
 #define dll_564_update __dll564_dll_564_update
-#define dll_564_func_8E0 __dll564_dll_564_func_8E0
-#define dll_564_draw __dll564_dll_564_draw
-#define dll_564_destroy __dll564_dll_564_destroy
+#define dll_564_print __dll564_dll_564_print
+#define dll_564_free __dll564_dll_564_free
 #define dll_564_get_model_flags __dll564_dll_564_get_model_flags
-#define dll_564_get_state_size __dll564_dll_564_get_state_size
+#define dll_564_get_data_size __dll564_dll_564_get_data_size
 #define _rodata_0 __dll564__rodata_0
 #define _rodata_4 __dll564__rodata_4
 #define _rodata_8 __dll564__rodata_8

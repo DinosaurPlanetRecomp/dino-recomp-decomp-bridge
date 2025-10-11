@@ -5,13 +5,13 @@
 
 #define dll_400_ctor __dll400_dll_400_ctor
 #define dll_400_dtor __dll400_dll_400_dtor
-#define dll_400_create __dll400_dll_400_create
+#define dll_400_setup __dll400_dll_400_setup
+#define dll_400_control __dll400_dll_400_control
 #define dll_400_update __dll400_dll_400_update
-#define dll_400_func_2B4 __dll400_dll_400_func_2B4
-#define dll_400_draw __dll400_dll_400_draw
-#define dll_400_destroy __dll400_dll_400_destroy
+#define dll_400_print __dll400_dll_400_print
+#define dll_400_free __dll400_dll_400_free
 #define dll_400_get_model_flags __dll400_dll_400_get_model_flags
-#define dll_400_get_state_size __dll400_dll_400_get_state_size
+#define dll_400_get_data_size __dll400_dll_400_get_data_size
 #define dll_400_func_39C __dll400_dll_400_func_39C
 #define dll_400_func_3F0 __dll400_dll_400_func_3F0
 #define dll_400_func_67C __dll400_dll_400_func_67C

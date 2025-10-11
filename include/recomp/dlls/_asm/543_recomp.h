@@ -5,13 +5,13 @@
 
 #define dll_543_ctor __dll543_dll_543_ctor
 #define dll_543_dtor __dll543_dll_543_dtor
-#define dll_543_create __dll543_dll_543_create
+#define dll_543_setup __dll543_dll_543_setup
+#define dll_543_control __dll543_dll_543_control
 #define dll_543_update __dll543_dll_543_update
-#define dll_543_func_448 __dll543_dll_543_func_448
-#define dll_543_draw __dll543_dll_543_draw
-#define dll_543_destroy __dll543_dll_543_destroy
+#define dll_543_print __dll543_dll_543_print
+#define dll_543_free __dll543_dll_543_free
 #define dll_543_get_model_flags __dll543_dll_543_get_model_flags
-#define dll_543_get_state_size __dll543_dll_543_get_state_size
+#define dll_543_get_data_size __dll543_dll_543_get_data_size
 #define dll_543_func_4DC __dll543_dll_543_func_4DC
 #define dll_543_func_648 __dll543_dll_543_func_648
 #define dll_543_func_7A8 __dll543_dll_543_func_7A8

@@ -5,13 +5,13 @@
 
 #define dll_288_ctor __dll288_dll_288_ctor
 #define dll_288_dtor __dll288_dll_288_dtor
-#define dll_288_create __dll288_dll_288_create
+#define dll_288_setup __dll288_dll_288_setup
+#define dll_288_control __dll288_dll_288_control
 #define dll_288_update __dll288_dll_288_update
-#define dll_288_func_390 __dll288_dll_288_func_390
-#define dll_288_draw __dll288_dll_288_draw
-#define dll_288_destroy __dll288_dll_288_destroy
+#define dll_288_print __dll288_dll_288_print
+#define dll_288_free __dll288_dll_288_free
 #define dll_288_get_model_flags __dll288_dll_288_get_model_flags
-#define dll_288_get_state_size __dll288_dll_288_get_state_size
+#define dll_288_get_data_size __dll288_dll_288_get_data_size
 #define _oob_rodata_0 __dll288__oob_rodata_0
 
 #endif //_DLL_288_RECOMP_H

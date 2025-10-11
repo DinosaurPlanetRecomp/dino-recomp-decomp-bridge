@@ -5,13 +5,13 @@
 
 #define dll_573_ctor __dll573_dll_573_ctor
 #define dll_573_dtor __dll573_dll_573_dtor
-#define dll_573_create __dll573_dll_573_create
+#define dll_573_setup __dll573_dll_573_setup
+#define dll_573_control __dll573_dll_573_control
 #define dll_573_update __dll573_dll_573_update
-#define dll_573_func_F14 __dll573_dll_573_func_F14
-#define dll_573_draw __dll573_dll_573_draw
-#define dll_573_destroy __dll573_dll_573_destroy
+#define dll_573_print __dll573_dll_573_print
+#define dll_573_free __dll573_dll_573_free
 #define dll_573_get_model_flags __dll573_dll_573_get_model_flags
-#define dll_573_get_state_size __dll573_dll_573_get_state_size
+#define dll_573_get_data_size __dll573_dll_573_get_data_size
 #define dll_573_func_1224 __dll573_dll_573_func_1224
 #define dll_573_func_12CC __dll573_dll_573_func_12CC
 #define dll_573_func_14BC __dll573_dll_573_func_14BC

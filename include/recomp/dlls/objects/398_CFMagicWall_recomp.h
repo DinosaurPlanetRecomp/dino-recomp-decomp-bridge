@@ -5,13 +5,13 @@
 
 #define CFMagicWall_ctor __dll398_CFMagicWall_ctor
 #define CFMagicWall_dtor __dll398_CFMagicWall_dtor
-#define CFMagicWall_create __dll398_CFMagicWall_create
+#define CFMagicWall_setup __dll398_CFMagicWall_setup
+#define CFMagicWall_control __dll398_CFMagicWall_control
 #define CFMagicWall_update __dll398_CFMagicWall_update
-#define CFMagicWall_func_2C0 __dll398_CFMagicWall_func_2C0
-#define CFMagicWall_draw __dll398_CFMagicWall_draw
-#define CFMagicWall_destroy __dll398_CFMagicWall_destroy
+#define CFMagicWall_print __dll398_CFMagicWall_print
+#define CFMagicWall_free __dll398_CFMagicWall_free
 #define CFMagicWall_get_model_flags __dll398_CFMagicWall_get_model_flags
-#define CFMagicWall_get_state_size __dll398_CFMagicWall_get_state_size
+#define CFMagicWall_get_data_size __dll398_CFMagicWall_get_data_size
 #define CFMagicWall_func_384 __dll398_CFMagicWall_func_384
 #define _oob_rodata_0 __dll398__oob_rodata_0
 

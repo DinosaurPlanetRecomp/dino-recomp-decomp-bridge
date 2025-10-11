@@ -5,13 +5,13 @@
 
 #define dll_759_ctor __dll759_dll_759_ctor
 #define dll_759_dtor __dll759_dll_759_dtor
-#define dll_759_create __dll759_dll_759_create
+#define dll_759_setup __dll759_dll_759_setup
+#define dll_759_control __dll759_dll_759_control
 #define dll_759_update __dll759_dll_759_update
-#define dll_759_func_3B0 __dll759_dll_759_func_3B0
-#define dll_759_draw __dll759_dll_759_draw
-#define dll_759_destroy __dll759_dll_759_destroy
+#define dll_759_print __dll759_dll_759_print
+#define dll_759_free __dll759_dll_759_free
 #define dll_759_get_model_flags __dll759_dll_759_get_model_flags
-#define dll_759_get_state_size __dll759_dll_759_get_state_size
+#define dll_759_get_data_size __dll759_dll_759_get_data_size
 #define dll_759_func_468 __dll759_dll_759_func_468
 #define dll_759_func_528 __dll759_dll_759_func_528
 #define dll_759_func_598 __dll759_dll_759_func_598

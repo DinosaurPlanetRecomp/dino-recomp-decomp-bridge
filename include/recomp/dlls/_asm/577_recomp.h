@@ -5,13 +5,13 @@
 
 #define dll_577_ctor __dll577_dll_577_ctor
 #define dll_577_dtor __dll577_dll_577_dtor
-#define dll_577_create __dll577_dll_577_create
+#define dll_577_setup __dll577_dll_577_setup
+#define dll_577_control __dll577_dll_577_control
 #define dll_577_update __dll577_dll_577_update
-#define dll_577_func_B40 __dll577_dll_577_func_B40
-#define dll_577_draw __dll577_dll_577_draw
-#define dll_577_destroy __dll577_dll_577_destroy
+#define dll_577_print __dll577_dll_577_print
+#define dll_577_free __dll577_dll_577_free
 #define dll_577_get_model_flags __dll577_dll_577_get_model_flags
-#define dll_577_get_state_size __dll577_dll_577_get_state_size
+#define dll_577_get_data_size __dll577_dll_577_get_data_size
 #define _rodata_14 __dll577__rodata_14
 
 #endif //_DLL_577_RECOMP_H

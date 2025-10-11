@@ -5,13 +5,13 @@
 
 #define dll_271_ctor __dll271_dll_271_ctor
 #define dll_271_dtor __dll271_dll_271_dtor
-#define dll_271_create __dll271_dll_271_create
+#define dll_271_setup __dll271_dll_271_setup
+#define dll_271_control __dll271_dll_271_control
 #define dll_271_update __dll271_dll_271_update
-#define dll_271_func_1B0 __dll271_dll_271_func_1B0
-#define dll_271_draw __dll271_dll_271_draw
-#define dll_271_destroy __dll271_dll_271_destroy
+#define dll_271_print __dll271_dll_271_print
+#define dll_271_free __dll271_dll_271_free
 #define dll_271_get_model_flags __dll271_dll_271_get_model_flags
-#define dll_271_get_state_size __dll271_dll_271_get_state_size
+#define dll_271_get_data_size __dll271_dll_271_get_data_size
 #define dll_271_func_4A8 __dll271_dll_271_func_4A8
 #define dll_271_func_520 __dll271_dll_271_func_520
 #define str_0 __dll271_str_0

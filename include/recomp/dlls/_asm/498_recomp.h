@@ -5,13 +5,13 @@
 
 #define dll_498_ctor __dll498_dll_498_ctor
 #define dll_498_dtor __dll498_dll_498_dtor
-#define dll_498_create __dll498_dll_498_create
+#define dll_498_setup __dll498_dll_498_setup
+#define dll_498_control __dll498_dll_498_control
 #define dll_498_update __dll498_dll_498_update
-#define dll_498_func_80 __dll498_dll_498_func_80
-#define dll_498_draw __dll498_dll_498_draw
-#define dll_498_destroy __dll498_dll_498_destroy
+#define dll_498_print __dll498_dll_498_print
+#define dll_498_free __dll498_dll_498_free
 #define dll_498_get_model_flags __dll498_dll_498_get_model_flags
-#define dll_498_get_state_size __dll498_dll_498_get_state_size
+#define dll_498_get_data_size __dll498_dll_498_get_data_size
 #define dll_498_func_108 __dll498_dll_498_func_108
 
 #endif //_DLL_498_RECOMP_H

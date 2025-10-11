@@ -5,13 +5,13 @@
 
 #define dll_701_ctor __dll701_dll_701_ctor
 #define dll_701_dtor __dll701_dll_701_dtor
-#define dll_701_create __dll701_dll_701_create
+#define dll_701_setup __dll701_dll_701_setup
+#define dll_701_control __dll701_dll_701_control
 #define dll_701_update __dll701_dll_701_update
-#define dll_701_func_470 __dll701_dll_701_func_470
-#define dll_701_draw __dll701_dll_701_draw
-#define dll_701_destroy __dll701_dll_701_destroy
+#define dll_701_print __dll701_dll_701_print
+#define dll_701_free __dll701_dll_701_free
 #define dll_701_get_model_flags __dll701_dll_701_get_model_flags
-#define dll_701_get_state_size __dll701_dll_701_get_state_size
+#define dll_701_get_data_size __dll701_dll_701_get_data_size
 #define _data_0 __dll701__data_0
 #define _bss_0 __dll701__bss_0
 

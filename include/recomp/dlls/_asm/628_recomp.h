@@ -5,13 +5,13 @@
 
 #define dll_628_ctor __dll628_dll_628_ctor
 #define dll_628_dtor __dll628_dll_628_dtor
-#define dll_628_create __dll628_dll_628_create
+#define dll_628_setup __dll628_dll_628_setup
+#define dll_628_control __dll628_dll_628_control
 #define dll_628_update __dll628_dll_628_update
-#define dll_628_func_714 __dll628_dll_628_func_714
-#define dll_628_draw __dll628_dll_628_draw
-#define dll_628_destroy __dll628_dll_628_destroy
+#define dll_628_print __dll628_dll_628_print
+#define dll_628_free __dll628_dll_628_free
 #define dll_628_get_model_flags __dll628_dll_628_get_model_flags
-#define dll_628_get_state_size __dll628_dll_628_get_state_size
+#define dll_628_get_data_size __dll628_dll_628_get_data_size
 #define dll_628_func_7F4 __dll628_dll_628_func_7F4
 
 #endif //_DLL_628_RECOMP_H

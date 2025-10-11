@@ -5,13 +5,13 @@
 
 #define dll_388_ctor __dll388_dll_388_ctor
 #define dll_388_dtor __dll388_dll_388_dtor
-#define dll_388_create __dll388_dll_388_create
+#define dll_388_setup __dll388_dll_388_setup
+#define dll_388_control __dll388_dll_388_control
 #define dll_388_update __dll388_dll_388_update
-#define dll_388_func_6B8 __dll388_dll_388_func_6B8
-#define dll_388_draw __dll388_dll_388_draw
-#define dll_388_destroy __dll388_dll_388_destroy
+#define dll_388_print __dll388_dll_388_print
+#define dll_388_free __dll388_dll_388_free
 #define dll_388_get_model_flags __dll388_dll_388_get_model_flags
-#define dll_388_get_state_size __dll388_dll_388_get_state_size
+#define dll_388_get_data_size __dll388_dll_388_get_data_size
 #define dll_388_func_AD4 __dll388_dll_388_func_AD4
 #define dll_388_func_1214 __dll388_dll_388_func_1214
 #define dll_388_func_14A0 __dll388_dll_388_func_14A0

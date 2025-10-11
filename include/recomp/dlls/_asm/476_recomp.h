@@ -5,13 +5,13 @@
 
 #define dll_476_ctor __dll476_dll_476_ctor
 #define dll_476_dtor __dll476_dll_476_dtor
-#define dll_476_create __dll476_dll_476_create
+#define dll_476_setup __dll476_dll_476_setup
+#define dll_476_control __dll476_dll_476_control
 #define dll_476_update __dll476_dll_476_update
-#define dll_476_func_284 __dll476_dll_476_func_284
-#define dll_476_draw __dll476_dll_476_draw
-#define dll_476_destroy __dll476_dll_476_destroy
+#define dll_476_print __dll476_dll_476_print
+#define dll_476_free __dll476_dll_476_free
 #define dll_476_get_model_flags __dll476_dll_476_get_model_flags
-#define dll_476_get_state_size __dll476_dll_476_get_state_size
+#define dll_476_get_data_size __dll476_dll_476_get_data_size
 #define dll_476_func_364 __dll476_dll_476_func_364
 
 #endif //_DLL_476_RECOMP_H

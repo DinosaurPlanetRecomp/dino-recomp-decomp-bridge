@@ -5,13 +5,13 @@
 
 #define dll_593_ctor __dll593_dll_593_ctor
 #define dll_593_dtor __dll593_dll_593_dtor
-#define dll_593_create __dll593_dll_593_create
+#define dll_593_setup __dll593_dll_593_setup
+#define dll_593_control __dll593_dll_593_control
 #define dll_593_update __dll593_dll_593_update
-#define dll_593_func_61C __dll593_dll_593_func_61C
-#define dll_593_draw __dll593_dll_593_draw
-#define dll_593_destroy __dll593_dll_593_destroy
+#define dll_593_print __dll593_dll_593_print
+#define dll_593_free __dll593_dll_593_free
 #define dll_593_get_model_flags __dll593_dll_593_get_model_flags
-#define dll_593_get_state_size __dll593_dll_593_get_state_size
+#define dll_593_get_data_size __dll593_dll_593_get_data_size
 #define dll_593_func_7F0 __dll593_dll_593_func_7F0
 #define dll_593_func_8E4 __dll593_dll_593_func_8E4
 #define dll_593_func_8EC __dll593_dll_593_func_8EC

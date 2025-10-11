@@ -5,13 +5,13 @@
 
 #define dll_624_ctor __dll624_dll_624_ctor
 #define dll_624_dtor __dll624_dll_624_dtor
-#define dll_624_create __dll624_dll_624_create
+#define dll_624_setup __dll624_dll_624_setup
+#define dll_624_control __dll624_dll_624_control
 #define dll_624_update __dll624_dll_624_update
-#define dll_624_func_4E4 __dll624_dll_624_func_4E4
-#define dll_624_draw __dll624_dll_624_draw
-#define dll_624_destroy __dll624_dll_624_destroy
+#define dll_624_print __dll624_dll_624_print
+#define dll_624_free __dll624_dll_624_free
 #define dll_624_get_model_flags __dll624_dll_624_get_model_flags
-#define dll_624_get_state_size __dll624_dll_624_get_state_size
+#define dll_624_get_data_size __dll624_dll_624_get_data_size
 #define _rodata_0 __dll624__rodata_0
 #define _rodata_4 __dll624__rodata_4
 #define _rodata_8 __dll624__rodata_8

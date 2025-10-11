@@ -5,13 +5,13 @@
 
 #define dll_353_ctor __dll353_dll_353_ctor
 #define dll_353_dtor __dll353_dll_353_dtor
-#define dll_353_create __dll353_dll_353_create
+#define dll_353_setup __dll353_dll_353_setup
+#define dll_353_control __dll353_dll_353_control
 #define dll_353_update __dll353_dll_353_update
-#define dll_353_func_354 __dll353_dll_353_func_354
-#define dll_353_draw __dll353_dll_353_draw
-#define dll_353_destroy __dll353_dll_353_destroy
+#define dll_353_print __dll353_dll_353_print
+#define dll_353_free __dll353_dll_353_free
 #define dll_353_get_model_flags __dll353_dll_353_get_model_flags
-#define dll_353_get_state_size __dll353_dll_353_get_state_size
+#define dll_353_get_data_size __dll353_dll_353_get_data_size
 #define dll_353_func_3E8 __dll353_dll_353_func_3E8
 
 #endif //_DLL_353_RECOMP_H

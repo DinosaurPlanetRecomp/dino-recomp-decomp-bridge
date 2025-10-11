@@ -5,13 +5,13 @@
 
 #define dll_250_ctor __dll250_dll_250_ctor
 #define dll_250_dtor __dll250_dll_250_dtor
-#define dll_250_create __dll250_dll_250_create
+#define dll_250_setup __dll250_dll_250_setup
+#define dll_250_control __dll250_dll_250_control
 #define dll_250_update __dll250_dll_250_update
-#define dll_250_func_808 __dll250_dll_250_func_808
-#define dll_250_draw __dll250_dll_250_draw
-#define dll_250_destroy __dll250_dll_250_destroy
+#define dll_250_print __dll250_dll_250_print
+#define dll_250_free __dll250_dll_250_free
 #define dll_250_get_model_flags __dll250_dll_250_get_model_flags
-#define dll_250_get_state_size __dll250_dll_250_get_state_size
+#define dll_250_get_data_size __dll250_dll_250_get_data_size
 #define dll_250_func_A5C __dll250_dll_250_func_A5C
 #define _rodata_0 __dll250__rodata_0
 #define _rodata_4 __dll250__rodata_4

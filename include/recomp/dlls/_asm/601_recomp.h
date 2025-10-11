@@ -5,13 +5,13 @@
 
 #define dll_601_ctor __dll601_dll_601_ctor
 #define dll_601_dtor __dll601_dll_601_dtor
-#define dll_601_create __dll601_dll_601_create
+#define dll_601_setup __dll601_dll_601_setup
+#define dll_601_control __dll601_dll_601_control
 #define dll_601_update __dll601_dll_601_update
-#define dll_601_func_2EC __dll601_dll_601_func_2EC
-#define dll_601_draw __dll601_dll_601_draw
-#define dll_601_destroy __dll601_dll_601_destroy
+#define dll_601_print __dll601_dll_601_print
+#define dll_601_free __dll601_dll_601_free
 #define dll_601_get_model_flags __dll601_dll_601_get_model_flags
-#define dll_601_get_state_size __dll601_dll_601_get_state_size
+#define dll_601_get_data_size __dll601_dll_601_get_data_size
 #define dll_601_func_3CC __dll601_dll_601_func_3CC
 
 #endif //_DLL_601_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_496_ctor __dll496_dll_496_ctor
 #define dll_496_dtor __dll496_dll_496_dtor
-#define dll_496_func_18 __dll496_dll_496_func_18
-#define dll_496_func_24C __dll496_dll_496_func_24C
-#define dll_496_func_770 __dll496_dll_496_func_770
-#define dll_496_func_77C __dll496_dll_496_func_77C
-#define dll_496_func_804 __dll496_dll_496_func_804
+#define dll_496_setup __dll496_dll_496_setup
+#define dll_496_control __dll496_dll_496_control
+#define dll_496_update __dll496_dll_496_update
+#define dll_496_print __dll496_dll_496_print
+#define dll_496_free __dll496_dll_496_free
 #define dll_496_get_model_flags __dll496_dll_496_get_model_flags
-#define dll_496_get_state_size __dll496_dll_496_get_state_size
+#define dll_496_get_data_size __dll496_dll_496_get_data_size
 #define dll_496_func_84C __dll496_dll_496_func_84C
 #define dll_496_func_980 __dll496_dll_496_func_980
 #define dll_496_func_CC4 __dll496_dll_496_func_CC4

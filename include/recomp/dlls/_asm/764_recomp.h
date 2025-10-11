@@ -5,13 +5,13 @@
 
 #define dll_764_ctor __dll764_dll_764_ctor
 #define dll_764_dtor __dll764_dll_764_dtor
-#define dll_764_create __dll764_dll_764_create
+#define dll_764_setup __dll764_dll_764_setup
+#define dll_764_control __dll764_dll_764_control
 #define dll_764_update __dll764_dll_764_update
-#define dll_764_func_170 __dll764_dll_764_func_170
-#define dll_764_draw __dll764_dll_764_draw
-#define dll_764_destroy __dll764_dll_764_destroy
+#define dll_764_print __dll764_dll_764_print
+#define dll_764_free __dll764_dll_764_free
 #define dll_764_get_model_flags __dll764_dll_764_get_model_flags
-#define dll_764_get_state_size __dll764_dll_764_get_state_size
+#define dll_764_get_data_size __dll764_dll_764_get_data_size
 #define dll_764_func_218 __dll764_dll_764_func_218
 #define dll_764_func_28C __dll764_dll_764_func_28C
 #define str_0 __dll764_str_0

@@ -5,13 +5,13 @@
 
 #define levelname_ctor __dll284_levelname_ctor
 #define levelname_dtor __dll284_levelname_dtor
-#define levelname_create __dll284_levelname_create
+#define levelname_setup __dll284_levelname_setup
+#define levelname_control __dll284_levelname_control
 #define levelname_update __dll284_levelname_update
-#define levelname_func_304 __dll284_levelname_func_304
-#define levelname_draw __dll284_levelname_draw
-#define levelname_destroy __dll284_levelname_destroy
+#define levelname_print __dll284_levelname_print
+#define levelname_free __dll284_levelname_free
 #define levelname_get_model_flags __dll284_levelname_get_model_flags
-#define levelname_get_state_size __dll284_levelname_get_state_size
+#define levelname_get_data_size __dll284_levelname_get_data_size
 #define levelname_anim_callback __dll284_levelname_anim_callback
 #define _data_0 __dll284__data_0
 

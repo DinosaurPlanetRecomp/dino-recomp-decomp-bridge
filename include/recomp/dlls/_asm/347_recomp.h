@@ -5,13 +5,13 @@
 
 #define dll_347_ctor __dll347_dll_347_ctor
 #define dll_347_dtor __dll347_dll_347_dtor
-#define dll_347_create __dll347_dll_347_create
+#define dll_347_setup __dll347_dll_347_setup
+#define dll_347_control __dll347_dll_347_control
 #define dll_347_update __dll347_dll_347_update
-#define dll_347_func_128 __dll347_dll_347_func_128
-#define dll_347_draw __dll347_dll_347_draw
-#define dll_347_destroy __dll347_dll_347_destroy
+#define dll_347_print __dll347_dll_347_print
+#define dll_347_free __dll347_dll_347_free
 #define dll_347_get_model_flags __dll347_dll_347_get_model_flags
-#define dll_347_get_state_size __dll347_dll_347_get_state_size
+#define dll_347_get_data_size __dll347_dll_347_get_data_size
 #define dll_347_func_1BC __dll347_dll_347_func_1BC
 #define dll_347_func_468 __dll347_dll_347_func_468
 #define str_0 __dll347_str_0

@@ -5,13 +5,13 @@
 
 #define dll_279_ctor __dll279_dll_279_ctor
 #define dll_279_dtor __dll279_dll_279_dtor
-#define dll_279_create __dll279_dll_279_create
+#define dll_279_setup __dll279_dll_279_setup
+#define dll_279_control __dll279_dll_279_control
 #define dll_279_update __dll279_dll_279_update
-#define dll_279_func_308 __dll279_dll_279_func_308
-#define dll_279_draw __dll279_dll_279_draw
-#define dll_279_destroy __dll279_dll_279_destroy
+#define dll_279_print __dll279_dll_279_print
+#define dll_279_free __dll279_dll_279_free
 #define dll_279_get_model_flags __dll279_dll_279_get_model_flags
-#define dll_279_get_state_size __dll279_dll_279_get_state_size
+#define dll_279_get_data_size __dll279_dll_279_get_data_size
 #define dll_279_func_39C __dll279_dll_279_func_39C
 #define dll_279_func_1034 __dll279_dll_279_func_1034
 

@@ -5,13 +5,13 @@
 
 #define dll_721_ctor __dll721_dll_721_ctor
 #define dll_721_dtor __dll721_dll_721_dtor
-#define dll_721_create __dll721_dll_721_create
+#define dll_721_setup __dll721_dll_721_setup
+#define dll_721_control __dll721_dll_721_control
 #define dll_721_update __dll721_dll_721_update
-#define dll_721_func_4F0 __dll721_dll_721_func_4F0
-#define dll_721_draw __dll721_dll_721_draw
-#define dll_721_destroy __dll721_dll_721_destroy
+#define dll_721_print __dll721_dll_721_print
+#define dll_721_free __dll721_dll_721_free
 #define dll_721_get_model_flags __dll721_dll_721_get_model_flags
-#define dll_721_get_state_size __dll721_dll_721_get_state_size
+#define dll_721_get_data_size __dll721_dll_721_get_data_size
 #define dll_721_func_5FC __dll721_dll_721_func_5FC
 #define dll_721_func_7D4 __dll721_dll_721_func_7D4
 #define dll_721_func_7EC __dll721_dll_721_func_7EC

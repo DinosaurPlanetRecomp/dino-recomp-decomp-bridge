@@ -5,12 +5,12 @@
 
 #define dll_382_ctor __dll382_dll_382_ctor
 #define dll_382_dtor __dll382_dll_382_dtor
-#define dll_382_create __dll382_dll_382_create
+#define dll_382_setup __dll382_dll_382_setup
+#define dll_382_control __dll382_dll_382_control
 #define dll_382_update __dll382_dll_382_update
-#define dll_382_func_F4 __dll382_dll_382_func_F4
-#define dll_382_draw __dll382_dll_382_draw
-#define dll_382_destroy __dll382_dll_382_destroy
+#define dll_382_print __dll382_dll_382_print
+#define dll_382_free __dll382_dll_382_free
 #define dll_382_get_model_flags __dll382_dll_382_get_model_flags
-#define dll_382_get_state_size __dll382_dll_382_get_state_size
+#define dll_382_get_data_size __dll382_dll_382_get_data_size
 
 #endif //_DLL_382_RECOMP_H

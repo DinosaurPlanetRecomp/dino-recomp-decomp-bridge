@@ -5,13 +5,13 @@
 
 #define dll_455_ctor __dll455_dll_455_ctor
 #define dll_455_dtor __dll455_dll_455_dtor
-#define dll_455_create __dll455_dll_455_create
+#define dll_455_setup __dll455_dll_455_setup
+#define dll_455_control __dll455_dll_455_control
 #define dll_455_update __dll455_dll_455_update
-#define dll_455_func_628 __dll455_dll_455_func_628
-#define dll_455_draw __dll455_dll_455_draw
-#define dll_455_destroy __dll455_dll_455_destroy
+#define dll_455_print __dll455_dll_455_print
+#define dll_455_free __dll455_dll_455_free
 #define dll_455_get_model_flags __dll455_dll_455_get_model_flags
-#define dll_455_get_state_size __dll455_dll_455_get_state_size
+#define dll_455_get_data_size __dll455_dll_455_get_data_size
 #define dll_455_func_6BC __dll455_dll_455_func_6BC
 #define str_0 __dll455_str_0
 #define _rodata_24 __dll455__rodata_24

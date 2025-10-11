@@ -5,13 +5,13 @@
 
 #define dll_307_ctor __dll307_dll_307_ctor
 #define dll_307_dtor __dll307_dll_307_dtor
-#define dll_307_create __dll307_dll_307_create
+#define dll_307_setup __dll307_dll_307_setup
+#define dll_307_control __dll307_dll_307_control
 #define dll_307_update __dll307_dll_307_update
-#define dll_307_func_2A8 __dll307_dll_307_func_2A8
-#define dll_307_draw __dll307_dll_307_draw
-#define dll_307_destroy __dll307_dll_307_destroy
+#define dll_307_print __dll307_dll_307_print
+#define dll_307_free __dll307_dll_307_free
 #define dll_307_get_model_flags __dll307_dll_307_get_model_flags
-#define dll_307_get_state_size __dll307_dll_307_get_state_size
+#define dll_307_get_data_size __dll307_dll_307_get_data_size
 #define dll_307_func_33C __dll307_dll_307_func_33C
 #define dll_307_func_6E4 __dll307_dll_307_func_6E4
 #define _oob_rodata_0 __dll307__oob_rodata_0

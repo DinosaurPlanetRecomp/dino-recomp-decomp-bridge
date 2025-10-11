@@ -5,13 +5,13 @@
 
 #define dll_357_ctor __dll357_dll_357_ctor
 #define dll_357_dtor __dll357_dll_357_dtor
-#define dll_357_create __dll357_dll_357_create
+#define dll_357_setup __dll357_dll_357_setup
+#define dll_357_control __dll357_dll_357_control
 #define dll_357_update __dll357_dll_357_update
-#define dll_357_func_140 __dll357_dll_357_func_140
-#define dll_357_draw __dll357_dll_357_draw
-#define dll_357_destroy __dll357_dll_357_destroy
+#define dll_357_print __dll357_dll_357_print
+#define dll_357_free __dll357_dll_357_free
 #define dll_357_get_model_flags __dll357_dll_357_get_model_flags
-#define dll_357_get_state_size __dll357_dll_357_get_state_size
+#define dll_357_get_data_size __dll357_dll_357_get_data_size
 #define dll_357_func_1C8 __dll357_dll_357_func_1C8
 #define _rodata_0 __dll357__rodata_0
 

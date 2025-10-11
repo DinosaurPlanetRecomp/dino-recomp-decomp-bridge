@@ -5,13 +5,13 @@
 
 #define dll_684_ctor __dll684_dll_684_ctor
 #define dll_684_dtor __dll684_dll_684_dtor
-#define dll_684_create __dll684_dll_684_create
+#define dll_684_setup __dll684_dll_684_setup
+#define dll_684_control __dll684_dll_684_control
 #define dll_684_update __dll684_dll_684_update
-#define dll_684_func_5EC __dll684_dll_684_func_5EC
-#define dll_684_draw __dll684_dll_684_draw
-#define dll_684_destroy __dll684_dll_684_destroy
+#define dll_684_print __dll684_dll_684_print
+#define dll_684_free __dll684_dll_684_free
 #define dll_684_get_model_flags __dll684_dll_684_get_model_flags
-#define dll_684_get_state_size __dll684_dll_684_get_state_size
+#define dll_684_get_data_size __dll684_dll_684_get_data_size
 #define dll_684_func_774 __dll684_dll_684_func_774
 #define dll_684_func_854 __dll684_dll_684_func_854
 #define dll_684_func_870 __dll684_dll_684_func_870

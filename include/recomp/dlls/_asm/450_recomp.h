@@ -5,13 +5,13 @@
 
 #define dll_450_ctor __dll450_dll_450_ctor
 #define dll_450_dtor __dll450_dll_450_dtor
-#define dll_450_create __dll450_dll_450_create
+#define dll_450_setup __dll450_dll_450_setup
+#define dll_450_control __dll450_dll_450_control
 #define dll_450_update __dll450_dll_450_update
-#define dll_450_func_9C __dll450_dll_450_func_9C
-#define dll_450_draw __dll450_dll_450_draw
-#define dll_450_destroy __dll450_dll_450_destroy
+#define dll_450_print __dll450_dll_450_print
+#define dll_450_free __dll450_dll_450_free
 #define dll_450_get_model_flags __dll450_dll_450_get_model_flags
-#define dll_450_get_state_size __dll450_dll_450_get_state_size
+#define dll_450_get_data_size __dll450_dll_450_get_data_size
 #define dll_450_func_160 __dll450_dll_450_func_160
 #define _data_0 __dll450__data_0
 

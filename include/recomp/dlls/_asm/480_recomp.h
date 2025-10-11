@@ -5,13 +5,13 @@
 
 #define dll_480_ctor __dll480_dll_480_ctor
 #define dll_480_dtor __dll480_dll_480_dtor
-#define dll_480_create __dll480_dll_480_create
+#define dll_480_setup __dll480_dll_480_setup
+#define dll_480_control __dll480_dll_480_control
 #define dll_480_update __dll480_dll_480_update
-#define dll_480_func_804 __dll480_dll_480_func_804
-#define dll_480_draw __dll480_dll_480_draw
-#define dll_480_destroy __dll480_dll_480_destroy
+#define dll_480_print __dll480_dll_480_print
+#define dll_480_free __dll480_dll_480_free
 #define dll_480_get_model_flags __dll480_dll_480_get_model_flags
-#define dll_480_get_state_size __dll480_dll_480_get_state_size
+#define dll_480_get_data_size __dll480_dll_480_get_data_size
 #define _rodata_0 __dll480__rodata_0
 #define _data_0 __dll480__data_0
 #define _data_4 __dll480__data_4

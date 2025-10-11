@@ -5,13 +5,13 @@
 
 #define dll_368_ctor __dll368_dll_368_ctor
 #define dll_368_dtor __dll368_dll_368_dtor
-#define dll_368_create __dll368_dll_368_create
+#define dll_368_setup __dll368_dll_368_setup
+#define dll_368_control __dll368_dll_368_control
 #define dll_368_update __dll368_dll_368_update
-#define dll_368_func_390 __dll368_dll_368_func_390
-#define dll_368_draw __dll368_dll_368_draw
-#define dll_368_destroy __dll368_dll_368_destroy
+#define dll_368_print __dll368_dll_368_print
+#define dll_368_free __dll368_dll_368_free
 #define dll_368_get_model_flags __dll368_dll_368_get_model_flags
-#define dll_368_get_state_size __dll368_dll_368_get_state_size
+#define dll_368_get_data_size __dll368_dll_368_get_data_size
 #define dll_368_func_424 __dll368_dll_368_func_424
 #define _rodata_20 __dll368__rodata_20
 

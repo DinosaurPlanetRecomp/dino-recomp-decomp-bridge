@@ -5,13 +5,13 @@
 
 #define dll_276_ctor __dll276_dll_276_ctor
 #define dll_276_dtor __dll276_dll_276_dtor
-#define dll_276_create __dll276_dll_276_create
+#define dll_276_setup __dll276_dll_276_setup
+#define dll_276_control __dll276_dll_276_control
 #define dll_276_update __dll276_dll_276_update
-#define dll_276_func_8DC __dll276_dll_276_func_8DC
-#define dll_276_draw __dll276_dll_276_draw
-#define dll_276_destroy __dll276_dll_276_destroy
+#define dll_276_print __dll276_dll_276_print
+#define dll_276_free __dll276_dll_276_free
 #define dll_276_get_model_flags __dll276_dll_276_get_model_flags
-#define dll_276_get_state_size __dll276_dll_276_get_state_size
+#define dll_276_get_data_size __dll276_dll_276_get_data_size
 #define str_0 __dll276_str_0
 #define _rodata_A8 __dll276__rodata_A8
 #define _rodata_AC __dll276__rodata_AC

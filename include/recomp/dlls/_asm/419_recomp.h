@@ -5,13 +5,13 @@
 
 #define dll_419_ctor __dll419_dll_419_ctor
 #define dll_419_dtor __dll419_dll_419_dtor
-#define dll_419_create __dll419_dll_419_create
+#define dll_419_setup __dll419_dll_419_setup
+#define dll_419_control __dll419_dll_419_control
 #define dll_419_update __dll419_dll_419_update
-#define dll_419_func_16C __dll419_dll_419_func_16C
-#define dll_419_draw __dll419_dll_419_draw
-#define dll_419_destroy __dll419_dll_419_destroy
+#define dll_419_print __dll419_dll_419_print
+#define dll_419_free __dll419_dll_419_free
 #define dll_419_get_model_flags __dll419_dll_419_get_model_flags
-#define dll_419_get_state_size __dll419_dll_419_get_state_size
+#define dll_419_get_data_size __dll419_dll_419_get_data_size
 #define _oob_rodata_0 __dll419__oob_rodata_0
 
 #endif //_DLL_419_RECOMP_H

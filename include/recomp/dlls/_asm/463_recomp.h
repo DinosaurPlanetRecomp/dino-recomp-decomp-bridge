@@ -5,13 +5,13 @@
 
 #define dll_463_ctor __dll463_dll_463_ctor
 #define dll_463_dtor __dll463_dll_463_dtor
-#define dll_463_create __dll463_dll_463_create
+#define dll_463_setup __dll463_dll_463_setup
+#define dll_463_control __dll463_dll_463_control
 #define dll_463_update __dll463_dll_463_update
-#define dll_463_func_1E8 __dll463_dll_463_func_1E8
-#define dll_463_draw __dll463_dll_463_draw
-#define dll_463_destroy __dll463_dll_463_destroy
+#define dll_463_print __dll463_dll_463_print
+#define dll_463_free __dll463_dll_463_free
 #define dll_463_get_model_flags __dll463_dll_463_get_model_flags
-#define dll_463_get_state_size __dll463_dll_463_get_state_size
+#define dll_463_get_data_size __dll463_dll_463_get_data_size
 #define _rodata_0 __dll463__rodata_0
 
 #endif //_DLL_463_RECOMP_H

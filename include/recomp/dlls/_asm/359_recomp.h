@@ -5,13 +5,13 @@
 
 #define dll_359_ctor __dll359_dll_359_ctor
 #define dll_359_dtor __dll359_dll_359_dtor
-#define dll_359_create __dll359_dll_359_create
+#define dll_359_setup __dll359_dll_359_setup
+#define dll_359_control __dll359_dll_359_control
 #define dll_359_update __dll359_dll_359_update
-#define dll_359_func_354 __dll359_dll_359_func_354
-#define dll_359_draw __dll359_dll_359_draw
-#define dll_359_destroy __dll359_dll_359_destroy
+#define dll_359_print __dll359_dll_359_print
+#define dll_359_free __dll359_dll_359_free
 #define dll_359_get_model_flags __dll359_dll_359_get_model_flags
-#define dll_359_get_state_size __dll359_dll_359_get_state_size
+#define dll_359_get_data_size __dll359_dll_359_get_data_size
 #define dll_359_func_440 __dll359_dll_359_func_440
 #define dll_359_func_514 __dll359_dll_359_func_514
 

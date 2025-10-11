@@ -5,13 +5,13 @@
 
 #define dll_676_ctor __dll676_dll_676_ctor
 #define dll_676_dtor __dll676_dll_676_dtor
-#define dll_676_create __dll676_dll_676_create
+#define dll_676_setup __dll676_dll_676_setup
+#define dll_676_control __dll676_dll_676_control
 #define dll_676_update __dll676_dll_676_update
-#define dll_676_func_408 __dll676_dll_676_func_408
-#define dll_676_draw __dll676_dll_676_draw
-#define dll_676_destroy __dll676_dll_676_destroy
+#define dll_676_print __dll676_dll_676_print
+#define dll_676_free __dll676_dll_676_free
 #define dll_676_get_model_flags __dll676_dll_676_get_model_flags
-#define dll_676_get_state_size __dll676_dll_676_get_state_size
+#define dll_676_get_data_size __dll676_dll_676_get_data_size
 #define str_0 __dll676_str_0
 #define _rodata_14 __dll676__rodata_14
 

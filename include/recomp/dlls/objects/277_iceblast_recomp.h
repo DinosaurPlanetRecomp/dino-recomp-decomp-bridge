@@ -5,12 +5,12 @@
 
 #define iceblast_ctor __dll277_iceblast_ctor
 #define iceblast_dtor __dll277_iceblast_dtor
-#define iceblast_create __dll277_iceblast_create
+#define iceblast_setup __dll277_iceblast_setup
+#define iceblast_control __dll277_iceblast_control
 #define iceblast_update __dll277_iceblast_update
-#define iceblast_func_26C __dll277_iceblast_func_26C
-#define iceblast_draw __dll277_iceblast_draw
-#define iceblast_destroy __dll277_iceblast_destroy
+#define iceblast_print __dll277_iceblast_print
+#define iceblast_free __dll277_iceblast_free
 #define iceblast_get_model_flags __dll277_iceblast_get_model_flags
-#define iceblast_get_state_size __dll277_iceblast_get_state_size
+#define iceblast_get_data_size __dll277_iceblast_get_data_size
 
 #endif //_DLL_277_RECOMP_H

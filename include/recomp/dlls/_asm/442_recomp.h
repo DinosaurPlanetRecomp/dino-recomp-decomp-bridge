@@ -5,13 +5,13 @@
 
 #define dll_442_ctor __dll442_dll_442_ctor
 #define dll_442_dtor __dll442_dll_442_dtor
-#define dll_442_create __dll442_dll_442_create
+#define dll_442_setup __dll442_dll_442_setup
+#define dll_442_control __dll442_dll_442_control
 #define dll_442_update __dll442_dll_442_update
-#define dll_442_func_204 __dll442_dll_442_func_204
-#define dll_442_draw __dll442_dll_442_draw
-#define dll_442_destroy __dll442_dll_442_destroy
+#define dll_442_print __dll442_dll_442_print
+#define dll_442_free __dll442_dll_442_free
 #define dll_442_get_model_flags __dll442_dll_442_get_model_flags
-#define dll_442_get_state_size __dll442_dll_442_get_state_size
+#define dll_442_get_data_size __dll442_dll_442_get_data_size
 #define dll_442_func_298 __dll442_dll_442_func_298
 
 #endif //_DLL_442_RECOMP_H

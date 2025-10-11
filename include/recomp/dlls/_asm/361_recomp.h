@@ -5,13 +5,13 @@
 
 #define dll_361_ctor __dll361_dll_361_ctor
 #define dll_361_dtor __dll361_dll_361_dtor
-#define dll_361_create __dll361_dll_361_create
+#define dll_361_setup __dll361_dll_361_setup
+#define dll_361_control __dll361_dll_361_control
 #define dll_361_update __dll361_dll_361_update
-#define dll_361_func_2B8 __dll361_dll_361_func_2B8
-#define dll_361_draw __dll361_dll_361_draw
-#define dll_361_destroy __dll361_dll_361_destroy
+#define dll_361_print __dll361_dll_361_print
+#define dll_361_free __dll361_dll_361_free
 #define dll_361_get_model_flags __dll361_dll_361_get_model_flags
-#define dll_361_get_state_size __dll361_dll_361_get_state_size
+#define dll_361_get_data_size __dll361_dll_361_get_data_size
 #define str_0 __dll361_str_0
 #define str_24 __dll361_str_24
 

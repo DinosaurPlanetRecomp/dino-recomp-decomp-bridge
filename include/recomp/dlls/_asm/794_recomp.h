@@ -5,14 +5,14 @@
 
 #define dll_794_ctor __dll794_dll_794_ctor
 #define dll_794_dtor __dll794_dll_794_dtor
-#define dll_794_create __dll794_dll_794_create
-#define dll_794_update __dll794_dll_794_update
+#define dll_794_setup __dll794_dll_794_setup
+#define dll_794_control __dll794_dll_794_control
 #define dll_794_func_178 __dll794_dll_794_func_178
-#define dll_794_func_37C __dll794_dll_794_func_37C
-#define dll_794_draw __dll794_dll_794_draw
-#define dll_794_destroy __dll794_dll_794_destroy
+#define dll_794_update __dll794_dll_794_update
+#define dll_794_print __dll794_dll_794_print
+#define dll_794_free __dll794_dll_794_free
 #define dll_794_get_model_flags __dll794_dll_794_get_model_flags
-#define dll_794_get_state_size __dll794_dll_794_get_state_size
+#define dll_794_get_data_size __dll794_dll_794_get_data_size
 #define str_0 __dll794_str_0
 
 #endif //_DLL_794_RECOMP_H

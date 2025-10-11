@@ -5,13 +5,13 @@
 
 #define dll_407_ctor __dll407_dll_407_ctor
 #define dll_407_dtor __dll407_dll_407_dtor
-#define dll_407_create __dll407_dll_407_create
+#define dll_407_setup __dll407_dll_407_setup
+#define dll_407_control __dll407_dll_407_control
 #define dll_407_update __dll407_dll_407_update
-#define dll_407_func_238 __dll407_dll_407_func_238
-#define dll_407_draw __dll407_dll_407_draw
-#define dll_407_destroy __dll407_dll_407_destroy
+#define dll_407_print __dll407_dll_407_print
+#define dll_407_free __dll407_dll_407_free
 #define dll_407_get_model_flags __dll407_dll_407_get_model_flags
-#define dll_407_get_state_size __dll407_dll_407_get_state_size
+#define dll_407_get_data_size __dll407_dll_407_get_data_size
 #define dll_407_func_494 __dll407_dll_407_func_494
 #define dll_407_func_6D8 __dll407_dll_407_func_6D8
 #define dll_407_func_7C0 __dll407_dll_407_func_7C0

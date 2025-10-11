@@ -5,13 +5,13 @@
 
 #define dll_725_ctor __dll725_dll_725_ctor
 #define dll_725_dtor __dll725_dll_725_dtor
-#define dll_725_create __dll725_dll_725_create
+#define dll_725_setup __dll725_dll_725_setup
+#define dll_725_control __dll725_dll_725_control
 #define dll_725_update __dll725_dll_725_update
-#define dll_725_func_2A4 __dll725_dll_725_func_2A4
-#define dll_725_draw __dll725_dll_725_draw
-#define dll_725_destroy __dll725_dll_725_destroy
+#define dll_725_print __dll725_dll_725_print
+#define dll_725_free __dll725_dll_725_free
 #define dll_725_get_model_flags __dll725_dll_725_get_model_flags
-#define dll_725_get_state_size __dll725_dll_725_get_state_size
+#define dll_725_get_data_size __dll725_dll_725_get_data_size
 #define dll_725_func_354 __dll725_dll_725_func_354
 #define dll_725_func_3A4 __dll725_dll_725_func_3A4
 #define dll_725_func_3BC __dll725_dll_725_func_3BC

@@ -5,13 +5,13 @@
 
 #define dll_390_ctor __dll390_dll_390_ctor
 #define dll_390_dtor __dll390_dll_390_dtor
-#define dll_390_create __dll390_dll_390_create
+#define dll_390_setup __dll390_dll_390_setup
+#define dll_390_control __dll390_dll_390_control
 #define dll_390_update __dll390_dll_390_update
-#define dll_390_func_310 __dll390_dll_390_func_310
-#define dll_390_draw __dll390_dll_390_draw
-#define dll_390_destroy __dll390_dll_390_destroy
+#define dll_390_print __dll390_dll_390_print
+#define dll_390_free __dll390_dll_390_free
 #define dll_390_get_model_flags __dll390_dll_390_get_model_flags
-#define dll_390_get_state_size __dll390_dll_390_get_state_size
+#define dll_390_get_data_size __dll390_dll_390_get_data_size
 #define dll_390_func_3E8 __dll390_dll_390_func_3E8
 #define dll_390_func_884 __dll390_dll_390_func_884
 #define dll_390_func_C60 __dll390_dll_390_func_C60

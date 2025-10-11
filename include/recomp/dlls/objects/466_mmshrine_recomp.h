@@ -5,13 +5,13 @@
 
 #define MMshrine_ctor __dll466_MMshrine_ctor
 #define MMshrine_dtor __dll466_MMshrine_dtor
-#define dll_466_func_18 __dll466_dll_466_func_18
-#define dll_466_func_1BC __dll466_dll_466_func_1BC
-#define MMshrine_func_B3C __dll466_MMshrine_func_B3C
-#define MMshrine_draw __dll466_MMshrine_draw
-#define MMshrine_destroy __dll466_MMshrine_destroy
+#define MMshrine_setup __dll466_MMshrine_setup
+#define MMshrine_control __dll466_MMshrine_control
+#define MMshrine_update __dll466_MMshrine_update
+#define MMshrine_print __dll466_MMshrine_print
+#define MMshrine_free __dll466_MMshrine_free
 #define MMshrine_get_model_flags __dll466_MMshrine_get_model_flags
-#define MMshrine_get_state_size __dll466_MMshrine_get_state_size
+#define MMshrine_get_data_size __dll466_MMshrine_get_data_size
 #define dll_466_func_C50 __dll466_dll_466_func_C50
 #define MMshrine_func_1140 __dll466_MMshrine_func_1140
 #define _data_0 __dll466__data_0

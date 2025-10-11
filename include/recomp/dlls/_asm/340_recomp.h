@@ -5,13 +5,13 @@
 
 #define dll_340_ctor __dll340_dll_340_ctor
 #define dll_340_dtor __dll340_dll_340_dtor
-#define dll_340_create __dll340_dll_340_create
+#define dll_340_setup __dll340_dll_340_setup
+#define dll_340_control __dll340_dll_340_control
 #define dll_340_update __dll340_dll_340_update
-#define dll_340_func_384 __dll340_dll_340_func_384
-#define dll_340_draw __dll340_dll_340_draw
-#define dll_340_destroy __dll340_dll_340_destroy
+#define dll_340_print __dll340_dll_340_print
+#define dll_340_free __dll340_dll_340_free
 #define dll_340_get_model_flags __dll340_dll_340_get_model_flags
-#define dll_340_get_state_size __dll340_dll_340_get_state_size
+#define dll_340_get_data_size __dll340_dll_340_get_data_size
 #define dll_340_func_414 __dll340_dll_340_func_414
 #define dll_340_func_4BC __dll340_dll_340_func_4BC
 #define dll_340_func_D40 __dll340_dll_340_func_D40

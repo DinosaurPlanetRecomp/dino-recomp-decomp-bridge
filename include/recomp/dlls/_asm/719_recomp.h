@@ -5,13 +5,13 @@
 
 #define dll_719_ctor __dll719_dll_719_ctor
 #define dll_719_dtor __dll719_dll_719_dtor
-#define dll_719_create __dll719_dll_719_create
+#define dll_719_setup __dll719_dll_719_setup
+#define dll_719_control __dll719_dll_719_control
 #define dll_719_update __dll719_dll_719_update
-#define dll_719_func_3B0 __dll719_dll_719_func_3B0
-#define dll_719_draw __dll719_dll_719_draw
-#define dll_719_destroy __dll719_dll_719_destroy
+#define dll_719_print __dll719_dll_719_print
+#define dll_719_free __dll719_dll_719_free
 #define dll_719_get_model_flags __dll719_dll_719_get_model_flags
-#define dll_719_get_state_size __dll719_dll_719_get_state_size
+#define dll_719_get_data_size __dll719_dll_719_get_data_size
 #define dll_719_func_438 __dll719_dll_719_func_438
 #define dll_719_func_4E4 __dll719_dll_719_func_4E4
 #define dll_719_func_4FC __dll719_dll_719_func_4FC

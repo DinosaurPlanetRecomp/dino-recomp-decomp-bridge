@@ -5,13 +5,13 @@
 
 #define dll_594_ctor __dll594_dll_594_ctor
 #define dll_594_dtor __dll594_dll_594_dtor
-#define dll_594_create __dll594_dll_594_create
+#define dll_594_setup __dll594_dll_594_setup
+#define dll_594_control __dll594_dll_594_control
 #define dll_594_update __dll594_dll_594_update
-#define dll_594_func_C80 __dll594_dll_594_func_C80
-#define dll_594_draw __dll594_dll_594_draw
-#define dll_594_destroy __dll594_dll_594_destroy
+#define dll_594_print __dll594_dll_594_print
+#define dll_594_free __dll594_dll_594_free
 #define dll_594_get_model_flags __dll594_dll_594_get_model_flags
-#define dll_594_get_state_size __dll594_dll_594_get_state_size
+#define dll_594_get_data_size __dll594_dll_594_get_data_size
 #define _rodata_0 __dll594__rodata_0
 #define _rodata_4 __dll594__rodata_4
 #define _rodata_8 __dll594__rodata_8

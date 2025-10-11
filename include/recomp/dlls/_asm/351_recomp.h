@@ -5,13 +5,13 @@
 
 #define dll_351_ctor __dll351_dll_351_ctor
 #define dll_351_dtor __dll351_dll_351_dtor
-#define dll_351_create __dll351_dll_351_create
+#define dll_351_setup __dll351_dll_351_setup
+#define dll_351_control __dll351_dll_351_control
 #define dll_351_update __dll351_dll_351_update
-#define dll_351_func_950 __dll351_dll_351_func_950
-#define dll_351_draw __dll351_dll_351_draw
-#define dll_351_destroy __dll351_dll_351_destroy
+#define dll_351_print __dll351_dll_351_print
+#define dll_351_free __dll351_dll_351_free
 #define dll_351_get_model_flags __dll351_dll_351_get_model_flags
-#define dll_351_get_state_size __dll351_dll_351_get_state_size
+#define dll_351_get_data_size __dll351_dll_351_get_data_size
 #define dll_351_func_A28 __dll351_dll_351_func_A28
 #define dll_351_func_C90 __dll351_dll_351_func_C90
 #define dll_351_func_DFC __dll351_dll_351_func_DFC

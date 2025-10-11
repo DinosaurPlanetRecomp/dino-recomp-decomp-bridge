@@ -5,15 +5,15 @@
 
 #define dll_404_ctor __dll404_dll_404_ctor
 #define dll_404_dtor __dll404_dll_404_dtor
-#define dll_404_create __dll404_dll_404_create
-#define dll_404_update __dll404_dll_404_update
+#define dll_404_setup __dll404_dll_404_setup
+#define dll_404_control __dll404_dll_404_control
 #define dll_404_func_16C __dll404_dll_404_func_16C
 #define dll_404_func_1E0 __dll404_dll_404_func_1E0
-#define dll_404_func_4B8 __dll404_dll_404_func_4B8
-#define dll_404_draw __dll404_dll_404_draw
-#define dll_404_destroy __dll404_dll_404_destroy
+#define dll_404_update __dll404_dll_404_update
+#define dll_404_print __dll404_dll_404_print
+#define dll_404_free __dll404_dll_404_free
 #define dll_404_get_model_flags __dll404_dll_404_get_model_flags
-#define dll_404_get_state_size __dll404_dll_404_get_state_size
+#define dll_404_get_data_size __dll404_dll_404_get_data_size
 #define dll_404_func_554 __dll404_dll_404_func_554
 #define dll_404_func_564 __dll404_dll_404_func_564
 #define dll_404_func_804 __dll404_dll_404_func_804

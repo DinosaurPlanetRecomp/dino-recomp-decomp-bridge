@@ -5,13 +5,13 @@
 
 #define dll_705_ctor __dll705_dll_705_ctor
 #define dll_705_dtor __dll705_dll_705_dtor
-#define dll_705_create __dll705_dll_705_create
+#define dll_705_setup __dll705_dll_705_setup
+#define dll_705_control __dll705_dll_705_control
 #define dll_705_update __dll705_dll_705_update
-#define dll_705_func_368 __dll705_dll_705_func_368
-#define dll_705_draw __dll705_dll_705_draw
-#define dll_705_destroy __dll705_dll_705_destroy
+#define dll_705_print __dll705_dll_705_print
+#define dll_705_free __dll705_dll_705_free
 #define dll_705_get_model_flags __dll705_dll_705_get_model_flags
-#define dll_705_get_state_size __dll705_dll_705_get_state_size
+#define dll_705_get_data_size __dll705_dll_705_get_data_size
 #define dll_705_func_40C __dll705_dll_705_func_40C
 
 #endif //_DLL_705_RECOMP_H

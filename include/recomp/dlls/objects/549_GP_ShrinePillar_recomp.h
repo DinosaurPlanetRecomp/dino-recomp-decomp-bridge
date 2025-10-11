@@ -5,15 +5,13 @@
 
 #define dll_549_ctor __dll549_dll_549_ctor
 #define dll_549_dtor __dll549_dll_549_dtor
-#define dll_549_create __dll549_dll_549_create
+#define dll_549_setup __dll549_dll_549_setup
+#define dll_549_control __dll549_dll_549_control
 #define dll_549_update __dll549_dll_549_update
-#define dll_549_func_1D0 __dll549_dll_549_func_1D0
-#define dll_549_draw __dll549_dll_549_draw
-#define dll_549_destroy __dll549_dll_549_destroy
+#define dll_549_print __dll549_dll_549_print
+#define dll_549_free __dll549_dll_549_free
 #define dll_549_get_model_flags __dll549_dll_549_get_model_flags
-#define dll_549_get_state_size __dll549_dll_549_get_state_size
+#define dll_549_get_data_size __dll549_dll_549_get_data_size
 #define dll_549_func_264 __dll549_dll_549_func_264
-#define str_0 __dll549_str_0
-#define str_28 __dll549_str_28
 
 #endif //_DLL_549_RECOMP_H

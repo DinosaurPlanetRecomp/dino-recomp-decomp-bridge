@@ -5,13 +5,13 @@
 
 #define dll_385_ctor __dll385_dll_385_ctor
 #define dll_385_dtor __dll385_dll_385_dtor
-#define dll_385_create __dll385_dll_385_create
+#define dll_385_setup __dll385_dll_385_setup
+#define dll_385_control __dll385_dll_385_control
 #define dll_385_update __dll385_dll_385_update
-#define dll_385_func_7C __dll385_dll_385_func_7C
-#define dll_385_draw __dll385_dll_385_draw
-#define dll_385_destroy __dll385_dll_385_destroy
+#define dll_385_print __dll385_dll_385_print
+#define dll_385_free __dll385_dll_385_free
 #define dll_385_get_model_flags __dll385_dll_385_get_model_flags
-#define dll_385_get_state_size __dll385_dll_385_get_state_size
+#define dll_385_get_data_size __dll385_dll_385_get_data_size
 #define dll_385_func_110 __dll385_dll_385_func_110
 
 #endif //_DLL_385_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_662_ctor __dll662_dll_662_ctor
 #define dll_662_dtor __dll662_dll_662_dtor
-#define dll_662_create __dll662_dll_662_create
+#define dll_662_setup __dll662_dll_662_setup
+#define dll_662_control __dll662_dll_662_control
 #define dll_662_update __dll662_dll_662_update
-#define dll_662_func_D28 __dll662_dll_662_func_D28
-#define dll_662_draw __dll662_dll_662_draw
-#define dll_662_destroy __dll662_dll_662_destroy
+#define dll_662_print __dll662_dll_662_print
+#define dll_662_free __dll662_dll_662_free
 #define dll_662_get_model_flags __dll662_dll_662_get_model_flags
-#define dll_662_get_state_size __dll662_dll_662_get_state_size
+#define dll_662_get_data_size __dll662_dll_662_get_data_size
 #define dll_662_func_FA8 __dll662_dll_662_func_FA8
 #define dll_662_func_1240 __dll662_dll_662_func_1240
 #define dll_662_func_1670 __dll662_dll_662_func_1670

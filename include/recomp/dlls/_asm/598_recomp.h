@@ -5,13 +5,13 @@
 
 #define dll_598_ctor __dll598_dll_598_ctor
 #define dll_598_dtor __dll598_dll_598_dtor
-#define dll_598_create __dll598_dll_598_create
+#define dll_598_setup __dll598_dll_598_setup
+#define dll_598_control __dll598_dll_598_control
 #define dll_598_update __dll598_dll_598_update
-#define dll_598_func_238 __dll598_dll_598_func_238
-#define dll_598_draw __dll598_dll_598_draw
-#define dll_598_destroy __dll598_dll_598_destroy
+#define dll_598_print __dll598_dll_598_print
+#define dll_598_free __dll598_dll_598_free
 #define dll_598_get_model_flags __dll598_dll_598_get_model_flags
-#define dll_598_get_state_size __dll598_dll_598_get_state_size
+#define dll_598_get_data_size __dll598_dll_598_get_data_size
 #define dll_598_func_364 __dll598_dll_598_func_364
 #define dll_598_func_470 __dll598_dll_598_func_470
 #define dll_598_func_610 __dll598_dll_598_func_610

@@ -5,13 +5,13 @@
 
 #define dll_247_ctor __dll247_dll_247_ctor
 #define dll_247_dtor __dll247_dll_247_dtor
-#define dll_247_create __dll247_dll_247_create
+#define dll_247_setup __dll247_dll_247_setup
+#define dll_247_control __dll247_dll_247_control
 #define dll_247_update __dll247_dll_247_update
-#define dll_247_func_808 __dll247_dll_247_func_808
-#define dll_247_draw __dll247_dll_247_draw
-#define dll_247_destroy __dll247_dll_247_destroy
+#define dll_247_print __dll247_dll_247_print
+#define dll_247_free __dll247_dll_247_free
 #define dll_247_get_model_flags __dll247_dll_247_get_model_flags
-#define dll_247_get_state_size __dll247_dll_247_get_state_size
+#define dll_247_get_data_size __dll247_dll_247_get_data_size
 #define dll_247_func_A5C __dll247_dll_247_func_A5C
 #define _rodata_0 __dll247__rodata_0
 #define _rodata_4 __dll247__rodata_4

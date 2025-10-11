@@ -5,12 +5,12 @@
 
 #define dll_511_ctor __dll511_dll_511_ctor
 #define dll_511_dtor __dll511_dll_511_dtor
-#define dll_511_create __dll511_dll_511_create
+#define dll_511_setup __dll511_dll_511_setup
+#define dll_511_control __dll511_dll_511_control
 #define dll_511_update __dll511_dll_511_update
-#define dll_511_func_C8 __dll511_dll_511_func_C8
-#define dll_511_draw __dll511_dll_511_draw
-#define dll_511_destroy __dll511_dll_511_destroy
+#define dll_511_print __dll511_dll_511_print
+#define dll_511_free __dll511_dll_511_free
 #define dll_511_get_model_flags __dll511_dll_511_get_model_flags
-#define dll_511_get_state_size __dll511_dll_511_get_state_size
+#define dll_511_get_data_size __dll511_dll_511_get_data_size
 
 #endif //_DLL_511_RECOMP_H

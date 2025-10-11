@@ -5,13 +5,13 @@
 
 #define dll_571_ctor __dll571_dll_571_ctor
 #define dll_571_dtor __dll571_dll_571_dtor
-#define dll_571_create __dll571_dll_571_create
+#define dll_571_setup __dll571_dll_571_setup
+#define dll_571_control __dll571_dll_571_control
 #define dll_571_update __dll571_dll_571_update
-#define dll_571_func_134 __dll571_dll_571_func_134
-#define dll_571_draw __dll571_dll_571_draw
-#define dll_571_destroy __dll571_dll_571_destroy
+#define dll_571_print __dll571_dll_571_print
+#define dll_571_free __dll571_dll_571_free
 #define dll_571_get_model_flags __dll571_dll_571_get_model_flags
-#define dll_571_get_state_size __dll571_dll_571_get_state_size
+#define dll_571_get_data_size __dll571_dll_571_get_data_size
 #define dll_571_func_1C4 __dll571_dll_571_func_1C4
 #define _rodata_0 __dll571__rodata_0
 

@@ -5,13 +5,13 @@
 
 #define dll_538_ctor __dll538_dll_538_ctor
 #define dll_538_dtor __dll538_dll_538_dtor
-#define dll_538_create __dll538_dll_538_create
+#define dll_538_setup __dll538_dll_538_setup
+#define dll_538_control __dll538_dll_538_control
 #define dll_538_update __dll538_dll_538_update
-#define dll_538_func_194 __dll538_dll_538_func_194
-#define dll_538_draw __dll538_dll_538_draw
-#define dll_538_destroy __dll538_dll_538_destroy
+#define dll_538_print __dll538_dll_538_print
+#define dll_538_free __dll538_dll_538_free
 #define dll_538_get_model_flags __dll538_dll_538_get_model_flags
-#define dll_538_get_state_size __dll538_dll_538_get_state_size
+#define dll_538_get_data_size __dll538_dll_538_get_data_size
 #define dll_538_func_238 __dll538_dll_538_func_238
 #define dll_538_func_39C __dll538_dll_538_func_39C
 

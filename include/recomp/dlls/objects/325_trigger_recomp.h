@@ -5,13 +5,13 @@
 
 #define trigger_ctor __dll325_trigger_ctor
 #define trigger_dtor __dll325_trigger_dtor
-#define trigger_create __dll325_trigger_create
+#define trigger_setup __dll325_trigger_setup
+#define trigger_control __dll325_trigger_control
 #define trigger_update __dll325_trigger_update
-#define trigger_func_7D4 __dll325_trigger_func_7D4
-#define trigger_draw __dll325_trigger_draw
-#define trigger_destroy __dll325_trigger_destroy
+#define trigger_print __dll325_trigger_print
+#define trigger_free __dll325_trigger_free
 #define trigger_get_model_flags __dll325_trigger_get_model_flags
-#define trigger_get_state_size __dll325_trigger_get_state_size
+#define trigger_get_data_size __dll325_trigger_get_data_size
 #define trigger_process_commands __dll325_trigger_process_commands
 #define trigger_func_1754 __dll325_trigger_func_1754
 #define trigger_func_1764 __dll325_trigger_func_1764

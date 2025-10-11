@@ -5,13 +5,13 @@
 
 #define dll_341_ctor __dll341_dll_341_ctor
 #define dll_341_dtor __dll341_dll_341_dtor
-#define dll_341_create __dll341_dll_341_create
+#define dll_341_setup __dll341_dll_341_setup
+#define dll_341_control __dll341_dll_341_control
 #define dll_341_update __dll341_dll_341_update
-#define dll_341_func_204 __dll341_dll_341_func_204
-#define dll_341_draw __dll341_dll_341_draw
-#define dll_341_destroy __dll341_dll_341_destroy
+#define dll_341_print __dll341_dll_341_print
+#define dll_341_free __dll341_dll_341_free
 #define dll_341_get_model_flags __dll341_dll_341_get_model_flags
-#define dll_341_get_state_size __dll341_dll_341_get_state_size
+#define dll_341_get_data_size __dll341_dll_341_get_data_size
 #define dll_341_func_2D0 __dll341_dll_341_func_2D0
 #define _rodata_0 __dll341__rodata_0
 #define _data_0 __dll341__data_0

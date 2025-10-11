@@ -5,12 +5,12 @@
 
 #define dll_339_ctor __dll339_dll_339_ctor
 #define dll_339_dtor __dll339_dll_339_dtor
-#define dll_339_create __dll339_dll_339_create
+#define dll_339_setup __dll339_dll_339_setup
+#define dll_339_control __dll339_dll_339_control
 #define dll_339_update __dll339_dll_339_update
-#define dll_339_func_E0 __dll339_dll_339_func_E0
-#define dll_339_draw __dll339_dll_339_draw
-#define dll_339_destroy __dll339_dll_339_destroy
+#define dll_339_print __dll339_dll_339_print
+#define dll_339_free __dll339_dll_339_free
 #define dll_339_get_model_flags __dll339_dll_339_get_model_flags
-#define dll_339_get_state_size __dll339_dll_339_get_state_size
+#define dll_339_get_data_size __dll339_dll_339_get_data_size
 
 #endif //_DLL_339_RECOMP_H

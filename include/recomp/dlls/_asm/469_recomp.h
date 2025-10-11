@@ -5,13 +5,13 @@
 
 #define dll_469_ctor __dll469_dll_469_ctor
 #define dll_469_dtor __dll469_dll_469_dtor
-#define dll_469_create __dll469_dll_469_create
+#define dll_469_setup __dll469_dll_469_setup
+#define dll_469_control __dll469_dll_469_control
 #define dll_469_update __dll469_dll_469_update
-#define dll_469_func_1320 __dll469_dll_469_func_1320
-#define dll_469_draw __dll469_dll_469_draw
-#define dll_469_destroy __dll469_dll_469_destroy
+#define dll_469_print __dll469_dll_469_print
+#define dll_469_free __dll469_dll_469_free
 #define dll_469_get_model_flags __dll469_dll_469_get_model_flags
-#define dll_469_get_state_size __dll469_dll_469_get_state_size
+#define dll_469_get_data_size __dll469_dll_469_get_data_size
 #define dll_469_func_1454 __dll469_dll_469_func_1454
 #define dll_469_func_1484 __dll469_dll_469_func_1484
 #define dll_469_func_14F4 __dll469_dll_469_func_14F4

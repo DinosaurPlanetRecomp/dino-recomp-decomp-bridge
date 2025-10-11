@@ -5,13 +5,13 @@
 
 #define dll_302_ctor __dll302_dll_302_ctor
 #define dll_302_dtor __dll302_dll_302_dtor
-#define dll_302_create __dll302_dll_302_create
+#define dll_302_setup __dll302_dll_302_setup
+#define dll_302_control __dll302_dll_302_control
 #define dll_302_update __dll302_dll_302_update
-#define dll_302_func_2B4 __dll302_dll_302_func_2B4
-#define dll_302_draw __dll302_dll_302_draw
-#define dll_302_destroy __dll302_dll_302_destroy
+#define dll_302_print __dll302_dll_302_print
+#define dll_302_free __dll302_dll_302_free
 #define dll_302_get_model_flags __dll302_dll_302_get_model_flags
-#define dll_302_get_state_size __dll302_dll_302_get_state_size
+#define dll_302_get_data_size __dll302_dll_302_get_data_size
 #define dll_302_func_344 __dll302_dll_302_func_344
 #define dll_302_func_42C __dll302_dll_302_func_42C
 #define _rodata_0 __dll302__rodata_0

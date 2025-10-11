@@ -5,12 +5,12 @@
 
 #define dll_422_ctor __dll422_dll_422_ctor
 #define dll_422_dtor __dll422_dll_422_dtor
-#define dll_422_create __dll422_dll_422_create
+#define dll_422_setup __dll422_dll_422_setup
+#define dll_422_control __dll422_dll_422_control
 #define dll_422_update __dll422_dll_422_update
-#define dll_422_func_4B0 __dll422_dll_422_func_4B0
-#define dll_422_draw __dll422_dll_422_draw
-#define dll_422_destroy __dll422_dll_422_destroy
+#define dll_422_print __dll422_dll_422_print
+#define dll_422_free __dll422_dll_422_free
 #define dll_422_get_model_flags __dll422_dll_422_get_model_flags
-#define dll_422_get_state_size __dll422_dll_422_get_state_size
+#define dll_422_get_data_size __dll422_dll_422_get_data_size
 
 #endif //_DLL_422_RECOMP_H

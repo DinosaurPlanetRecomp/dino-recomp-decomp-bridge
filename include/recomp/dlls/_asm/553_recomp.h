@@ -5,13 +5,13 @@
 
 #define dll_553_ctor __dll553_dll_553_ctor
 #define dll_553_dtor __dll553_dll_553_dtor
-#define dll_553_create __dll553_dll_553_create
+#define dll_553_setup __dll553_dll_553_setup
+#define dll_553_control __dll553_dll_553_control
 #define dll_553_update __dll553_dll_553_update
-#define dll_553_func_64 __dll553_dll_553_func_64
-#define dll_553_draw __dll553_dll_553_draw
-#define dll_553_destroy __dll553_dll_553_destroy
+#define dll_553_print __dll553_dll_553_print
+#define dll_553_free __dll553_dll_553_free
 #define dll_553_get_model_flags __dll553_dll_553_get_model_flags
-#define dll_553_get_state_size __dll553_dll_553_get_state_size
+#define dll_553_get_data_size __dll553_dll_553_get_data_size
 #define dll_553_func_F8 __dll553_dll_553_func_F8
 
 #endif //_DLL_553_RECOMP_H

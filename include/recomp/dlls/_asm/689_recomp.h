@@ -5,13 +5,13 @@
 
 #define dll_689_ctor __dll689_dll_689_ctor
 #define dll_689_dtor __dll689_dll_689_dtor
-#define dll_689_create __dll689_dll_689_create
+#define dll_689_setup __dll689_dll_689_setup
+#define dll_689_control __dll689_dll_689_control
 #define dll_689_update __dll689_dll_689_update
-#define dll_689_func_38C __dll689_dll_689_func_38C
-#define dll_689_draw __dll689_dll_689_draw
-#define dll_689_destroy __dll689_dll_689_destroy
+#define dll_689_print __dll689_dll_689_print
+#define dll_689_free __dll689_dll_689_free
 #define dll_689_get_model_flags __dll689_dll_689_get_model_flags
-#define dll_689_get_state_size __dll689_dll_689_get_state_size
+#define dll_689_get_data_size __dll689_dll_689_get_data_size
 #define dll_689_func_468 __dll689_dll_689_func_468
 #define str_0 __dll689_str_0
 

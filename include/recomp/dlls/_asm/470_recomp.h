@@ -5,13 +5,13 @@
 
 #define dll_470_ctor __dll470_dll_470_ctor
 #define dll_470_dtor __dll470_dll_470_dtor
-#define dll_470_create __dll470_dll_470_create
+#define dll_470_setup __dll470_dll_470_setup
+#define dll_470_control __dll470_dll_470_control
 #define dll_470_update __dll470_dll_470_update
-#define dll_470_func_8E8 __dll470_dll_470_func_8E8
-#define dll_470_draw __dll470_dll_470_draw
-#define dll_470_destroy __dll470_dll_470_destroy
+#define dll_470_print __dll470_dll_470_print
+#define dll_470_free __dll470_dll_470_free
 #define dll_470_get_model_flags __dll470_dll_470_get_model_flags
-#define dll_470_get_state_size __dll470_dll_470_get_state_size
+#define dll_470_get_data_size __dll470_dll_470_get_data_size
 #define _rodata_0 __dll470__rodata_0
 #define _data_0 __dll470__data_0
 #define _data_4 __dll470__data_4

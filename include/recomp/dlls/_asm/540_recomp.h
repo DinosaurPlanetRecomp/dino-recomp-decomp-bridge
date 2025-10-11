@@ -5,13 +5,13 @@
 
 #define dll_540_ctor __dll540_dll_540_ctor
 #define dll_540_dtor __dll540_dll_540_dtor
-#define dll_540_create __dll540_dll_540_create
+#define dll_540_setup __dll540_dll_540_setup
+#define dll_540_control __dll540_dll_540_control
 #define dll_540_update __dll540_dll_540_update
-#define dll_540_func_108 __dll540_dll_540_func_108
-#define dll_540_draw __dll540_dll_540_draw
-#define dll_540_destroy __dll540_dll_540_destroy
+#define dll_540_print __dll540_dll_540_print
+#define dll_540_free __dll540_dll_540_free
 #define dll_540_get_model_flags __dll540_dll_540_get_model_flags
-#define dll_540_get_state_size __dll540_dll_540_get_state_size
+#define dll_540_get_data_size __dll540_dll_540_get_data_size
 #define dll_540_func_1CC __dll540_dll_540_func_1CC
 #define dll_540_func_28C __dll540_dll_540_func_28C
 #define _oob_rodata_0 __dll540__oob_rodata_0

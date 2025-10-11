@@ -5,12 +5,12 @@
 
 #define animobj_ctor __dll214_animobj_ctor
 #define animobj_dtor __dll214_animobj_dtor
-#define animobj_create __dll214_animobj_create
+#define animobj_setup __dll214_animobj_setup
+#define animobj_control __dll214_animobj_control
 #define animobj_update __dll214_animobj_update
-#define animobj_func_318 __dll214_animobj_func_318
-#define animobj_draw __dll214_animobj_draw
-#define animobj_destroy __dll214_animobj_destroy
+#define animobj_print __dll214_animobj_print
+#define animobj_free __dll214_animobj_free
 #define animobj_get_model_flags __dll214_animobj_get_model_flags
-#define animobj_get_state_size __dll214_animobj_get_state_size
+#define animobj_get_data_size __dll214_animobj_get_data_size
 
 #endif //_DLL_214_RECOMP_H

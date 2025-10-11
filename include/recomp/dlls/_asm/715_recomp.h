@@ -5,13 +5,13 @@
 
 #define dll_715_ctor __dll715_dll_715_ctor
 #define dll_715_dtor __dll715_dll_715_dtor
-#define dll_715_create __dll715_dll_715_create
+#define dll_715_setup __dll715_dll_715_setup
+#define dll_715_control __dll715_dll_715_control
 #define dll_715_update __dll715_dll_715_update
-#define dll_715_func_BC __dll715_dll_715_func_BC
-#define dll_715_draw __dll715_dll_715_draw
-#define dll_715_destroy __dll715_dll_715_destroy
+#define dll_715_print __dll715_dll_715_print
+#define dll_715_free __dll715_dll_715_free
 #define dll_715_get_model_flags __dll715_dll_715_get_model_flags
-#define dll_715_get_state_size __dll715_dll_715_get_state_size
+#define dll_715_get_data_size __dll715_dll_715_get_data_size
 #define _oob_rodata_0 __dll715__oob_rodata_0
 
 #endif //_DLL_715_RECOMP_H

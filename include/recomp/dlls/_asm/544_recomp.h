@@ -5,12 +5,12 @@
 
 #define dll_544_ctor __dll544_dll_544_ctor
 #define dll_544_dtor __dll544_dll_544_dtor
-#define dll_544_create __dll544_dll_544_create
+#define dll_544_setup __dll544_dll_544_setup
+#define dll_544_control __dll544_dll_544_control
 #define dll_544_update __dll544_dll_544_update
-#define dll_544_func_250 __dll544_dll_544_func_250
-#define dll_544_draw __dll544_dll_544_draw
-#define dll_544_destroy __dll544_dll_544_destroy
+#define dll_544_print __dll544_dll_544_print
+#define dll_544_free __dll544_dll_544_free
 #define dll_544_get_model_flags __dll544_dll_544_get_model_flags
-#define dll_544_get_state_size __dll544_dll_544_get_state_size
+#define dll_544_get_data_size __dll544_dll_544_get_data_size
 
 #endif //_DLL_544_RECOMP_H

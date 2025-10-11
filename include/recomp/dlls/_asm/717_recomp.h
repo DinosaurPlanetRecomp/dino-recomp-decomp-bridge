@@ -5,13 +5,13 @@
 
 #define dll_717_ctor __dll717_dll_717_ctor
 #define dll_717_dtor __dll717_dll_717_dtor
-#define dll_717_create __dll717_dll_717_create
+#define dll_717_setup __dll717_dll_717_setup
+#define dll_717_control __dll717_dll_717_control
 #define dll_717_update __dll717_dll_717_update
-#define dll_717_func_450 __dll717_dll_717_func_450
-#define dll_717_draw __dll717_dll_717_draw
-#define dll_717_destroy __dll717_dll_717_destroy
+#define dll_717_print __dll717_dll_717_print
+#define dll_717_free __dll717_dll_717_free
 #define dll_717_get_model_flags __dll717_dll_717_get_model_flags
-#define dll_717_get_state_size __dll717_dll_717_get_state_size
+#define dll_717_get_data_size __dll717_dll_717_get_data_size
 #define dll_717_func_514 __dll717_dll_717_func_514
 #define dll_717_func_5C0 __dll717_dll_717_func_5C0
 #define dll_717_func_5D8 __dll717_dll_717_func_5D8

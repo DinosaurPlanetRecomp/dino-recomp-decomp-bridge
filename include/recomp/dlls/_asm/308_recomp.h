@@ -5,13 +5,13 @@
 
 #define dll_308_ctor __dll308_dll_308_ctor
 #define dll_308_dtor __dll308_dll_308_dtor
-#define dll_308_create __dll308_dll_308_create
+#define dll_308_setup __dll308_dll_308_setup
+#define dll_308_control __dll308_dll_308_control
 #define dll_308_update __dll308_dll_308_update
-#define dll_308_func_3B8 __dll308_dll_308_func_3B8
-#define dll_308_draw __dll308_dll_308_draw
-#define dll_308_destroy __dll308_dll_308_destroy
+#define dll_308_print __dll308_dll_308_print
+#define dll_308_free __dll308_dll_308_free
 #define dll_308_get_model_flags __dll308_dll_308_get_model_flags
-#define dll_308_get_state_size __dll308_dll_308_get_state_size
+#define dll_308_get_data_size __dll308_dll_308_get_data_size
 #define dll_308_func_4C8 __dll308_dll_308_func_4C8
 #define str_0 __dll308_str_0
 

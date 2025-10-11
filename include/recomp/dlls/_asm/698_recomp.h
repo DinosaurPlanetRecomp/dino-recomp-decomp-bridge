@@ -5,13 +5,13 @@
 
 #define dll_698_ctor __dll698_dll_698_ctor
 #define dll_698_dtor __dll698_dll_698_dtor
-#define dll_698_create __dll698_dll_698_create
+#define dll_698_setup __dll698_dll_698_setup
+#define dll_698_control __dll698_dll_698_control
 #define dll_698_update __dll698_dll_698_update
-#define dll_698_func_4AC __dll698_dll_698_func_4AC
-#define dll_698_draw __dll698_dll_698_draw
-#define dll_698_destroy __dll698_dll_698_destroy
+#define dll_698_print __dll698_dll_698_print
+#define dll_698_free __dll698_dll_698_free
 #define dll_698_get_model_flags __dll698_dll_698_get_model_flags
-#define dll_698_get_state_size __dll698_dll_698_get_state_size
+#define dll_698_get_data_size __dll698_dll_698_get_data_size
 #define dll_698_func_564 __dll698_dll_698_func_564
 #define dll_698_func_6E4 __dll698_dll_698_func_6E4
 #define _rodata_0 __dll698__rodata_0

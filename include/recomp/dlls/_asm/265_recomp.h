@@ -5,13 +5,13 @@
 
 #define dll_265_ctor __dll265_dll_265_ctor
 #define dll_265_dtor __dll265_dll_265_dtor
-#define dll_265_create __dll265_dll_265_create
+#define dll_265_setup __dll265_dll_265_setup
+#define dll_265_control __dll265_dll_265_control
 #define dll_265_update __dll265_dll_265_update
-#define dll_265_func_22C __dll265_dll_265_func_22C
-#define dll_265_draw __dll265_dll_265_draw
-#define dll_265_destroy __dll265_dll_265_destroy
+#define dll_265_print __dll265_dll_265_print
+#define dll_265_free __dll265_dll_265_free
 #define dll_265_get_model_flags __dll265_dll_265_get_model_flags
-#define dll_265_get_state_size __dll265_dll_265_get_state_size
+#define dll_265_get_data_size __dll265_dll_265_get_data_size
 #define str_0 __dll265_str_0
 #define _rodata_30 __dll265__rodata_30
 

@@ -5,12 +5,12 @@
 
 #define animator_ctor __dll345_animator_ctor
 #define animator_dtor __dll345_animator_dtor
-#define animator_create __dll345_animator_create
+#define animator_setup __dll345_animator_setup
+#define animator_control __dll345_animator_control
 #define animator_update __dll345_animator_update
-#define animator_func_300 __dll345_animator_func_300
-#define animator_draw __dll345_animator_draw
-#define animator_destroy __dll345_animator_destroy
+#define animator_print __dll345_animator_print
+#define animator_free __dll345_animator_free
 #define animator_get_model_flags __dll345_animator_get_model_flags
-#define animator_get_state_size __dll345_animator_get_state_size
+#define animator_get_data_size __dll345_animator_get_data_size
 
 #endif //_DLL_345_RECOMP_H

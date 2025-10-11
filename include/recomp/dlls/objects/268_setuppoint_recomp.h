@@ -5,12 +5,12 @@
 
 #define setuppoint_ctor __dll268_setuppoint_ctor
 #define setuppoint_dtor __dll268_setuppoint_dtor
-#define setuppoint_create __dll268_setuppoint_create
+#define setuppoint_setup __dll268_setuppoint_setup
+#define setuppoint_control __dll268_setuppoint_control
 #define setuppoint_update __dll268_setuppoint_update
-#define setuppoint_func_64 __dll268_setuppoint_func_64
-#define setuppoint_draw __dll268_setuppoint_draw
-#define setuppoint_destroy __dll268_setuppoint_destroy
+#define setuppoint_print __dll268_setuppoint_print
+#define setuppoint_free __dll268_setuppoint_free
 #define setuppoint_get_model_flags __dll268_setuppoint_get_model_flags
-#define setuppoint_get_state_size __dll268_setuppoint_get_state_size
+#define setuppoint_get_data_size __dll268_setuppoint_get_data_size
 
 #endif //_DLL_268_RECOMP_H

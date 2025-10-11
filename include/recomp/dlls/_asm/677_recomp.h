@@ -5,13 +5,13 @@
 
 #define dll_677_ctor __dll677_dll_677_ctor
 #define dll_677_dtor __dll677_dll_677_dtor
-#define dll_677_create __dll677_dll_677_create
+#define dll_677_setup __dll677_dll_677_setup
+#define dll_677_control __dll677_dll_677_control
 #define dll_677_update __dll677_dll_677_update
-#define dll_677_func_7E0 __dll677_dll_677_func_7E0
-#define dll_677_draw __dll677_dll_677_draw
-#define dll_677_destroy __dll677_dll_677_destroy
+#define dll_677_print __dll677_dll_677_print
+#define dll_677_free __dll677_dll_677_free
 #define dll_677_get_model_flags __dll677_dll_677_get_model_flags
-#define dll_677_get_state_size __dll677_dll_677_get_state_size
+#define dll_677_get_data_size __dll677_dll_677_get_data_size
 #define dll_677_func_8B4 __dll677_dll_677_func_8B4
 #define dll_677_func_964 __dll677_dll_677_func_964
 #define dll_677_func_98C __dll677_dll_677_func_98C

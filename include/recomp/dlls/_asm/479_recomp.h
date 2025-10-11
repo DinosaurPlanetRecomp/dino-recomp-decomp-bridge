@@ -5,13 +5,13 @@
 
 #define dll_479_ctor __dll479_dll_479_ctor
 #define dll_479_dtor __dll479_dll_479_dtor
-#define dll_479_create __dll479_dll_479_create
+#define dll_479_setup __dll479_dll_479_setup
+#define dll_479_control __dll479_dll_479_control
 #define dll_479_update __dll479_dll_479_update
-#define dll_479_func_2D0 __dll479_dll_479_func_2D0
-#define dll_479_draw __dll479_dll_479_draw
-#define dll_479_destroy __dll479_dll_479_destroy
+#define dll_479_print __dll479_dll_479_print
+#define dll_479_free __dll479_dll_479_free
 #define dll_479_get_model_flags __dll479_dll_479_get_model_flags
-#define dll_479_get_state_size __dll479_dll_479_get_state_size
+#define dll_479_get_data_size __dll479_dll_479_get_data_size
 #define str_0 __dll479_str_0
 
 #endif //_DLL_479_RECOMP_H

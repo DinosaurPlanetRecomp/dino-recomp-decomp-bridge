@@ -5,13 +5,13 @@
 
 #define dll_471_ctor __dll471_dll_471_ctor
 #define dll_471_dtor __dll471_dll_471_dtor
-#define dll_471_create __dll471_dll_471_create
+#define dll_471_setup __dll471_dll_471_setup
+#define dll_471_control __dll471_dll_471_control
 #define dll_471_update __dll471_dll_471_update
-#define dll_471_func_2E8 __dll471_dll_471_func_2E8
-#define dll_471_draw __dll471_dll_471_draw
-#define dll_471_destroy __dll471_dll_471_destroy
+#define dll_471_print __dll471_dll_471_print
+#define dll_471_free __dll471_dll_471_free
 #define dll_471_get_model_flags __dll471_dll_471_get_model_flags
-#define dll_471_get_state_size __dll471_dll_471_get_state_size
+#define dll_471_get_data_size __dll471_dll_471_get_data_size
 #define _oob_rodata_0 __dll471__oob_rodata_0
 
 #endif //_DLL_471_RECOMP_H

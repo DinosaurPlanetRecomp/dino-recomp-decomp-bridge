@@ -5,13 +5,13 @@
 
 #define dll_272_ctor __dll272_dll_272_ctor
 #define dll_272_dtor __dll272_dll_272_dtor
-#define dll_272_create __dll272_dll_272_create
+#define dll_272_setup __dll272_dll_272_setup
+#define dll_272_control __dll272_dll_272_control
 #define dll_272_update __dll272_dll_272_update
-#define dll_272_func_994 __dll272_dll_272_func_994
-#define dll_272_draw __dll272_dll_272_draw
-#define dll_272_destroy __dll272_dll_272_destroy
+#define dll_272_print __dll272_dll_272_print
+#define dll_272_free __dll272_dll_272_free
 #define dll_272_get_model_flags __dll272_dll_272_get_model_flags
-#define dll_272_get_state_size __dll272_dll_272_get_state_size
+#define dll_272_get_data_size __dll272_dll_272_get_data_size
 #define dll_272_func_B24 __dll272_dll_272_func_B24
 #define dll_272_func_BF8 __dll272_dll_272_func_BF8
 #define dll_272_func_10C8 __dll272_dll_272_func_10C8

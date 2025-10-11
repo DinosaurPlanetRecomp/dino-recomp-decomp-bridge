@@ -5,13 +5,13 @@
 
 #define dll_638_ctor __dll638_dll_638_ctor
 #define dll_638_dtor __dll638_dll_638_dtor
-#define dll_638_func_18 __dll638_dll_638_func_18
-#define dll_638_func_260 __dll638_dll_638_func_260
-#define dll_638_func_51C __dll638_dll_638_func_51C
-#define dll_638_func_528 __dll638_dll_638_func_528
-#define dll_638_func_540 __dll638_dll_638_func_540
+#define dll_638_setup __dll638_dll_638_setup
+#define dll_638_control __dll638_dll_638_control
+#define dll_638_update __dll638_dll_638_update
+#define dll_638_print __dll638_dll_638_print
+#define dll_638_free __dll638_dll_638_free
 #define dll_638_get_model_flags __dll638_dll_638_get_model_flags
-#define dll_638_get_state_size __dll638_dll_638_get_state_size
+#define dll_638_get_data_size __dll638_dll_638_get_data_size
 #define dll_638_func_5E4 __dll638_dll_638_func_5E4
 #define dll_638_func_62C __dll638_dll_638_func_62C
 #define dll_638_func_6C4 __dll638_dll_638_func_6C4

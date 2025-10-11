@@ -5,13 +5,13 @@
 
 #define dll_575_ctor __dll575_dll_575_ctor
 #define dll_575_dtor __dll575_dll_575_dtor
-#define dll_575_create __dll575_dll_575_create
+#define dll_575_setup __dll575_dll_575_setup
+#define dll_575_control __dll575_dll_575_control
 #define dll_575_update __dll575_dll_575_update
-#define dll_575_func_770 __dll575_dll_575_func_770
-#define dll_575_draw __dll575_dll_575_draw
-#define dll_575_destroy __dll575_dll_575_destroy
+#define dll_575_print __dll575_dll_575_print
+#define dll_575_free __dll575_dll_575_free
 #define dll_575_get_model_flags __dll575_dll_575_get_model_flags
-#define dll_575_get_state_size __dll575_dll_575_get_state_size
+#define dll_575_get_data_size __dll575_dll_575_get_data_size
 #define str_0 __dll575_str_0
 #define _data_0 __dll575__data_0
 

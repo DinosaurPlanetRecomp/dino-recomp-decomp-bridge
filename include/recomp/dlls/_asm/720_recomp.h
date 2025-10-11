@@ -5,15 +5,15 @@
 
 #define dll_720_ctor __dll720_dll_720_ctor
 #define dll_720_dtor __dll720_dll_720_dtor
-#define dll_720_create __dll720_dll_720_create
+#define dll_720_setup __dll720_dll_720_setup
+#define dll_720_control __dll720_dll_720_control
 #define dll_720_update __dll720_dll_720_update
-#define dll_720_func_3AC __dll720_dll_720_func_3AC
-#define dll_720_draw __dll720_dll_720_draw
+#define dll_720_print __dll720_dll_720_print
 #define dll_720_func_3D0 __dll720_dll_720_func_3D0
 #define dll_720_func_3E4 __dll720_dll_720_func_3E4
-#define dll_720_destroy __dll720_dll_720_destroy
+#define dll_720_free __dll720_dll_720_free
 #define dll_720_get_model_flags __dll720_dll_720_get_model_flags
-#define dll_720_get_state_size __dll720_dll_720_get_state_size
+#define dll_720_get_data_size __dll720_dll_720_get_data_size
 #define dll_720_func_460 __dll720_dll_720_func_460
 #define dll_720_func_478 __dll720_dll_720_func_478
 #define _oob_rodata_0 __dll720__oob_rodata_0

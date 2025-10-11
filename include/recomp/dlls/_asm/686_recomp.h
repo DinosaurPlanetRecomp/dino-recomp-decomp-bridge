@@ -5,13 +5,13 @@
 
 #define dll_686_ctor __dll686_dll_686_ctor
 #define dll_686_dtor __dll686_dll_686_dtor
-#define dll_686_create __dll686_dll_686_create
+#define dll_686_setup __dll686_dll_686_setup
+#define dll_686_control __dll686_dll_686_control
 #define dll_686_update __dll686_dll_686_update
-#define dll_686_func_8B4 __dll686_dll_686_func_8B4
-#define dll_686_draw __dll686_dll_686_draw
-#define dll_686_destroy __dll686_dll_686_destroy
+#define dll_686_print __dll686_dll_686_print
+#define dll_686_free __dll686_dll_686_free
 #define dll_686_get_model_flags __dll686_dll_686_get_model_flags
-#define dll_686_get_state_size __dll686_dll_686_get_state_size
+#define dll_686_get_data_size __dll686_dll_686_get_data_size
 #define dll_686_func_9BC __dll686_dll_686_func_9BC
 #define dll_686_func_A24 __dll686_dll_686_func_A24
 #define dll_686_func_A50 __dll686_dll_686_func_A50

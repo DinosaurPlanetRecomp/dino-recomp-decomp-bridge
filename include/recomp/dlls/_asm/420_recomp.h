@@ -5,13 +5,13 @@
 
 #define dll_420_ctor __dll420_dll_420_ctor
 #define dll_420_dtor __dll420_dll_420_dtor
-#define dll_420_create __dll420_dll_420_create
+#define dll_420_setup __dll420_dll_420_setup
+#define dll_420_control __dll420_dll_420_control
 #define dll_420_update __dll420_dll_420_update
-#define dll_420_func_578 __dll420_dll_420_func_578
-#define dll_420_draw __dll420_dll_420_draw
-#define dll_420_destroy __dll420_dll_420_destroy
+#define dll_420_print __dll420_dll_420_print
+#define dll_420_free __dll420_dll_420_free
 #define dll_420_get_model_flags __dll420_dll_420_get_model_flags
-#define dll_420_get_state_size __dll420_dll_420_get_state_size
+#define dll_420_get_data_size __dll420_dll_420_get_data_size
 #define dll_420_func_AD8 __dll420_dll_420_func_AD8
 #define dll_420_func_DFC __dll420_dll_420_func_DFC
 #define dll_420_func_E28 __dll420_dll_420_func_E28

@@ -7,12 +7,12 @@
 #define dll_278_ctor __dll278_dll_278_ctor
 #define flameblast_dtor __dll278_flameblast_dtor
 #define dll_278_dtor __dll278_dll_278_dtor
-#define flameblast_create __dll278_flameblast_create
+#define flameblast_setup __dll278_flameblast_setup
+#define flameblast_control __dll278_flameblast_control
 #define flameblast_update __dll278_flameblast_update
-#define flameblast_func_274 __dll278_flameblast_func_274
-#define flameblast_draw __dll278_flameblast_draw
-#define flameblast_destroy __dll278_flameblast_destroy
+#define flameblast_print __dll278_flameblast_print
+#define flameblast_free __dll278_flameblast_free
 #define flameblast_get_model_flags __dll278_flameblast_get_model_flags
-#define flameblast_get_state_size __dll278_flameblast_get_state_size
+#define flameblast_get_data_size __dll278_flameblast_get_data_size
 
 #endif //_DLL_278_RECOMP_H

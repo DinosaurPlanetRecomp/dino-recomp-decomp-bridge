@@ -5,13 +5,13 @@
 
 #define cannon_claw_ctor __dll223_cannon_claw_ctor
 #define cannon_claw_dtor __dll223_cannon_claw_dtor
-#define cannon_claw_create __dll223_cannon_claw_create
-#define cannon_claw_update __dll223_cannon_claw_update
+#define cannon_claw_setup __dll223_cannon_claw_setup
+#define cannon_claw_control __dll223_cannon_claw_control
 #define cannon_claw_func_1B4 __dll223_cannon_claw_func_1B4
-#define cannon_claw_func_200 __dll223_cannon_claw_func_200
-#define cannon_claw_draw __dll223_cannon_claw_draw
-#define cannon_claw_destroy __dll223_cannon_claw_destroy
+#define cannon_claw_update __dll223_cannon_claw_update
+#define cannon_claw_print __dll223_cannon_claw_print
+#define cannon_claw_free __dll223_cannon_claw_free
 #define cannon_claw_get_model_flags __dll223_cannon_claw_get_model_flags
-#define cannon_claw_get_state_size __dll223_cannon_claw_get_state_size
+#define cannon_claw_get_data_size __dll223_cannon_claw_get_data_size
 
 #endif //_DLL_223_RECOMP_H

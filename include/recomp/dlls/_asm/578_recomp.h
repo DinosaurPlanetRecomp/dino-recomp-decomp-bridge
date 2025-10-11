@@ -5,13 +5,13 @@
 
 #define dll_578_ctor __dll578_dll_578_ctor
 #define dll_578_dtor __dll578_dll_578_dtor
-#define dll_578_create __dll578_dll_578_create
+#define dll_578_setup __dll578_dll_578_setup
+#define dll_578_control __dll578_dll_578_control
 #define dll_578_update __dll578_dll_578_update
-#define dll_578_func_2CC __dll578_dll_578_func_2CC
-#define dll_578_draw __dll578_dll_578_draw
-#define dll_578_destroy __dll578_dll_578_destroy
+#define dll_578_print __dll578_dll_578_print
+#define dll_578_free __dll578_dll_578_free
 #define dll_578_get_model_flags __dll578_dll_578_get_model_flags
-#define dll_578_get_state_size __dll578_dll_578_get_state_size
+#define dll_578_get_data_size __dll578_dll_578_get_data_size
 #define dll_578_func_408 __dll578_dll_578_func_408
 
 #endif //_DLL_578_RECOMP_H

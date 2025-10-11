@@ -5,13 +5,13 @@
 
 #define dll_488_ctor __dll488_dll_488_ctor
 #define dll_488_dtor __dll488_dll_488_dtor
-#define dll_488_create __dll488_dll_488_create
+#define dll_488_setup __dll488_dll_488_setup
+#define dll_488_control __dll488_dll_488_control
 #define dll_488_update __dll488_dll_488_update
-#define dll_488_func_BC4 __dll488_dll_488_func_BC4
-#define dll_488_draw __dll488_dll_488_draw
-#define dll_488_destroy __dll488_dll_488_destroy
+#define dll_488_print __dll488_dll_488_print
+#define dll_488_free __dll488_dll_488_free
 #define dll_488_get_model_flags __dll488_dll_488_get_model_flags
-#define dll_488_get_state_size __dll488_dll_488_get_state_size
+#define dll_488_get_data_size __dll488_dll_488_get_data_size
 #define dll_488_func_C90 __dll488_dll_488_func_C90
 #define dll_488_func_FEC __dll488_dll_488_func_FEC
 #define str_0 __dll488_str_0

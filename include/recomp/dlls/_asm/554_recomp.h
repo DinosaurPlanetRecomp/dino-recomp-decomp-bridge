@@ -5,13 +5,13 @@
 
 #define dll_554_ctor __dll554_dll_554_ctor
 #define dll_554_dtor __dll554_dll_554_dtor
-#define dll_554_create __dll554_dll_554_create
+#define dll_554_setup __dll554_dll_554_setup
+#define dll_554_control __dll554_dll_554_control
 #define dll_554_update __dll554_dll_554_update
-#define dll_554_func_158 __dll554_dll_554_func_158
-#define dll_554_draw __dll554_dll_554_draw
-#define dll_554_destroy __dll554_dll_554_destroy
+#define dll_554_print __dll554_dll_554_print
+#define dll_554_free __dll554_dll_554_free
 #define dll_554_get_model_flags __dll554_dll_554_get_model_flags
-#define dll_554_get_state_size __dll554_dll_554_get_state_size
+#define dll_554_get_data_size __dll554_dll_554_get_data_size
 #define dll_554_func_254 __dll554_dll_554_func_254
 
 #endif //_DLL_554_RECOMP_H

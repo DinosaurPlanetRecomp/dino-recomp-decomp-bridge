@@ -5,12 +5,12 @@
 
 #define dll_299_ctor __dll299_dll_299_ctor
 #define dll_299_dtor __dll299_dll_299_dtor
-#define dll_299_create __dll299_dll_299_create
+#define dll_299_setup __dll299_dll_299_setup
+#define dll_299_control __dll299_dll_299_control
 #define dll_299_update __dll299_dll_299_update
-#define dll_299_func_38 __dll299_dll_299_func_38
-#define dll_299_draw __dll299_dll_299_draw
-#define dll_299_destroy __dll299_dll_299_destroy
+#define dll_299_print __dll299_dll_299_print
+#define dll_299_free __dll299_dll_299_free
 #define dll_299_get_model_flags __dll299_dll_299_get_model_flags
-#define dll_299_get_state_size __dll299_dll_299_get_state_size
+#define dll_299_get_data_size __dll299_dll_299_get_data_size
 
 #endif //_DLL_299_RECOMP_H

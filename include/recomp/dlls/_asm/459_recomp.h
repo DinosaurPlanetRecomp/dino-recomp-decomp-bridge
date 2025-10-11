@@ -5,13 +5,13 @@
 
 #define dll_459_ctor __dll459_dll_459_ctor
 #define dll_459_dtor __dll459_dll_459_dtor
-#define dll_459_create __dll459_dll_459_create
+#define dll_459_setup __dll459_dll_459_setup
+#define dll_459_control __dll459_dll_459_control
 #define dll_459_update __dll459_dll_459_update
-#define dll_459_func_1BC __dll459_dll_459_func_1BC
-#define dll_459_draw __dll459_dll_459_draw
-#define dll_459_destroy __dll459_dll_459_destroy
+#define dll_459_print __dll459_dll_459_print
+#define dll_459_free __dll459_dll_459_free
 #define dll_459_get_model_flags __dll459_dll_459_get_model_flags
-#define dll_459_get_state_size __dll459_dll_459_get_state_size
+#define dll_459_get_data_size __dll459_dll_459_get_data_size
 #define dll_459_func_214 __dll459_dll_459_func_214
 #define dll_459_func_3F8 __dll459_dll_459_func_3F8
 #define dll_459_func_48C __dll459_dll_459_func_48C

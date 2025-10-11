@@ -5,13 +5,13 @@
 
 #define dll_592_ctor __dll592_dll_592_ctor
 #define dll_592_dtor __dll592_dll_592_dtor
-#define dll_592_create __dll592_dll_592_create
+#define dll_592_setup __dll592_dll_592_setup
+#define dll_592_control __dll592_dll_592_control
 #define dll_592_update __dll592_dll_592_update
-#define dll_592_func_294 __dll592_dll_592_func_294
-#define dll_592_draw __dll592_dll_592_draw
-#define dll_592_destroy __dll592_dll_592_destroy
+#define dll_592_print __dll592_dll_592_print
+#define dll_592_free __dll592_dll_592_free
 #define dll_592_get_model_flags __dll592_dll_592_get_model_flags
-#define dll_592_get_state_size __dll592_dll_592_get_state_size
+#define dll_592_get_data_size __dll592_dll_592_get_data_size
 #define dll_592_func_328 __dll592_dll_592_func_328
 #define _data_0 __dll592__data_0
 

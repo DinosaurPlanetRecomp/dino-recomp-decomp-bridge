@@ -5,13 +5,13 @@
 
 #define dll_772_ctor __dll772_dll_772_ctor
 #define dll_772_dtor __dll772_dll_772_dtor
-#define dll_772_create __dll772_dll_772_create
+#define dll_772_setup __dll772_dll_772_setup
+#define dll_772_control __dll772_dll_772_control
 #define dll_772_update __dll772_dll_772_update
-#define dll_772_func_170 __dll772_dll_772_func_170
-#define dll_772_draw __dll772_dll_772_draw
-#define dll_772_destroy __dll772_dll_772_destroy
+#define dll_772_print __dll772_dll_772_print
+#define dll_772_free __dll772_dll_772_free
 #define dll_772_get_model_flags __dll772_dll_772_get_model_flags
-#define dll_772_get_state_size __dll772_dll_772_get_state_size
+#define dll_772_get_data_size __dll772_dll_772_get_data_size
 #define _rodata_0 __dll772__rodata_0
 
 #endif //_DLL_772_RECOMP_H

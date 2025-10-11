@@ -5,13 +5,13 @@
 
 #define dll_391_ctor __dll391_dll_391_ctor
 #define dll_391_dtor __dll391_dll_391_dtor
-#define dll_391_create __dll391_dll_391_create
+#define dll_391_setup __dll391_dll_391_setup
+#define dll_391_control __dll391_dll_391_control
 #define dll_391_update __dll391_dll_391_update
-#define dll_391_func_3E0 __dll391_dll_391_func_3E0
-#define dll_391_draw __dll391_dll_391_draw
-#define dll_391_destroy __dll391_dll_391_destroy
+#define dll_391_print __dll391_dll_391_print
+#define dll_391_free __dll391_dll_391_free
 #define dll_391_get_model_flags __dll391_dll_391_get_model_flags
-#define dll_391_get_state_size __dll391_dll_391_get_state_size
+#define dll_391_get_data_size __dll391_dll_391_get_data_size
 #define dll_391_func_55C __dll391_dll_391_func_55C
 #define dll_391_func_5A4 __dll391_dll_391_func_5A4
 #define dll_391_func_66C __dll391_dll_391_func_66C

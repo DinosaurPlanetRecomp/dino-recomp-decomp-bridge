@@ -5,18 +5,18 @@
 
 #define dll_316_ctor __dll316_dll_316_ctor
 #define dll_316_dtor __dll316_dll_316_dtor
-#define dll_316_create __dll316_dll_316_create
-#define dll_316_update __dll316_dll_316_update
+#define dll_316_setup __dll316_dll_316_setup
+#define dll_316_control __dll316_dll_316_control
 #define dll_316_func_B4C __dll316_dll_316_func_B4C
 #define dll_316_func_C94 __dll316_dll_316_func_C94
 #define dll_316_func_DB0 __dll316_dll_316_func_DB0
 #define dll_316_func_E44 __dll316_dll_316_func_E44
 #define dll_316_func_EB8 __dll316_dll_316_func_EB8
-#define dll_316_func_F80 __dll316_dll_316_func_F80
-#define dll_316_draw __dll316_dll_316_draw
-#define dll_316_destroy __dll316_dll_316_destroy
+#define dll_316_update __dll316_dll_316_update
+#define dll_316_print __dll316_dll_316_print
+#define dll_316_free __dll316_dll_316_free
 #define dll_316_get_model_flags __dll316_dll_316_get_model_flags
-#define dll_316_get_state_size __dll316_dll_316_get_state_size
+#define dll_316_get_data_size __dll316_dll_316_get_data_size
 #define dll_316_func_10D0 __dll316_dll_316_func_10D0
 #define dll_316_func_10E0 __dll316_dll_316_func_10E0
 #define dll_316_func_10F0 __dll316_dll_316_func_10F0

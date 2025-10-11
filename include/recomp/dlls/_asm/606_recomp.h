@@ -5,13 +5,13 @@
 
 #define dll_606_ctor __dll606_dll_606_ctor
 #define dll_606_dtor __dll606_dll_606_dtor
-#define dll_606_create __dll606_dll_606_create
+#define dll_606_setup __dll606_dll_606_setup
+#define dll_606_control __dll606_dll_606_control
 #define dll_606_update __dll606_dll_606_update
-#define dll_606_func_420 __dll606_dll_606_func_420
-#define dll_606_draw __dll606_dll_606_draw
-#define dll_606_destroy __dll606_dll_606_destroy
+#define dll_606_print __dll606_dll_606_print
+#define dll_606_free __dll606_dll_606_free
 #define dll_606_get_model_flags __dll606_dll_606_get_model_flags
-#define dll_606_get_state_size __dll606_dll_606_get_state_size
+#define dll_606_get_data_size __dll606_dll_606_get_data_size
 #define _data_0 __dll606__data_0
 #define _data_4 __dll606__data_4
 #define _data_8 __dll606__data_8

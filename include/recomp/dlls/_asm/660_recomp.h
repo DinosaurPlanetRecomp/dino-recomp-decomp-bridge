@@ -5,13 +5,13 @@
 
 #define dll_660_ctor __dll660_dll_660_ctor
 #define dll_660_dtor __dll660_dll_660_dtor
-#define dll_660_create __dll660_dll_660_create
+#define dll_660_setup __dll660_dll_660_setup
+#define dll_660_control __dll660_dll_660_control
 #define dll_660_update __dll660_dll_660_update
-#define dll_660_func_328 __dll660_dll_660_func_328
-#define dll_660_draw __dll660_dll_660_draw
-#define dll_660_destroy __dll660_dll_660_destroy
+#define dll_660_print __dll660_dll_660_print
+#define dll_660_free __dll660_dll_660_free
 #define dll_660_get_model_flags __dll660_dll_660_get_model_flags
-#define dll_660_get_state_size __dll660_dll_660_get_state_size
+#define dll_660_get_data_size __dll660_dll_660_get_data_size
 #define _data_0 __dll660__data_0
 #define _data_4 __dll660__data_4
 

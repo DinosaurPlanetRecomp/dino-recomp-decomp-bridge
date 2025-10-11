@@ -5,13 +5,13 @@
 
 #define dll_786_ctor __dll786_dll_786_ctor
 #define dll_786_dtor __dll786_dll_786_dtor
-#define dll_786_create __dll786_dll_786_create
+#define dll_786_setup __dll786_dll_786_setup
+#define dll_786_control __dll786_dll_786_control
 #define dll_786_update __dll786_dll_786_update
-#define dll_786_func_284 __dll786_dll_786_func_284
-#define dll_786_draw __dll786_dll_786_draw
-#define dll_786_destroy __dll786_dll_786_destroy
+#define dll_786_print __dll786_dll_786_print
+#define dll_786_free __dll786_dll_786_free
 #define dll_786_get_model_flags __dll786_dll_786_get_model_flags
-#define dll_786_get_state_size __dll786_dll_786_get_state_size
+#define dll_786_get_data_size __dll786_dll_786_get_data_size
 #define _oob_rodata_0 __dll786__oob_rodata_0
 
 #endif //_DLL_786_RECOMP_H

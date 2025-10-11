@@ -5,13 +5,13 @@
 
 #define dll_557_ctor __dll557_dll_557_ctor
 #define dll_557_dtor __dll557_dll_557_dtor
-#define dll_557_create __dll557_dll_557_create
+#define dll_557_setup __dll557_dll_557_setup
+#define dll_557_control __dll557_dll_557_control
 #define dll_557_update __dll557_dll_557_update
-#define dll_557_func_478 __dll557_dll_557_func_478
-#define dll_557_draw __dll557_dll_557_draw
-#define dll_557_destroy __dll557_dll_557_destroy
+#define dll_557_print __dll557_dll_557_print
+#define dll_557_free __dll557_dll_557_free
 #define dll_557_get_model_flags __dll557_dll_557_get_model_flags
-#define dll_557_get_state_size __dll557_dll_557_get_state_size
+#define dll_557_get_data_size __dll557_dll_557_get_data_size
 #define dll_557_func_4D0 __dll557_dll_557_func_4D0
 #define str_0 __dll557_str_0
 

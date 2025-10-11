@@ -5,13 +5,13 @@
 
 #define VFP_lavastar_ctor __dll636_VFP_lavastar_ctor
 #define VFP_lavastar_dtor __dll636_VFP_lavastar_dtor
-#define VFP_lavastar_create __dll636_VFP_lavastar_create
+#define VFP_lavastar_setup __dll636_VFP_lavastar_setup
+#define VFP_lavastar_control __dll636_VFP_lavastar_control
 #define VFP_lavastar_update __dll636_VFP_lavastar_update
-#define VFP_lavastar_func_2BC __dll636_VFP_lavastar_func_2BC
-#define VFP_lavastar_draw __dll636_VFP_lavastar_draw
-#define VFP_lavastar_destroy __dll636_VFP_lavastar_destroy
+#define VFP_lavastar_print __dll636_VFP_lavastar_print
+#define VFP_lavastar_free __dll636_VFP_lavastar_free
 #define VFP_lavastar_get_model_flags __dll636_VFP_lavastar_get_model_flags
-#define VFP_lavastar_get_state_size __dll636_VFP_lavastar_get_state_size
+#define VFP_lavastar_get_data_size __dll636_VFP_lavastar_get_data_size
 #define sDLL_182 __dll636_sDLL_182
 
 #endif //_DLL_636_RECOMP_H

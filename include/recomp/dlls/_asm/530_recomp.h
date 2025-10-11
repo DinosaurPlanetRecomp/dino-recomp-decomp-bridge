@@ -5,13 +5,13 @@
 
 #define dll_530_ctor __dll530_dll_530_ctor
 #define dll_530_dtor __dll530_dll_530_dtor
-#define dll_530_create __dll530_dll_530_create
+#define dll_530_setup __dll530_dll_530_setup
+#define dll_530_control __dll530_dll_530_control
 #define dll_530_update __dll530_dll_530_update
-#define dll_530_func_388 __dll530_dll_530_func_388
-#define dll_530_draw __dll530_dll_530_draw
-#define dll_530_destroy __dll530_dll_530_destroy
+#define dll_530_print __dll530_dll_530_print
+#define dll_530_free __dll530_dll_530_free
 #define dll_530_get_model_flags __dll530_dll_530_get_model_flags
-#define dll_530_get_state_size __dll530_dll_530_get_state_size
+#define dll_530_get_data_size __dll530_dll_530_get_data_size
 #define dll_530_func_4FC __dll530_dll_530_func_4FC
 #define dll_530_func_59C __dll530_dll_530_func_59C
 #define _oob_rodata_0 __dll530__oob_rodata_0

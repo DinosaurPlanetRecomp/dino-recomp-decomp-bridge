@@ -5,13 +5,13 @@
 
 #define dll_253_ctor __dll253_dll_253_ctor
 #define dll_253_dtor __dll253_dll_253_dtor
-#define dll_253_create __dll253_dll_253_create
+#define dll_253_setup __dll253_dll_253_setup
+#define dll_253_control __dll253_dll_253_control
 #define dll_253_update __dll253_dll_253_update
-#define dll_253_func_2C4 __dll253_dll_253_func_2C4
-#define dll_253_draw __dll253_dll_253_draw
-#define dll_253_destroy __dll253_dll_253_destroy
+#define dll_253_print __dll253_dll_253_print
+#define dll_253_free __dll253_dll_253_free
 #define dll_253_get_model_flags __dll253_dll_253_get_model_flags
-#define dll_253_get_state_size __dll253_dll_253_get_state_size
+#define dll_253_get_data_size __dll253_dll_253_get_data_size
 #define _rodata_0 __dll253__rodata_0
 #define _rodata_4 __dll253__rodata_4
 

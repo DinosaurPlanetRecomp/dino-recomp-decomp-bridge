@@ -5,14 +5,14 @@
 
 #define dll_399_ctor __dll399_dll_399_ctor
 #define dll_399_dtor __dll399_dll_399_dtor
-#define dll_399_create __dll399_dll_399_create
+#define dll_399_setup __dll399_dll_399_setup
+#define dll_399_control __dll399_dll_399_control
 #define dll_399_update __dll399_dll_399_update
-#define dll_399_func_3C0 __dll399_dll_399_func_3C0
-#define dll_399_draw __dll399_dll_399_draw
+#define dll_399_print __dll399_dll_399_print
 #define dll_399_func_4E0 __dll399_dll_399_func_4E0
-#define dll_399_destroy __dll399_dll_399_destroy
+#define dll_399_free __dll399_dll_399_free
 #define dll_399_get_model_flags __dll399_dll_399_get_model_flags
-#define dll_399_get_state_size __dll399_dll_399_get_state_size
+#define dll_399_get_data_size __dll399_dll_399_get_data_size
 #define str_0 __dll399_str_0
 
 #endif //_DLL_399_RECOMP_H

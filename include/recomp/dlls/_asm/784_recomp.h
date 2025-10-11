@@ -5,13 +5,13 @@
 
 #define dll_784_ctor __dll784_dll_784_ctor
 #define dll_784_dtor __dll784_dll_784_dtor
-#define dll_784_create __dll784_dll_784_create
+#define dll_784_setup __dll784_dll_784_setup
+#define dll_784_control __dll784_dll_784_control
 #define dll_784_update __dll784_dll_784_update
-#define dll_784_func_120 __dll784_dll_784_func_120
-#define dll_784_draw __dll784_dll_784_draw
-#define dll_784_destroy __dll784_dll_784_destroy
+#define dll_784_print __dll784_dll_784_print
+#define dll_784_free __dll784_dll_784_free
 #define dll_784_get_model_flags __dll784_dll_784_get_model_flags
-#define dll_784_get_state_size __dll784_dll_784_get_state_size
+#define dll_784_get_data_size __dll784_dll_784_get_data_size
 #define dll_784_func_2A0 __dll784_dll_784_func_2A0
 #define _oob_rodata_0 __dll784__oob_rodata_0
 

@@ -5,12 +5,12 @@
 
 #define dll_416_ctor __dll416_dll_416_ctor
 #define dll_416_dtor __dll416_dll_416_dtor
-#define dll_416_create __dll416_dll_416_create
+#define dll_416_setup __dll416_dll_416_setup
+#define dll_416_control __dll416_dll_416_control
 #define dll_416_update __dll416_dll_416_update
-#define dll_416_func_380 __dll416_dll_416_func_380
-#define dll_416_draw __dll416_dll_416_draw
-#define dll_416_destroy __dll416_dll_416_destroy
+#define dll_416_print __dll416_dll_416_print
+#define dll_416_free __dll416_dll_416_free
 #define dll_416_get_model_flags __dll416_dll_416_get_model_flags
-#define dll_416_get_state_size __dll416_dll_416_get_state_size
+#define dll_416_get_data_size __dll416_dll_416_get_data_size
 
 #endif //_DLL_416_RECOMP_H

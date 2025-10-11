@@ -5,13 +5,13 @@
 
 #define dll_744_ctor __dll744_dll_744_ctor
 #define dll_744_dtor __dll744_dll_744_dtor
-#define dll_744_create __dll744_dll_744_create
+#define dll_744_setup __dll744_dll_744_setup
+#define dll_744_control __dll744_dll_744_control
 #define dll_744_update __dll744_dll_744_update
-#define dll_744_func_300 __dll744_dll_744_func_300
-#define dll_744_draw __dll744_dll_744_draw
-#define dll_744_destroy __dll744_dll_744_destroy
+#define dll_744_print __dll744_dll_744_print
+#define dll_744_free __dll744_dll_744_free
 #define dll_744_get_model_flags __dll744_dll_744_get_model_flags
-#define dll_744_get_state_size __dll744_dll_744_get_state_size
+#define dll_744_get_data_size __dll744_dll_744_get_data_size
 #define dll_744_func_3C4 __dll744_dll_744_func_3C4
 #define dll_744_func_3F4 __dll744_dll_744_func_3F4
 #define str_0 __dll744_str_0

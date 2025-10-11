@@ -5,13 +5,13 @@
 
 #define dll_389_ctor __dll389_dll_389_ctor
 #define dll_389_dtor __dll389_dll_389_dtor
-#define dll_389_create __dll389_dll_389_create
+#define dll_389_setup __dll389_dll_389_setup
+#define dll_389_control __dll389_dll_389_control
 #define dll_389_update __dll389_dll_389_update
-#define dll_389_func_3D8 __dll389_dll_389_func_3D8
-#define dll_389_draw __dll389_dll_389_draw
-#define dll_389_destroy __dll389_dll_389_destroy
+#define dll_389_print __dll389_dll_389_print
+#define dll_389_free __dll389_dll_389_free
 #define dll_389_get_model_flags __dll389_dll_389_get_model_flags
-#define dll_389_get_state_size __dll389_dll_389_get_state_size
+#define dll_389_get_data_size __dll389_dll_389_get_data_size
 #define dll_389_func_490 __dll389_dll_389_func_490
 #define str_0 __dll389_str_0
 #define _data_0 __dll389__data_0
