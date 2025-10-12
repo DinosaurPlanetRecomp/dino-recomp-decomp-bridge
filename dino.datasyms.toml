@@ -12776,21 +12776,6 @@ vram = 0x8130903C
 size = 0x1690
 
 symbols = [
-    { name = "__dll472_str_0", vram = 0x8130A5B4 },
-    { name = "__dll472_str_14", vram = 0x8130A5C8 },
-    { name = "__dll472_str_28", vram = 0x8130A5DC },
-    { name = "__dll472__rodata_34", vram = 0x8130A5E8 },
-    { name = "__dll472__rodata_38", vram = 0x8130A5EC },
-    { name = "__dll472__rodata_3C", vram = 0x8130A5F0 },
-    { name = "__dll472__rodata_40", vram = 0x8130A5F4 },
-    { name = "__dll472__rodata_44", vram = 0x8130A5F8 },
-    { name = "__dll472__rodata_48", vram = 0x8130A5FC },
-    { name = "__dll472__rodata_4C", vram = 0x8130A600 },
-    { name = "__dll472__rodata_50", vram = 0x8130A604 },
-    { name = "__dll472__rodata_54", vram = 0x8130A608 },
-    { name = "__dll472__rodata_58", vram = 0x8130A60C },
-    { name = "__dll472__rodata_5C", vram = 0x8130A610 },
-    { name = "__dll472__rodata_60", vram = 0x8130A614 },
     { name = "__dll472__data_0", vram = 0x8130A674 },
     { name = "__dll472__bss_0", vram = 0x8130A684 },
     { name = "__dll472__bss_8", vram = 0x8130A68C },
@@ -12825,8 +12810,6 @@ vram = 0x8130D03C
 size = 0xB40
 
 symbols = [
-    { name = "__dll475__rodata_0", vram = 0x8130DB1C },
-    { name = "__dll475__rodata_4", vram = 0x8130DB20 },
     { name = "__dll475__data_0", vram = 0x8130DB2C },
 ]
 

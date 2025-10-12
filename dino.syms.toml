@@ -19398,17 +19398,17 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll472_dll_472_ctor", vram = 0x8130903C, size = 0xC },
-    { name = "__dll472_dll_472_dtor", vram = 0x81309048, size = 0xC },
-    { name = "__dll472_dll_472_setup", vram = 0x81309054, size = 0x278 },
-    { name = "__dll472_dll_472_control", vram = 0x813092CC, size = 0xC80 },
-    { name = "__dll472_dll_472_update", vram = 0x81309F4C, size = 0xC },
-    { name = "__dll472_dll_472_print", vram = 0x81309F58, size = 0x54 },
-    { name = "__dll472_dll_472_free", vram = 0x81309FAC, size = 0x90 },
-    { name = "__dll472_dll_472_get_model_flags", vram = 0x8130A03C, size = 0x10 },
-    { name = "__dll472_dll_472_get_data_size", vram = 0x8130A04C, size = 0x14 },
-    { name = "__dll472_dll_472_func_1024", vram = 0x8130A060, size = 0x3BC },
-    { name = "__dll472_dll_472_func_13E0", vram = 0x8130A41C, size = 0x110 },
+    { name = "__dll472_GPSH_Shrine_ctor", vram = 0x8130903C, size = 0xC },
+    { name = "__dll472_GPSH_Shrine_dtor", vram = 0x81309048, size = 0xC },
+    { name = "__dll472_GPSH_Shrine_setup", vram = 0x81309054, size = 0x278 },
+    { name = "__dll472_GPSH_Shrine_control", vram = 0x813092CC, size = 0xC80 },
+    { name = "__dll472_GPSH_Shrine_update", vram = 0x81309F4C, size = 0xC },
+    { name = "__dll472_GPSH_Shrine_print", vram = 0x81309F58, size = 0x54 },
+    { name = "__dll472_GPSH_Shrine_free", vram = 0x81309FAC, size = 0x90 },
+    { name = "__dll472_GPSH_Shrine_get_model_flags", vram = 0x8130A03C, size = 0x10 },
+    { name = "__dll472_GPSH_Shrine_get_data_size", vram = 0x8130A04C, size = 0x14 },
+    { name = "__dll472_GPSH_Shrine_func_1024", vram = 0x8130A060, size = 0x3BC },
+    { name = "__dll472_GPSH_Shrine_func_13E0", vram = 0x8130A41C, size = 0x110 },
 ]
 
 [[section]]
@@ -19482,17 +19482,17 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll475_dll_475_ctor", vram = 0x8130D03C, size = 0xC },
-    { name = "__dll475_dll_475_dtor", vram = 0x8130D048, size = 0xC },
-    { name = "__dll475_dll_475_setup", vram = 0x8130D054, size = 0x184 },
-    { name = "__dll475_dll_475_control", vram = 0x8130D1D8, size = 0x424 },
-    { name = "__dll475_dll_475_update", vram = 0x8130D5FC, size = 0xC },
-    { name = "__dll475_dll_475_print", vram = 0x8130D608, size = 0x54 },
-    { name = "__dll475_dll_475_free", vram = 0x8130D65C, size = 0x10 },
-    { name = "__dll475_dll_475_get_model_flags", vram = 0x8130D66C, size = 0x10 },
-    { name = "__dll475_dll_475_get_data_size", vram = 0x8130D67C, size = 0x14 },
-    { name = "__dll475_dll_475_func_654", vram = 0x8130D690, size = 0x1A4 },
-    { name = "__dll475_dll_475_func_7F8", vram = 0x8130D834, size = 0x278 },
+    { name = "__dll475_GPSH_flybaddie_ctor", vram = 0x8130D03C, size = 0xC },
+    { name = "__dll475_GPSH_flybaddie_dtor", vram = 0x8130D048, size = 0xC },
+    { name = "__dll475_GPSH_flybaddie_setup", vram = 0x8130D054, size = 0x184 },
+    { name = "__dll475_GPSH_flybaddie_control", vram = 0x8130D1D8, size = 0x424 },
+    { name = "__dll475_GPSH_flybaddie_update", vram = 0x8130D5FC, size = 0xC },
+    { name = "__dll475_GPSH_flybaddie_print", vram = 0x8130D608, size = 0x54 },
+    { name = "__dll475_GPSH_flybaddie_free", vram = 0x8130D65C, size = 0x10 },
+    { name = "__dll475_GPSH_flybaddie_get_model_flags", vram = 0x8130D66C, size = 0x10 },
+    { name = "__dll475_GPSH_flybaddie_get_data_size", vram = 0x8130D67C, size = 0x14 },
+    { name = "__dll475_GPSH_flybaddie_func_654", vram = 0x8130D690, size = 0x1A4 },
+    { name = "__dll475_GPSH_flybaddie_func_7F8", vram = 0x8130D834, size = 0x278 },
 ]
 
 [[section]]
