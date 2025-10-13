@@ -16,7 +16,7 @@
 #define pressureswitch_get_data_size __dll287_pressureswitch_get_data_size
 #define pressureswitch_add_object __dll287_pressureswitch_add_object
 #define pressureswitch_is_object_on_switch __dll287_pressureswitch_is_object_on_switch
-#define pressureswitch_callbackBC __dll287_pressureswitch_callbackBC
+#define pressureswitch_anim_callback __dll287_pressureswitch_anim_callback
 #define str_0 __dll287_str_0
 
 #endif //_DLL_287_RECOMP_H

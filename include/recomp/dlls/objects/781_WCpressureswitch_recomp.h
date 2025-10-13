@@ -14,7 +14,7 @@
 #define WCpressureswitch_get_data_size __dll781_WCpressureswitch_get_data_size
 #define WCpressureswitch_add_object __dll781_WCpressureswitch_add_object
 #define WCpressureswitch_is_object_on_switch __dll781_WCpressureswitch_is_object_on_switch
-#define WCpressureswitch_callbackBC __dll781_WCpressureswitch_callbackBC
+#define WCpressureswitch_anim_callback __dll781_WCpressureswitch_anim_callback
 #define str_0 __dll781_str_0
 
 #endif //_DLL_781_RECOMP_H

@@ -5,11 +5,11 @@
 
 #define dll_297_ctor __dll297_dll_297_ctor
 #define dll_297_dtor __dll297_dll_297_dtor
-#define dll_295_setup __dll297_dll_295_setup
-#define dll_295_control __dll297_dll_295_control
-#define dll_295_update __dll297_dll_295_update
-#define dll_295_print __dll297_dll_295_print
-#define dll_295_free __dll297_dll_295_free
+#define dll_297_setup __dll297_dll_297_setup
+#define dll_297_control __dll297_dll_297_control
+#define dll_297_update __dll297_dll_297_update
+#define dll_297_print __dll297_dll_297_print
+#define dll_297_free __dll297_dll_297_free
 #define dll_297_get_model_flags __dll297_dll_297_get_model_flags
 #define dll_297_get_data_size __dll297_dll_297_get_data_size
 #define dll_297_func_1284 __dll297_dll_297_func_1284

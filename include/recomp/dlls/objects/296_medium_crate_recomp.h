@@ -3,16 +3,16 @@
 #ifndef _DLL_296_RECOMP_H
 #define _DLL_296_RECOMP_H
 
-#define dll_296_ctor __dll296_dll_296_ctor
-#define dll_296_dtor __dll296_dll_296_dtor
-#define dll_295_setup __dll296_dll_295_setup
-#define dll_295_control __dll296_dll_295_control
-#define dll_295_update __dll296_dll_295_update
-#define dll_295_print __dll296_dll_295_print
-#define dll_295_free __dll296_dll_295_free
-#define dll_296_get_model_flags __dll296_dll_296_get_model_flags
-#define dll_296_get_data_size __dll296_dll_296_get_data_size
-#define dll_296_func_C50 __dll296_dll_296_func_C50
+#define medium_crate_ctor __dll296_medium_crate_ctor
+#define medium_crate_dtor __dll296_medium_crate_dtor
+#define medium_crate_setup __dll296_medium_crate_setup
+#define medium_crate_control __dll296_medium_crate_control
+#define medium_crate_update __dll296_medium_crate_update
+#define medium_crate_print __dll296_medium_crate_print
+#define medium_crate_free __dll296_medium_crate_free
+#define medium_crate_get_model_flags __dll296_medium_crate_get_model_flags
+#define medium_crate_get_data_size __dll296_medium_crate_get_data_size
+#define medium_crate_func_C50 __dll296_medium_crate_func_C50
 #define _rodata_0 __dll296__rodata_0
 #define _rodata_4 __dll296__rodata_4
 #define _rodata_8 __dll296__rodata_8

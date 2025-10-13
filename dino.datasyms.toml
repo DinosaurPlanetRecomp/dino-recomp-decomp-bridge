@@ -14239,7 +14239,6 @@ vram = 0x8139203C
 size = 0x9C0
 
 symbols = [
-    { name = "__dll581__rodata_0", vram = 0x813929A8 },
 ]
 
 [[section]]
@@ -14258,8 +14257,8 @@ vram = 0x8139403C
 size = 0x470
 
 symbols = [
-    { name = "__dll583__data_0", vram = 0x81394454 },
-    { name = "__dll583__data_4", vram = 0x81394458 },
+    { name = "__dll583_soundIDs", vram = 0x81394454 },
+    { name = "__dll583_dataUnused", vram = 0x81394458 },
 ]
 
 [[section]]
@@ -14340,9 +14339,9 @@ vram = 0x8139B03C
 size = 0xA80
 
 symbols = [
-    { name = "__dll590__data_0", vram = 0x8139BA54 },
-    { name = "__dll590__data_8", vram = 0x8139BA5C },
-    { name = "__dll590__data_C", vram = 0x8139BA60 },
+    { name = "__dll590_dataShowKrystalsAdventureScreen", vram = 0x8139BA54 },
+    { name = "__dll590_dataDLLUnused", vram = 0x8139BA5C },
+    { name = "__dll590_dataDelayByte", vram = 0x8139BA60 },
     { name = "__dll590__data_10", vram = 0x8139BA64 },
 ]
 
@@ -14581,7 +14580,6 @@ vram = 0x813B203C
 size = 0x6A0
 
 symbols = [
-    { name = "__dll610__rodata_0", vram = 0x813B2678 },
     { name = "__dll610__data_0", vram = 0x813B2688 },
     { name = "__dll610__data_4", vram = 0x813B268C },
 ]
@@ -16172,10 +16170,6 @@ symbols = [
     { name = "__dll712__rodata_50", vram = 0x8143E68C },
     { name = "__dll712__rodata_54", vram = 0x8143E690 },
     { name = "__dll712__rodata_58", vram = 0x8143E694 },
-    { name = "__dll712__rodata_5C", vram = 0x8143E698 },
-    { name = "__dll712__rodata_60", vram = 0x8143E69C },
-    { name = "__dll712__rodata_64", vram = 0x8143E6A0 },
-    { name = "__dll712__rodata_68", vram = 0x8143E6A4 },
     { name = "__dll712__rodata_6C", vram = 0x8143E6A8 },
     { name = "__dll712__rodata_70", vram = 0x8143E6AC },
     { name = "__dll712__data_0", vram = 0x8143E6BC },

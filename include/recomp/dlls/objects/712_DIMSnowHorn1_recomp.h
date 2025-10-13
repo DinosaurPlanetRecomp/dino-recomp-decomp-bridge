@@ -67,10 +67,6 @@
 #define _rodata_50 __dll712__rodata_50
 #define _rodata_54 __dll712__rodata_54
 #define _rodata_58 __dll712__rodata_58
-#define _rodata_5C __dll712__rodata_5C
-#define _rodata_60 __dll712__rodata_60
-#define _rodata_64 __dll712__rodata_64
-#define _rodata_68 __dll712__rodata_68
 #define _rodata_6C __dll712__rodata_6C
 #define _rodata_70 __dll712__rodata_70
 #define _data_0 __dll712__data_0

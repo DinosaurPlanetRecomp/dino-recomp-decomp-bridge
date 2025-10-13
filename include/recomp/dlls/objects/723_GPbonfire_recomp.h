@@ -18,7 +18,7 @@
 #define GPbonfire_func_A20 __dll723_GPbonfire_func_A20
 #define GPbonfire_func_A38 __dll723_GPbonfire_func_A38
 #define GPbonfire_func_A44 __dll723_GPbonfire_func_A44
-#define GPbonfire_callbackBC __dll723_GPbonfire_callbackBC
+#define GPbonfire_anim_callback __dll723_GPbonfire_anim_callback
 #define bonfireScaleData __dll723_bonfireScaleData
 #define modgfxScaleData __dll723_modgfxScaleData
 

@@ -12,6 +12,6 @@
 #define WLpressureswitch_free __dll596_WLpressureswitch_free
 #define WLpressureswitch_get_model_flags __dll596_WLpressureswitch_get_model_flags
 #define WLpressureswitch_get_data_size __dll596_WLpressureswitch_get_data_size
-#define WLpressureswitch_callbackBC __dll596_WLpressureswitch_callbackBC
+#define WLpressureswitch_anim_callback __dll596_WLpressureswitch_anim_callback
 
 #endif //_DLL_596_RECOMP_H
