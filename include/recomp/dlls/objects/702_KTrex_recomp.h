@@ -49,6 +49,7 @@
 #define dll_702_func_3828 __dll702_dll_702_func_3828
 #define dll_702_func_3AA0 __dll702_dll_702_func_3AA0
 #define str_0 __dll702_str_0
+#define str_1C __dll702_str_1C
 #define _rodata_2C __dll702__rodata_2C
 #define _rodata_30 __dll702__rodata_30
 #define _rodata_34 __dll702__rodata_34
@@ -92,6 +93,7 @@
 #define _data_EC __dll702__data_EC
 #define _bss_0 __dll702__bss_0
 #define _bss_28 __dll702__bss_28
+#define _bss_30 __dll702__bss_30
 #define _bss_58 __dll702__bss_58
 #define _bss_5C __dll702__bss_5C
 #define _bss_60 __dll702__bss_60
@@ -101,5 +103,6 @@
 #define _bss_6C __dll702__bss_6C
 #define _bss_70 __dll702__bss_70
 #define _bss_74 __dll702__bss_74
+#define _bss_78 __dll702__bss_78
 
 #endif //_DLL_702_RECOMP_H
