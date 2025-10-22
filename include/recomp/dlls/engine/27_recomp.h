@@ -5,9 +5,9 @@
 
 #define dll_27_ctor __dll27_dll_27_ctor
 #define dll_27_dtor __dll27_dll_27_dtor
-#define dll_27_func_18 __dll27_dll_27_func_18
-#define dll_27_func_84 __dll27_dll_27_func_84
-#define dll_27_func_C0 __dll27_dll_27_func_C0
+#define dll_27_init __dll27_dll_27_init
+#define dll_27_setup_hits_collider __dll27_dll_27_setup_hits_collider
+#define dll_27_setup_terrain_collider __dll27_dll_27_setup_terrain_collider
 #define dll_27_func_1E8 __dll27_dll_27_func_1E8
 #define dll_27_func_5A8 __dll27_dll_27_func_5A8
 #define dll_27_func_624 __dll27_dll_27_func_624
@@ -15,9 +15,9 @@
 #define dll_27_func_B68 __dll27_dll_27_func_B68
 #define dll_27_func_C7C __dll27_dll_27_func_C7C
 #define dll_27_func_DF4 __dll27_dll_27_func_DF4
-#define dll_27_func_FB8 __dll27_dll_27_func_FB8
-#define dll_27_func_1148 __dll27_dll_27_func_1148
-#define dll_27_func_11E0 __dll27_dll_27_func_11E0
+#define dll_27_reset __dll27_dll_27_reset
+#define dll_27_get_obj_world_matrix __dll27_dll_27_get_obj_world_matrix
+#define dll_27_get_obj_local_matrix __dll27_dll_27_get_obj_local_matrix
 #define dll_27_func_1278 __dll27_dll_27_func_1278
 #define dll_27_func_151C __dll27_dll_27_func_151C
 #define dll_27_func_15C0 __dll27_dll_27_func_15C0
@@ -28,8 +28,8 @@
 #define dll_27_func_2394 __dll27_dll_27_func_2394
 #define str_0 __dll27_str_0
 #define _rodata_48 __dll27__rodata_48
-#define _bss_0 __dll27__bss_0
-#define _bss_8 __dll27__bss_8
-#define _bss_170 __dll27__bss_170
+#define bss_0 __dll27_bss_0
+#define bss_8 __dll27_bss_8
+#define bss_170 __dll27_bss_170
 
 #endif //_DLL_27_RECOMP_H

@@ -219,6 +219,7 @@
 #define _bss_C2E __dll1__bss_C2E
 #define _bss_C30 __dll1__bss_C30
 #define _bss_C34 __dll1__bss_C34
+#define usedItemGamebitID __dll1_usedItemGamebitID
 #define _bss_C38 __dll1__bss_C38
 #define _bss_C3A __dll1__bss_C3A
 #define _bss_C3C __dll1__bss_C3C

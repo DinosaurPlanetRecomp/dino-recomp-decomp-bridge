@@ -20,7 +20,6 @@
 #define _rodata_10 __dll296__rodata_10
 #define _data_0 __dll296__data_0
 #define _data_4 __dll296__data_4
-#define _data_8 __dll296__data_8
 #define _data_20 __dll296__data_20
 #define _data_2C __dll296__data_2C
 #define _data_34 __dll296__data_34
