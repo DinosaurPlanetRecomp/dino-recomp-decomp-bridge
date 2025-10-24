@@ -704,7 +704,6 @@
 #define _bss_50 __dll210__bss_50
 #define _bss_54 __dll210__bss_54
 #define _bss_58 __dll210__bss_58
-#define _bss_60 __dll210__bss_60
 #define _bss_19C __dll210__bss_19C
 #define _bss_1A0 __dll210__bss_1A0
 #define _bss_1A4 __dll210__bss_1A4

@@ -27,10 +27,6 @@
 #define dll_33_func_24FC __dll33_dll_33_func_24FC
 #define dll_33_func_2624 __dll33_dll_33_func_2624
 #define dll_33_func_2718 __dll33_dll_33_func_2718
-#define _rodata_0 __dll33__rodata_0
-#define _rodata_4 __dll33__rodata_4
-#define _rodata_2C __dll33__rodata_2C
-#define _rodata_30 __dll33__rodata_30
 #define _data_0 __dll33__data_0
 #define _data_4 __dll33__data_4
 #define _data_8 __dll33__data_8
