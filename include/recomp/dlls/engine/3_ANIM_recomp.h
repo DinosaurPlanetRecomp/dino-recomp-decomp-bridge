@@ -102,7 +102,6 @@
 #define _rodata_10C __dll3__rodata_10C
 #define _rodata_110 __dll3__rodata_110
 #define _rodata_114 __dll3__rodata_114
-#define _rodata_200 __dll3__rodata_200
 #define _rodata_204 __dll3__rodata_204
 #define _rodata_404 __dll3__rodata_404
 #define _rodata_408 __dll3__rodata_408

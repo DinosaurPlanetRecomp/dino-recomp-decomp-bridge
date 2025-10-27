@@ -14,8 +14,6 @@
 #define dll_703_get_data_size __dll703_dll_703_get_data_size
 #define dll_703_func_A7C __dll703_dll_703_func_A7C
 #define str_0 __dll703_str_0
-#define _rodata_1C __dll703__rodata_1C
-#define _rodata_20 __dll703__rodata_20
 #define _data_0 __dll703__data_0
 
 #endif //_DLL_703_RECOMP_H

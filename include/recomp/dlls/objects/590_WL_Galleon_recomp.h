@@ -15,7 +15,7 @@
 #define WLgalleon_anim_callback __dll590_WLgalleon_anim_callback
 #define dataShowKrystalsAdventureScreen __dll590_dataShowKrystalsAdventureScreen
 #define dataDLLUnused __dll590_dataDLLUnused
-#define dataDelayByte __dll590_dataDelayByte
+#define sUpdateRateCopy __dll590_sUpdateRateCopy
 #define _data_10 __dll590__data_10
 
 #endif //_DLL_590_RECOMP_H
