@@ -31,9 +31,6 @@
 #define dll_417_func_E8C __dll417_dll_417_func_E8C
 #define dll_417_func_1E9C __dll417_dll_417_func_1E9C
 #define dll_417_func_21E4 __dll417_dll_417_func_21E4
-#define _rodata_0 __dll417__rodata_0
-#define _rodata_4 __dll417__rodata_4
-#define _rodata_8 __dll417__rodata_8
 #define _rodata_C __dll417__rodata_C
 #define _rodata_14 __dll417__rodata_14
 #define _rodata_18 __dll417__rodata_18
