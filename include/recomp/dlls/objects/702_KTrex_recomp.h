@@ -80,7 +80,6 @@
 #define sLogicStateCallbacks __dll702_sLogicStateCallbacks
 #define sDLL33Data __dll702_sDLL33Data
 #define sKTData __dll702_sKTData
-#define _bss_60:1 __dll702__bss_60:1
 #define _bss_60 __dll702__bss_60
 
 #endif //_DLL_702_RECOMP_H

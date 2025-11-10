@@ -15505,7 +15505,6 @@ symbols = [
     { name = "__dll702_sLogicStateCallbacks", vram = 0x8142AF50 },
     { name = "__dll702_sDLL33Data", vram = 0x8142AF80 },
     { name = "__dll702_sKTData", vram = 0x8142AF84 },
-    { name = "__dll702__bss_60:1", vram = 0x8142AF88 },
     { name = "__dll702__bss_60", vram = 0x8142AF88 },
 ]
 
