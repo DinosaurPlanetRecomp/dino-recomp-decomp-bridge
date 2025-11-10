@@ -5,9 +5,12 @@
 
 #define dll_77_ctor __dll77_dll_77_ctor
 #define dll_77_dtor __dll77_dll_77_dtor
+#define dll_77_update1 __dll77_dll_77_update1
 #define dll_77_func_84 __dll77_dll_77_func_84
+#define dll_77_update2 __dll77_dll_77_update2
 #define dll_77_func_90 __dll77_dll_77_func_90
 #define dll_77_func_98 __dll77_dll_77_func_98
+#define dll_77_draw __dll77_dll_77_draw
 #define _bss_0 __dll77__bss_0
 
 #endif //_DLL_77_RECOMP_H

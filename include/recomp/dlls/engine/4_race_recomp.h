@@ -22,6 +22,7 @@
 #define dll_4_func_1758 __dll4_dll_4_func_1758
 #define dll_4_func_1F60 __dll4_dll_4_func_1F60
 #define str_0 __dll4_str_0
+#define str_2C __dll4_str_2C
 #define _rodata_58 __dll4__rodata_58
 #define _rodata_5C __dll4__rodata_5C
 #define _rodata_60 __dll4__rodata_60
@@ -31,8 +32,6 @@
 #define _rodata_70 __dll4__rodata_70
 #define _rodata_74 __dll4__rodata_74
 #define _rodata_78 __dll4__rodata_78
-#define _rodata_7C __dll4__rodata_7C
-#define _rodata_80 __dll4__rodata_80
 #define _bss_0 __dll4__bss_0
 #define _bss_28 __dll4__bss_28
 #define _bss_50 __dll4__bss_50

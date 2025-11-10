@@ -14,6 +14,5 @@
 #define dll_332_get_data_size __dll332_dll_332_get_data_size
 #define dll_332_func_6C0 __dll332_dll_332_func_6C0
 #define dll_332_func_8E8 __dll332_dll_332_func_8E8
-#define _rodata_0 __dll332__rodata_0
 
 #endif //_DLL_332_RECOMP_H

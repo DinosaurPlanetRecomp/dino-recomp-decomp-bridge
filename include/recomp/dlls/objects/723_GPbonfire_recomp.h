@@ -12,7 +12,6 @@
 #define GPbonfire_free __dll723_GPbonfire_free
 #define GPbonfire_get_model_flags __dll723_GPbonfire_get_model_flags
 #define GPbonfire_get_data_size __dll723_GPbonfire_get_data_size
-#define GPbonfire_func_910 __dll723_GPbonfire_func_910
 #define GPbonfire_start_burning __dll723_GPbonfire_start_burning
 #define GPbonfire_func_A08 __dll723_GPbonfire_func_A08
 #define GPbonfire_func_A20 __dll723_GPbonfire_func_A20

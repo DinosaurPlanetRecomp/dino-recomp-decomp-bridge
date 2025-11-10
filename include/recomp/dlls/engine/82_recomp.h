@@ -3,8 +3,8 @@
 #ifndef _DLL_82_RECOMP_H
 #define _DLL_82_RECOMP_H
 
-#define ctor __dll82_ctor
-#define dtor __dll82_dtor
-#define func_18 __dll82_func_18
+#define dll_82_ctor __dll82_dll_82_ctor
+#define dll_82_dtor __dll82_dll_82_dtor
+#define dll_82_func_18 __dll82_dll_82_func_18
 
 #endif //_DLL_82_RECOMP_H

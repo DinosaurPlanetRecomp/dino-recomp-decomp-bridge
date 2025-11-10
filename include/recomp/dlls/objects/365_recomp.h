@@ -3,8 +3,8 @@
 #ifndef _DLL_365_RECOMP_H
 #define _DLL_365_RECOMP_H
 
-#define init __dll365_init
-#define fini __dll365_fini
+#define dll_365_ctor __dll365_dll_365_ctor
+#define dll_365_dtor __dll365_dll_365_dtor
 #define dll_365_setup __dll365_dll_365_setup
 #define dll_365_control __dll365_dll_365_control
 #define dll_365_update __dll365_dll_365_update
@@ -12,6 +12,6 @@
 #define dll_365_free __dll365_dll_365_free
 #define dll_365_get_model_flags __dll365_dll_365_get_model_flags
 #define dll_365_get_data_size __dll365_dll_365_get_data_size
-#define func_0007 __dll365_func_0007
+#define dll_365_func_E4 __dll365_dll_365_func_E4
 
 #endif //_DLL_365_RECOMP_H

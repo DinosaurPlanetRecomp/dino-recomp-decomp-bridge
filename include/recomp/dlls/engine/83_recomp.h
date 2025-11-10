@@ -3,9 +3,10 @@
 #ifndef _DLL_83_RECOMP_H
 #define _DLL_83_RECOMP_H
 
-#define ctor __dll83_ctor
-#define dtor __dll83_dtor
-#define func_18 __dll83_func_18
-#define func_A4 __dll83_func_A4
+#define dll_83_ctor __dll83_dll_83_ctor
+#define dll_83_dtor __dll83_dll_83_dtor
+#define dll_83_func_18 __dll83_dll_83_func_18
+#define dll_83_func_A4 __dll83_dll_83_func_A4
+#define _oob_rodata_0 __dll83__oob_rodata_0
 
 #endif //_DLL_83_RECOMP_H

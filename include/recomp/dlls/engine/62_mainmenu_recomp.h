@@ -5,8 +5,8 @@
 
 #define mainmenu_ctor __dll62_mainmenu_ctor
 #define mainmenu_dtor __dll62_mainmenu_dtor
-#define mainmenu_update __dll62_mainmenu_update
-#define mainmenu_func_764 __dll62_mainmenu_func_764
+#define mainmenu_update1 __dll62_mainmenu_update1
+#define mainmenu_update2 __dll62_mainmenu_update2
 #define mainmenu_draw __dll62_mainmenu_draw
 #define mainmenu_clean_up __dll62_mainmenu_clean_up
 #define pressStartItem __dll62_pressStartItem
