@@ -8693,7 +8693,7 @@ functions = [
     { name = "__dll210_dll_210_func_1CA44", vram = 0x81189BA4, size = 0xF8 },
     { name = "__dll210_dll_210_func_1CB3C", vram = 0x81189C9C, size = 0xF8 },
     { name = "__dll210_dll_210_func_1CC34", vram = 0x81189D94, size = 0x18 },
-    { name = "__dll210_dll_210_func_1CC4C", vram = 0x81189DAC, size = 0x10 },
+    { name = "__dll210_dll_210_get_vehicle", vram = 0x81189DAC, size = 0x10 },
     { name = "__dll210_dll_210_func_1CC5C", vram = 0x81189DBC, size = 0x38 },
     { name = "__dll210_dll_210_func_1CC94", vram = 0x81189DF4, size = 0x1C },
     { name = "__dll210_dll_210_func_1CCB0", vram = 0x81189E10, size = 0x10 },

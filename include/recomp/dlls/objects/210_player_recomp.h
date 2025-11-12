@@ -156,7 +156,7 @@
 #define dll_210_func_1CA44 __dll210_dll_210_func_1CA44
 #define dll_210_func_1CB3C __dll210_dll_210_func_1CB3C
 #define dll_210_func_1CC34 __dll210_dll_210_func_1CC34
-#define dll_210_func_1CC4C __dll210_dll_210_func_1CC4C
+#define dll_210_get_vehicle __dll210_dll_210_get_vehicle
 #define dll_210_func_1CC5C __dll210_dll_210_func_1CC5C
 #define dll_210_func_1CC94 __dll210_dll_210_func_1CC94
 #define dll_210_func_1CCB0 __dll210_dll_210_func_1CCB0
