@@ -9333,15 +9333,7 @@ vram = 0x811E4044
 size = 0x25F0
 
 symbols = [
-    { name = "__dll243__rodata_0", vram = 0x811E6500 },
-    { name = "__dll243__rodata_4", vram = 0x811E6504 },
-    { name = "__dll243__rodata_8", vram = 0x811E6508 },
-    { name = "__dll243__rodata_C", vram = 0x811E650C },
-    { name = "__dll243__rodata_10", vram = 0x811E6510 },
-    { name = "__dll243__rodata_14", vram = 0x811E6514 },
-    { name = "__dll243__rodata_18", vram = 0x811E6518 },
     { name = "__dll243__data_0", vram = 0x811E6520 },
-    { name = "__dll243__data_6", vram = 0x811E6526 },
     { name = "__dll243__data_8", vram = 0x811E6528 },
     { name = "__dll243__data_C", vram = 0x811E652C },
     { name = "__dll243__data_18", vram = 0x811E6538 },
@@ -9349,13 +9341,9 @@ symbols = [
     { name = "__dll243__data_9C", vram = 0x811E65BC },
     { name = "__dll243__data_B8", vram = 0x811E65D8 },
     { name = "__dll243__data_C0", vram = 0x811E65E0 },
-    { name = "__dll243__bss_0", vram = 0x811E65F0 },
-    { name = "__dll243__bss_18", vram = 0x811E6608 },
+    { name = "__dll243_sAnimStateCallbacks", vram = 0x811E65F0 },
+    { name = "__dll243_sLogicStateCallbacks", vram = 0x811E6608 },
     { name = "__dll243__bss_30", vram = 0x811E6620 },
-    { name = "__dll243__bss_38", vram = 0x811E6628 },
-    { name = "__dll243__bss_3C", vram = 0x811E662C },
-    { name = "__dll243__bss_40", vram = 0x811E6630 },
-    { name = "__dll243__bss_44", vram = 0x811E6634 },
 ]
 
 [[section]]
