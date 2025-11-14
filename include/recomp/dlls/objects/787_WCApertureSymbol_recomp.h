@@ -14,6 +14,5 @@
 #define dll_787_get_data_size __dll787_dll_787_get_data_size
 #define dll_787_func_43C __dll787_dll_787_func_43C
 #define dll_787_func_490 __dll787_dll_787_func_490
-#define str_0 __dll787_str_0
 
 #endif //_DLL_787_RECOMP_H

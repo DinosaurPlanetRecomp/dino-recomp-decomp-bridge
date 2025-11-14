@@ -10139,8 +10139,6 @@ size = 0x640
 
 symbols = [
     { name = "__dll305_str_0", vram = 0x81236630 },
-    { name = "__dll305__rodata_8", vram = 0x81236638 },
-    { name = "__dll305__rodata_C", vram = 0x8123663C },
 ]
 
 [[section]]
@@ -10441,18 +10439,6 @@ symbols = [
     { name = "__dll331_str_70", vram = 0x81258168 },
     { name = "__dll331_str_8C", vram = 0x81258184 },
     { name = "__dll331_str_9C", vram = 0x81258194 },
-    { name = "__dll331__rodata_14C", vram = 0x81258244 },
-    { name = "__dll331__rodata_150", vram = 0x81258248 },
-    { name = "__dll331__rodata_154", vram = 0x8125824C },
-    { name = "__dll331__rodata_158", vram = 0x81258250 },
-    { name = "__dll331__rodata_15C", vram = 0x81258254 },
-    { name = "__dll331__rodata_160", vram = 0x81258258 },
-    { name = "__dll331__rodata_164", vram = 0x8125825C },
-    { name = "__dll331__rodata_168", vram = 0x81258260 },
-    { name = "__dll331__rodata_16C", vram = 0x81258264 },
-    { name = "__dll331__rodata_170", vram = 0x81258268 },
-    { name = "__dll331__rodata_174", vram = 0x8125826C },
-    { name = "__dll331__rodata_178", vram = 0x81258270 },
     { name = "__dll331__rodata_210", vram = 0x81258308 },
     { name = "__dll331__rodata_214", vram = 0x8125830C },
     { name = "__dll331__rodata_218", vram = 0x81258310 },
@@ -10813,6 +10799,7 @@ size = 0x430
 symbols = [
     { name = "__dll361_str_0", vram = 0x812793D8 },
     { name = "__dll361_str_24", vram = 0x812793FC },
+    { name = "__dll361_str_56", vram = 0x8127942E },
 ]
 
 [[section]]
@@ -16127,7 +16114,6 @@ size = 0xBE0
 
 symbols = [
     { name = "__dll735_str_0", vram = 0x81464B9C },
-    { name = "__dll735__rodata_28", vram = 0x81464BC4 },
     { name = "__dll735__data_0", vram = 0x81464BCC },
 ]
 
@@ -16765,7 +16751,6 @@ vram = 0x8149C03C
 size = 0x670
 
 symbols = [
-    { name = "__dll783__rodata_0", vram = 0x8149C64C },
 ]
 
 [[section]]
@@ -16806,7 +16791,6 @@ vram = 0x814A003C
 size = 0x860
 
 symbols = [
-    { name = "__dll787_str_0", vram = 0x814A0844 },
 ]
 
 [[section]]

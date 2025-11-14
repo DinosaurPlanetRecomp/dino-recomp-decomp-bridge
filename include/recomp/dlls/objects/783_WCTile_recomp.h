@@ -12,6 +12,5 @@
 #define dll_783_free __dll783_dll_783_free
 #define dll_783_get_model_flags __dll783_dll_783_get_model_flags
 #define dll_783_get_data_size __dll783_dll_783_get_data_size
-#define _rodata_0 __dll783__rodata_0
 
 #endif //_DLL_783_RECOMP_H
