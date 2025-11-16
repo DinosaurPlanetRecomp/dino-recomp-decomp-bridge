@@ -10479,10 +10479,6 @@ vram = 0x8125B03C
 size = 0xE90
 
 symbols = [
-    { name = "__dll334__rodata_0", vram = 0x8125BE78 },
-    { name = "__dll334__rodata_4", vram = 0x8125BE7C },
-    { name = "__dll334__rodata_8", vram = 0x8125BE80 },
-    { name = "__dll334__rodata_C", vram = 0x8125BE84 },
 ]
 
 [[section]]
