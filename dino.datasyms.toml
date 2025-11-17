@@ -3158,6 +3158,11 @@ size = 0x3980
 
 symbols = [
     { name = "__dll32_str_0", vram = 0x810870A8 },
+    { name = "__dll32_str_18", vram = 0x810870C0 },
+    { name = "__dll32_str_20", vram = 0x810870C8 },
+    { name = "__dll32_str_24", vram = 0x810870CC },
+    { name = "__dll32_str_3C", vram = 0x810870E4 },
+    { name = "__dll32_str_44", vram = 0x810870EC },
     { name = "__dll32__rodata_48", vram = 0x810870F0 },
     { name = "__dll32__rodata_4C", vram = 0x810870F4 },
     { name = "__dll32__rodata_50", vram = 0x810870F8 },
