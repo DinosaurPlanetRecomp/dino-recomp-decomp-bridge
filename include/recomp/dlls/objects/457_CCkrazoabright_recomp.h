@@ -4,8 +4,12 @@
 #define _DLL_457_RECOMP_H
 
 #define dll_457_ctor __dll457_dll_457_ctor
+#define CCkrazoabright_ctor __dll457_CCkrazoabright_ctor
 #define dll_457_dtor __dll457_dll_457_dtor
+#define CCkrazoabright_dtor __dll457_CCkrazoabright_dtor
 #define dll_457_setup __dll457_dll_457_setup
+#define CCkrazoabright_setup __dll457_CCkrazoabright_setup
+#define CCkrazoabright_control __dll457_CCkrazoabright_control
 #define dll_457_control __dll457_dll_457_control
 #define dll_457_func_298 __dll457_dll_457_func_298
 #define dll_457_func_2F8 __dll457_dll_457_func_2F8
@@ -13,19 +17,24 @@
 #define dll_457_func_728 __dll457_dll_457_func_728
 #define dll_457_func_808 __dll457_dll_457_func_808
 #define dll_457_func_AAC __dll457_dll_457_func_AAC
+#define CCkrazoabright_update __dll457_CCkrazoabright_update
 #define dll_457_update __dll457_dll_457_update
+#define CCkrazoabright_print __dll457_CCkrazoabright_print
 #define dll_457_print __dll457_dll_457_print
 #define dll_457_free __dll457_dll_457_free
+#define CCkrazoabright_free __dll457_CCkrazoabright_free
 #define dll_457_get_model_flags __dll457_dll_457_get_model_flags
+#define CCkrazoabright_get_model_flags __dll457_CCkrazoabright_get_model_flags
 #define dll_457_get_data_size __dll457_dll_457_get_data_size
+#define CCkrazoabright_get_data_size __dll457_CCkrazoabright_get_data_size
 #define dll_457_func_E3C __dll457_dll_457_func_E3C
 #define dll_457_func_12AC __dll457_dll_457_func_12AC
 #define dll_457_func_140C __dll457_dll_457_func_140C
 #define str_0 __dll457_str_0
-#define _data_0 __dll457__data_0
-#define _data_18 __dll457__data_18
-#define _data_30 __dll457__data_30
-#define _data_38 __dll457__data_38
+#define data_coords_well_blocks __dll457_data_coords_well_blocks
+#define data_coords_lever_blocks __dll457_data_coords_lever_blocks
+#define data_krazoa_symbol_shape_animatorIDs __dll457_data_krazoa_symbol_shape_animatorIDs
+#define data_tablet_quest_gamebits __dll457_data_tablet_quest_gamebits
 #define _data_44 __dll457__data_44
 
 #endif //_DLL_457_RECOMP_H

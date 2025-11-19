@@ -147,7 +147,6 @@
 #define _bss_A4 __dll3__bss_A4
 #define _bss_A8 __dll3__bss_A8
 #define _bss_A9 __dll3__bss_A9
-#define _bss_AA __dll3__bss_AA
 #define _bss_AC __dll3__bss_AC
 #define _bss_B0 __dll3__bss_B0
 #define _bss_D8 __dll3__bss_D8
