@@ -7,14 +7,14 @@
 #define SHspore_dtor __dll505_SHspore_dtor
 #define SHspore_setup __dll505_SHspore_setup
 #define SHspore_control __dll505_SHspore_control
-#define SHspore_func_750 __dll505_SHspore_func_750
-#define SHspore_func_A00 __dll505_SHspore_func_A00
+#define SHspore_change_flight_direction __dll505_SHspore_change_flight_direction
+#define SHspore_jitter_flight_direction __dll505_SHspore_jitter_flight_direction
 #define SHspore_update __dll505_SHspore_update
 #define SHspore_print __dll505_SHspore_print
 #define SHspore_free __dll505_SHspore_free
 #define SHspore_get_model_flags __dll505_SHspore_get_model_flags
 #define SHspore_get_data_size __dll505_SHspore_get_data_size
-#define _data_0 __dll505__data_0
-#define _data_C __dll505__data_C
+#define data_collision_test_point __dll505_data_collision_test_point
+#define data_collision_radius __dll505_data_collision_radius
 
 #endif //_DLL_505_RECOMP_H

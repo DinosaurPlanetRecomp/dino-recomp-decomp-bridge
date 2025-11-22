@@ -170,7 +170,7 @@
 #define dll_210_set_magic_max __dll210_dll_210_set_magic_max
 #define dll_210_increase_magic_max __dll210_dll_210_increase_magic_max
 #define dll_210_get_magic_max __dll210_dll_210_get_magic_max
-#define dll_210_func_1CEB4 __dll210_dll_210_func_1CEB4
+#define dll_210_set_magic __dll210_dll_210_set_magic
 #define dll_210_add_magic __dll210_dll_210_add_magic
 #define dll_210_get_magic __dll210_dll_210_get_magic
 #define dll_210_func_1CFCC __dll210_dll_210_func_1CFCC
@@ -232,6 +232,12 @@
 #define _rodata_F0 __dll210__rodata_F0
 #define _rodata_120 __dll210__rodata_120
 #define _rodata_248 __dll210__rodata_248
+#define str_1 __dll210_str_1
+#define str_2 __dll210_str_2
+#define str_3 __dll210_str_3
+#define str_4 __dll210_str_4
+#define str_5 __dll210_str_5
+#define str_6 __dll210_str_6
 #define _rodata_2E0 __dll210__rodata_2E0
 #define _rodata_35C __dll210__rodata_35C
 #define _rodata_360 __dll210__rodata_360

@@ -3,16 +3,16 @@
 #ifndef _DLL_332_RECOMP_H
 #define _DLL_332_RECOMP_H
 
-#define dll_332_ctor __dll332_dll_332_ctor
-#define dll_332_dtor __dll332_dll_332_dtor
-#define dll_332_setup __dll332_dll_332_setup
-#define dll_332_control __dll332_dll_332_control
-#define dll_332_update __dll332_dll_332_update
-#define dll_332_print __dll332_dll_332_print
-#define dll_332_free __dll332_dll_332_free
-#define dll_332_get_model_flags __dll332_dll_332_get_model_flags
-#define dll_332_get_data_size __dll332_dll_332_get_data_size
-#define dll_332_func_6C0 __dll332_dll_332_func_6C0
-#define dll_332_func_8E8 __dll332_dll_332_func_8E8
+#define FXEmit_ctor __dll332_FXEmit_ctor
+#define FXEmit_dtor __dll332_FXEmit_dtor
+#define FXEmit_setup __dll332_FXEmit_setup
+#define FXEmit_control __dll332_FXEmit_control
+#define FXEmit_update __dll332_FXEmit_update
+#define FXEmit_print __dll332_FXEmit_print
+#define FXEmit_free __dll332_FXEmit_free
+#define FXEmit_get_model_flags __dll332_FXEmit_get_model_flags
+#define FXEmit_get_data_size __dll332_FXEmit_get_data_size
+#define FXEmit_anim_callback __dll332_FXEmit_anim_callback
+#define FXEmit_emit __dll332_FXEmit_emit
 
 #endif //_DLL_332_RECOMP_H
