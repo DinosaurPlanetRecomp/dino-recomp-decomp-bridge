@@ -11922,8 +11922,8 @@ vram = 0x812DB03C
 size = 0x9F0
 
 symbols = [
-    { name = "__dll435__data_0", vram = 0x812DB9D8 },
-    { name = "__dll435__data_4", vram = 0x812DB9DC },
+    { name = "__dll435_data_modGfx", vram = 0x812DB9D8 },
+    { name = "__dll435_data_lfxEmitter", vram = 0x812DB9DC },
 ]
 
 [[section]]

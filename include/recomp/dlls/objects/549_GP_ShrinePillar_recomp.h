@@ -3,15 +3,15 @@
 #ifndef _DLL_549_RECOMP_H
 #define _DLL_549_RECOMP_H
 
-#define dll_549_ctor __dll549_dll_549_ctor
-#define dll_549_dtor __dll549_dll_549_dtor
-#define dll_549_setup __dll549_dll_549_setup
-#define dll_549_control __dll549_dll_549_control
-#define dll_549_update __dll549_dll_549_update
-#define dll_549_print __dll549_dll_549_print
-#define dll_549_free __dll549_dll_549_free
-#define dll_549_get_model_flags __dll549_dll_549_get_model_flags
-#define dll_549_get_data_size __dll549_dll_549_get_data_size
-#define dll_549_func_264 __dll549_dll_549_func_264
+#define GP_ShrinePillar_ctor __dll549_GP_ShrinePillar_ctor
+#define GP_ShrinePillar_dtor __dll549_GP_ShrinePillar_dtor
+#define GP_ShrinePillar_setup __dll549_GP_ShrinePillar_setup
+#define GP_ShrinePillar_control __dll549_GP_ShrinePillar_control
+#define GP_ShrinePillar_update __dll549_GP_ShrinePillar_update
+#define GP_ShrinePillar_print __dll549_GP_ShrinePillar_print
+#define GP_ShrinePillar_free __dll549_GP_ShrinePillar_free
+#define GP_ShrinePillar_get_model_flags __dll549_GP_ShrinePillar_get_model_flags
+#define GP_ShrinePillar_get_data_size __dll549_GP_ShrinePillar_get_data_size
+#define GP_ShrinePillar_anim_callback __dll549_GP_ShrinePillar_anim_callback
 
 #endif //_DLL_549_RECOMP_H
