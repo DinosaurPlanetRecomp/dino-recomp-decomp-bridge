@@ -13,10 +13,5 @@
 #define dll_782_get_model_flags __dll782_dll_782_get_model_flags
 #define dll_782_get_data_size __dll782_dll_782_get_data_size
 #define dll_782_func_FF0 __dll782_dll_782_func_FF0
-#define _rodata_0 __dll782__rodata_0
-#define _rodata_20 __dll782__rodata_20
-#define _rodata_24 __dll782__rodata_24
-#define _rodata_28 __dll782__rodata_28
-#define _rodata_2C __dll782__rodata_2C
 
 #endif //_DLL_782_RECOMP_H

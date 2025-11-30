@@ -5081,10 +5081,8 @@ size = 0xC70
 
 symbols = [
     { name = "__dll56_str_0", vram = 0x810BABD8 },
-    { name = "__dll56__rodata_1C", vram = 0x810BABF4 },
-    { name = "__dll56__rodata_20", vram = 0x810BABF8 },
-    { name = "__dll56__data_0", vram = 0x810BAC08 },
-    { name = "__dll56__data_50", vram = 0x810BAC58 },
+    { name = "__dll56_placed_objects", vram = 0x810BAC08 },
+    { name = "__dll56_food_quantities", vram = 0x810BAC58 },
 ]
 
 [[section]]
@@ -10328,10 +10326,10 @@ size = 0xCE0
 
 symbols = [
     { name = "__dll314_str_0", vram = 0x8123FBDC },
-    { name = "__dll314__data_0", vram = 0x8123FBFC },
-    { name = "__dll314__data_18", vram = 0x8123FC14 },
-    { name = "__dll314__data_2C", vram = 0x8123FC28 },
-    { name = "__dll314__data_A4", vram = 0x8123FCA0 },
+    { name = "__dll314_food_anim_gamebitIDs", vram = 0x8123FBFC },
+    { name = "__dll314_food_anim_objectIDs", vram = 0x8123FC14 },
+    { name = "__dll314_foodbag_items", vram = 0x8123FC28 },
+    { name = "__dll314_foodbag_cmdmenu_gamebitIDs", vram = 0x8123FCA0 },
 ]
 
 [[section]]
@@ -10342,8 +10340,8 @@ size = 0x750
 
 symbols = [
     { name = "__dll315_str_0", vram = 0x812406A0 },
-    { name = "__dll315__data_0", vram = 0x812406C0 },
-    { name = "__dll315__data_78", vram = 0x81240738 },
+    { name = "__dll315_dino_foodbag_items", vram = 0x812406C0 },
+    { name = "__dll315_dino_foodbag_cmdmenu_gamebitIDs", vram = 0x81240738 },
 ]
 
 [[section]]
@@ -11629,6 +11627,7 @@ vram = 0x812BF048
 size = 0x6A0
 
 symbols = [
+    { name = "__dll413_fxTransform", vram = 0x812BF6A0 },
     { name = "__dll413__bss_0", vram = 0x812BF6A0 },
 ]
 
@@ -16777,11 +16776,6 @@ vram = 0x8149A03C
 size = 0x12A0
 
 symbols = [
-    { name = "__dll782__rodata_0", vram = 0x8149B26C },
-    { name = "__dll782__rodata_20", vram = 0x8149B28C },
-    { name = "__dll782__rodata_24", vram = 0x8149B290 },
-    { name = "__dll782__rodata_28", vram = 0x8149B294 },
-    { name = "__dll782__rodata_2C", vram = 0x8149B298 },
 ]
 
 [[section]]

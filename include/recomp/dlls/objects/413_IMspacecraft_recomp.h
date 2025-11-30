@@ -16,6 +16,7 @@
 #define dll_413_func_470 __dll413_dll_413_func_470
 #define dll_413_func_4A4 __dll413_dll_413_func_4A4
 #define dll_413_func_4BC __dll413_dll_413_func_4BC
+#define fxTransform __dll413_fxTransform
 #define _bss_0 __dll413__bss_0
 
 #endif //_DLL_413_RECOMP_H
