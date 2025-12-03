@@ -14,7 +14,6 @@
 #define dll_488_get_data_size __dll488_dll_488_get_data_size
 #define dll_488_func_C90 __dll488_dll_488_func_C90
 #define dll_488_func_FEC __dll488_dll_488_func_FEC
-#define str_0 __dll488_str_0
 #define _data_0 __dll488__data_0
 
 #endif //_DLL_488_RECOMP_H

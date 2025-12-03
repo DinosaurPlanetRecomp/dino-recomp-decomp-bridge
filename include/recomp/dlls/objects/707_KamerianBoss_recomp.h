@@ -22,6 +22,7 @@
 #define dll_707_get_model_flags __dll707_dll_707_get_model_flags
 #define dll_707_get_data_size __dll707_dll_707_get_data_size
 #define str_0 __dll707_str_0
+#define str_C __dll707_str_C
 #define _rodata_28 __dll707__rodata_28
 #define _rodata_2C __dll707__rodata_2C
 #define _rodata_30 __dll707__rodata_30
@@ -29,8 +30,6 @@
 #define _rodata_38 __dll707__rodata_38
 #define _rodata_3C __dll707__rodata_3C
 #define _rodata_40 __dll707__rodata_40
-#define _rodata_44 __dll707__rodata_44
-#define _rodata_48 __dll707__rodata_48
 #define _rodata_70 __dll707__rodata_70
 #define _rodata_B0 __dll707__rodata_B0
 #define _rodata_B4 __dll707__rodata_B4
@@ -45,6 +44,7 @@
 #define _bss_8 __dll707__bss_8
 #define _bss_20 __dll707__bss_20
 #define _bss_38 __dll707__bss_38
+#define _bss_3C __dll707__bss_3C
 #define _bss_40 __dll707__bss_40
 
 #endif //_DLL_707_RECOMP_H

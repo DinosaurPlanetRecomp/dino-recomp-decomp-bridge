@@ -471,18 +471,6 @@ symbols = [
     { name = "str_8009823c", vram = 0x8009823C },
     { name = "str_8009824c", vram = 0x8009824C },
     { name = "str_80098254", vram = 0x80098254 },
-    { name = "str_80098290", vram = 0x80098290 },
-    { name = "str_800982b0", vram = 0x800982B0 },
-    { name = "str_800982d4", vram = 0x800982D4 },
-    { name = "str_800982e4", vram = 0x800982E4 },
-    { name = "str_8009831c", vram = 0x8009831C },
-    { name = "str_80098320", vram = 0x80098320 },
-    { name = "str_80098328", vram = 0x80098328 },
-    { name = "str_8009832c", vram = 0x8009832C },
-    { name = "str_80098330", vram = 0x80098330 },
-    { name = "str_80098338", vram = 0x80098338 },
-    { name = "str_8009833c", vram = 0x8009833C },
-    { name = "str_80098340", vram = 0x80098340 },
     { name = "str_800983b0", vram = 0x800983B0 },
     { name = "str_800983e8", vram = 0x800983E8 },
     { name = "str_80098444", vram = 0x80098444 },
@@ -704,8 +692,8 @@ symbols = [
     { name = "D_800A014C", vram = 0x800A014C },
     { name = "D_800A1C4C", vram = 0x800A1C4C },
     { name = "D_800A1C6C", vram = 0x800A1C6C },
-    { name = "D_800A1C8C", vram = 0x800A1C8C },
-    { name = "D_800A1D04", vram = 0x800A1D04 },
+    { name = "g_BitRateTable", vram = 0x800A1C8C },
+    { name = "g_SampleRateTable", vram = 0x800A1D04 },
     { name = "D_800A2084", vram = 0x800A2084 },
     { name = "D_800A208C", vram = 0x800A208C },
     { name = "D_800A20E4", vram = 0x800A20E4 },
@@ -811,7 +799,6 @@ symbols = [
     { name = "__osCauseTable_pt", vram = 0x800A2824 },
     { name = "aspMainDataStart", vram = 0x800A2E00 },
     { name = "gspF3DEX2_xbusDataStart", vram = 0x800A3950 },
-    { name = "_bss_pad", vram = 0x800A3D70 },
     { name = "gIdleThreadStack", vram = 0x800A3D70 },
     { name = "gMainThreadStack", vram = 0x800A3DB8 },
     { name = "gIdleThread", vram = 0x800A5DC0 },
@@ -844,7 +831,6 @@ symbols = [
     { name = "gObjectMatrices", vram = 0x800A6CA8 },
     { name = "D_800A7220", vram = 0x800A7220 },
     { name = "gInverseObjectMatrices", vram = 0x800A7428 },
-    { name = "gRSPMatrices", vram = 0x800A7BA8 },
     { name = "gRSPMatrices", vram = 0x800A7BA8 },
     { name = "gMatrixIndex", vram = 0x800A7C20 },
     { name = "D_800A7C30", vram = 0x800A7C30 },
@@ -1441,7 +1427,7 @@ symbols = [
     { name = "D_800BFF61", vram = 0x800BFF61 },
     { name = "freeOscStateList", vram = 0x800BFF70 },
     { name = "oscStates", vram = 0x800BFF74 },
-    { name = "some_float_array", vram = 0x800BFF80 },
+    { name = "sine_block", vram = 0x800BFF80 },
     { name = "D_800C0010", vram = 0x800C0010 },
     { name = "D_800C0130", vram = 0x800C0130 },
     { name = "D_800C01C0", vram = 0x800C01C0 },
@@ -1824,6 +1810,7 @@ symbols = [
     { name = "__dll2__bss_1CC", vram = 0x8100BA00 },
     { name = "__dll2__bss_1D0", vram = 0x8100BA04 },
     { name = "__dll2__bss_1D4", vram = 0x8100BA08 },
+    { name = "__dll2__bss_1D8", vram = 0x8100BA0C },
 ]
 
 [[section]]
@@ -12583,7 +12570,6 @@ vram = 0x8131D03C
 size = 0x1220
 
 symbols = [
-    { name = "__dll488_str_0", vram = 0x8131E1AC },
     { name = "__dll488__data_0", vram = 0x8131E20C },
 ]
 
@@ -15571,6 +15557,7 @@ size = 0x22E0
 
 symbols = [
     { name = "__dll707_str_0", vram = 0x814311FC },
+    { name = "__dll707_str_C", vram = 0x81431208 },
     { name = "__dll707__rodata_28", vram = 0x81431224 },
     { name = "__dll707__rodata_2C", vram = 0x81431228 },
     { name = "__dll707__rodata_30", vram = 0x8143122C },
@@ -15578,8 +15565,6 @@ symbols = [
     { name = "__dll707__rodata_38", vram = 0x81431234 },
     { name = "__dll707__rodata_3C", vram = 0x81431238 },
     { name = "__dll707__rodata_40", vram = 0x8143123C },
-    { name = "__dll707__rodata_44", vram = 0x81431240 },
-    { name = "__dll707__rodata_48", vram = 0x81431244 },
     { name = "__dll707__rodata_70", vram = 0x8143126C },
     { name = "__dll707__rodata_B0", vram = 0x814312AC },
     { name = "__dll707__rodata_B4", vram = 0x814312B0 },
@@ -15594,6 +15579,7 @@ symbols = [
     { name = "__dll707__bss_8", vram = 0x814312E4 },
     { name = "__dll707__bss_20", vram = 0x814312FC },
     { name = "__dll707__bss_38", vram = 0x81431314 },
+    { name = "__dll707__bss_3C", vram = 0x81431318 },
     { name = "__dll707__bss_40", vram = 0x8143131C },
 ]
 

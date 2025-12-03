@@ -81,5 +81,6 @@
 #define _bss_1CC __dll2__bss_1CC
 #define _bss_1D0 __dll2__bss_1D0
 #define _bss_1D4 __dll2__bss_1D4
+#define _bss_1D8 __dll2__bss_1D8
 
 #endif //_DLL_2_RECOMP_H

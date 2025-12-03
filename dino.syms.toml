@@ -1405,7 +1405,7 @@ functions = [
     { name = "mp3_dec_func_800706f8", vram = 0x800706F8, size = 0x1B8 },
     { name = "mp3_dec_reduce_aliases", vram = 0x800708B0, size = 0x4A8 },
     { name = "mp3_dec_set_side_info", vram = 0x80070D58, size = 0x8E4 },
-    { name = "mp3_dec_decode_frame", vram = 0x8007163C, size = 0x6B4 },
+    { name = "mp3_dec_decode_frame", vram = 0x8007163C, size = 0x6B0 },
     { name = "mp3_main_func_80071cf0", vram = 0x80071CF0, size = 0x128 },
     { name = "mp3_main_func_80071e18", vram = 0x80071E18, size = 0x50C },
     { name = "mp3_main_init", vram = 0x80072324, size = 0x5C },
