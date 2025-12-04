@@ -3,24 +3,24 @@
 #ifndef _DLL_707_RECOMP_H
 #define _DLL_707_RECOMP_H
 
-#define dll_707_ctor __dll707_dll_707_ctor
-#define dll_707_dtor __dll707_dll_707_dtor
-#define dll_707_func_18 __dll707_dll_707_func_18
-#define dll_707_func_84 __dll707_dll_707_func_84
-#define dll_707_func_B8 __dll707_dll_707_func_B8
-#define dll_707_func_1B4 __dll707_dll_707_func_1B4
-#define dll_707_setup __dll707_dll_707_setup
-#define dll_707_func_558 __dll707_dll_707_func_558
-#define dll_707_func_7C0 __dll707_dll_707_func_7C0
-#define dll_707_func_A0C __dll707_dll_707_func_A0C
-#define dll_707_func_CBC __dll707_dll_707_func_CBC
-#define dll_707_func_E94 __dll707_dll_707_func_E94
-#define dll_707_control __dll707_dll_707_control
-#define dll_707_update __dll707_dll_707_update
-#define dll_707_print __dll707_dll_707_print
-#define dll_707_free __dll707_dll_707_free
-#define dll_707_get_model_flags __dll707_dll_707_get_model_flags
-#define dll_707_get_data_size __dll707_dll_707_get_data_size
+#define KamerianBoss_ctor __dll707_KamerianBoss_ctor
+#define KamerianBoss_dtor __dll707_KamerianBoss_dtor
+#define KamerianBoss_enable_hit_sphere __dll707_KamerianBoss_enable_hit_sphere
+#define KamerianBoss_disable_hit_sphere __dll707_KamerianBoss_disable_hit_sphere
+#define KamerianBoss_create_fx_emit __dll707_KamerianBoss_create_fx_emit
+#define KamerianBoss_create_projectile __dll707_KamerianBoss_create_projectile
+#define KamerianBoss_setup __dll707_KamerianBoss_setup
+#define KamerianBoss_func_558 __dll707_KamerianBoss_func_558
+#define KamerianBoss_do_flame_attack __dll707_KamerianBoss_do_flame_attack
+#define KamerianBoss_do_acid_attack __dll707_KamerianBoss_do_acid_attack
+#define KamerianBoss_do_pipe_texture_anim __dll707_KamerianBoss_do_pipe_texture_anim
+#define KamerianBoss_func_E94 __dll707_KamerianBoss_func_E94
+#define KamerianBoss_control __dll707_KamerianBoss_control
+#define KamerianBoss_update __dll707_KamerianBoss_update
+#define KamerianBoss_print __dll707_KamerianBoss_print
+#define KamerianBoss_free __dll707_KamerianBoss_free
+#define KamerianBoss_get_model_flags __dll707_KamerianBoss_get_model_flags
+#define KamerianBoss_get_data_size __dll707_KamerianBoss_get_data_size
 #define str_0 __dll707_str_0
 #define str_C __dll707_str_C
 #define _rodata_28 __dll707__rodata_28
@@ -36,14 +36,14 @@
 #define _rodata_B8 __dll707__rodata_B8
 #define _rodata_BC __dll707__rodata_BC
 #define _data_0 __dll707__data_0
-#define _data_8 __dll707__data_8
-#define _data_C __dll707__data_C
+#define sModel __dll707_sModel
+#define sHealthBarTextureIDs __dll707_sHealthBarTextureIDs
 #define _data_10 __dll707__data_10
 #define _data_18 __dll707__data_18
-#define _bss_0 __dll707__bss_0
+#define sHealthBarTextures __dll707_sHealthBarTextures
 #define _bss_8 __dll707__bss_8
 #define _bss_20 __dll707__bss_20
-#define _bss_38 __dll707__bss_38
+#define sHealthBarAlpha __dll707_sHealthBarAlpha
 #define _bss_3C __dll707__bss_3C
 #define _bss_40 __dll707__bss_40
 
