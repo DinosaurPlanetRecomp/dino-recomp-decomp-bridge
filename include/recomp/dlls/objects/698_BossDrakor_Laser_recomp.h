@@ -14,6 +14,5 @@
 #define dll_698_get_data_size __dll698_dll_698_get_data_size
 #define dll_698_func_564 __dll698_dll_698_func_564
 #define dll_698_func_6E4 __dll698_dll_698_func_6E4
-#define _rodata_0 __dll698__rodata_0
 
 #endif //_DLL_698_RECOMP_H

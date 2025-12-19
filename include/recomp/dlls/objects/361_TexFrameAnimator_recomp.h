@@ -7,7 +7,6 @@
 #define TexFrameAnimator_dtor __dll361_TexFrameAnimator_dtor
 #define TexFrameAnimator_setup __dll361_TexFrameAnimator_setup
 #define TexFrameAnimator_control __dll361_TexFrameAnimator_control
-#define dll_361_update __dll361_dll_361_update
 #define TexFrameAnimator_update __dll361_TexFrameAnimator_update
 #define TexFrameAnimator_print __dll361_TexFrameAnimator_print
 #define TexFrameAnimator_free __dll361_TexFrameAnimator_free

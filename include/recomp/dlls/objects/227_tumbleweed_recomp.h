@@ -31,10 +31,6 @@
 #define _rodata_10 __dll227__rodata_10
 #define _rodata_14 __dll227__rodata_14
 #define _rodata_18 __dll227__rodata_18
-#define _rodata_20 __dll227__rodata_20
-#define _rodata_24 __dll227__rodata_24
-#define _rodata_28 __dll227__rodata_28
-#define _rodata_2C __dll227__rodata_2C
 #define _data_0 __dll227__data_0
 #define _data_C __dll227__data_C
 
