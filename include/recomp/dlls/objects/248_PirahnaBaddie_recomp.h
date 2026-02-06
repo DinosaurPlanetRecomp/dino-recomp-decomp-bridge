@@ -13,10 +13,6 @@
 #define dll_248_get_model_flags __dll248_dll_248_get_model_flags
 #define dll_248_get_data_size __dll248_dll_248_get_data_size
 #define dll_248_func_A5C __dll248_dll_248_func_A5C
-#define _rodata_0 __dll248__rodata_0
-#define _rodata_4 __dll248__rodata_4
-#define _rodata_8 __dll248__rodata_8
-#define _rodata_C __dll248__rodata_C
 #define _rodata_10 __dll248__rodata_10
 #define _rodata_18 __dll248__rodata_18
 #define _rodata_1C __dll248__rodata_1C

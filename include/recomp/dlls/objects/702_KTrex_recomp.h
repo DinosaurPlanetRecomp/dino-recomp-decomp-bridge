@@ -78,7 +78,7 @@
 #define _data_EC __dll702__data_EC
 #define sAnimStateCallbacks __dll702_sAnimStateCallbacks
 #define sLogicStateCallbacks __dll702_sLogicStateCallbacks
-#define sDLL33Data __dll702_sDLL33Data
+#define sBaddie __dll702_sBaddie
 #define sKTData __dll702_sKTData
 #define _bss_60 __dll702__bss_60
 
