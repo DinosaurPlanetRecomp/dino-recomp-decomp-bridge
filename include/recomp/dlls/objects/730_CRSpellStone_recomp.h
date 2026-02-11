@@ -16,6 +16,8 @@
 #define dll_730_func_334 __dll730_dll_730_func_334
 #define dll_730_func_34C __dll730_dll_730_func_34C
 #define str_0 __dll730_str_0
+#define str_10 __dll730_str_10
+#define str_2C __dll730_str_2C
 #define _data_0 __dll730__data_0
 
 #endif //_DLL_730_RECOMP_H

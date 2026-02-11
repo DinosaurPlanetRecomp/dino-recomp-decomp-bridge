@@ -13,9 +13,5 @@
 #define dll_509_get_model_flags __dll509_dll_509_get_model_flags
 #define dll_509_get_data_size __dll509_dll_509_get_data_size
 #define str_0 __dll509_str_0
-#define _rodata_1C __dll509__rodata_1C
-#define _rodata_20 __dll509__rodata_20
-#define _rodata_24 __dll509__rodata_24
-#define _rodata_28 __dll509__rodata_28
 
 #endif //_DLL_509_RECOMP_H
