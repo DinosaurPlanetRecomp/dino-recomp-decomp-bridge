@@ -12,9 +12,5 @@
 #define dll_510_free __dll510_dll_510_free
 #define dll_510_get_model_flags __dll510_dll_510_get_model_flags
 #define dll_510_get_data_size __dll510_dll_510_get_data_size
-#define _rodata_14 __dll510__rodata_14
-#define _rodata_18 __dll510__rodata_18
-#define _rodata_1C __dll510__rodata_1C
-#define _rodata_20 __dll510__rodata_20
 
 #endif //_DLL_510_RECOMP_H

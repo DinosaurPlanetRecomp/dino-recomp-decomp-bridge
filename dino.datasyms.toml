@@ -15,19 +15,19 @@ symbols = [
     { name = "D_8008C50A", vram = 0x8008C50A },
     { name = "gNearPlane", vram = 0x8008C510 },
     { name = "gFarPlane", vram = 0x8008C514 },
-    { name = "D_8008C518", vram = 0x8008C518 },
-    { name = "D_8008C51C", vram = 0x8008C51C },
-    { name = "D_8008C520", vram = 0x8008C520 },
-    { name = "SHORT_8008c524", vram = 0x8008C524 },
-    { name = "SHORT_8008c528", vram = 0x8008C528 },
-    { name = "FLOAT_8008c52c", vram = 0x8008C52C },
+    { name = "gFarPlaneTimer", vram = 0x8008C518 },
+    { name = "gFarPlaneDuration", vram = 0x8008C51C },
+    { name = "gAntiPiracyFlag", vram = 0x8008C520 },
+    { name = "gLetterboxSize", vram = 0x8008C524 },
+    { name = "gLetterboxTarget", vram = 0x8008C528 },
+    { name = "gProjectionScaleX", vram = 0x8008C52C },
     { name = "gViewports", vram = 0x8008C530 },
     { name = "D_8008C560", vram = 0x8008C560 },
     { name = "gCameraGroupSelector", vram = 0x8008C600 },
     { name = "data_8008c604", vram = 0x8008C604 },
     { name = "gRSPViewports", vram = 0x8008C618 },
-    { name = "D_8008C758", vram = 0x8008C758 },
-    { name = "D_8008C788", vram = 0x8008C788 },
+    { name = "gStaticCameraSRT", vram = 0x8008C758 },
+    { name = "g2DProjectionMtx", vram = 0x8008C788 },
     { name = "D_8008C7C8", vram = 0x8008C7C8 },
     { name = "D_8008C7D0", vram = 0x8008C7D0 },
     { name = "D_8008C7D4", vram = 0x8008C7D4 },
@@ -913,10 +913,13 @@ symbols = [
     { name = "gMainThread", vram = 0x800A5FF0 },
     { name = "D_800A6220", vram = 0x800A6220 },
     { name = "D_800A6270", vram = 0x800A6270 },
+    { name = "gFarPlaneStart", vram = 0x800A6270 },
+    { name = "gFarPlaneTarget", vram = 0x800A6274 },
     { name = "D_800A6274", vram = 0x800A6274 },
     { name = "gCameras", vram = 0x800A6278 },
-    { name = "UINT_800a66f8", vram = 0x800A66F8 },
+    { name = "gViewportMode", vram = 0x800A66F8 },
     { name = "gCameraSelector", vram = 0x800A66FC },
+    { name = "gMaxCameras", vram = 0x800A6700 },
     { name = "D_800A6700", vram = 0x800A6700 },
     { name = "gCameraSRT", vram = 0x800A6708 },
     { name = "gFovY", vram = 0x800A6720 },
@@ -925,7 +928,7 @@ symbols = [
     { name = "gUseAlternateCamera", vram = 0x800A6729 },
     { name = "gMatrixPool", vram = 0x800A6730 },
     { name = "gMatrixCount", vram = 0x800A6A50 },
-    { name = "UINT_800a6a54", vram = 0x800A6A54 },
+    { name = "gCameraYOffsetEnabled", vram = 0x800A6A54 },
     { name = "gPerspNorm", vram = 0x800A6A58 },
     { name = "MtxF_800a6a60", vram = 0x800A6A60 },
     { name = "gViewProjMtx", vram = 0x800A6AA0 },
@@ -10127,7 +10130,6 @@ size = 0xB50
 
 symbols = [
     { name = "__dll294_str_0", vram = 0x81226AE8 },
-    { name = "__dll294__rodata_28", vram = 0x81226B10 },
     { name = "__dll294__data_0", vram = 0x81226B38 },
 ]
 
@@ -12899,10 +12901,6 @@ vram = 0x8133B03C
 size = 0x740
 
 symbols = [
-    { name = "__dll510__rodata_14", vram = 0x8133B720 },
-    { name = "__dll510__rodata_18", vram = 0x8133B724 },
-    { name = "__dll510__rodata_1C", vram = 0x8133B728 },
-    { name = "__dll510__rodata_20", vram = 0x8133B72C },
 ]
 
 [[section]]
@@ -13001,9 +12999,6 @@ vram = 0x8134303C
 size = 0xA40
 
 symbols = [
-    { name = "__dll517__rodata_0", vram = 0x813439F0 },
-    { name = "__dll517__rodata_4", vram = 0x813439F4 },
-    { name = "__dll517__rodata_8", vram = 0x813439F8 },
     { name = "__dll517__data_0", vram = 0x81343A00 },
     { name = "__dll517__data_8", vram = 0x81343A08 },
     { name = "__dll517__data_18", vram = 0x81343A18 },

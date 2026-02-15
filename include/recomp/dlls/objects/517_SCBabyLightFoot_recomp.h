@@ -18,9 +18,6 @@
 #define dll_517_func_4AC __dll517_dll_517_func_4AC
 #define dll_517_func_628 __dll517_dll_517_func_628
 #define dll_517_func_7C4 __dll517_dll_517_func_7C4
-#define _rodata_0 __dll517__rodata_0
-#define _rodata_4 __dll517__rodata_4
-#define _rodata_8 __dll517__rodata_8
 #define _data_0 __dll517__data_0
 #define _data_8 __dll517__data_8
 #define _data_18 __dll517__data_18

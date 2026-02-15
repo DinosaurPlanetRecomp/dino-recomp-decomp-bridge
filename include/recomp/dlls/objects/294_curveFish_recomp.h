@@ -15,7 +15,6 @@
 #define dll_294_get_data_size __dll294_dll_294_get_data_size
 #define dll_294_func_968 __dll294_dll_294_func_968
 #define str_0 __dll294_str_0
-#define _rodata_28 __dll294__rodata_28
 #define _data_0 __dll294__data_0
 
 #endif //_DLL_294_RECOMP_H
