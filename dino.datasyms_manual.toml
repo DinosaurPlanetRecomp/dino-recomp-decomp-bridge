@@ -7,4 +7,6 @@ size = 0xA3AA0
 symbols = [
     { name = "osTvType", vram = 0x80000300 },
     { name = "osMemSize", vram = 0x80000318 },
+    { name = "__fstAddress", vram = 0xA4970 },
+    { name = "__file1Address", vram = 0xA4AA0 },
 ]
