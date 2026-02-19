@@ -12,6 +12,5 @@
 #define dll_513_free __dll513_dll_513_free
 #define dll_513_get_model_flags __dll513_dll_513_get_model_flags
 #define dll_513_get_data_size __dll513_dll_513_get_data_size
-#define _rodata_0 __dll513__rodata_0
 
 #endif //_DLL_513_RECOMP_H

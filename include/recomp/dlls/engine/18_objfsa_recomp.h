@@ -16,7 +16,7 @@
 #define objfsa_func_E60 __dll18_objfsa_func_E60
 #define objfsa_func_ED4 __dll18_objfsa_func_ED4
 #define objfsa_func_F78 __dll18_objfsa_func_F78
-#define objfsa_func_1008 __dll18_objfsa_func_1008
+#define objfsa_turn_to_target __dll18_objfsa_turn_to_target
 #define objfsa_func_1120 __dll18_objfsa_func_1120
 #define objfsa_func_11BC __dll18_objfsa_func_11BC
 #define objfsa_func_1280 __dll18_objfsa_func_1280

@@ -13,8 +13,5 @@
 #define dll_776_get_model_flags __dll776_dll_776_get_model_flags
 #define dll_776_get_data_size __dll776_dll_776_get_data_size
 #define dll_776_func_224 __dll776_dll_776_func_224
-#define _rodata_0 __dll776__rodata_0
-#define _rodata_4 __dll776__rodata_4
-#define _rodata_8 __dll776__rodata_8
 
 #endif //_DLL_776_RECOMP_H

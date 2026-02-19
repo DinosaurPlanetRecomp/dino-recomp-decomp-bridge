@@ -14,14 +14,5 @@
 #define dll_455_get_data_size __dll455_dll_455_get_data_size
 #define dll_455_func_6BC __dll455_dll_455_func_6BC
 #define str_0 __dll455_str_0
-#define _rodata_24 __dll455__rodata_24
-#define _rodata_28 __dll455__rodata_28
-#define _rodata_2C __dll455__rodata_2C
-#define _rodata_30 __dll455__rodata_30
-#define _rodata_34 __dll455__rodata_34
-#define _rodata_38 __dll455__rodata_38
-#define _rodata_3C __dll455__rodata_3C
-#define _rodata_40 __dll455__rodata_40
-#define _rodata_44 __dll455__rodata_44
 
 #endif //_DLL_455_RECOMP_H

@@ -16,10 +16,6 @@
 #define dll_502_func_C70 __dll502_dll_502_func_C70
 #define dll_502_func_D74 __dll502_dll_502_func_D74
 #define str_0 __dll502_str_0
-#define _rodata_38 __dll502__rodata_38
-#define _rodata_50 __dll502__rodata_50
-#define _rodata_7C __dll502__rodata_7C
-#define _rodata_80 __dll502__rodata_80
 #define _data_0 __dll502__data_0
 #define _data_14 __dll502__data_14
 

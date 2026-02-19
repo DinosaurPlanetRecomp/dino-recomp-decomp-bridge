@@ -24,7 +24,7 @@
 #define BaddieControl_func_1D88 __dll33_BaddieControl_func_1D88
 #define BaddieControl_func_1FAC __dll33_BaddieControl_func_1FAC
 #define BaddieControl_setup __dll33_BaddieControl_setup
-#define BaddieControl_func_24FC __dll33_BaddieControl_func_24FC
+#define BaddieControl_free __dll33_BaddieControl_free
 #define BaddieControl_change_weapon __dll33_BaddieControl_change_weapon
 #define BaddieControl_get_health_ratio __dll33_BaddieControl_get_health_ratio
 #define _data_0 __dll33__data_0
