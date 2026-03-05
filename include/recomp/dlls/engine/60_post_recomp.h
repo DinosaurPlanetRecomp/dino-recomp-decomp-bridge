@@ -12,11 +12,11 @@
 #define rodata_0 __dll60_rodata_0
 #define rodata_4 __dll60_rodata_4
 #define data_0 __dll60_data_0
-#define data_4 __dll60_data_4
-#define data_8 __dll60_data_8
-#define data_C __dll60_data_C
-#define data_10 __dll60_data_10
-#define data_18 __dll60_data_18
+#define dExpansionPakMissing __dll60_dExpansionPakMissing
+#define dTexN64Logo __dll60_dTexN64Logo
+#define dTexN64LogoShadow __dll60_dTexN64LogoShadow
+#define dTexExpansionPak __dll60_dTexExpansionPak
+#define dColourTint __dll60_dColourTint
 #define bss_0 __dll60_bss_0
 #define bss_4 __dll60_bss_4
 #define bss_5 __dll60_bss_5
@@ -24,8 +24,8 @@
 #define bss_8 __dll60_bss_8
 #define bss_C __dll60_bss_C
 #define bss_10 __dll60_bss_10
-#define bss_14 __dll60_bss_14
-#define bss_18 __dll60_bss_18
-#define bss_1C __dll60_bss_1C
+#define splashGametext __dll60_splashGametext
+#define sTexDolbyBig __dll60_sTexDolbyBig
+#define sTexDolbySmall __dll60_sTexDolbySmall
 
 #endif //_DLL_60_RECOMP_H

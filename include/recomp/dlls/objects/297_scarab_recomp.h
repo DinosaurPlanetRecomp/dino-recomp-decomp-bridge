@@ -3,30 +3,20 @@
 #ifndef _DLL_297_RECOMP_H
 #define _DLL_297_RECOMP_H
 
-#define dll_297_ctor __dll297_dll_297_ctor
-#define dll_297_dtor __dll297_dll_297_dtor
-#define dll_297_setup __dll297_dll_297_setup
-#define dll_297_control __dll297_dll_297_control
-#define dll_297_update __dll297_dll_297_update
-#define dll_297_print __dll297_dll_297_print
-#define dll_297_free __dll297_dll_297_free
-#define dll_297_get_model_flags __dll297_dll_297_get_model_flags
-#define dll_297_get_data_size __dll297_dll_297_get_data_size
-#define dll_297_func_1284 __dll297_dll_297_func_1284
-#define dll_297_func_1304 __dll297_dll_297_func_1304
-#define dll_297_func_1544 __dll297_dll_297_func_1544
+#define scarab_ctor __dll297_scarab_ctor
+#define scarab_dtor __dll297_scarab_dtor
+#define scarab_setup __dll297_scarab_setup
+#define scarab_control __dll297_scarab_control
+#define scarab_update __dll297_scarab_update
+#define scarab_print __dll297_scarab_print
+#define scarab_free __dll297_scarab_free
+#define scarab_get_model_flags __dll297_scarab_get_model_flags
+#define scarab_get_data_size __dll297_scarab_get_data_size
+#define scarab_collect __dll297_scarab_collect
+#define scarab_rotate_with_surface __dll297_scarab_rotate_with_surface
+#define scarab_was_ground_reached __dll297_scarab_was_ground_reached
 #define str_0 __dll297_str_0
-#define str_C __dll297_str_C
-#define _rodata_18 __dll297__rodata_18
-#define _rodata_1C __dll297__rodata_1C
-#define _rodata_20 __dll297__rodata_20
-#define _rodata_24 __dll297__rodata_24
-#define _rodata_28 __dll297__rodata_28
-#define _rodata_2C __dll297__rodata_2C
-#define _rodata_30 __dll297__rodata_30
-#define _rodata_34 __dll297__rodata_34
-#define _rodata_38 __dll297__rodata_38
-#define _data_0 __dll297__data_0
+#define dSequenceIDs __dll297_dSequenceIDs
 #define _data_8 __dll297__data_8
 #define _data_14 __dll297__data_14
 #define _data_20 __dll297__data_20

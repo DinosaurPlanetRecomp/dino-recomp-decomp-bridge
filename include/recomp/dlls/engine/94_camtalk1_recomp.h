@@ -3,11 +3,11 @@
 #ifndef _DLL_94_RECOMP_H
 #define _DLL_94_RECOMP_H
 
-#define dll_94_ctor __dll94_dll_94_ctor
-#define dll_94_dtor __dll94_dll_94_dtor
-#define dll_94_func_18 __dll94_dll_94_func_18
-#define dll_94_func_64 __dll94_dll_94_func_64
-#define dll_94_func_70 __dll94_dll_94_func_70
-#define dll_94_func_7C __dll94_dll_94_func_7C
+#define camtalk1_ctor __dll94_camtalk1_ctor
+#define camtalk1_dtor __dll94_camtalk1_dtor
+#define camtalk1_setup __dll94_camtalk1_setup
+#define camtalk1_control __dll94_camtalk1_control
+#define camtalk1_free __dll94_camtalk1_free
+#define camtalk1_func_7C __dll94_camtalk1_func_7C
 
 #endif //_DLL_94_RECOMP_H

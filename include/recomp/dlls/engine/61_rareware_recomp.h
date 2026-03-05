@@ -10,7 +10,7 @@
 #define dll_61_draw __dll61_dll_61_draw
 #define data_0 __dll61_data_0
 #define data_4 __dll61_data_4
-#define data_8 __dll61_data_8
+#define dColourUnused __dll61_dColourUnused
 #define bss_0 __dll61_bss_0
 #define bss_1 __dll61_bss_1
 #define bss_2 __dll61_bss_2

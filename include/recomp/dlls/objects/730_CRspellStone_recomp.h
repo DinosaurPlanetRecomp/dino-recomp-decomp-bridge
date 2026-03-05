@@ -3,21 +3,19 @@
 #ifndef _DLL_730_RECOMP_H
 #define _DLL_730_RECOMP_H
 
-#define dll_730_ctor __dll730_dll_730_ctor
-#define dll_730_dtor __dll730_dll_730_dtor
-#define dll_730_setup __dll730_dll_730_setup
-#define dll_730_control __dll730_dll_730_control
-#define dll_730_update __dll730_dll_730_update
-#define dll_730_print __dll730_dll_730_print
-#define dll_730_free __dll730_dll_730_free
-#define dll_730_get_model_flags __dll730_dll_730_get_model_flags
-#define dll_730_get_data_size __dll730_dll_730_get_data_size
-#define dll_730_func_2EC __dll730_dll_730_func_2EC
-#define dll_730_func_334 __dll730_dll_730_func_334
-#define dll_730_func_34C __dll730_dll_730_func_34C
+#define CRSpellStone_ctor __dll730_CRSpellStone_ctor
+#define CRSpellStone_dtor __dll730_CRSpellStone_dtor
+#define CRSpellStone_setup __dll730_CRSpellStone_setup
+#define CRSpellStone_control __dll730_CRSpellStone_control
+#define CRSpellStone_update __dll730_CRSpellStone_update
+#define CRSpellStone_print __dll730_CRSpellStone_print
+#define CRSpellStone_free __dll730_CRSpellStone_free
+#define CRSpellStone_get_model_flags __dll730_CRSpellStone_get_model_flags
+#define CRSpellStone_get_data_size __dll730_CRSpellStone_get_data_size
+#define CRSpellStone_set_state __dll730_CRSpellStone_set_state
+#define CRSpellStone_is_not_rescued __dll730_CRSpellStone_is_not_rescued
+#define CRSpellStone_anim_callback __dll730_CRSpellStone_anim_callback
 #define str_0 __dll730_str_0
-#define str_10 __dll730_str_10
-#define str_2C __dll730_str_2C
-#define _data_0 __dll730__data_0
+#define dWinBits __dll730_dWinBits
 
 #endif //_DLL_730_RECOMP_H

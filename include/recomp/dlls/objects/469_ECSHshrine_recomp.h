@@ -3,27 +3,25 @@
 #ifndef _DLL_469_RECOMP_H
 #define _DLL_469_RECOMP_H
 
-#define dll_469_ctor __dll469_dll_469_ctor
-#define dll_469_dtor __dll469_dll_469_dtor
-#define dll_469_setup __dll469_dll_469_setup
-#define dll_469_control __dll469_dll_469_control
-#define dll_469_update __dll469_dll_469_update
-#define dll_469_print __dll469_dll_469_print
-#define dll_469_free __dll469_dll_469_free
-#define dll_469_get_model_flags __dll469_dll_469_get_model_flags
-#define dll_469_get_data_size __dll469_dll_469_get_data_size
-#define dll_469_func_1454 __dll469_dll_469_func_1454
-#define dll_469_func_1484 __dll469_dll_469_func_1484
-#define dll_469_func_14F4 __dll469_dll_469_func_14F4
-#define dll_469_func_152C __dll469_dll_469_func_152C
-#define dll_469_func_1590 __dll469_dll_469_func_1590
-#define dll_469_func_15E0 __dll469_dll_469_func_15E0
-#define dll_469_func_193C __dll469_dll_469_func_193C
-#define _data_0 __dll469__data_0
-#define _data_30 __dll469__data_30
-#define _data_32 __dll469__data_32
-#define _data_3C __dll469__data_3C
-#define _data_40 __dll469__data_40
-#define _data_44 __dll469__data_44
+#define ECSHshrine_ctor __dll469_ECSHshrine_ctor
+#define ECSHshrine_dtor __dll469_ECSHshrine_dtor
+#define ECSHshrine_setup __dll469_ECSHshrine_setup
+#define ECSHshrine_control __dll469_ECSHshrine_control
+#define ECSHshrine_update __dll469_ECSHshrine_update
+#define ECSHshrine_print __dll469_ECSHshrine_print
+#define ECSHshrine_free __dll469_ECSHshrine_free
+#define ECSHshrine_get_model_flags __dll469_ECSHshrine_get_model_flags
+#define ECSHshrine_get_data_size __dll469_ECSHshrine_get_data_size
+#define ECSHshrine_func_1454 __dll469_ECSHshrine_func_1454
+#define ECSHshrine_get_cup_coords __dll469_ECSHshrine_get_cup_coords
+#define ECSHshrine_get_minigame_state __dll469_ECSHshrine_get_minigame_state
+#define ECSHshrine_set_cup_coords __dll469_ECSHshrine_set_cup_coords
+#define ECSHshrine_choose_cup __dll469_ECSHshrine_choose_cup
+#define ECSHshrine_anim_callback __dll469_ECSHshrine_anim_callback
+#define ECSHshrine_handle_messages __dll469_ECSHshrine_handle_messages
+#define dCupCoords __dll469_dCupCoords
+#define dCupSlots __dll469_dCupSlots
+#define dTexture __dll469_dTexture
+#define dShrine __dll469_dShrine
 
 #endif //_DLL_469_RECOMP_H

@@ -3,17 +3,15 @@
 #ifndef _DLL_605_RECOMP_H
 #define _DLL_605_RECOMP_H
 
-#define dll_605_ctor __dll605_dll_605_ctor
-#define dll_605_dtor __dll605_dll_605_dtor
-#define dll_605_setup __dll605_dll_605_setup
-#define dll_605_control __dll605_dll_605_control
-#define dll_605_update __dll605_dll_605_update
-#define dll_605_print __dll605_dll_605_print
-#define dll_605_free __dll605_dll_605_free
-#define dll_605_get_model_flags __dll605_dll_605_get_model_flags
-#define dll_605_get_data_size __dll605_dll_605_get_data_size
-#define _rodata_0 __dll605__rodata_0
-#define _rodata_4 __dll605__rodata_4
+#define WLWorm_ctor __dll605_WLWorm_ctor
+#define WLWorm_dtor __dll605_WLWorm_dtor
+#define WLWorm_setup __dll605_WLWorm_setup
+#define WLWorm_control __dll605_WLWorm_control
+#define WLWorm_update __dll605_WLWorm_update
+#define WLWorm_print __dll605_WLWorm_print
+#define WLWorm_free __dll605_WLWorm_free
+#define WLWorm_get_model_flags __dll605_WLWorm_get_model_flags
+#define WLWorm_get_data_size __dll605_WLWorm_get_data_size
 #define _data_0 __dll605__data_0
 
 #endif //_DLL_605_RECOMP_H

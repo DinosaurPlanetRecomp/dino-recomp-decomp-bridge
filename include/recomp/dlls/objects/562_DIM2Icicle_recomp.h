@@ -3,17 +3,14 @@
 #ifndef _DLL_562_RECOMP_H
 #define _DLL_562_RECOMP_H
 
-#define dll_562_ctor __dll562_dll_562_ctor
-#define dll_562_dtor __dll562_dll_562_dtor
-#define dll_562_setup __dll562_dll_562_setup
-#define dll_562_control __dll562_dll_562_control
-#define dll_562_update __dll562_dll_562_update
-#define dll_562_print __dll562_dll_562_print
-#define dll_562_free __dll562_dll_562_free
-#define dll_562_get_model_flags __dll562_dll_562_get_model_flags
-#define dll_562_get_data_size __dll562_dll_562_get_data_size
-#define _rodata_0 __dll562__rodata_0
-#define _rodata_4 __dll562__rodata_4
-#define _rodata_8 __dll562__rodata_8
+#define DIM2Icicle_ctor __dll562_DIM2Icicle_ctor
+#define DIM2Icicle_dtor __dll562_DIM2Icicle_dtor
+#define DIM2Icicle_setup __dll562_DIM2Icicle_setup
+#define DIM2Icicle_control __dll562_DIM2Icicle_control
+#define DIM2Icicle_update __dll562_DIM2Icicle_update
+#define DIM2Icicle_print __dll562_DIM2Icicle_print
+#define DIM2Icicle_free __dll562_DIM2Icicle_free
+#define DIM2Icicle_get_model_flags __dll562_DIM2Icicle_get_model_flags
+#define DIM2Icicle_get_data_size __dll562_DIM2Icicle_get_data_size
 
 #endif //_DLL_562_RECOMP_H
