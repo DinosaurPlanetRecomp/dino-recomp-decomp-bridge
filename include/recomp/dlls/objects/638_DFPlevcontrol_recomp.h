@@ -17,13 +17,13 @@
 #define DFP_LevelControl_handle_visit_1 __dll638_DFP_LevelControl_handle_visit_1
 #define DFP_LevelControl_handle_visit_2 __dll638_DFP_LevelControl_handle_visit_2
 #define DFP_LevelControl_handle_visit_3 __dll638_DFP_LevelControl_handle_visit_3
-#define _data_0 __dll638__data_0
-#define _data_4 __dll638__data_4
-#define _data_10 __dll638__data_10
-#define _data_14 __dll638__data_14
-#define _data_18 __dll638__data_18
-#define _data_1C __dll638__data_1C
-#define _data_20 __dll638__data_20
-#define _data_24 __dll638__data_24
+#define dTexElectricity __dll638_dTexElectricity
+#define dFloorTiles __dll638_dFloorTiles
+#define dLitVisit1 __dll638_dLitVisit1
+#define dTimerControl __dll638_dTimerControl
+#define dMagicRefillTimer __dll638_dMagicRefillTimer
+#define dInitialiseVisit1 __dll638_dInitialiseVisit1
+#define dInitialiseVisit2 __dll638_dInitialiseVisit2
+#define dInitialiseVisit3 __dll638_dInitialiseVisit3
 
 #endif //_DLL_638_RECOMP_H
