@@ -30,8 +30,6 @@
 #define _rodata_38 __dll537__rodata_38
 #define _rodata_3C __dll537__rodata_3C
 #define _rodata_40 __dll537__rodata_40
-#define _rodata_44 __dll537__rodata_44
-#define _rodata_48 __dll537__rodata_48
 #define _data_0 __dll537__data_0
 
 #endif //_DLL_537_RECOMP_H

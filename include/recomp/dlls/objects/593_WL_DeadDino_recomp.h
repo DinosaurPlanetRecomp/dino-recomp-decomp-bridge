@@ -16,8 +16,6 @@
 #define dll_593_func_8E4 __dll593_dll_593_func_8E4
 #define dll_593_func_8EC __dll593_dll_593_func_8EC
 #define _rodata_0 __dll593__rodata_0
-#define _rodata_4 __dll593__rodata_4
-#define _rodata_8 __dll593__rodata_8
 #define _data_0 __dll593__data_0
 
 #endif //_DLL_593_RECOMP_H

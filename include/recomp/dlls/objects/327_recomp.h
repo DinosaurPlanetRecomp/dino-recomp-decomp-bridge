@@ -12,6 +12,5 @@
 #define dll_327_free __dll327_dll_327_free
 #define dll_327_get_model_flags __dll327_dll_327_get_model_flags
 #define dll_327_get_data_size __dll327_dll_327_get_data_size
-#define _rodata_0 __dll327__rodata_0
 
 #endif //_DLL_327_RECOMP_H

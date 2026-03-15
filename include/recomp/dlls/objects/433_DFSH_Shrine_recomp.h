@@ -14,7 +14,6 @@
 #define dll_433_get_data_size __dll433_dll_433_get_data_size
 #define dll_433_func_F18 __dll433_dll_433_func_F18
 #define dll_433_func_12AC __dll433_dll_433_func_12AC
-#define str_0 __dll433_str_0
 #define _data_0 __dll433__data_0
 #define _data_4 __dll433__data_4
 

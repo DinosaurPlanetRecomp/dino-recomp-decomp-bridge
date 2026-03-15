@@ -3,29 +3,20 @@
 #ifndef _DLL_295_RECOMP_H
 #define _DLL_295_RECOMP_H
 
-#define dll_295_ctor __dll295_dll_295_ctor
-#define dll_295_dtor __dll295_dll_295_dtor
-#define dll_295_setup __dll295_dll_295_setup
-#define dll_295_control __dll295_dll_295_control
-#define dll_295_update __dll295_dll_295_update
-#define dll_295_print __dll295_dll_295_print
-#define dll_295_free __dll295_dll_295_free
-#define dll_295_get_model_flags __dll295_dll_295_get_model_flags
-#define dll_295_get_data_size __dll295_dll_295_get_data_size
-#define dll_295_func_DC0 __dll295_dll_295_func_DC0
-#define dll_295_func_E78 __dll295_dll_295_func_E78
-#define dll_295_func_1104 __dll295_dll_295_func_1104
-#define dll_295_func_2024 __dll295_dll_295_func_2024
-#define _rodata_0 __dll295__rodata_0
-#define _rodata_4 __dll295__rodata_4
-#define _rodata_8 __dll295__rodata_8
-#define _rodata_C __dll295__rodata_C
-#define _rodata_2C __dll295__rodata_2C
-#define _rodata_30 __dll295__rodata_30
-#define _rodata_34 __dll295__rodata_34
-#define _rodata_38 __dll295__rodata_38
-#define _rodata_3C __dll295__rodata_3C
-#define _data_0 __dll295__data_0
-#define _bss_0 __dll295__bss_0
+#define smallbasket_ctor __dll295_smallbasket_ctor
+#define smallbasket_dtor __dll295_smallbasket_dtor
+#define smallbasket_setup __dll295_smallbasket_setup
+#define smallbasket_control __dll295_smallbasket_control
+#define smallbasket_update __dll295_smallbasket_update
+#define smallbasket_print __dll295_smallbasket_print
+#define smallbasket_free __dll295_smallbasket_free
+#define smallbasket_get_model_flags __dll295_smallbasket_get_model_flags
+#define smallbasket_get_data_size __dll295_smallbasket_get_data_size
+#define smallbasket_handle_being_lifted __dll295_smallbasket_handle_being_lifted
+#define smallbasket_handle_collision __dll295_smallbasket_handle_collision
+#define smallbasket_create_items __dll295_smallbasket_create_items
+#define smallbasket_handle_attack_collisions __dll295_smallbasket_handle_attack_collisions
+#define dModGfxDLL __dll295_dModGfxDLL
+#define sGroundRef __dll295_sGroundRef
 
 #endif //_DLL_295_RECOMP_H

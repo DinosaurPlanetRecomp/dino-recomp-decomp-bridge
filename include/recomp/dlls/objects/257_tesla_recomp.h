@@ -15,7 +15,5 @@
 #define dll_257_func_1144 __dll257_dll_257_func_1144
 #define dll_257_func_11C8 __dll257_dll_257_func_11C8
 #define str_0 __dll257_str_0
-#define _rodata_64 __dll257__rodata_64
-#define _rodata_68 __dll257__rodata_68
 
 #endif //_DLL_257_RECOMP_H
