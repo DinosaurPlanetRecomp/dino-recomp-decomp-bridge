@@ -26,7 +26,7 @@
 #define gplay_set_playerno __dll29_gplay_set_playerno
 #define gplay_get_player_stats __dll29_gplay_get_player_stats
 #define gplay_get_player_saved_location __dll29_gplay_get_player_saved_location
-#define gplay_func_F30 __dll29_gplay_func_F30
+#define gplay_get_sidekick_stats __dll29_gplay_get_sidekick_stats
 #define gplay_func_F60 __dll29_gplay_func_F60
 #define gplay_func_FA8 __dll29_gplay_func_FA8
 #define gplay_func_FE8 __dll29_gplay_func_FE8
