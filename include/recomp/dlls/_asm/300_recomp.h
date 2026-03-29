@@ -13,6 +13,6 @@
 #define dll_300_get_model_flags __dll300_dll_300_get_model_flags
 #define dll_300_get_data_size __dll300_dll_300_get_data_size
 #define dll_300_func_884 __dll300_dll_300_func_884
-#define _rodata_0 __dll300__rodata_0
+#define rodata_0 __dll300_rodata_0
 
 #endif //_DLL_300_RECOMP_H

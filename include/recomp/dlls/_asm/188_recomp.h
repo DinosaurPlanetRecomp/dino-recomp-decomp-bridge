@@ -6,8 +6,8 @@
 #define dll_188_ctor __dll188_dll_188_ctor
 #define dll_188_dtor __dll188_dll_188_dtor
 #define dll_188_func_18 __dll188_dll_188_func_18
-#define _rodata_0 __dll188__rodata_0
-#define _rodata_4 __dll188__rodata_4
-#define _rodata_8 __dll188__rodata_8
+#define rodata_0 __dll188_rodata_0
+#define rodata_4 __dll188_rodata_4
+#define rodata_8 __dll188_rodata_8
 
 #endif //_DLL_188_RECOMP_H

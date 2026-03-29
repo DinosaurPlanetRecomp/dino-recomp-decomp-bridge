@@ -14,9 +14,9 @@
 #define dll_298_get_data_size __dll298_dll_298_get_data_size
 #define dll_298_func_F98 __dll298_dll_298_func_F98
 #define dll_298_func_1064 __dll298_dll_298_func_1064
-#define _rodata_0 __dll298__rodata_0
-#define _rodata_4 __dll298__rodata_4
-#define _rodata_8 __dll298__rodata_8
-#define _data_0 __dll298__data_0
+#define rodata_0 __dll298_rodata_0
+#define rodata_4 __dll298_rodata_4
+#define rodata_8 __dll298_rodata_8
+#define data_0 __dll298_data_0
 
 #endif //_DLL_298_RECOMP_H

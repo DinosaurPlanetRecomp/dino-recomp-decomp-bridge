@@ -12,6 +12,6 @@
 #define dll_664_free __dll664_dll_664_free
 #define dll_664_get_model_flags __dll664_dll_664_get_model_flags
 #define dll_664_get_data_size __dll664_dll_664_get_data_size
-#define _rodata_0 __dll664__rodata_0
+#define rodata_0 __dll664_rodata_0
 
 #endif //_DLL_664_RECOMP_H

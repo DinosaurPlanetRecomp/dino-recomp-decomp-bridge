@@ -14,12 +14,12 @@
 #define dll_672_get_data_size __dll672_dll_672_get_data_size
 #define dll_672_func_844 __dll672_dll_672_func_844
 #define dll_672_func_924 __dll672_dll_672_func_924
-#define _rodata_0 __dll672__rodata_0
-#define _rodata_4 __dll672__rodata_4
-#define _rodata_20 __dll672__rodata_20
-#define _rodata_24 __dll672__rodata_24
-#define _rodata_28 __dll672__rodata_28
-#define _rodata_2C __dll672__rodata_2C
-#define _data_0 __dll672__data_0
+#define rodata_0 __dll672_rodata_0
+#define rodata_4 __dll672_rodata_4
+#define rodata_20 __dll672_rodata_20
+#define rodata_24 __dll672_rodata_24
+#define rodata_28 __dll672_rodata_28
+#define rodata_2C __dll672_rodata_2C
+#define data_0 __dll672_data_0
 
 #endif //_DLL_672_RECOMP_H

@@ -12,6 +12,6 @@
 #define dll_579_free __dll579_dll_579_free
 #define dll_579_get_model_flags __dll579_dll_579_get_model_flags
 #define dll_579_get_data_size __dll579_dll_579_get_data_size
-#define _rodata_0 __dll579__rodata_0
+#define rodata_0 __dll579_rodata_0
 
 #endif //_DLL_579_RECOMP_H

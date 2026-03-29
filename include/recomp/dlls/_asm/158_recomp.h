@@ -6,16 +6,16 @@
 #define dll_158_ctor __dll158_dll_158_ctor
 #define dll_158_dtor __dll158_dll_158_dtor
 #define dll_158_func_18 __dll158_dll_158_func_18
-#define _rodata_0 __dll158__rodata_0
-#define _rodata_4 __dll158__rodata_4
-#define _rodata_8 __dll158__rodata_8
-#define _rodata_C __dll158__rodata_C
-#define _rodata_10 __dll158__rodata_10
-#define _data_0 __dll158__data_0
-#define _data_20 __dll158__data_20
-#define _data_30 __dll158__data_30
-#define _data_38 __dll158__data_38
-#define _data_3A __dll158__data_3A
-#define _data_3C __dll158__data_3C
+#define rodata_0 __dll158_rodata_0
+#define rodata_4 __dll158_rodata_4
+#define rodata_8 __dll158_rodata_8
+#define rodata_C __dll158_rodata_C
+#define rodata_10 __dll158_rodata_10
+#define data_0 __dll158_data_0
+#define data_20 __dll158_data_20
+#define data_30 __dll158_data_30
+#define data_38 __dll158_data_38
+#define data_3A __dll158_data_3A
+#define data_3C __dll158_data_3C
 
 #endif //_DLL_158_RECOMP_H

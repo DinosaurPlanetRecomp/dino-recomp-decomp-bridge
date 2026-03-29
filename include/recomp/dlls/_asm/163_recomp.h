@@ -6,15 +6,15 @@
 #define dll_163_ctor __dll163_dll_163_ctor
 #define dll_163_dtor __dll163_dll_163_dtor
 #define dll_163_func_18 __dll163_dll_163_func_18
-#define _rodata_0 __dll163__rodata_0
-#define _rodata_4 __dll163__rodata_4
-#define _rodata_8 __dll163__rodata_8
-#define _data_0 __dll163__data_0
-#define _data_4 __dll163__data_4
-#define _data_D8 __dll163__data_D8
-#define _data_1B4 __dll163__data_1B4
-#define _data_1FC __dll163__data_1FC
-#define _data_1FE __dll163__data_1FE
-#define _data_200 __dll163__data_200
+#define rodata_0 __dll163_rodata_0
+#define rodata_4 __dll163_rodata_4
+#define rodata_8 __dll163_rodata_8
+#define data_0 __dll163_data_0
+#define data_4 __dll163_data_4
+#define data_D8 __dll163_data_D8
+#define data_1B4 __dll163_data_1B4
+#define data_1FC __dll163_data_1FC
+#define data_1FE __dll163_data_1FE
+#define data_200 __dll163_data_200
 
 #endif //_DLL_163_RECOMP_H

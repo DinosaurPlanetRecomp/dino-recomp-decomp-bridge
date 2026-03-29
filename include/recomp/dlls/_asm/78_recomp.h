@@ -8,10 +8,10 @@
 #define dll_78_func_D4 __dll78_dll_78_func_D4
 #define dll_78_func_568 __dll78_dll_78_func_568
 #define dll_78_func_570 __dll78_dll_78_func_570
-#define _data_0 __dll78__data_0
-#define _bss_0 __dll78__bss_0
-#define _bss_4 __dll78__bss_4
-#define _bss_8 __dll78__bss_8
-#define _bss_C __dll78__bss_C
+#define data_0 __dll78_data_0
+#define bss_0 __dll78_bss_0
+#define bss_4 __dll78_bss_4
+#define bss_8 __dll78_bss_8
+#define bss_C __dll78_bss_C
 
 #endif //_DLL_78_RECOMP_H

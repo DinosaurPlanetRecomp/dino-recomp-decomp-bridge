@@ -14,7 +14,7 @@
 #define dll_317_get_data_size __dll317_dll_317_get_data_size
 #define dll_317_func_914 __dll317_dll_317_func_914
 #define dll_317_func_954 __dll317_dll_317_func_954
-#define _data_0 __dll317__data_0
-#define _data_60 __dll317__data_60
+#define data_0 __dll317_data_0
+#define data_60 __dll317_data_60
 
 #endif //_DLL_317_RECOMP_H

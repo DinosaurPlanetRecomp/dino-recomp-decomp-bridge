@@ -6,14 +6,14 @@
 #define dll_159_ctor __dll159_dll_159_ctor
 #define dll_159_dtor __dll159_dll_159_dtor
 #define dll_159_func_18 __dll159_dll_159_func_18
-#define _rodata_0 __dll159__rodata_0
-#define _rodata_4 __dll159__rodata_4
-#define _rodata_8 __dll159__rodata_8
-#define _data_0 __dll159__data_0
-#define _data_B4 __dll159__data_B4
-#define _data_128 __dll159__data_128
-#define _data_160 __dll159__data_160
-#define _data_162 __dll159__data_162
-#define _data_164 __dll159__data_164
+#define rodata_0 __dll159_rodata_0
+#define rodata_4 __dll159_rodata_4
+#define rodata_8 __dll159_rodata_8
+#define data_0 __dll159_data_0
+#define data_B4 __dll159_data_B4
+#define data_128 __dll159_data_128
+#define data_160 __dll159_data_160
+#define data_162 __dll159_data_162
+#define data_164 __dll159_data_164
 
 #endif //_DLL_159_RECOMP_H

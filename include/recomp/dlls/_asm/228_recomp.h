@@ -33,18 +33,18 @@
 #define dll_228_func_1C14 __dll228_dll_228_func_1C14
 #define dll_228_func_1C58 __dll228_dll_228_func_1C58
 #define str_0 __dll228_str_0
-#define _rodata_28 __dll228__rodata_28
-#define _rodata_2C __dll228__rodata_2C
-#define _rodata_30 __dll228__rodata_30
-#define _data_0 __dll228__data_0
-#define _data_70 __dll228__data_70
-#define _data_8C __dll228__data_8C
-#define _bss_0 __dll228__bss_0
-#define _bss_8 __dll228__bss_8
-#define _bss_C __dll228__bss_C
-#define _bss_10 __dll228__bss_10
-#define _bss_14 __dll228__bss_14
-#define _bss_18 __dll228__bss_18
-#define _bss_28 __dll228__bss_28
+#define rodata_28 __dll228_rodata_28
+#define rodata_2C __dll228_rodata_2C
+#define rodata_30 __dll228_rodata_30
+#define data_0 __dll228_data_0
+#define data_70 __dll228_data_70
+#define data_8C __dll228_data_8C
+#define bss_0 __dll228_bss_0
+#define bss_8 __dll228_bss_8
+#define bss_C __dll228_bss_C
+#define bss_10 __dll228_bss_10
+#define bss_14 __dll228_bss_14
+#define bss_18 __dll228_bss_18
+#define bss_28 __dll228_bss_28
 
 #endif //_DLL_228_RECOMP_H

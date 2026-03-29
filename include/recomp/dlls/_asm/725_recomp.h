@@ -16,8 +16,8 @@
 #define dll_725_func_3A4 __dll725_dll_725_func_3A4
 #define dll_725_func_3BC __dll725_dll_725_func_3BC
 #define dll_725_func_3D4 __dll725_dll_725_func_3D4
-#define _data_0 __dll725__data_0
-#define _data_8 __dll725__data_8
-#define _data_10 __dll725__data_10
+#define data_0 __dll725_data_0
+#define data_8 __dll725_data_8
+#define data_10 __dll725_data_10
 
 #endif //_DLL_725_RECOMP_H

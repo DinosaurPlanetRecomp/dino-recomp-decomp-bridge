@@ -13,6 +13,6 @@
 #define dll_676_get_model_flags __dll676_dll_676_get_model_flags
 #define dll_676_get_data_size __dll676_dll_676_get_data_size
 #define str_0 __dll676_str_0
-#define _rodata_14 __dll676__rodata_14
+#define rodata_14 __dll676_rodata_14
 
 #endif //_DLL_676_RECOMP_H

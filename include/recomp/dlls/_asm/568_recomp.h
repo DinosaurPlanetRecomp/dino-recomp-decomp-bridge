@@ -17,15 +17,15 @@
 #define dll_568_func_624 __dll568_dll_568_func_624
 #define dll_568_func_8EC __dll568_dll_568_func_8EC
 #define dll_568_func_A9C __dll568_dll_568_func_A9C
-#define _rodata_0 __dll568__rodata_0
-#define _rodata_4 __dll568__rodata_4
-#define _rodata_8 __dll568__rodata_8
-#define _rodata_C __dll568__rodata_C
-#define _rodata_10 __dll568__rodata_10
-#define _rodata_14 __dll568__rodata_14
-#define _rodata_18 __dll568__rodata_18
-#define _rodata_1C __dll568__rodata_1C
-#define _rodata_20 __dll568__rodata_20
-#define _rodata_24 __dll568__rodata_24
+#define rodata_0 __dll568_rodata_0
+#define rodata_4 __dll568_rodata_4
+#define rodata_8 __dll568_rodata_8
+#define rodata_C __dll568_rodata_C
+#define rodata_10 __dll568_rodata_10
+#define rodata_14 __dll568_rodata_14
+#define rodata_18 __dll568_rodata_18
+#define rodata_1C __dll568_rodata_1C
+#define rodata_20 __dll568_rodata_20
+#define rodata_24 __dll568_rodata_24
 
 #endif //_DLL_568_RECOMP_H

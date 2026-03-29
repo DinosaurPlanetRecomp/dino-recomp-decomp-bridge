@@ -14,12 +14,12 @@
 #define dll_402_get_data_size __dll402_dll_402_get_data_size
 #define dll_402_func_9A0 __dll402_dll_402_func_9A0
 #define str_0 __dll402_str_0
-#define _rodata_70 __dll402__rodata_70
-#define _rodata_74 __dll402__rodata_74
-#define _rodata_78 __dll402__rodata_78
-#define _rodata_7C __dll402__rodata_7C
-#define _rodata_80 __dll402__rodata_80
-#define _data_0 __dll402__data_0
-#define _data_4 __dll402__data_4
+#define rodata_70 __dll402_rodata_70
+#define rodata_74 __dll402_rodata_74
+#define rodata_78 __dll402_rodata_78
+#define rodata_7C __dll402_rodata_7C
+#define rodata_80 __dll402_rodata_80
+#define data_0 __dll402_data_0
+#define data_4 __dll402_data_4
 
 #endif //_DLL_402_RECOMP_H

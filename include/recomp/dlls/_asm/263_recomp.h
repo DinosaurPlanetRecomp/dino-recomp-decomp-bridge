@@ -12,6 +12,6 @@
 #define dll_263_free __dll263_dll_263_free
 #define dll_263_get_model_flags __dll263_dll_263_get_model_flags
 #define dll_263_get_data_size __dll263_dll_263_get_data_size
-#define _rodata_0 __dll263__rodata_0
+#define rodata_0 __dll263_rodata_0
 
 #endif //_DLL_263_RECOMP_H

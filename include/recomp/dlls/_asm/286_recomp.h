@@ -12,6 +12,6 @@
 #define dll_286_free __dll286_dll_286_free
 #define dll_286_get_model_flags __dll286_dll_286_get_model_flags
 #define dll_286_get_data_size __dll286_dll_286_get_data_size
-#define _rodata_0 __dll286__rodata_0
+#define rodata_0 __dll286_rodata_0
 
 #endif //_DLL_286_RECOMP_H

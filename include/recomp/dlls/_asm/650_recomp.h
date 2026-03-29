@@ -14,12 +14,12 @@
 #define dll_650_get_data_size __dll650_dll_650_get_data_size
 #define dll_650_func_EAC __dll650_dll_650_func_EAC
 #define str_0 __dll650_str_0
-#define _rodata_2C __dll650__rodata_2C
-#define _rodata_30 __dll650__rodata_30
-#define _rodata_34 __dll650__rodata_34
-#define _data_0 __dll650__data_0
-#define _data_10 __dll650__data_10
-#define _data_1C __dll650__data_1C
-#define _data_20 __dll650__data_20
+#define rodata_2C __dll650_rodata_2C
+#define rodata_30 __dll650_rodata_30
+#define rodata_34 __dll650_rodata_34
+#define data_0 __dll650_data_0
+#define data_10 __dll650_data_10
+#define data_1C __dll650_data_1C
+#define data_20 __dll650_data_20
 
 #endif //_DLL_650_RECOMP_H

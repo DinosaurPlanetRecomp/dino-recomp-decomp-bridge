@@ -12,7 +12,7 @@
 #define dll_623_free __dll623_dll_623_free
 #define dll_623_get_model_flags __dll623_dll_623_get_model_flags
 #define dll_623_get_data_size __dll623_dll_623_get_data_size
-#define _rodata_0 __dll623__rodata_0
-#define _rodata_4 __dll623__rodata_4
+#define rodata_0 __dll623_rodata_0
+#define rodata_4 __dll623_rodata_4
 
 #endif //_DLL_623_RECOMP_H

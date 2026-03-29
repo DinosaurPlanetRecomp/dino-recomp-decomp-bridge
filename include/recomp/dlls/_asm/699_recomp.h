@@ -13,13 +13,13 @@
 #define dll_699_get_model_flags __dll699_dll_699_get_model_flags
 #define dll_699_get_data_size __dll699_dll_699_get_data_size
 #define dll_699_func_C08 __dll699_dll_699_func_C08
-#define _rodata_0 __dll699__rodata_0
-#define _data_0 __dll699__data_0
-#define _data_C __dll699__data_C
-#define _bss_0 __dll699__bss_0
-#define _bss_8 __dll699__bss_8
-#define _bss_C __dll699__bss_C
-#define _bss_10 __dll699__bss_10
-#define _bss_14 __dll699__bss_14
+#define rodata_0 __dll699_rodata_0
+#define data_0 __dll699_data_0
+#define data_C __dll699_data_C
+#define bss_0 __dll699_bss_0
+#define bss_8 __dll699_bss_8
+#define bss_C __dll699_bss_C
+#define bss_10 __dll699_bss_10
+#define bss_14 __dll699_bss_14
 
 #endif //_DLL_699_RECOMP_H

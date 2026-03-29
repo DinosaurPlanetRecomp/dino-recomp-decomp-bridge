@@ -6,14 +6,14 @@
 #define dll_120_ctor __dll120_dll_120_ctor
 #define dll_120_dtor __dll120_dll_120_dtor
 #define dll_120_func_18 __dll120_dll_120_func_18
-#define _rodata_0 __dll120__rodata_0
-#define _data_0 __dll120__data_0
-#define _data_D4 __dll120__data_D4
-#define _data_164 __dll120__data_164
-#define _data_174 __dll120__data_174
-#define _data_1B0 __dll120__data_1B0
-#define _data_1DC __dll120__data_1DC
-#define _data_1DE __dll120__data_1DE
-#define _data_1E0 __dll120__data_1E0
+#define rodata_0 __dll120_rodata_0
+#define data_0 __dll120_data_0
+#define data_D4 __dll120_data_D4
+#define data_164 __dll120_data_164
+#define data_174 __dll120_data_174
+#define data_1B0 __dll120_data_1B0
+#define data_1DC __dll120_data_1DC
+#define data_1DE __dll120_data_1DE
+#define data_1E0 __dll120_data_1E0
 
 #endif //_DLL_120_RECOMP_H

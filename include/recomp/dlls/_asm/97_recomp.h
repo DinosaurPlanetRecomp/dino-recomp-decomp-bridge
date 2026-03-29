@@ -9,8 +9,8 @@
 #define dll_97_func_74 __dll97_dll_97_func_74
 #define dll_97_func_250 __dll97_dll_97_func_250
 #define dll_97_func_290 __dll97_dll_97_func_290
-#define _rodata_0 __dll97__rodata_0
-#define _rodata_4 __dll97__rodata_4
-#define _bss_0 __dll97__bss_0
+#define rodata_0 __dll97_rodata_0
+#define rodata_4 __dll97_rodata_4
+#define bss_0 __dll97_bss_0
 
 #endif //_DLL_97_RECOMP_H

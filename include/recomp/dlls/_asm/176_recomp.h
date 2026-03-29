@@ -6,17 +6,17 @@
 #define dll_176_ctor __dll176_dll_176_ctor
 #define dll_176_dtor __dll176_dll_176_dtor
 #define dll_176_func_18 __dll176_dll_176_func_18
-#define _rodata_0 __dll176__rodata_0
-#define _rodata_4 __dll176__rodata_4
-#define _rodata_8 __dll176__rodata_8
-#define _rodata_C __dll176__rodata_C
-#define _data_0 __dll176__data_0
-#define _data_D4 __dll176__data_D4
-#define _data_174 __dll176__data_174
-#define _data_184 __dll176__data_184
-#define _data_1B0 __dll176__data_1B0
-#define _data_1F8 __dll176__data_1F8
-#define _data_1FA __dll176__data_1FA
-#define _data_1FC __dll176__data_1FC
+#define rodata_0 __dll176_rodata_0
+#define rodata_4 __dll176_rodata_4
+#define rodata_8 __dll176_rodata_8
+#define rodata_C __dll176_rodata_C
+#define data_0 __dll176_data_0
+#define data_D4 __dll176_data_D4
+#define data_174 __dll176_data_174
+#define data_184 __dll176_data_184
+#define data_1B0 __dll176_data_1B0
+#define data_1F8 __dll176_data_1F8
+#define data_1FA __dll176_data_1FA
+#define data_1FC __dll176_data_1FC
 
 #endif //_DLL_176_RECOMP_H

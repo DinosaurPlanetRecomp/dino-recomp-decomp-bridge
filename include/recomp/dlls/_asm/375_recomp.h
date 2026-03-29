@@ -15,7 +15,7 @@
 #define dll_375_func_4B8 __dll375_dll_375_func_4B8
 #define str_0 __dll375_str_0
 #define str_40 __dll375_str_40
-#define _rodata_64 __dll375__rodata_64
-#define _rodata_68 __dll375__rodata_68
+#define rodata_64 __dll375_rodata_64
+#define rodata_68 __dll375_rodata_68
 
 #endif //_DLL_375_RECOMP_H

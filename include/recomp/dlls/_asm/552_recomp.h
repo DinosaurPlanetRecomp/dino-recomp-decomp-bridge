@@ -14,11 +14,11 @@
 #define dll_552_get_data_size __dll552_dll_552_get_data_size
 #define dll_552_func_258 __dll552_dll_552_func_258
 #define str_0 __dll552_str_0
-#define _rodata_C __dll552__rodata_C
-#define _rodata_10 __dll552__rodata_10
-#define _rodata_14 __dll552__rodata_14
-#define _rodata_18 __dll552__rodata_18
-#define _rodata_1C __dll552__rodata_1C
-#define _data_0 __dll552__data_0
+#define rodata_C __dll552_rodata_C
+#define rodata_10 __dll552_rodata_10
+#define rodata_14 __dll552_rodata_14
+#define rodata_18 __dll552_rodata_18
+#define rodata_1C __dll552_rodata_1C
+#define data_0 __dll552_data_0
 
 #endif //_DLL_552_RECOMP_H

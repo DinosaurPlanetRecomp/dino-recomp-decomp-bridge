@@ -16,11 +16,11 @@
 #define dll_745_func_DEC __dll745_dll_745_func_DEC
 #define str_0 __dll745_str_0
 #define str_54 __dll745_str_54
-#define _rodata_64 __dll745__rodata_64
-#define _rodata_68 __dll745__rodata_68
-#define _rodata_6C __dll745__rodata_6C
-#define _rodata_70 __dll745__rodata_70
-#define _rodata_74 __dll745__rodata_74
-#define _data_0 __dll745__data_0
+#define rodata_64 __dll745_rodata_64
+#define rodata_68 __dll745_rodata_68
+#define rodata_6C __dll745_rodata_6C
+#define rodata_70 __dll745_rodata_70
+#define rodata_74 __dll745_rodata_74
+#define data_0 __dll745_data_0
 
 #endif //_DLL_745_RECOMP_H

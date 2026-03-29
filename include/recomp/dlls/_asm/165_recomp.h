@@ -6,12 +6,12 @@
 #define dll_165_ctor __dll165_dll_165_ctor
 #define dll_165_dtor __dll165_dll_165_dtor
 #define dll_165_func_18 __dll165_dll_165_func_18
-#define _rodata_0 __dll165__rodata_0
-#define _rodata_4 __dll165__rodata_4
-#define _data_0 __dll165__data_0
-#define _data_50 __dll165__data_50
-#define _data_88 __dll165__data_88
-#define _data_90 __dll165__data_90
-#define _data_A0 __dll165__data_A0
+#define rodata_0 __dll165_rodata_0
+#define rodata_4 __dll165_rodata_4
+#define data_0 __dll165_data_0
+#define data_50 __dll165_data_50
+#define data_88 __dll165_data_88
+#define data_90 __dll165_data_90
+#define data_A0 __dll165_data_A0
 
 #endif //_DLL_165_RECOMP_H

@@ -60,8 +60,8 @@
 #define str_88 __dll26_str_88
 #define str_8C __dll26_str_8C
 #define str_A0 __dll26_str_A0
-#define _rodata_CC __dll26__rodata_CC
-#define _rodata_D4 __dll26__rodata_D4
+#define rodata_CC __dll26_rodata_CC
+#define rodata_D4 __dll26_rodata_D4
 #define _bss_0 __dll26__bss_0
 #define _bss_4 __dll26__bss_4
 #define _bss_8 __dll26__bss_8

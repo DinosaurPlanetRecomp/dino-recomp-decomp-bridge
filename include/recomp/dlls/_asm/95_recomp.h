@@ -10,7 +10,7 @@
 #define dll_95_func_544 __dll95_dll_95_func_544
 #define dll_95_func_584 __dll95_dll_95_func_584
 #define str_0 __dll95_str_0
-#define _rodata_28 __dll95__rodata_28
-#define _bss_0 __dll95__bss_0
+#define rodata_28 __dll95_rodata_28
+#define bss_0 __dll95_bss_0
 
 #endif //_DLL_95_RECOMP_H

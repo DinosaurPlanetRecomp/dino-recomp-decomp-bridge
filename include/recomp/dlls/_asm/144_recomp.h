@@ -6,15 +6,15 @@
 #define dll_144_ctor __dll144_dll_144_ctor
 #define dll_144_dtor __dll144_dll_144_dtor
 #define dll_144_func_18 __dll144_dll_144_func_18
-#define _rodata_0 __dll144__rodata_0
-#define _rodata_4 __dll144__rodata_4
-#define _rodata_8 __dll144__rodata_8
-#define _data_0 __dll144__data_0
-#define _data_5C __dll144__data_5C
-#define _data_8C __dll144__data_8C
-#define _data_A4 __dll144__data_A4
-#define _data_B4 __dll144__data_B4
-#define _data_B6 __dll144__data_B6
-#define _data_B8 __dll144__data_B8
+#define rodata_0 __dll144_rodata_0
+#define rodata_4 __dll144_rodata_4
+#define rodata_8 __dll144_rodata_8
+#define data_0 __dll144_data_0
+#define data_5C __dll144_data_5C
+#define data_8C __dll144_data_8C
+#define data_A4 __dll144_data_A4
+#define data_B4 __dll144_data_B4
+#define data_B6 __dll144_data_B6
+#define data_B8 __dll144_data_B8
 
 #endif //_DLL_144_RECOMP_H

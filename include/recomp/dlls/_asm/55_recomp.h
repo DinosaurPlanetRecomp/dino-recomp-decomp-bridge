@@ -9,7 +9,7 @@
 #define dll_55_func_304 __dll55_dll_55_func_304
 #define dll_55_func_580 __dll55_dll_55_func_580
 #define str_0 __dll55_str_0
-#define _rodata_28 __dll55__rodata_28
-#define _rodata_2C __dll55__rodata_2C
+#define rodata_28 __dll55_rodata_28
+#define rodata_2C __dll55_rodata_2C
 
 #endif //_DLL_55_RECOMP_H

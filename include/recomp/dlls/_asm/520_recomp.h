@@ -16,10 +16,10 @@
 #define dll_520_func_BAC __dll520_dll_520_func_BAC
 #define dll_520_func_EA4 __dll520_dll_520_func_EA4
 #define dll_520_func_FB4 __dll520_dll_520_func_FB4
-#define _rodata_0 __dll520__rodata_0
-#define _rodata_4 __dll520__rodata_4
-#define _rodata_8 __dll520__rodata_8
-#define _rodata_C __dll520__rodata_C
-#define _rodata_10 __dll520__rodata_10
+#define rodata_0 __dll520_rodata_0
+#define rodata_4 __dll520_rodata_4
+#define rodata_8 __dll520_rodata_8
+#define rodata_C __dll520_rodata_C
+#define rodata_10 __dll520_rodata_10
 
 #endif //_DLL_520_RECOMP_H

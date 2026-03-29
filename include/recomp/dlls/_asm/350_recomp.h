@@ -15,6 +15,6 @@
 #define dll_350_get_data_size __dll350_dll_350_get_data_size
 #define dll_350_func_C8C __dll350_dll_350_func_C8C
 #define str_0 __dll350_str_0
-#define _rodata_10 __dll350__rodata_10
+#define rodata_10 __dll350_rodata_10
 
 #endif //_DLL_350_RECOMP_H

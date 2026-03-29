@@ -19,7 +19,7 @@
 #define dll_680_func_794 __dll680_dll_680_func_794
 #define dll_680_func_954 __dll680_dll_680_func_954
 #define dll_680_func_9FC __dll680_dll_680_func_9FC
-#define _rodata_0 __dll680__rodata_0
-#define _data_0 __dll680__data_0
+#define rodata_0 __dll680_rodata_0
+#define data_0 __dll680_data_0
 
 #endif //_DLL_680_RECOMP_H

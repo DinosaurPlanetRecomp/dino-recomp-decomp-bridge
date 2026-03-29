@@ -13,6 +13,6 @@
 #define dll_244_get_model_flags __dll244_dll_244_get_model_flags
 #define dll_244_get_data_size __dll244_dll_244_get_data_size
 #define dll_244_func_5AC __dll244_dll_244_func_5AC
-#define _rodata_0 __dll244__rodata_0
+#define rodata_0 __dll244_rodata_0
 
 #endif //_DLL_244_RECOMP_H

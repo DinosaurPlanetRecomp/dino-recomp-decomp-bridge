@@ -6,14 +6,14 @@
 #define dll_130_ctor __dll130_dll_130_ctor
 #define dll_130_dtor __dll130_dll_130_dtor
 #define dll_130_func_18 __dll130_dll_130_func_18
-#define _rodata_0 __dll130__rodata_0
-#define _rodata_4 __dll130__rodata_4
-#define _data_0 __dll130__data_0
-#define _data_D4 __dll130__data_D4
-#define _data_1B0 __dll130__data_1B0
-#define _data_1DC __dll130__data_1DC
-#define _data_1F8 __dll130__data_1F8
-#define _data_1FA __dll130__data_1FA
-#define _data_1FC __dll130__data_1FC
+#define rodata_0 __dll130_rodata_0
+#define rodata_4 __dll130_rodata_4
+#define data_0 __dll130_data_0
+#define data_D4 __dll130_data_D4
+#define data_1B0 __dll130_data_1B0
+#define data_1DC __dll130_data_1DC
+#define data_1F8 __dll130_data_1F8
+#define data_1FA __dll130_data_1FA
+#define data_1FC __dll130_data_1FC
 
 #endif //_DLL_130_RECOMP_H

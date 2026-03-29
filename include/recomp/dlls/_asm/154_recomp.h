@@ -6,11 +6,11 @@
 #define dll_154_ctor __dll154_dll_154_ctor
 #define dll_154_dtor __dll154_dll_154_dtor
 #define dll_154_func_18 __dll154_dll_154_func_18
-#define _data_0 __dll154__data_0
-#define _data_50 __dll154__data_50
-#define _data_98 __dll154__data_98
-#define _data_A8 __dll154__data_A8
-#define _data_AA __dll154__data_AA
-#define _data_AC __dll154__data_AC
+#define data_0 __dll154_data_0
+#define data_50 __dll154_data_50
+#define data_98 __dll154_data_98
+#define data_A8 __dll154_data_A8
+#define data_AA __dll154_data_AA
+#define data_AC __dll154_data_AC
 
 #endif //_DLL_154_RECOMP_H

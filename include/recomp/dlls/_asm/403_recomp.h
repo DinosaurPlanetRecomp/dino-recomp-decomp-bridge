@@ -12,8 +12,8 @@
 #define dll_403_free __dll403_dll_403_free
 #define dll_403_get_model_flags __dll403_dll_403_get_model_flags
 #define dll_403_get_data_size __dll403_dll_403_get_data_size
-#define _rodata_0 __dll403__rodata_0
-#define _data_0 __dll403__data_0
-#define _data_4 __dll403__data_4
+#define rodata_0 __dll403_rodata_0
+#define data_0 __dll403_data_0
+#define data_4 __dll403_data_4
 
 #endif //_DLL_403_RECOMP_H

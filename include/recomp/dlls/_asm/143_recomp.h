@@ -6,19 +6,19 @@
 #define dll_143_ctor __dll143_dll_143_ctor
 #define dll_143_dtor __dll143_dll_143_dtor
 #define dll_143_func_18 __dll143_dll_143_func_18
-#define _rodata_0 __dll143__rodata_0
-#define _rodata_4 __dll143__rodata_4
-#define _rodata_8 __dll143__rodata_8
-#define _rodata_C __dll143__rodata_C
-#define _rodata_10 __dll143__rodata_10
-#define _data_0 __dll143__data_0
-#define _data_5C __dll143__data_5C
-#define _data_B8 __dll143__data_B8
-#define _data_E8 __dll143__data_E8
-#define _data_FC __dll143__data_FC
-#define _data_100 __dll143__data_100
-#define _data_110 __dll143__data_110
-#define _data_112 __dll143__data_112
-#define _data_114 __dll143__data_114
+#define rodata_0 __dll143_rodata_0
+#define rodata_4 __dll143_rodata_4
+#define rodata_8 __dll143_rodata_8
+#define rodata_C __dll143_rodata_C
+#define rodata_10 __dll143_rodata_10
+#define data_0 __dll143_data_0
+#define data_5C __dll143_data_5C
+#define data_B8 __dll143_data_B8
+#define data_E8 __dll143_data_E8
+#define data_FC __dll143_data_FC
+#define data_100 __dll143_data_100
+#define data_110 __dll143_data_110
+#define data_112 __dll143_data_112
+#define data_114 __dll143_data_114
 
 #endif //_DLL_143_RECOMP_H

@@ -22,17 +22,17 @@
 #define dll_518_func_D1C __dll518_dll_518_func_D1C
 #define dll_518_func_F94 __dll518_dll_518_func_F94
 #define dll_518_func_1100 __dll518_dll_518_func_1100
-#define _rodata_0 __dll518__rodata_0
-#define _rodata_4 __dll518__rodata_4
-#define _rodata_8 __dll518__rodata_8
-#define _rodata_C __dll518__rodata_C
-#define _rodata_10 __dll518__rodata_10
-#define _rodata_14 __dll518__rodata_14
-#define _rodata_18 __dll518__rodata_18
-#define _data_0 __dll518__data_0
-#define _data_8 __dll518__data_8
-#define _data_18 __dll518__data_18
-#define _bss_0 __dll518__bss_0
-#define _bss_10 __dll518__bss_10
+#define rodata_0 __dll518_rodata_0
+#define rodata_4 __dll518_rodata_4
+#define rodata_8 __dll518_rodata_8
+#define rodata_C __dll518_rodata_C
+#define rodata_10 __dll518_rodata_10
+#define rodata_14 __dll518_rodata_14
+#define rodata_18 __dll518_rodata_18
+#define data_0 __dll518_data_0
+#define data_8 __dll518_data_8
+#define data_18 __dll518_data_18
+#define bss_0 __dll518_bss_0
+#define bss_10 __dll518_bss_10
 
 #endif //_DLL_518_RECOMP_H

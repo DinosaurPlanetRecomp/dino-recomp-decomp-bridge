@@ -13,6 +13,6 @@
 #define dll_791_get_model_flags __dll791_dll_791_get_model_flags
 #define dll_791_get_data_size __dll791_dll_791_get_data_size
 #define dll_791_func_544 __dll791_dll_791_func_544
-#define _rodata_0 __dll791__rodata_0
+#define rodata_0 __dll791_rodata_0
 
 #endif //_DLL_791_RECOMP_H

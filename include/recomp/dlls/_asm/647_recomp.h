@@ -15,7 +15,7 @@
 #define dll_647_func_784 __dll647_dll_647_func_784
 #define dll_647_func_7A0 __dll647_dll_647_func_7A0
 #define dll_647_func_8A0 __dll647_dll_647_func_8A0
-#define _data_0 __dll647__data_0
-#define _bss_0 __dll647__bss_0
+#define data_0 __dll647_data_0
+#define bss_0 __dll647_bss_0
 
 #endif //_DLL_647_RECOMP_H

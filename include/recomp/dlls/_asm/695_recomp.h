@@ -13,8 +13,8 @@
 #define dll_695_get_model_flags __dll695_dll_695_get_model_flags
 #define dll_695_get_data_size __dll695_dll_695_get_data_size
 #define dll_695_func_1C8 __dll695_dll_695_func_1C8
-#define _data_0 __dll695__data_0
-#define _data_4 __dll695__data_4
-#define _bss_0 __dll695__bss_0
+#define data_0 __dll695_data_0
+#define data_4 __dll695_data_4
+#define bss_0 __dll695_bss_0
 
 #endif //_DLL_695_RECOMP_H

@@ -18,11 +18,11 @@
 #define dll_238_func_A50 __dll238_dll_238_func_A50
 #define dll_238_func_B54 __dll238_dll_238_func_B54
 #define dll_238_func_C90 __dll238_dll_238_func_C90
-#define _rodata_0 __dll238__rodata_0
-#define _rodata_4 __dll238__rodata_4
-#define _data_0 __dll238__data_0
-#define _data_1C __dll238__data_1C
-#define _bss_0 __dll238__bss_0
-#define _bss_10 __dll238__bss_10
+#define rodata_0 __dll238_rodata_0
+#define rodata_4 __dll238_rodata_4
+#define data_0 __dll238_data_0
+#define data_1C __dll238_data_1C
+#define bss_0 __dll238_bss_0
+#define bss_10 __dll238_bss_10
 
 #endif //_DLL_238_RECOMP_H

@@ -15,15 +15,15 @@
 #define dll_356_get_data_size __dll356_dll_356_get_data_size
 #define dll_356_func_17EC __dll356_dll_356_func_17EC
 #define dll_356_func_1A04 __dll356_dll_356_func_1A04
-#define _rodata_14 __dll356__rodata_14
-#define _rodata_18 __dll356__rodata_18
-#define _rodata_1C __dll356__rodata_1C
-#define _rodata_20 __dll356__rodata_20
-#define _rodata_24 __dll356__rodata_24
-#define _rodata_28 __dll356__rodata_28
-#define _rodata_2C __dll356__rodata_2C
-#define _rodata_30 __dll356__rodata_30
-#define _rodata_34 __dll356__rodata_34
-#define _rodata_38 __dll356__rodata_38
+#define rodata_14 __dll356_rodata_14
+#define rodata_18 __dll356_rodata_18
+#define rodata_1C __dll356_rodata_1C
+#define rodata_20 __dll356_rodata_20
+#define rodata_24 __dll356_rodata_24
+#define rodata_28 __dll356_rodata_28
+#define rodata_2C __dll356_rodata_2C
+#define rodata_30 __dll356_rodata_30
+#define rodata_34 __dll356_rodata_34
+#define rodata_38 __dll356_rodata_38
 
 #endif //_DLL_356_RECOMP_H

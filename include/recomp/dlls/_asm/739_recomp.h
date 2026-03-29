@@ -17,18 +17,18 @@
 #define dll_739_func_B04 __dll739_dll_739_func_B04
 #define dll_739_func_D78 __dll739_dll_739_func_D78
 #define str_0 __dll739_str_0
-#define _rodata_74 __dll739__rodata_74
-#define _rodata_78 __dll739__rodata_78
-#define _rodata_7C __dll739__rodata_7C
-#define _rodata_80 __dll739__rodata_80
-#define _rodata_84 __dll739__rodata_84
-#define _rodata_88 __dll739__rodata_88
-#define _data_0 __dll739__data_0
-#define _data_8 __dll739__data_8
-#define _data_10 __dll739__data_10
-#define _data_18 __dll739__data_18
-#define _data_24 __dll739__data_24
-#define _data_30 __dll739__data_30
-#define _data_38 __dll739__data_38
+#define rodata_74 __dll739_rodata_74
+#define rodata_78 __dll739_rodata_78
+#define rodata_7C __dll739_rodata_7C
+#define rodata_80 __dll739_rodata_80
+#define rodata_84 __dll739_rodata_84
+#define rodata_88 __dll739_rodata_88
+#define data_0 __dll739_data_0
+#define data_8 __dll739_data_8
+#define data_10 __dll739_data_10
+#define data_18 __dll739_data_18
+#define data_24 __dll739_data_24
+#define data_30 __dll739_data_30
+#define data_38 __dll739_data_38
 
 #endif //_DLL_739_RECOMP_H

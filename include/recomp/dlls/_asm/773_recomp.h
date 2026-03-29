@@ -19,10 +19,10 @@
 #define dll_773_func_4B8 __dll773_dll_773_func_4B8
 #define dll_773_func_4D0 __dll773_dll_773_func_4D0
 #define dll_773_func_564 __dll773_dll_773_func_564
-#define _rodata_0 __dll773__rodata_0
-#define _data_0 __dll773__data_0
-#define _data_4 __dll773__data_4
-#define _bss_0 __dll773__bss_0
-#define _bss_8 __dll773__bss_8
+#define rodata_0 __dll773_rodata_0
+#define data_0 __dll773_data_0
+#define data_4 __dll773_data_4
+#define bss_0 __dll773_bss_0
+#define bss_8 __dll773_bss_8
 
 #endif //_DLL_773_RECOMP_H

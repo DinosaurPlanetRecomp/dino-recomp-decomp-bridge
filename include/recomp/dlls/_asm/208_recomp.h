@@ -6,10 +6,10 @@
 #define dll_208_ctor __dll208_dll_208_ctor
 #define dll_208_dtor __dll208_dll_208_dtor
 #define dll_208_func_18 __dll208_dll_208_func_18
-#define _rodata_0 __dll208__rodata_0
-#define _rodata_4 __dll208__rodata_4
-#define _rodata_8 __dll208__rodata_8
-#define _rodata_C __dll208__rodata_C
-#define _rodata_10 __dll208__rodata_10
+#define rodata_0 __dll208_rodata_0
+#define rodata_4 __dll208_rodata_4
+#define rodata_8 __dll208_rodata_8
+#define rodata_C __dll208_rodata_C
+#define rodata_10 __dll208_rodata_10
 
 #endif //_DLL_208_RECOMP_H

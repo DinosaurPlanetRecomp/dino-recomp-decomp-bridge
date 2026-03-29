@@ -6,19 +6,19 @@
 #define dll_139_ctor __dll139_dll_139_ctor
 #define dll_139_dtor __dll139_dll_139_dtor
 #define dll_139_func_18 __dll139_dll_139_func_18
-#define _rodata_0 __dll139__rodata_0
-#define _rodata_4 __dll139__rodata_4
-#define _rodata_8 __dll139__rodata_8
-#define _rodata_C __dll139__rodata_C
-#define _rodata_10 __dll139__rodata_10
-#define _rodata_14 __dll139__rodata_14
-#define _rodata_18 __dll139__rodata_18
-#define _data_0 __dll139__data_0
-#define _data_8C __dll139__data_8C
-#define _data_F4 __dll139__data_F4
-#define _data_118 __dll139__data_118
-#define _data_12C __dll139__data_12C
-#define _data_12E __dll139__data_12E
-#define _data_130 __dll139__data_130
+#define rodata_0 __dll139_rodata_0
+#define rodata_4 __dll139_rodata_4
+#define rodata_8 __dll139_rodata_8
+#define rodata_C __dll139_rodata_C
+#define rodata_10 __dll139_rodata_10
+#define rodata_14 __dll139_rodata_14
+#define rodata_18 __dll139_rodata_18
+#define data_0 __dll139_data_0
+#define data_8C __dll139_data_8C
+#define data_F4 __dll139_data_F4
+#define data_118 __dll139_data_118
+#define data_12C __dll139_data_12C
+#define data_12E __dll139_data_12E
+#define data_130 __dll139_data_130
 
 #endif //_DLL_139_RECOMP_H

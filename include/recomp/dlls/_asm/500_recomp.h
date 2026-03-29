@@ -13,9 +13,9 @@
 #define dll_500_get_model_flags __dll500_dll_500_get_model_flags
 #define dll_500_get_data_size __dll500_dll_500_get_data_size
 #define dll_500_func_2C0 __dll500_dll_500_func_2C0
-#define _rodata_0 __dll500__rodata_0
-#define _rodata_4 __dll500__rodata_4
-#define _rodata_8 __dll500__rodata_8
-#define _rodata_C __dll500__rodata_C
+#define rodata_0 __dll500_rodata_0
+#define rodata_4 __dll500_rodata_4
+#define rodata_8 __dll500_rodata_8
+#define rodata_C __dll500_rodata_C
 
 #endif //_DLL_500_RECOMP_H

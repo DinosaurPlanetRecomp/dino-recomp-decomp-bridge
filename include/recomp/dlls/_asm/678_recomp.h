@@ -15,6 +15,6 @@
 #define dll_678_func_2B8 __dll678_dll_678_func_2B8
 #define dll_678_func_38C __dll678_dll_678_func_38C
 #define str_0 __dll678_str_0
-#define _data_0 __dll678__data_0
+#define data_0 __dll678_data_0
 
 #endif //_DLL_678_RECOMP_H

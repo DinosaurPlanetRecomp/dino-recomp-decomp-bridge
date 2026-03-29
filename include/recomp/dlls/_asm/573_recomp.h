@@ -20,18 +20,18 @@
 #define dll_573_func_1530 __dll573_dll_573_func_1530
 #define dll_573_func_1540 __dll573_dll_573_func_1540
 #define dll_573_func_155C __dll573_dll_573_func_155C
-#define _rodata_0 __dll573__rodata_0
-#define _rodata_18 __dll573__rodata_18
-#define _rodata_1C __dll573__rodata_1C
-#define _rodata_20 __dll573__rodata_20
-#define _rodata_24 __dll573__rodata_24
-#define _rodata_28 __dll573__rodata_28
-#define _rodata_2C __dll573__rodata_2C
-#define _rodata_30 __dll573__rodata_30
-#define _rodata_34 __dll573__rodata_34
-#define _rodata_38 __dll573__rodata_38
-#define _rodata_3C __dll573__rodata_3C
-#define _data_0 __dll573__data_0
-#define _data_4 __dll573__data_4
+#define rodata_0 __dll573_rodata_0
+#define rodata_18 __dll573_rodata_18
+#define rodata_1C __dll573_rodata_1C
+#define rodata_20 __dll573_rodata_20
+#define rodata_24 __dll573_rodata_24
+#define rodata_28 __dll573_rodata_28
+#define rodata_2C __dll573_rodata_2C
+#define rodata_30 __dll573_rodata_30
+#define rodata_34 __dll573_rodata_34
+#define rodata_38 __dll573_rodata_38
+#define rodata_3C __dll573_rodata_3C
+#define data_0 __dll573_data_0
+#define data_4 __dll573_data_4
 
 #endif //_DLL_573_RECOMP_H

@@ -14,7 +14,7 @@
 #define dll_328_get_data_size __dll328_dll_328_get_data_size
 #define dll_328_func_3AC __dll328_dll_328_func_3AC
 #define dll_328_func_87C __dll328_dll_328_func_87C
-#define _rodata_0 __dll328__rodata_0
-#define _rodata_4 __dll328__rodata_4
+#define rodata_0 __dll328_rodata_0
+#define rodata_4 __dll328_rodata_4
 
 #endif //_DLL_328_RECOMP_H

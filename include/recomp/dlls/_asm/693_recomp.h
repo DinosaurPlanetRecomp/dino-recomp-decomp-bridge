@@ -16,6 +16,6 @@
 #define dll_693_func_438 __dll693_dll_693_func_438
 #define dll_693_func_448 __dll693_dll_693_func_448
 #define dll_693_func_580 __dll693_dll_693_func_580
-#define _rodata_0 __dll693__rodata_0
+#define rodata_0 __dll693_rodata_0
 
 #endif //_DLL_693_RECOMP_H

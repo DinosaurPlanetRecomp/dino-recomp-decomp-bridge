@@ -6,9 +6,9 @@
 #define dll_190_ctor __dll190_dll_190_ctor
 #define dll_190_dtor __dll190_dll_190_dtor
 #define dll_190_func_18 __dll190_dll_190_func_18
-#define _rodata_0 __dll190__rodata_0
-#define _rodata_4 __dll190__rodata_4
-#define _rodata_8 __dll190__rodata_8
-#define _rodata_C __dll190__rodata_C
+#define rodata_0 __dll190_rodata_0
+#define rodata_4 __dll190_rodata_4
+#define rodata_8 __dll190_rodata_8
+#define rodata_C __dll190_rodata_C
 
 #endif //_DLL_190_RECOMP_H

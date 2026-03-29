@@ -18,11 +18,11 @@
 #define str_24 __dll32_str_24
 #define str_3C __dll32_str_3C
 #define str_44 __dll32_str_44
-#define _rodata_48 __dll32__rodata_48
-#define _rodata_4C __dll32__rodata_4C
-#define _rodata_50 __dll32__rodata_50
-#define _rodata_54 __dll32__rodata_54
-#define _rodata_58 __dll32__rodata_58
+#define rodata_48 __dll32_rodata_48
+#define rodata_4C __dll32_rodata_4C
+#define rodata_50 __dll32_rodata_50
+#define rodata_54 __dll32_rodata_54
+#define rodata_58 __dll32_rodata_58
 #define _data_0 __dll32__data_0
 #define _data_10 __dll32__data_10
 #define _data_90 __dll32__data_90

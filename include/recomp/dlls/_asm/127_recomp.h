@@ -6,15 +6,15 @@
 #define dll_127_ctor __dll127_dll_127_ctor
 #define dll_127_dtor __dll127_dll_127_dtor
 #define dll_127_func_18 __dll127_dll_127_func_18
-#define _rodata_0 __dll127__rodata_0
-#define _data_0 __dll127__data_0
-#define _data_F0 __dll127__data_F0
-#define _data_150 __dll127__data_150
-#define _data_158 __dll127__data_158
-#define _data_188 __dll127__data_188
-#define _data_198 __dll127__data_198
-#define _data_1B0 __dll127__data_1B0
-#define _data_1B2 __dll127__data_1B2
-#define _data_1B4 __dll127__data_1B4
+#define rodata_0 __dll127_rodata_0
+#define data_0 __dll127_data_0
+#define data_F0 __dll127_data_F0
+#define data_150 __dll127_data_150
+#define data_158 __dll127_data_158
+#define data_188 __dll127_data_188
+#define data_198 __dll127_data_198
+#define data_1B0 __dll127_data_1B0
+#define data_1B2 __dll127_data_1B2
+#define data_1B4 __dll127_data_1B4
 
 #endif //_DLL_127_RECOMP_H

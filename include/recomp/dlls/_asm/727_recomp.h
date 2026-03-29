@@ -15,20 +15,20 @@
 #define dll_727_func_4BC __dll727_dll_727_func_4BC
 #define dll_727_func_6B0 __dll727_dll_727_func_6B0
 #define str_0 __dll727_str_0
-#define _data_0 __dll727__data_0
-#define _data_50 __dll727__data_50
-#define _data_DC __dll727__data_DC
-#define _data_17C __dll727__data_17C
-#define _data_294 __dll727__data_294
-#define _data_384 __dll727__data_384
-#define _data_474 __dll727__data_474
-#define _data_4EC __dll727__data_4EC
-#define _data_4F0 __dll727__data_4F0
-#define _data_4F8 __dll727__data_4F8
-#define _data_500 __dll727__data_500
-#define _data_508 __dll727__data_508
-#define _data_510 __dll727__data_510
-#define _data_518 __dll727__data_518
-#define _data_520 __dll727__data_520
+#define data_0 __dll727_data_0
+#define data_50 __dll727_data_50
+#define data_DC __dll727_data_DC
+#define data_17C __dll727_data_17C
+#define data_294 __dll727_data_294
+#define data_384 __dll727_data_384
+#define data_474 __dll727_data_474
+#define data_4EC __dll727_data_4EC
+#define data_4F0 __dll727_data_4F0
+#define data_4F8 __dll727_data_4F8
+#define data_500 __dll727_data_500
+#define data_508 __dll727_data_508
+#define data_510 __dll727_data_510
+#define data_518 __dll727_data_518
+#define data_520 __dll727_data_520
 
 #endif //_DLL_727_RECOMP_H

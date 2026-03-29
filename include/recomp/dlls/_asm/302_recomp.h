@@ -14,8 +14,8 @@
 #define dll_302_get_data_size __dll302_dll_302_get_data_size
 #define dll_302_func_344 __dll302_dll_302_func_344
 #define dll_302_func_42C __dll302_dll_302_func_42C
-#define _rodata_0 __dll302__rodata_0
-#define _rodata_4 __dll302__rodata_4
-#define _rodata_8 __dll302__rodata_8
+#define rodata_0 __dll302_rodata_0
+#define rodata_4 __dll302_rodata_4
+#define rodata_8 __dll302_rodata_8
 
 #endif //_DLL_302_RECOMP_H

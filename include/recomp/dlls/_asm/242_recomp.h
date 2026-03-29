@@ -17,7 +17,7 @@
 #define dll_242_get_data_size __dll242_dll_242_get_data_size
 #define dll_242_func_6A4 __dll242_dll_242_func_6A4
 #define dll_242_func_760 __dll242_dll_242_func_760
-#define _bss_0 __dll242__bss_0
-#define _bss_4 __dll242__bss_4
+#define bss_0 __dll242_bss_0
+#define bss_4 __dll242_bss_4
 
 #endif //_DLL_242_RECOMP_H

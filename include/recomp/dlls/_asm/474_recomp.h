@@ -13,6 +13,6 @@
 #define dll_474_get_model_flags __dll474_dll_474_get_model_flags
 #define dll_474_get_data_size __dll474_dll_474_get_data_size
 #define str_0 __dll474_str_0
-#define _rodata_80 __dll474__rodata_80
+#define rodata_80 __dll474_rodata_80
 
 #endif //_DLL_474_RECOMP_H

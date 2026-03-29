@@ -6,11 +6,11 @@
 #define dll_183_ctor __dll183_dll_183_ctor
 #define dll_183_dtor __dll183_dll_183_dtor
 #define dll_183_func_18 __dll183_dll_183_func_18
-#define _data_0 __dll183__data_0
-#define _data_50 __dll183__data_50
-#define _data_78 __dll183__data_78
-#define _data_98 __dll183__data_98
-#define _data_9A __dll183__data_9A
-#define _data_9C __dll183__data_9C
+#define data_0 __dll183_data_0
+#define data_50 __dll183_data_50
+#define data_78 __dll183_data_78
+#define data_98 __dll183_data_98
+#define data_9A __dll183_data_9A
+#define data_9C __dll183_data_9C
 
 #endif //_DLL_183_RECOMP_H

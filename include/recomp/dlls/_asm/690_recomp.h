@@ -16,10 +16,10 @@
 #define dll_690_func_884 __dll690_dll_690_func_884
 #define dll_690_func_934 __dll690_dll_690_func_934
 #define str_0 __dll690_str_0
-#define _rodata_68 __dll690__rodata_68
-#define _rodata_6C __dll690__rodata_6C
-#define _data_0 __dll690__data_0
-#define _data_24 __dll690__data_24
-#define _data_28 __dll690__data_28
+#define rodata_68 __dll690_rodata_68
+#define rodata_6C __dll690_rodata_6C
+#define data_0 __dll690_data_0
+#define data_24 __dll690_data_24
+#define data_28 __dll690_data_28
 
 #endif //_DLL_690_RECOMP_H

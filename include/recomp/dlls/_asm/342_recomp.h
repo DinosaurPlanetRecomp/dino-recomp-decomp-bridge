@@ -14,6 +14,6 @@
 #define dll_342_get_data_size __dll342_dll_342_get_data_size
 #define dll_342_func_540 __dll342_dll_342_func_540
 #define dll_342_func_5E8 __dll342_dll_342_func_5E8
-#define _data_0 __dll342__data_0
+#define data_0 __dll342_data_0
 
 #endif //_DLL_342_RECOMP_H

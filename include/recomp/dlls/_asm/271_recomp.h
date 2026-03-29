@@ -16,6 +16,6 @@
 #define dll_271_func_520 __dll271_dll_271_func_520
 #define str_0 __dll271_str_0
 #define str_18 __dll271_str_18
-#define _data_0 __dll271__data_0
+#define data_0 __dll271_data_0
 
 #endif //_DLL_271_RECOMP_H

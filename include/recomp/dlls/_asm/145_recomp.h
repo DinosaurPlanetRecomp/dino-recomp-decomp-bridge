@@ -6,18 +6,18 @@
 #define dll_145_ctor __dll145_dll_145_ctor
 #define dll_145_dtor __dll145_dll_145_dtor
 #define dll_145_func_18 __dll145_dll_145_func_18
-#define _rodata_0 __dll145__rodata_0
-#define _rodata_4 __dll145__rodata_4
-#define _rodata_8 __dll145__rodata_8
-#define _rodata_C __dll145__rodata_C
-#define _rodata_10 __dll145__rodata_10
-#define _rodata_14 __dll145__rodata_14
-#define _rodata_18 __dll145__rodata_18
-#define _data_0 __dll145__data_0
-#define _data_D4 __dll145__data_D4
-#define _data_1B0 __dll145__data_1B0
-#define _data_1F8 __dll145__data_1F8
-#define _data_1FA __dll145__data_1FA
-#define _data_1FC __dll145__data_1FC
+#define rodata_0 __dll145_rodata_0
+#define rodata_4 __dll145_rodata_4
+#define rodata_8 __dll145_rodata_8
+#define rodata_C __dll145_rodata_C
+#define rodata_10 __dll145_rodata_10
+#define rodata_14 __dll145_rodata_14
+#define rodata_18 __dll145_rodata_18
+#define data_0 __dll145_data_0
+#define data_D4 __dll145_data_D4
+#define data_1B0 __dll145_data_1B0
+#define data_1F8 __dll145_data_1F8
+#define data_1FA __dll145_data_1FA
+#define data_1FC __dll145_data_1FC
 
 #endif //_DLL_145_RECOMP_H

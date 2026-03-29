@@ -9,19 +9,19 @@
 #define dll_67_func_868 __dll67_dll_67_func_868
 #define dll_67_func_870 __dll67_dll_67_func_870
 #define str_0 __dll67_str_0
-#define _data_0 __dll67__data_0
-#define _data_16 __dll67__data_16
-#define _data_52 __dll67__data_52
-#define _data_8E __dll67__data_8E
-#define _data_CA __dll67__data_CA
-#define _bss_0 __dll67__bss_0
-#define _bss_4 __dll67__bss_4
-#define _bss_8 __dll67__bss_8
-#define _bss_C __dll67__bss_C
-#define _bss_10 __dll67__bss_10
-#define _bss_14 __dll67__bss_14
-#define _bss_15 __dll67__bss_15
-#define _bss_16 __dll67__bss_16
-#define _bss_18 __dll67__bss_18
+#define data_0 __dll67_data_0
+#define data_16 __dll67_data_16
+#define data_52 __dll67_data_52
+#define data_8E __dll67_data_8E
+#define data_CA __dll67_data_CA
+#define bss_0 __dll67_bss_0
+#define bss_4 __dll67_bss_4
+#define bss_8 __dll67_bss_8
+#define bss_C __dll67_bss_C
+#define bss_10 __dll67_bss_10
+#define bss_14 __dll67_bss_14
+#define bss_15 __dll67_bss_15
+#define bss_16 __dll67_bss_16
+#define bss_18 __dll67_bss_18
 
 #endif //_DLL_67_RECOMP_H

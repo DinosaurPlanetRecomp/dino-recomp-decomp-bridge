@@ -14,8 +14,8 @@
 #define dll_409_get_data_size __dll409_dll_409_get_data_size
 #define dll_409_func_83C __dll409_dll_409_func_83C
 #define dll_409_func_940 __dll409_dll_409_func_940
-#define _rodata_0 __dll409__rodata_0
-#define _rodata_4 __dll409__rodata_4
-#define _bss_0 __dll409__bss_0
+#define rodata_0 __dll409_rodata_0
+#define rodata_4 __dll409_rodata_4
+#define bss_0 __dll409_bss_0
 
 #endif //_DLL_409_RECOMP_H

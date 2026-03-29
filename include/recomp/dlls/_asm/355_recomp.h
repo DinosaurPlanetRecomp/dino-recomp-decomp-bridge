@@ -16,9 +16,9 @@
 #define dll_355_func_B54 __dll355_dll_355_func_B54
 #define dll_355_func_C20 __dll355_dll_355_func_C20
 #define dll_355_func_C3C __dll355_dll_355_func_C3C
-#define _rodata_0 __dll355__rodata_0
-#define _rodata_4 __dll355__rodata_4
-#define _rodata_8 __dll355__rodata_8
-#define _rodata_C __dll355__rodata_C
+#define rodata_0 __dll355_rodata_0
+#define rodata_4 __dll355_rodata_4
+#define rodata_8 __dll355_rodata_8
+#define rodata_C __dll355_rodata_C
 
 #endif //_DLL_355_RECOMP_H

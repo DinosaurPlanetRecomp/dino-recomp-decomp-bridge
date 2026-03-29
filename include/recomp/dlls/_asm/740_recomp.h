@@ -17,8 +17,8 @@
 #define dll_740_func_548 __dll740_dll_740_func_548
 #define dll_740_func_58C __dll740_dll_740_func_58C
 #define str_0 __dll740_str_0
-#define _data_0 __dll740__data_0
-#define _data_14 __dll740__data_14
-#define _bss_0 __dll740__bss_0
+#define data_0 __dll740_data_0
+#define data_14 __dll740_data_14
+#define bss_0 __dll740_bss_0
 
 #endif //_DLL_740_RECOMP_H

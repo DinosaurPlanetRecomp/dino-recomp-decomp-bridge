@@ -19,17 +19,17 @@
 #define dll_537_func_1430 __dll537_dll_537_func_1430
 #define dll_537_func_1640 __dll537_dll_537_func_1640
 #define dll_537_func_16AC __dll537_dll_537_func_16AC
-#define _rodata_18 __dll537__rodata_18
-#define _rodata_1C __dll537__rodata_1C
-#define _rodata_20 __dll537__rodata_20
-#define _rodata_24 __dll537__rodata_24
-#define _rodata_28 __dll537__rodata_28
-#define _rodata_2C __dll537__rodata_2C
-#define _rodata_30 __dll537__rodata_30
-#define _rodata_34 __dll537__rodata_34
-#define _rodata_38 __dll537__rodata_38
-#define _rodata_3C __dll537__rodata_3C
-#define _rodata_40 __dll537__rodata_40
+#define rodata_18 __dll537_rodata_18
+#define rodata_1C __dll537_rodata_1C
+#define rodata_20 __dll537_rodata_20
+#define rodata_24 __dll537_rodata_24
+#define rodata_28 __dll537_rodata_28
+#define rodata_2C __dll537_rodata_2C
+#define rodata_30 __dll537_rodata_30
+#define rodata_34 __dll537_rodata_34
+#define rodata_38 __dll537_rodata_38
+#define rodata_3C __dll537_rodata_3C
+#define rodata_40 __dll537_rodata_40
 #define _data_0 __dll537__data_0
 
 #endif //_DLL_537_RECOMP_H

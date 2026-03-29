@@ -15,9 +15,9 @@
 #define dll_338_func_5AC __dll338_dll_338_func_5AC
 #define dll_338_func_6B8 __dll338_dll_338_func_6B8
 #define dll_338_func_6DC __dll338_dll_338_func_6DC
-#define _rodata_0 __dll338__rodata_0
-#define _data_0 __dll338__data_0
-#define _bss_0 __dll338__bss_0
-#define _bss_E __dll338__bss_E
+#define rodata_0 __dll338_rodata_0
+#define data_0 __dll338_data_0
+#define bss_0 __dll338_bss_0
+#define bss_E __dll338_bss_E
 
 #endif //_DLL_338_RECOMP_H

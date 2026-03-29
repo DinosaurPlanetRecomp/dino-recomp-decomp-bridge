@@ -10,9 +10,9 @@
 #define dll_93_func_5E8 __dll93_dll_93_func_5E8
 #define dll_93_func_62C __dll93_dll_93_func_62C
 #define dll_93_func_63C __dll93_dll_93_func_63C
-#define _rodata_0 __dll93__rodata_0
-#define _rodata_4 __dll93__rodata_4
-#define _rodata_8 __dll93__rodata_8
-#define _bss_0 __dll93__bss_0
+#define rodata_0 __dll93_rodata_0
+#define rodata_4 __dll93_rodata_4
+#define rodata_8 __dll93_rodata_8
+#define bss_0 __dll93_bss_0
 
 #endif //_DLL_93_RECOMP_H

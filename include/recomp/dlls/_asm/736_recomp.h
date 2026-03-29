@@ -12,6 +12,6 @@
 #define dll_736_free __dll736_dll_736_free
 #define dll_736_get_model_flags __dll736_dll_736_get_model_flags
 #define dll_736_get_data_size __dll736_dll_736_get_data_size
-#define _bss_0 __dll736__bss_0
+#define bss_0 __dll736_bss_0
 
 #endif //_DLL_736_RECOMP_H

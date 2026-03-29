@@ -16,10 +16,10 @@
 #define dll_85_func_112C __dll85_dll_85_func_112C
 #define dll_85_func_1374 __dll85_dll_85_func_1374
 #define str_0 __dll85_str_0
-#define _rodata_28 __dll85__rodata_28
-#define _rodata_2C __dll85__rodata_2C
-#define _rodata_30 __dll85__rodata_30
-#define _rodata_34 __dll85__rodata_34
-#define _bss_0 __dll85__bss_0
+#define rodata_28 __dll85_rodata_28
+#define rodata_2C __dll85_rodata_2C
+#define rodata_30 __dll85_rodata_30
+#define rodata_34 __dll85_rodata_34
+#define bss_0 __dll85_bss_0
 
 #endif //_DLL_85_RECOMP_H

@@ -12,8 +12,8 @@
 #define dll_591_free __dll591_dll_591_free
 #define dll_591_get_model_flags __dll591_dll_591_get_model_flags
 #define dll_591_get_data_size __dll591_dll_591_get_data_size
-#define _rodata_24 __dll591__rodata_24
-#define _rodata_28 __dll591__rodata_28
-#define _bss_0 __dll591__bss_0
+#define rodata_24 __dll591_rodata_24
+#define rodata_28 __dll591_rodata_28
+#define bss_0 __dll591_bss_0
 
 #endif //_DLL_591_RECOMP_H

@@ -19,11 +19,11 @@
 #define dll_759_func_828 __dll759_dll_759_func_828
 #define dll_759_func_970 __dll759_dll_759_func_970
 #define str_0 __dll759_str_0
-#define _rodata_1C __dll759__rodata_1C
-#define _rodata_20 __dll759__rodata_20
-#define _rodata_24 __dll759__rodata_24
-#define _data_0 __dll759__data_0
-#define _data_8 __dll759__data_8
-#define _data_B __dll759__data_B
+#define rodata_1C __dll759_rodata_1C
+#define rodata_20 __dll759_rodata_20
+#define rodata_24 __dll759_rodata_24
+#define data_0 __dll759_data_0
+#define data_8 __dll759_data_8
+#define data_B __dll759_data_B
 
 #endif //_DLL_759_RECOMP_H

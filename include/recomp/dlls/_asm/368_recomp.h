@@ -13,6 +13,6 @@
 #define dll_368_get_model_flags __dll368_dll_368_get_model_flags
 #define dll_368_get_data_size __dll368_dll_368_get_data_size
 #define dll_368_func_424 __dll368_dll_368_func_424
-#define _rodata_20 __dll368__rodata_20
+#define rodata_20 __dll368_rodata_20
 
 #endif //_DLL_368_RECOMP_H

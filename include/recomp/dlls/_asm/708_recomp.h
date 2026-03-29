@@ -19,16 +19,16 @@
 #define dll_708_func_10B4 __dll708_dll_708_func_10B4
 #define dll_708_func_12DC __dll708_dll_708_func_12DC
 #define dll_708_func_1388 __dll708_dll_708_func_1388
-#define _rodata_0 __dll708__rodata_0
-#define _rodata_4 __dll708__rodata_4
-#define _rodata_8 __dll708__rodata_8
-#define _rodata_C __dll708__rodata_C
-#define _rodata_10 __dll708__rodata_10
-#define _rodata_14 __dll708__rodata_14
-#define _rodata_18 __dll708__rodata_18
-#define _data_0 __dll708__data_0
-#define _data_1C __dll708__data_1C
-#define _bss_0 __dll708__bss_0
-#define _bss_C __dll708__bss_C
+#define rodata_0 __dll708_rodata_0
+#define rodata_4 __dll708_rodata_4
+#define rodata_8 __dll708_rodata_8
+#define rodata_C __dll708_rodata_C
+#define rodata_10 __dll708_rodata_10
+#define rodata_14 __dll708_rodata_14
+#define rodata_18 __dll708_rodata_18
+#define data_0 __dll708_data_0
+#define data_1C __dll708_data_1C
+#define bss_0 __dll708_bss_0
+#define bss_C __dll708_bss_C
 
 #endif //_DLL_708_RECOMP_H

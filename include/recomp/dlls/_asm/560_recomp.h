@@ -12,9 +12,9 @@
 #define dll_560_free __dll560_dll_560_free
 #define dll_560_get_model_flags __dll560_dll_560_get_model_flags
 #define dll_560_get_data_size __dll560_dll_560_get_data_size
-#define _rodata_0 __dll560__rodata_0
-#define _rodata_4 __dll560__rodata_4
-#define _rodata_8 __dll560__rodata_8
-#define _rodata_C __dll560__rodata_C
+#define rodata_0 __dll560_rodata_0
+#define rodata_4 __dll560_rodata_4
+#define rodata_8 __dll560_rodata_8
+#define rodata_C __dll560_rodata_C
 
 #endif //_DLL_560_RECOMP_H

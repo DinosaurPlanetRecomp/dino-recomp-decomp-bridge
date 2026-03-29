@@ -7,11 +7,11 @@
 #define dll_180_dtor __dll180_dll_180_dtor
 #define dll_180_func_18 __dll180_dll_180_func_18
 #define str_0 __dll180_str_0
-#define _data_0 __dll180__data_0
-#define _data_3C __dll180__data_3C
-#define _data_78 __dll180__data_78
-#define _data_84 __dll180__data_84
-#define _data_88 __dll180__data_88
-#define _data_98 __dll180__data_98
+#define data_0 __dll180_data_0
+#define data_3C __dll180_data_3C
+#define data_78 __dll180_data_78
+#define data_84 __dll180_data_84
+#define data_88 __dll180_data_88
+#define data_98 __dll180_data_98
 
 #endif //_DLL_180_RECOMP_H

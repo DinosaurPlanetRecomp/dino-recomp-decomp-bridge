@@ -6,14 +6,14 @@
 #define dll_118_ctor __dll118_dll_118_ctor
 #define dll_118_dtor __dll118_dll_118_dtor
 #define dll_118_func_18 __dll118_dll_118_func_18
-#define _rodata_0 __dll118__rodata_0
-#define _rodata_4 __dll118__rodata_4
-#define _data_0 __dll118__data_0
-#define _data_D4 __dll118__data_D4
-#define _data_174 __dll118__data_174
-#define _data_1B0 __dll118__data_1B0
-#define _data_1DC __dll118__data_1DC
-#define _data_1DE __dll118__data_1DE
-#define _data_1E0 __dll118__data_1E0
+#define rodata_0 __dll118_rodata_0
+#define rodata_4 __dll118_rodata_4
+#define data_0 __dll118_data_0
+#define data_D4 __dll118_data_D4
+#define data_174 __dll118_data_174
+#define data_1B0 __dll118_data_1B0
+#define data_1DC __dll118_data_1DC
+#define data_1DE __dll118_data_1DE
+#define data_1E0 __dll118_data_1E0
 
 #endif //_DLL_118_RECOMP_H

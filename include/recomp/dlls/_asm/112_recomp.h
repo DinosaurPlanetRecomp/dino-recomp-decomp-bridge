@@ -6,13 +6,13 @@
 #define dll_112_ctor __dll112_dll_112_ctor
 #define dll_112_dtor __dll112_dll_112_dtor
 #define dll_112_func_18 __dll112_dll_112_func_18
-#define _rodata_0 __dll112__rodata_0
-#define _data_0 __dll112__data_0
-#define _data_8C __dll112__data_8C
-#define _data_F4 __dll112__data_F4
-#define _data_118 __dll112__data_118
-#define _data_12C __dll112__data_12C
-#define _data_12E __dll112__data_12E
-#define _data_130 __dll112__data_130
+#define rodata_0 __dll112_rodata_0
+#define data_0 __dll112_data_0
+#define data_8C __dll112_data_8C
+#define data_F4 __dll112_data_F4
+#define data_118 __dll112_data_118
+#define data_12C __dll112_data_12C
+#define data_12E __dll112_data_12E
+#define data_130 __dll112_data_130
 
 #endif //_DLL_112_RECOMP_H

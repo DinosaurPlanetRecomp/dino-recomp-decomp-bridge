@@ -12,9 +12,9 @@
 #define dll_640_free __dll640_dll_640_free
 #define dll_640_get_model_flags __dll640_dll_640_get_model_flags
 #define dll_640_get_data_size __dll640_dll_640_get_data_size
-#define _rodata_0 __dll640__rodata_0
-#define _data_0 __dll640__data_0
-#define _data_4 __dll640__data_4
-#define _data_14 __dll640__data_14
+#define rodata_0 __dll640_rodata_0
+#define data_0 __dll640_data_0
+#define data_4 __dll640_data_4
+#define data_14 __dll640_data_14
 
 #endif //_DLL_640_RECOMP_H

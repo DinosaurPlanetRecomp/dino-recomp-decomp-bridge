@@ -13,16 +13,16 @@
 #define dll_249_get_model_flags __dll249_dll_249_get_model_flags
 #define dll_249_get_data_size __dll249_dll_249_get_data_size
 #define dll_249_func_854 __dll249_dll_249_func_854
-#define _rodata_0 __dll249__rodata_0
-#define _rodata_4 __dll249__rodata_4
-#define _rodata_8 __dll249__rodata_8
-#define _rodata_C __dll249__rodata_C
-#define _rodata_10 __dll249__rodata_10
-#define _rodata_14 __dll249__rodata_14
-#define _rodata_18 __dll249__rodata_18
-#define _rodata_1C __dll249__rodata_1C
-#define _rodata_20 __dll249__rodata_20
-#define _data_0 __dll249__data_0
-#define _bss_0 __dll249__bss_0
+#define rodata_0 __dll249_rodata_0
+#define rodata_4 __dll249_rodata_4
+#define rodata_8 __dll249_rodata_8
+#define rodata_C __dll249_rodata_C
+#define rodata_10 __dll249_rodata_10
+#define rodata_14 __dll249_rodata_14
+#define rodata_18 __dll249_rodata_18
+#define rodata_1C __dll249_rodata_1C
+#define rodata_20 __dll249_rodata_20
+#define data_0 __dll249_data_0
+#define bss_0 __dll249_bss_0
 
 #endif //_DLL_249_RECOMP_H

@@ -16,13 +16,13 @@
 #define dll_609_func_98C __dll609_dll_609_func_98C
 #define dll_609_func_ADC __dll609_dll_609_func_ADC
 #define str_0 __dll609_str_0
-#define _rodata_14 __dll609__rodata_14
-#define _rodata_18 __dll609__rodata_18
-#define _rodata_1C __dll609__rodata_1C
-#define _rodata_20 __dll609__rodata_20
-#define _rodata_24 __dll609__rodata_24
-#define _rodata_28 __dll609__rodata_28
-#define _rodata_2C __dll609__rodata_2C
-#define _data_0 __dll609__data_0
+#define rodata_14 __dll609_rodata_14
+#define rodata_18 __dll609_rodata_18
+#define rodata_1C __dll609_rodata_1C
+#define rodata_20 __dll609_rodata_20
+#define rodata_24 __dll609_rodata_24
+#define rodata_28 __dll609_rodata_28
+#define rodata_2C __dll609_rodata_2C
+#define data_0 __dll609_data_0
 
 #endif //_DLL_609_RECOMP_H

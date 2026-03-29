@@ -15,6 +15,6 @@
 #define dll_340_func_414 __dll340_dll_340_func_414
 #define dll_340_func_4BC __dll340_dll_340_func_4BC
 #define dll_340_func_D40 __dll340_dll_340_func_D40
-#define _rodata_0 __dll340__rodata_0
+#define rodata_0 __dll340_rodata_0
 
 #endif //_DLL_340_RECOMP_H

@@ -6,19 +6,19 @@
 #define dll_185_ctor __dll185_dll_185_ctor
 #define dll_185_dtor __dll185_dll_185_dtor
 #define dll_185_func_18 __dll185_dll_185_func_18
-#define _rodata_0 __dll185__rodata_0
-#define _rodata_4 __dll185__rodata_4
-#define _rodata_8 __dll185__rodata_8
-#define _rodata_C __dll185__rodata_C
-#define _rodata_10 __dll185__rodata_10
-#define _rodata_14 __dll185__rodata_14
-#define _data_0 __dll185__data_0
-#define _data_8C __dll185__data_8C
-#define _data_D4 __dll185__data_D4
-#define _data_E4 __dll185__data_E4
-#define _data_F4 __dll185__data_F4
-#define _data_110 __dll185__data_110
-#define _data_112 __dll185__data_112
-#define _data_114 __dll185__data_114
+#define rodata_0 __dll185_rodata_0
+#define rodata_4 __dll185_rodata_4
+#define rodata_8 __dll185_rodata_8
+#define rodata_C __dll185_rodata_C
+#define rodata_10 __dll185_rodata_10
+#define rodata_14 __dll185_rodata_14
+#define data_0 __dll185_data_0
+#define data_8C __dll185_data_8C
+#define data_D4 __dll185_data_D4
+#define data_E4 __dll185_data_E4
+#define data_F4 __dll185_data_F4
+#define data_110 __dll185_data_110
+#define data_112 __dll185_data_112
+#define data_114 __dll185_data_114
 
 #endif //_DLL_185_RECOMP_H

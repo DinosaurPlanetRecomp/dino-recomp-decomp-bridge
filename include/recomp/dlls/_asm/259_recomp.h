@@ -13,6 +13,6 @@
 #define dll_259_get_model_flags __dll259_dll_259_get_model_flags
 #define dll_259_get_data_size __dll259_dll_259_get_data_size
 #define dll_259_func_3D0 __dll259_dll_259_func_3D0
-#define _data_0 __dll259__data_0
+#define data_0 __dll259_data_0
 
 #endif //_DLL_259_RECOMP_H

@@ -12,20 +12,20 @@
 #define dll_91_func_BC0 __dll91_dll_91_func_BC0
 #define dll_91_func_C58 __dll91_dll_91_func_C58
 #define dll_91_func_D34 __dll91_dll_91_func_D34
-#define _rodata_0 __dll91__rodata_0
-#define _rodata_4 __dll91__rodata_4
-#define _rodata_8 __dll91__rodata_8
-#define _rodata_C __dll91__rodata_C
-#define _rodata_10 __dll91__rodata_10
-#define _rodata_14 __dll91__rodata_14
-#define _rodata_18 __dll91__rodata_18
-#define _rodata_1C __dll91__rodata_1C
-#define _rodata_20 __dll91__rodata_20
-#define _rodata_24 __dll91__rodata_24
-#define _rodata_28 __dll91__rodata_28
-#define _rodata_2C __dll91__rodata_2C
-#define _rodata_30 __dll91__rodata_30
-#define _bss_0 __dll91__bss_0
-#define _bss_4 __dll91__bss_4
+#define rodata_0 __dll91_rodata_0
+#define rodata_4 __dll91_rodata_4
+#define rodata_8 __dll91_rodata_8
+#define rodata_C __dll91_rodata_C
+#define rodata_10 __dll91_rodata_10
+#define rodata_14 __dll91_rodata_14
+#define rodata_18 __dll91_rodata_18
+#define rodata_1C __dll91_rodata_1C
+#define rodata_20 __dll91_rodata_20
+#define rodata_24 __dll91_rodata_24
+#define rodata_28 __dll91_rodata_28
+#define rodata_2C __dll91_rodata_2C
+#define rodata_30 __dll91_rodata_30
+#define bss_0 __dll91_bss_0
+#define bss_4 __dll91_bss_4
 
 #endif //_DLL_91_RECOMP_H

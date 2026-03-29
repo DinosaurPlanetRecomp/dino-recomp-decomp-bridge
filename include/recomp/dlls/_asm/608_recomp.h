@@ -14,13 +14,13 @@
 #define dll_608_get_data_size __dll608_dll_608_get_data_size
 #define dll_608_func_158 __dll608_dll_608_func_158
 #define dll_608_func_3B4 __dll608_dll_608_func_3B4
-#define _rodata_0 __dll608__rodata_0
-#define _rodata_C0 __dll608__rodata_C0
-#define _rodata_F0 __dll608__rodata_F0
-#define _rodata_134 __dll608__rodata_134
-#define _rodata_138 __dll608__rodata_138
-#define _rodata_13C __dll608__rodata_13C
-#define _rodata_140 __dll608__rodata_140
-#define _data_0 __dll608__data_0
+#define rodata_0 __dll608_rodata_0
+#define rodata_C0 __dll608_rodata_C0
+#define rodata_F0 __dll608_rodata_F0
+#define rodata_134 __dll608_rodata_134
+#define rodata_138 __dll608_rodata_138
+#define rodata_13C __dll608_rodata_13C
+#define rodata_140 __dll608_rodata_140
+#define data_0 __dll608_data_0
 
 #endif //_DLL_608_RECOMP_H

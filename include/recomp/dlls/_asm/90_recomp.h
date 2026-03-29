@@ -12,12 +12,12 @@
 #define dll_90_func_5D4 __dll90_dll_90_func_5D4
 #define dll_90_func_798 __dll90_dll_90_func_798
 #define dll_90_func_C04 __dll90_dll_90_func_C04
-#define _rodata_0 __dll90__rodata_0
-#define _rodata_4 __dll90__rodata_4
-#define _rodata_8 __dll90__rodata_8
-#define _rodata_C __dll90__rodata_C
-#define _rodata_10 __dll90__rodata_10
-#define _rodata_14 __dll90__rodata_14
-#define _bss_0 __dll90__bss_0
+#define rodata_0 __dll90_rodata_0
+#define rodata_4 __dll90_rodata_4
+#define rodata_8 __dll90_rodata_8
+#define rodata_C __dll90_rodata_C
+#define rodata_10 __dll90_rodata_10
+#define rodata_14 __dll90_rodata_14
+#define bss_0 __dll90_bss_0
 
 #endif //_DLL_90_RECOMP_H

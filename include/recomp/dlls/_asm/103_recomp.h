@@ -9,7 +9,7 @@
 #define dll_103_func_98 __dll103_dll_103_func_98
 #define dll_103_func_1A4 __dll103_dll_103_func_1A4
 #define dll_103_func_1E4 __dll103_dll_103_func_1E4
-#define _rodata_0 __dll103__rodata_0
-#define _bss_0 __dll103__bss_0
+#define rodata_0 __dll103_rodata_0
+#define bss_0 __dll103_bss_0
 
 #endif //_DLL_103_RECOMP_H

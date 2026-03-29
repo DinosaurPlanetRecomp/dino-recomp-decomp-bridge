@@ -13,9 +13,9 @@
 #define dll_358_get_model_flags __dll358_dll_358_get_model_flags
 #define dll_358_get_data_size __dll358_dll_358_get_data_size
 #define dll_358_func_B6C __dll358_dll_358_func_B6C
-#define _rodata_0 __dll358__rodata_0
-#define _data_0 __dll358__data_0
-#define _data_C __dll358__data_C
-#define _bss_0 __dll358__bss_0
+#define rodata_0 __dll358_rodata_0
+#define data_0 __dll358_data_0
+#define data_C __dll358_data_C
+#define bss_0 __dll358_bss_0
 
 #endif //_DLL_358_RECOMP_H

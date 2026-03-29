@@ -12,6 +12,6 @@
 #define SB_ShipGun_free __dll577_SB_ShipGun_free
 #define SB_ShipGun_get_model_flags __dll577_SB_ShipGun_get_model_flags
 #define SB_ShipGun_get_data_size __dll577_SB_ShipGun_get_data_size
-#define _rodata_14 __dll577__rodata_14
+#define rodata_14 __dll577_rodata_14
 
 #endif //_DLL_577_RECOMP_H

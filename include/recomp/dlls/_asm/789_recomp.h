@@ -13,10 +13,10 @@
 #define dll_789_get_model_flags __dll789_dll_789_get_model_flags
 #define dll_789_get_data_size __dll789_dll_789_get_data_size
 #define dll_789_func_51C __dll789_dll_789_func_51C
-#define _rodata_0 __dll789__rodata_0
-#define _data_0 __dll789__data_0
-#define _data_8 __dll789__data_8
-#define _data_10 __dll789__data_10
-#define _data_1C __dll789__data_1C
+#define rodata_0 __dll789_rodata_0
+#define data_0 __dll789_data_0
+#define data_8 __dll789_data_8
+#define data_10 __dll789_data_10
+#define data_1C __dll789_data_1C
 
 #endif //_DLL_789_RECOMP_H

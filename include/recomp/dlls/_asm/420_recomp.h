@@ -31,17 +31,17 @@
 #define dll_420_func_1A8C __dll420_dll_420_func_1A8C
 #define dll_420_func_1C48 __dll420_dll_420_func_1C48
 #define dll_420_func_1EF0 __dll420_dll_420_func_1EF0
-#define _rodata_0 __dll420__rodata_0
-#define _rodata_60 __dll420__rodata_60
-#define _rodata_118 __dll420__rodata_118
-#define _rodata_11C __dll420__rodata_11C
-#define _rodata_120 __dll420__rodata_120
-#define _rodata_124 __dll420__rodata_124
-#define _rodata_128 __dll420__rodata_128
-#define _rodata_12C __dll420__rodata_12C
-#define _rodata_130 __dll420__rodata_130
-#define _rodata_134 __dll420__rodata_134
-#define _data_0 __dll420__data_0
-#define _data_4 __dll420__data_4
+#define rodata_0 __dll420_rodata_0
+#define rodata_60 __dll420_rodata_60
+#define rodata_118 __dll420_rodata_118
+#define rodata_11C __dll420_rodata_11C
+#define rodata_120 __dll420_rodata_120
+#define rodata_124 __dll420_rodata_124
+#define rodata_128 __dll420_rodata_128
+#define rodata_12C __dll420_rodata_12C
+#define rodata_130 __dll420_rodata_130
+#define rodata_134 __dll420_rodata_134
+#define data_0 __dll420_data_0
+#define data_4 __dll420_data_4
 
 #endif //_DLL_420_RECOMP_H

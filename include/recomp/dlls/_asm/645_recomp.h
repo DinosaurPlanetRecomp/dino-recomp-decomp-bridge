@@ -13,7 +13,7 @@
 #define dll_645_get_model_flags __dll645_dll_645_get_model_flags
 #define dll_645_get_data_size __dll645_dll_645_get_data_size
 #define dll_645_func_598 __dll645_dll_645_func_598
-#define _data_0 __dll645__data_0
-#define _data_4 __dll645__data_4
+#define data_0 __dll645_data_0
+#define data_4 __dll645_data_4
 
 #endif //_DLL_645_RECOMP_H

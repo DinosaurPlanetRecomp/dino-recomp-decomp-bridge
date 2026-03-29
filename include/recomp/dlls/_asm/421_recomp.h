@@ -13,17 +13,17 @@
 #define dll_421_get_model_flags __dll421_dll_421_get_model_flags
 #define dll_421_get_data_size __dll421_dll_421_get_data_size
 #define dll_421_func_99C __dll421_dll_421_func_99C
-#define _rodata_0 __dll421__rodata_0
-#define _rodata_4 __dll421__rodata_4
-#define _rodata_8 __dll421__rodata_8
-#define _rodata_C __dll421__rodata_C
-#define _rodata_10 __dll421__rodata_10
-#define _rodata_14 __dll421__rodata_14
-#define _rodata_18 __dll421__rodata_18
-#define _rodata_1C __dll421__rodata_1C
-#define _rodata_20 __dll421__rodata_20
-#define _data_0 __dll421__data_0
-#define _data_8 __dll421__data_8
-#define _data_18 __dll421__data_18
+#define rodata_0 __dll421_rodata_0
+#define rodata_4 __dll421_rodata_4
+#define rodata_8 __dll421_rodata_8
+#define rodata_C __dll421_rodata_C
+#define rodata_10 __dll421_rodata_10
+#define rodata_14 __dll421_rodata_14
+#define rodata_18 __dll421_rodata_18
+#define rodata_1C __dll421_rodata_1C
+#define rodata_20 __dll421_rodata_20
+#define data_0 __dll421_data_0
+#define data_8 __dll421_data_8
+#define data_18 __dll421_data_18
 
 #endif //_DLL_421_RECOMP_H

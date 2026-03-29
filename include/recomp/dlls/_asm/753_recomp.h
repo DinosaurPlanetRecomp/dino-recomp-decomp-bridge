@@ -16,14 +16,14 @@
 #define str_10 __dll753_str_10
 #define str_1C __dll753_str_1C
 #define str_24 __dll753_str_24
-#define _rodata_38 __dll753__rodata_38
-#define _rodata_3C __dll753__rodata_3C
-#define _rodata_40 __dll753__rodata_40
-#define _rodata_44 __dll753__rodata_44
-#define _rodata_48 __dll753__rodata_48
-#define _data_0 __dll753__data_0
-#define _data_8 __dll753__data_8
-#define _data_14 __dll753__data_14
-#define _data_24 __dll753__data_24
+#define rodata_38 __dll753_rodata_38
+#define rodata_3C __dll753_rodata_3C
+#define rodata_40 __dll753_rodata_40
+#define rodata_44 __dll753_rodata_44
+#define rodata_48 __dll753_rodata_48
+#define data_0 __dll753_data_0
+#define data_8 __dll753_data_8
+#define data_14 __dll753_data_14
+#define data_24 __dll753_data_24
 
 #endif //_DLL_753_RECOMP_H

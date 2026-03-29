@@ -12,9 +12,9 @@
 #define dll_624_free __dll624_dll_624_free
 #define dll_624_get_model_flags __dll624_dll_624_get_model_flags
 #define dll_624_get_data_size __dll624_dll_624_get_data_size
-#define _rodata_0 __dll624__rodata_0
-#define _rodata_4 __dll624__rodata_4
-#define _rodata_8 __dll624__rodata_8
-#define _rodata_C __dll624__rodata_C
+#define rodata_0 __dll624_rodata_0
+#define rodata_4 __dll624_rodata_4
+#define rodata_8 __dll624_rodata_8
+#define rodata_C __dll624_rodata_C
 
 #endif //_DLL_624_RECOMP_H

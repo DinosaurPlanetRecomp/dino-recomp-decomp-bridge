@@ -6,16 +6,16 @@
 #define dll_178_ctor __dll178_dll_178_ctor
 #define dll_178_dtor __dll178_dll_178_dtor
 #define dll_178_func_18 __dll178_dll_178_func_18
-#define _rodata_0 __dll178__rodata_0
-#define _rodata_4 __dll178__rodata_4
-#define _data_0 __dll178__data_0
-#define _data_D4 __dll178__data_D4
-#define _data_164 __dll178__data_164
-#define _data_174 __dll178__data_174
-#define _data_184 __dll178__data_184
-#define _data_1B0 __dll178__data_1B0
-#define _data_1F8 __dll178__data_1F8
-#define _data_1FA __dll178__data_1FA
-#define _data_1FC __dll178__data_1FC
+#define rodata_0 __dll178_rodata_0
+#define rodata_4 __dll178_rodata_4
+#define data_0 __dll178_data_0
+#define data_D4 __dll178_data_D4
+#define data_164 __dll178_data_164
+#define data_174 __dll178_data_174
+#define data_184 __dll178_data_184
+#define data_1B0 __dll178_data_1B0
+#define data_1F8 __dll178_data_1F8
+#define data_1FA __dll178_data_1FA
+#define data_1FC __dll178_data_1FC
 
 #endif //_DLL_178_RECOMP_H

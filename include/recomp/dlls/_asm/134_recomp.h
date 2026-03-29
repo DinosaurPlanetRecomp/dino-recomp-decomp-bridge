@@ -6,9 +6,9 @@
 #define dll_134_ctor __dll134_dll_134_ctor
 #define dll_134_dtor __dll134_dll_134_dtor
 #define dll_134_func_18 __dll134_dll_134_func_18
-#define _rodata_0 __dll134__rodata_0
-#define _data_0 __dll134__data_0
-#define _data_2 __dll134__data_2
-#define _data_4 __dll134__data_4
+#define rodata_0 __dll134_rodata_0
+#define data_0 __dll134_data_0
+#define data_2 __dll134_data_2
+#define data_4 __dll134_data_4
 
 #endif //_DLL_134_RECOMP_H

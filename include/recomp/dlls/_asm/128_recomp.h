@@ -6,18 +6,18 @@
 #define dll_128_ctor __dll128_dll_128_ctor
 #define dll_128_dtor __dll128_dll_128_dtor
 #define dll_128_func_18 __dll128_dll_128_func_18
-#define _rodata_0 __dll128__rodata_0
-#define _rodata_4 __dll128__rodata_4
-#define _rodata_8 __dll128__rodata_8
-#define _data_0 __dll128__data_0
-#define _data_B4 __dll128__data_B4
-#define _data_114 __dll128__data_114
-#define _data_128 __dll128__data_128
-#define _data_150 __dll128__data_150
-#define _data_188 __dll128__data_188
-#define _data_194 __dll128__data_194
-#define _data_19C __dll128__data_19C
-#define _data_19E __dll128__data_19E
-#define _data_1A0 __dll128__data_1A0
+#define rodata_0 __dll128_rodata_0
+#define rodata_4 __dll128_rodata_4
+#define rodata_8 __dll128_rodata_8
+#define data_0 __dll128_data_0
+#define data_B4 __dll128_data_B4
+#define data_114 __dll128_data_114
+#define data_128 __dll128_data_128
+#define data_150 __dll128_data_150
+#define data_188 __dll128_data_188
+#define data_194 __dll128_data_194
+#define data_19C __dll128_data_19C
+#define data_19E __dll128_data_19E
+#define data_1A0 __dll128_data_1A0
 
 #endif //_DLL_128_RECOMP_H

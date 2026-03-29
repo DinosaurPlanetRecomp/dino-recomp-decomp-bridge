@@ -15,7 +15,7 @@
 #define dll_221_func_398 __dll221_dll_221_func_398
 #define dll_221_func_620 __dll221_dll_221_func_620
 #define dll_221_func_77C __dll221_dll_221_func_77C
-#define _rodata_0 __dll221__rodata_0
-#define _rodata_4 __dll221__rodata_4
+#define rodata_0 __dll221_rodata_0
+#define rodata_4 __dll221_rodata_4
 
 #endif //_DLL_221_RECOMP_H

@@ -20,9 +20,9 @@
 #define dll_692_func_A00 __dll692_dll_692_func_A00
 #define dll_692_func_CF4 __dll692_dll_692_func_CF4
 #define dll_692_func_E34 __dll692_dll_692_func_E34
-#define _rodata_0 __dll692__rodata_0
-#define _data_0 __dll692__data_0
-#define _data_C __dll692__data_C
-#define _data_1C __dll692__data_1C
+#define rodata_0 __dll692_rodata_0
+#define data_0 __dll692_data_0
+#define data_C __dll692_data_C
+#define data_1C __dll692_data_1C
 
 #endif //_DLL_692_RECOMP_H

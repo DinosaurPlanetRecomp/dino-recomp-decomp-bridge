@@ -15,6 +15,6 @@
 #define dll_673_func_2CC __dll673_dll_673_func_2CC
 #define dll_673_func_49C __dll673_dll_673_func_49C
 #define str_0 __dll673_str_0
-#define _rodata_50 __dll673__rodata_50
+#define rodata_50 __dll673_rodata_50
 
 #endif //_DLL_673_RECOMP_H

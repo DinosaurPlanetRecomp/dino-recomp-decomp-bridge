@@ -26,10 +26,10 @@
 #define dll_53_func_1E70 __dll53_dll_53_func_1E70
 #define dll_53_func_1F1C __dll53_dll_53_func_1F1C
 #define str_0 __dll53_str_0
-#define _rodata_134 __dll53__rodata_134
-#define _rodata_138 __dll53__rodata_138
-#define _rodata_13C __dll53__rodata_13C
-#define _rodata_140 __dll53__rodata_140
-#define _data_0 __dll53__data_0
+#define rodata_134 __dll53_rodata_134
+#define rodata_138 __dll53_rodata_138
+#define rodata_13C __dll53_rodata_13C
+#define rodata_140 __dll53_rodata_140
+#define data_0 __dll53_data_0
 
 #endif //_DLL_53_RECOMP_H

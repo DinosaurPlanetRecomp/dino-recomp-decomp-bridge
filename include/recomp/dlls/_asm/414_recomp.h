@@ -12,11 +12,11 @@
 #define dll_414_free __dll414_dll_414_free
 #define dll_414_get_model_flags __dll414_dll_414_get_model_flags
 #define dll_414_get_data_size __dll414_dll_414_get_data_size
-#define _rodata_1C __dll414__rodata_1C
-#define _rodata_20 __dll414__rodata_20
-#define _rodata_24 __dll414__rodata_24
-#define _rodata_28 __dll414__rodata_28
-#define _data_0 __dll414__data_0
-#define _data_C __dll414__data_C
+#define rodata_1C __dll414_rodata_1C
+#define rodata_20 __dll414_rodata_20
+#define rodata_24 __dll414_rodata_24
+#define rodata_28 __dll414_rodata_28
+#define data_0 __dll414_data_0
+#define data_C __dll414_data_C
 
 #endif //_DLL_414_RECOMP_H

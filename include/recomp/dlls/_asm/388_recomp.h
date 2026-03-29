@@ -19,18 +19,18 @@
 #define dll_388_func_1848 __dll388_dll_388_func_1848
 #define dll_388_func_1948 __dll388_dll_388_func_1948
 #define str_0 __dll388_str_0
-#define _rodata_28 __dll388__rodata_28
-#define _rodata_E8 __dll388__rodata_E8
-#define _rodata_EC __dll388__rodata_EC
-#define _rodata_F0 __dll388__rodata_F0
-#define _rodata_F4 __dll388__rodata_F4
-#define _rodata_F8 __dll388__rodata_F8
-#define _rodata_FC __dll388__rodata_FC
-#define _rodata_100 __dll388__rodata_100
-#define _rodata_104 __dll388__rodata_104
-#define _rodata_108 __dll388__rodata_108
-#define _data_0 __dll388__data_0
-#define _data_4 __dll388__data_4
-#define _data_14 __dll388__data_14
+#define rodata_28 __dll388_rodata_28
+#define rodata_E8 __dll388_rodata_E8
+#define rodata_EC __dll388_rodata_EC
+#define rodata_F0 __dll388_rodata_F0
+#define rodata_F4 __dll388_rodata_F4
+#define rodata_F8 __dll388_rodata_F8
+#define rodata_FC __dll388_rodata_FC
+#define rodata_100 __dll388_rodata_100
+#define rodata_104 __dll388_rodata_104
+#define rodata_108 __dll388_rodata_108
+#define data_0 __dll388_data_0
+#define data_4 __dll388_data_4
+#define data_14 __dll388_data_14
 
 #endif //_DLL_388_RECOMP_H

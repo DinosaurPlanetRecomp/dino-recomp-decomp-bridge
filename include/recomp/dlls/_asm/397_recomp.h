@@ -27,12 +27,12 @@
 #define dll_397_func_1B50 __dll397_dll_397_func_1B50
 #define dll_397_func_1BEC __dll397_dll_397_func_1BEC
 #define str_0 __dll397_str_0
-#define _rodata_180 __dll397__rodata_180
-#define _rodata_184 __dll397__rodata_184
-#define _rodata_188 __dll397__rodata_188
-#define _rodata_18C __dll397__rodata_18C
-#define _rodata_190 __dll397__rodata_190
-#define _data_0 __dll397__data_0
-#define _data_10 __dll397__data_10
+#define rodata_180 __dll397_rodata_180
+#define rodata_184 __dll397_rodata_184
+#define rodata_188 __dll397_rodata_188
+#define rodata_18C __dll397_rodata_18C
+#define rodata_190 __dll397_rodata_190
+#define data_0 __dll397_data_0
+#define data_10 __dll397_data_10
 
 #endif //_DLL_397_RECOMP_H

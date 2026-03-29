@@ -12,6 +12,6 @@
 #define dll_446_free __dll446_dll_446_free
 #define dll_446_get_model_flags __dll446_dll_446_get_model_flags
 #define dll_446_get_data_size __dll446_dll_446_get_data_size
-#define _data_0 __dll446__data_0
+#define data_0 __dll446_data_0
 
 #endif //_DLL_446_RECOMP_H

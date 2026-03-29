@@ -6,9 +6,9 @@
 #define dll_207_ctor __dll207_dll_207_ctor
 #define dll_207_dtor __dll207_dll_207_dtor
 #define dll_207_func_18 __dll207_dll_207_func_18
-#define _rodata_0 __dll207__rodata_0
-#define _rodata_4 __dll207__rodata_4
-#define _rodata_8 __dll207__rodata_8
-#define _rodata_C __dll207__rodata_C
+#define rodata_0 __dll207_rodata_0
+#define rodata_4 __dll207_rodata_4
+#define rodata_8 __dll207_rodata_8
+#define rodata_C __dll207_rodata_C
 
 #endif //_DLL_207_RECOMP_H

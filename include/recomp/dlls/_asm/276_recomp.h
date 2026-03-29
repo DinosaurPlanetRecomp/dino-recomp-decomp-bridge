@@ -13,10 +13,10 @@
 #define dll_276_get_model_flags __dll276_dll_276_get_model_flags
 #define dll_276_get_data_size __dll276_dll_276_get_data_size
 #define str_0 __dll276_str_0
-#define _rodata_A8 __dll276__rodata_A8
-#define _rodata_AC __dll276__rodata_AC
-#define _bss_0 __dll276__bss_0
-#define _bss_4 __dll276__bss_4
-#define _bss_8 __dll276__bss_8
+#define rodata_A8 __dll276_rodata_A8
+#define rodata_AC __dll276_rodata_AC
+#define bss_0 __dll276_bss_0
+#define bss_4 __dll276_bss_4
+#define bss_8 __dll276_bss_8
 
 #endif //_DLL_276_RECOMP_H

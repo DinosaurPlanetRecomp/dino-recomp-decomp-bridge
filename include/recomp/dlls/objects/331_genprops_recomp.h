@@ -21,16 +21,16 @@
 #define str_70 __dll331_str_70
 #define str_8C __dll331_str_8C
 #define str_9C __dll331_str_9C
-#define _rodata_210 __dll331__rodata_210
-#define _rodata_214 __dll331__rodata_214
-#define _rodata_218 __dll331__rodata_218
-#define _rodata_21C __dll331__rodata_21C
-#define _rodata_220 __dll331__rodata_220
-#define _rodata_224 __dll331__rodata_224
-#define _rodata_228 __dll331__rodata_228
-#define _rodata_22C __dll331__rodata_22C
-#define _rodata_230 __dll331__rodata_230
-#define _rodata_234 __dll331__rodata_234
+#define rodata_210 __dll331_rodata_210
+#define rodata_214 __dll331_rodata_214
+#define rodata_218 __dll331_rodata_218
+#define rodata_21C __dll331_rodata_21C
+#define rodata_220 __dll331_rodata_220
+#define rodata_224 __dll331_rodata_224
+#define rodata_228 __dll331_rodata_228
+#define rodata_22C __dll331_rodata_22C
+#define rodata_230 __dll331_rodata_230
+#define rodata_234 __dll331_rodata_234
 #define _data_0 __dll331__data_0
 #define _data_4 __dll331__data_4
 

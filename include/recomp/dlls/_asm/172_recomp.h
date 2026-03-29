@@ -6,12 +6,12 @@
 #define dll_172_ctor __dll172_dll_172_ctor
 #define dll_172_dtor __dll172_dll_172_dtor
 #define dll_172_func_18 __dll172_dll_172_func_18
-#define _rodata_0 __dll172__rodata_0
-#define _rodata_4 __dll172__rodata_4
-#define _data_0 __dll172__data_0
-#define _data_D4 __dll172__data_D4
-#define _data_1B0 __dll172__data_1B0
-#define _data_1DC __dll172__data_1DC
-#define _data_1F8 __dll172__data_1F8
+#define rodata_0 __dll172_rodata_0
+#define rodata_4 __dll172_rodata_4
+#define data_0 __dll172_data_0
+#define data_D4 __dll172_data_D4
+#define data_1B0 __dll172_data_1B0
+#define data_1DC __dll172_data_1DC
+#define data_1F8 __dll172_data_1F8
 
 #endif //_DLL_172_RECOMP_H

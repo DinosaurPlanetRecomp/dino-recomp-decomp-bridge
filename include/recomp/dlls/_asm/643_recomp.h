@@ -16,10 +16,10 @@
 #define dll_643_func_6DC __dll643_dll_643_func_6DC
 #define dll_643_func_84C __dll643_dll_643_func_84C
 #define dll_643_func_988 __dll643_dll_643_func_988
-#define _rodata_0 __dll643__rodata_0
-#define _rodata_4 __dll643__rodata_4
-#define _rodata_8 __dll643__rodata_8
-#define _data_0 __dll643__data_0
-#define _data_4 __dll643__data_4
+#define rodata_0 __dll643_rodata_0
+#define rodata_4 __dll643_rodata_4
+#define rodata_8 __dll643_rodata_8
+#define data_0 __dll643_data_0
+#define data_4 __dll643_data_4
 
 #endif //_DLL_643_RECOMP_H

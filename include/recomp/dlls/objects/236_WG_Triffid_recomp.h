@@ -19,8 +19,8 @@
 #define dll_236_func_C60 __dll236_dll_236_func_C60
 #define dll_236_func_D64 __dll236_dll_236_func_D64
 #define dll_236_func_EA0 __dll236_dll_236_func_EA0
-#define _rodata_0 __dll236__rodata_0
-#define _rodata_4 __dll236__rodata_4
+#define rodata_0 __dll236_rodata_0
+#define rodata_4 __dll236_rodata_4
 #define _data_0 __dll236__data_0
 #define _data_1C __dll236__data_1C
 #define _bss_0 __dll236__bss_0

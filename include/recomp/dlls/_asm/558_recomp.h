@@ -21,12 +21,12 @@
 #define dll_558_func_654 __dll558_dll_558_func_654
 #define dll_558_func_728 __dll558_dll_558_func_728
 #define dll_558_func_808 __dll558_dll_558_func_808
-#define _rodata_0 __dll558__rodata_0
-#define _rodata_4 __dll558__rodata_4
-#define _rodata_8 __dll558__rodata_8
-#define _data_0 __dll558__data_0
-#define _data_4 __dll558__data_4
-#define _bss_0 __dll558__bss_0
-#define _bss_10 __dll558__bss_10
+#define rodata_0 __dll558_rodata_0
+#define rodata_4 __dll558_rodata_4
+#define rodata_8 __dll558_rodata_8
+#define data_0 __dll558_data_0
+#define data_4 __dll558_data_4
+#define bss_0 __dll558_bss_0
+#define bss_10 __dll558_bss_10
 
 #endif //_DLL_558_RECOMP_H

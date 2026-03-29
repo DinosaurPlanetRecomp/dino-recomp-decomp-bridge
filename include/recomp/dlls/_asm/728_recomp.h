@@ -17,15 +17,15 @@
 #define dll_728_func_D58 __dll728_dll_728_func_D58
 #define dll_728_func_EC8 __dll728_dll_728_func_EC8
 #define str_0 __dll728_str_0
-#define _rodata_60 __dll728__rodata_60
-#define _rodata_64 __dll728__rodata_64
-#define _rodata_68 __dll728__rodata_68
-#define _rodata_6C __dll728__rodata_6C
-#define _rodata_70 __dll728__rodata_70
-#define _rodata_90 __dll728__rodata_90
-#define _rodata_94 __dll728__rodata_94
-#define _rodata_98 __dll728__rodata_98
-#define _data_0 __dll728__data_0
-#define _data_8 __dll728__data_8
+#define rodata_60 __dll728_rodata_60
+#define rodata_64 __dll728_rodata_64
+#define rodata_68 __dll728_rodata_68
+#define rodata_6C __dll728_rodata_6C
+#define rodata_70 __dll728_rodata_70
+#define rodata_90 __dll728_rodata_90
+#define rodata_94 __dll728_rodata_94
+#define rodata_98 __dll728_rodata_98
+#define data_0 __dll728_data_0
+#define data_8 __dll728_data_8
 
 #endif //_DLL_728_RECOMP_H

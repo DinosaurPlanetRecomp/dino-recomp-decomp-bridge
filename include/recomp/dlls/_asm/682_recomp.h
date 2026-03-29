@@ -17,10 +17,10 @@
 #define dll_682_func_BD0 __dll682_dll_682_func_BD0
 #define str_0 __dll682_str_0
 #define str_1C __dll682_str_1C
-#define _rodata_2C __dll682__rodata_2C
-#define _rodata_48 __dll682__rodata_48
-#define _rodata_4C __dll682__rodata_4C
-#define _rodata_50 __dll682__rodata_50
-#define _data_0 __dll682__data_0
+#define rodata_2C __dll682_rodata_2C
+#define rodata_48 __dll682_rodata_48
+#define rodata_4C __dll682_rodata_4C
+#define rodata_50 __dll682_rodata_50
+#define data_0 __dll682_data_0
 
 #endif //_DLL_682_RECOMP_H

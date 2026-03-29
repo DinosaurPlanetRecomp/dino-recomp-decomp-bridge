@@ -22,8 +22,8 @@
 #define dll_598_func_1124 __dll598_dll_598_func_1124
 #define dll_598_func_11C8 __dll598_dll_598_func_11C8
 #define str_0 __dll598_str_0
-#define _rodata_58 __dll598__rodata_58
-#define _rodata_5C __dll598__rodata_5C
+#define rodata_58 __dll598_rodata_58
+#define rodata_5C __dll598_rodata_5C
 #define _data_0 __dll598__data_0
 #define _data_DC __dll598__data_DC
 #define _data_154 __dll598__data_154

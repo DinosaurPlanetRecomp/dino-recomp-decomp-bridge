@@ -17,11 +17,11 @@
 #define dll_529_func_7F8 __dll529_dll_529_func_7F8
 #define dll_529_func_8D0 __dll529_dll_529_func_8D0
 #define dll_529_func_9AC __dll529_dll_529_func_9AC
-#define _rodata_0 __dll529__rodata_0
-#define _rodata_4 __dll529__rodata_4
-#define _rodata_8 __dll529__rodata_8
-#define _rodata_C __dll529__rodata_C
-#define _rodata_10 __dll529__rodata_10
-#define _data_0 __dll529__data_0
+#define rodata_0 __dll529_rodata_0
+#define rodata_4 __dll529_rodata_4
+#define rodata_8 __dll529_rodata_8
+#define rodata_C __dll529_rodata_C
+#define rodata_10 __dll529_rodata_10
+#define data_0 __dll529_data_0
 
 #endif //_DLL_529_RECOMP_H

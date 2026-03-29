@@ -14,6 +14,6 @@
 #define dll_629_get_data_size __dll629_dll_629_get_data_size
 #define dll_629_func_23C __dll629_dll_629_func_23C
 #define dll_629_func_3D4 __dll629_dll_629_func_3D4
-#define _data_0 __dll629__data_0
+#define data_0 __dll629_data_0
 
 #endif //_DLL_629_RECOMP_H

@@ -11,15 +11,15 @@
 #define dll_57_func_1E4 __dll57_dll_57_func_1E4
 #define dll_57_func_9A0 __dll57_dll_57_func_9A0
 #define dll_57_func_BB0 __dll57_dll_57_func_BB0
-#define _rodata_0 __dll57__rodata_0
-#define _rodata_4 __dll57__rodata_4
-#define _rodata_8 __dll57__rodata_8
-#define _rodata_C __dll57__rodata_C
-#define _rodata_10 __dll57__rodata_10
-#define _data_0 __dll57__data_0
-#define _data_18 __dll57__data_18
-#define _bss_0 __dll57__bss_0
-#define _bss_18 __dll57__bss_18
-#define _bss_30 __dll57__bss_30
+#define rodata_0 __dll57_rodata_0
+#define rodata_4 __dll57_rodata_4
+#define rodata_8 __dll57_rodata_8
+#define rodata_C __dll57_rodata_C
+#define rodata_10 __dll57_rodata_10
+#define data_0 __dll57_data_0
+#define data_18 __dll57_data_18
+#define bss_0 __dll57_bss_0
+#define bss_18 __dll57_bss_18
+#define bss_30 __dll57_bss_30
 
 #endif //_DLL_57_RECOMP_H

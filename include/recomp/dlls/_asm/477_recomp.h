@@ -14,6 +14,6 @@
 #define dll_477_get_data_size __dll477_dll_477_get_data_size
 #define dll_477_func_D1C __dll477_dll_477_func_D1C
 #define dll_477_func_10A0 __dll477_dll_477_func_10A0
-#define _data_0 __dll477__data_0
+#define data_0 __dll477_data_0
 
 #endif //_DLL_477_RECOMP_H

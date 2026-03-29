@@ -11,7 +11,7 @@
 #define str_0 __dll71_str_0
 #define str_C __dll71_str_C
 #define str_14 __dll71_str_14
-#define _bss_0 __dll71__bss_0
-#define _bss_4 __dll71__bss_4
+#define bss_0 __dll71_bss_0
+#define bss_4 __dll71_bss_4
 
 #endif //_DLL_71_RECOMP_H

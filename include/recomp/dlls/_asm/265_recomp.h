@@ -13,6 +13,6 @@
 #define dll_265_get_model_flags __dll265_dll_265_get_model_flags
 #define dll_265_get_data_size __dll265_dll_265_get_data_size
 #define str_0 __dll265_str_0
-#define _rodata_30 __dll265__rodata_30
+#define rodata_30 __dll265_rodata_30
 
 #endif //_DLL_265_RECOMP_H

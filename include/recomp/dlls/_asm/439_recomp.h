@@ -23,10 +23,10 @@
 #define dll_439_func_D10 __dll439_dll_439_func_D10
 #define dll_439_func_D7C __dll439_dll_439_func_D7C
 #define str_0 __dll439_str_0
-#define _data_0 __dll439__data_0
-#define _data_8 __dll439__data_8
-#define _bss_0 __dll439__bss_0
-#define _bss_60 __dll439__bss_60
-#define _bss_64 __dll439__bss_64
+#define data_0 __dll439_data_0
+#define data_8 __dll439_data_8
+#define bss_0 __dll439_bss_0
+#define bss_60 __dll439_bss_60
+#define bss_64 __dll439_bss_64
 
 #endif //_DLL_439_RECOMP_H

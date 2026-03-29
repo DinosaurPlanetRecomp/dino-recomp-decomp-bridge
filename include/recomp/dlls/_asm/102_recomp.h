@@ -9,6 +9,6 @@
 #define dll_102_func_138 __dll102_dll_102_func_138
 #define dll_102_func_61C __dll102_dll_102_func_61C
 #define dll_102_func_65C __dll102_dll_102_func_65C
-#define _bss_0 __dll102__bss_0
+#define bss_0 __dll102_bss_0
 
 #endif //_DLL_102_RECOMP_H

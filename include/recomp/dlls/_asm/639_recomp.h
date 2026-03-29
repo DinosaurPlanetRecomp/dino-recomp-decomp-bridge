@@ -12,7 +12,7 @@
 #define dll_639_free __dll639_dll_639_free
 #define dll_639_get_model_flags __dll639_dll_639_get_model_flags
 #define dll_639_get_data_size __dll639_dll_639_get_data_size
-#define _rodata_1C __dll639__rodata_1C
-#define _rodata_20 __dll639__rodata_20
+#define rodata_1C __dll639_rodata_1C
+#define rodata_20 __dll639_rodata_20
 
 #endif //_DLL_639_RECOMP_H

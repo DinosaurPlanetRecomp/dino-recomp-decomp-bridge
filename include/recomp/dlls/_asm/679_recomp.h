@@ -21,6 +21,6 @@
 #define dll_679_func_CB4 __dll679_dll_679_func_CB4
 #define dll_679_func_DB0 __dll679_dll_679_func_DB0
 #define str_0 __dll679_str_0
-#define _data_0 __dll679__data_0
+#define data_0 __dll679_data_0
 
 #endif //_DLL_679_RECOMP_H

@@ -13,8 +13,8 @@
 #define dll_483_get_model_flags __dll483_dll_483_get_model_flags
 #define dll_483_get_data_size __dll483_dll_483_get_data_size
 #define str_0 __dll483_str_0
-#define _rodata_18 __dll483__rodata_18
-#define _data_0 __dll483__data_0
-#define _data_4 __dll483__data_4
+#define rodata_18 __dll483_rodata_18
+#define data_0 __dll483_data_0
+#define data_4 __dll483_data_4
 
 #endif //_DLL_483_RECOMP_H

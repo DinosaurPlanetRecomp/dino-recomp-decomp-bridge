@@ -14,18 +14,18 @@
 #define dll_96_func_E60 __dll96_dll_96_func_E60
 #define dll_96_func_137C __dll96_dll_96_func_137C
 #define str_0 __dll96_str_0
-#define _rodata_C __dll96__rodata_C
-#define _rodata_10 __dll96__rodata_10
-#define _rodata_28 __dll96__rodata_28
-#define _rodata_2C __dll96__rodata_2C
-#define _rodata_30 __dll96__rodata_30
-#define _rodata_34 __dll96__rodata_34
-#define _rodata_38 __dll96__rodata_38
-#define _rodata_3C __dll96__rodata_3C
-#define _rodata_40 __dll96__rodata_40
-#define _rodata_44 __dll96__rodata_44
-#define _rodata_48 __dll96__rodata_48
-#define _bss_0 __dll96__bss_0
-#define _bss_4 __dll96__bss_4
+#define rodata_C __dll96_rodata_C
+#define rodata_10 __dll96_rodata_10
+#define rodata_28 __dll96_rodata_28
+#define rodata_2C __dll96_rodata_2C
+#define rodata_30 __dll96_rodata_30
+#define rodata_34 __dll96_rodata_34
+#define rodata_38 __dll96_rodata_38
+#define rodata_3C __dll96_rodata_3C
+#define rodata_40 __dll96_rodata_40
+#define rodata_44 __dll96_rodata_44
+#define rodata_48 __dll96_rodata_48
+#define bss_0 __dll96_bss_0
+#define bss_4 __dll96_bss_4
 
 #endif //_DLL_96_RECOMP_H

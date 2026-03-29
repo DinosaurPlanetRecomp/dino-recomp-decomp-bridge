@@ -13,6 +13,6 @@
 #define dll_657_get_model_flags __dll657_dll_657_get_model_flags
 #define dll_657_get_data_size __dll657_dll_657_get_data_size
 #define str_0 __dll657_str_0
-#define _bss_0 __dll657__bss_0
+#define bss_0 __dll657_bss_0
 
 #endif //_DLL_657_RECOMP_H

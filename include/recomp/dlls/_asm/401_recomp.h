@@ -22,17 +22,17 @@
 #define dll_401_func_1460 __dll401_dll_401_func_1460
 #define dll_401_func_1530 __dll401_dll_401_func_1530
 #define str_0 __dll401_str_0
-#define _rodata_90 __dll401__rodata_90
-#define _rodata_AC __dll401__rodata_AC
-#define _rodata_B0 __dll401__rodata_B0
-#define _rodata_B4 __dll401__rodata_B4
-#define _rodata_B8 __dll401__rodata_B8
-#define _rodata_BC __dll401__rodata_BC
-#define _rodata_C0 __dll401__rodata_C0
-#define _rodata_C4 __dll401__rodata_C4
-#define _rodata_C8 __dll401__rodata_C8
-#define _rodata_CC __dll401__rodata_CC
-#define _rodata_D0 __dll401__rodata_D0
-#define _rodata_D4 __dll401__rodata_D4
+#define rodata_90 __dll401_rodata_90
+#define rodata_AC __dll401_rodata_AC
+#define rodata_B0 __dll401_rodata_B0
+#define rodata_B4 __dll401_rodata_B4
+#define rodata_B8 __dll401_rodata_B8
+#define rodata_BC __dll401_rodata_BC
+#define rodata_C0 __dll401_rodata_C0
+#define rodata_C4 __dll401_rodata_C4
+#define rodata_C8 __dll401_rodata_C8
+#define rodata_CC __dll401_rodata_CC
+#define rodata_D0 __dll401_rodata_D0
+#define rodata_D4 __dll401_rodata_D4
 
 #endif //_DLL_401_RECOMP_H

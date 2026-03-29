@@ -12,10 +12,10 @@
 #define dll_436_free __dll436_dll_436_free
 #define dll_436_get_model_flags __dll436_dll_436_get_model_flags
 #define dll_436_get_data_size __dll436_dll_436_get_data_size
-#define _rodata_0 __dll436__rodata_0
-#define _rodata_4 __dll436__rodata_4
-#define _rodata_8 __dll436__rodata_8
-#define _data_0 __dll436__data_0
-#define _data_8 __dll436__data_8
+#define rodata_0 __dll436_rodata_0
+#define rodata_4 __dll436_rodata_4
+#define rodata_8 __dll436_rodata_8
+#define data_0 __dll436_data_0
+#define data_8 __dll436_data_8
 
 #endif //_DLL_436_RECOMP_H

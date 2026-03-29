@@ -16,9 +16,9 @@
 #define str_8 __dll738_str_8
 #define str_14 __dll738_str_14
 #define str_58 __dll738_str_58
-#define _rodata_78 __dll738__rodata_78
-#define _rodata_7C __dll738__rodata_7C
-#define _data_0 __dll738__data_0
-#define _data_10 __dll738__data_10
+#define rodata_78 __dll738_rodata_78
+#define rodata_7C __dll738_rodata_7C
+#define data_0 __dll738_data_0
+#define data_10 __dll738_data_10
 
 #endif //_DLL_738_RECOMP_H

@@ -12,10 +12,10 @@
 #define dll_594_free __dll594_dll_594_free
 #define dll_594_get_model_flags __dll594_dll_594_get_model_flags
 #define dll_594_get_data_size __dll594_dll_594_get_data_size
-#define _rodata_0 __dll594__rodata_0
-#define _rodata_4 __dll594__rodata_4
-#define _rodata_8 __dll594__rodata_8
-#define _data_0 __dll594__data_0
-#define _data_8 __dll594__data_8
+#define rodata_0 __dll594_rodata_0
+#define rodata_4 __dll594_rodata_4
+#define rodata_8 __dll594_rodata_8
+#define data_0 __dll594_data_0
+#define data_8 __dll594_data_8
 
 #endif //_DLL_594_RECOMP_H

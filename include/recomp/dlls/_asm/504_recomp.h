@@ -22,10 +22,10 @@
 #define dll_504_func_CF8 __dll504_dll_504_func_CF8
 #define dll_504_func_104C __dll504_dll_504_func_104C
 #define dll_504_func_114C __dll504_dll_504_func_114C
-#define _rodata_14 __dll504__rodata_14
-#define _rodata_18 __dll504__rodata_18
-#define _rodata_1C __dll504__rodata_1C
-#define _rodata_20 __dll504__rodata_20
-#define _data_0 __dll504__data_0
+#define rodata_14 __dll504_rodata_14
+#define rodata_18 __dll504_rodata_18
+#define rodata_1C __dll504_rodata_1C
+#define rodata_20 __dll504_rodata_20
+#define data_0 __dll504_data_0
 
 #endif //_DLL_504_RECOMP_H

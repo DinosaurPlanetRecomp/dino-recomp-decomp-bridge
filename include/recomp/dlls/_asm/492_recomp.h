@@ -13,9 +13,9 @@
 #define dll_492_get_model_flags __dll492_dll_492_get_model_flags
 #define dll_492_get_data_size __dll492_dll_492_get_data_size
 #define str_0 __dll492_str_0
-#define _rodata_14 __dll492__rodata_14
-#define _data_0 __dll492__data_0
-#define _data_4 __dll492__data_4
-#define _data_14 __dll492__data_14
+#define rodata_14 __dll492_rodata_14
+#define data_0 __dll492_data_0
+#define data_4 __dll492_data_4
+#define data_14 __dll492_data_14
 
 #endif //_DLL_492_RECOMP_H

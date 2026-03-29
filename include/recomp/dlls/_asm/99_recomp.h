@@ -9,6 +9,6 @@
 #define dll_99_func_94 __dll99_dll_99_func_94
 #define dll_99_func_1CC __dll99_dll_99_func_1CC
 #define dll_99_func_1D8 __dll99_dll_99_func_1D8
-#define _bss_0 __dll99__bss_0
+#define bss_0 __dll99_bss_0
 
 #endif //_DLL_99_RECOMP_H

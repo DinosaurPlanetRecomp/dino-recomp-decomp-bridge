@@ -13,7 +13,7 @@
 #define dll_632_get_model_flags __dll632_dll_632_get_model_flags
 #define dll_632_get_data_size __dll632_dll_632_get_data_size
 #define dll_632_func_1C4 __dll632_dll_632_func_1C4
-#define _rodata_0 __dll632__rodata_0
-#define _rodata_4 __dll632__rodata_4
+#define rodata_0 __dll632_rodata_0
+#define rodata_4 __dll632_rodata_4
 
 #endif //_DLL_632_RECOMP_H

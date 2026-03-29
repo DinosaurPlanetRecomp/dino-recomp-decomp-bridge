@@ -13,11 +13,11 @@
 #define dll_440_get_model_flags __dll440_dll_440_get_model_flags
 #define dll_440_get_data_size __dll440_dll_440_get_data_size
 #define dll_440_func_940 __dll440_dll_440_func_940
-#define _rodata_0 __dll440__rodata_0
-#define _rodata_4 __dll440__rodata_4
-#define _rodata_8 __dll440__rodata_8
-#define _data_0 __dll440__data_0
-#define _data_8 __dll440__data_8
-#define _bss_0 __dll440__bss_0
+#define rodata_0 __dll440_rodata_0
+#define rodata_4 __dll440_rodata_4
+#define rodata_8 __dll440_rodata_8
+#define data_0 __dll440_data_0
+#define data_8 __dll440_data_8
+#define bss_0 __dll440_bss_0
 
 #endif //_DLL_440_RECOMP_H

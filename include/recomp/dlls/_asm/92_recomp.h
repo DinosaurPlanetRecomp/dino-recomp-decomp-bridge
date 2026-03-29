@@ -9,13 +9,13 @@
 #define dll_92_func_F4 __dll92_dll_92_func_F4
 #define dll_92_func_4CC __dll92_dll_92_func_4CC
 #define dll_92_func_50C __dll92_dll_92_func_50C
-#define _rodata_0 __dll92__rodata_0
-#define _rodata_4 __dll92__rodata_4
-#define _rodata_8 __dll92__rodata_8
-#define _rodata_C __dll92__rodata_C
-#define _rodata_10 __dll92__rodata_10
-#define _rodata_14 __dll92__rodata_14
-#define _rodata_18 __dll92__rodata_18
-#define _bss_0 __dll92__bss_0
+#define rodata_0 __dll92_rodata_0
+#define rodata_4 __dll92_rodata_4
+#define rodata_8 __dll92_rodata_8
+#define rodata_C __dll92_rodata_C
+#define rodata_10 __dll92_rodata_10
+#define rodata_14 __dll92_rodata_14
+#define rodata_18 __dll92_rodata_18
+#define bss_0 __dll92_bss_0
 
 #endif //_DLL_92_RECOMP_H

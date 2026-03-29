@@ -16,11 +16,11 @@
 #define dll_349_func_1268 __dll349_dll_349_func_1268
 #define dll_349_func_128C __dll349_dll_349_func_128C
 #define dll_349_func_12A8 __dll349_dll_349_func_12A8
-#define _rodata_0 __dll349__rodata_0
-#define _data_0 __dll349__data_0
-#define _bss_0 __dll349__bss_0
-#define _bss_4 __dll349__bss_4
-#define _bss_8 __dll349__bss_8
-#define _bss_C __dll349__bss_C
+#define rodata_0 __dll349_rodata_0
+#define data_0 __dll349_data_0
+#define bss_0 __dll349_bss_0
+#define bss_4 __dll349_bss_4
+#define bss_8 __dll349_bss_8
+#define bss_C __dll349_bss_C
 
 #endif //_DLL_349_RECOMP_H

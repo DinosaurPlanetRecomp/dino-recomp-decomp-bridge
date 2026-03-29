@@ -13,6 +13,6 @@
 #define dll_592_get_model_flags __dll592_dll_592_get_model_flags
 #define dll_592_get_data_size __dll592_dll_592_get_data_size
 #define dll_592_func_328 __dll592_dll_592_func_328
-#define _data_0 __dll592__data_0
+#define data_0 __dll592_data_0
 
 #endif //_DLL_592_RECOMP_H

@@ -15,9 +15,9 @@
 #define dll_667_func_4B4 __dll667_dll_667_func_4B4
 #define dll_667_func_620 __dll667_dll_667_func_620
 #define dll_667_func_780 __dll667_dll_667_func_780
-#define _rodata_0 __dll667__rodata_0
-#define _rodata_4 __dll667__rodata_4
-#define _rodata_8 __dll667__rodata_8
-#define _data_0 __dll667__data_0
+#define rodata_0 __dll667_rodata_0
+#define rodata_4 __dll667_rodata_4
+#define rodata_8 __dll667_rodata_8
+#define data_0 __dll667_data_0
 
 #endif //_DLL_667_RECOMP_H

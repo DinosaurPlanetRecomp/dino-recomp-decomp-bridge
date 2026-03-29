@@ -13,14 +13,14 @@
 #define dll_443_get_model_flags __dll443_dll_443_get_model_flags
 #define dll_443_get_data_size __dll443_dll_443_get_data_size
 #define dll_443_func_9C8 __dll443_dll_443_func_9C8
-#define _rodata_0 __dll443__rodata_0
-#define _rodata_4 __dll443__rodata_4
-#define _rodata_8 __dll443__rodata_8
-#define _bss_0 __dll443__bss_0
-#define _bss_8 __dll443__bss_8
-#define _bss_10 __dll443__bss_10
-#define _bss_14 __dll443__bss_14
-#define _bss_18 __dll443__bss_18
-#define _bss_1C __dll443__bss_1C
+#define rodata_0 __dll443_rodata_0
+#define rodata_4 __dll443_rodata_4
+#define rodata_8 __dll443_rodata_8
+#define bss_0 __dll443_bss_0
+#define bss_8 __dll443_bss_8
+#define bss_10 __dll443_bss_10
+#define bss_14 __dll443_bss_14
+#define bss_18 __dll443_bss_18
+#define bss_1C __dll443_bss_1C
 
 #endif //_DLL_443_RECOMP_H

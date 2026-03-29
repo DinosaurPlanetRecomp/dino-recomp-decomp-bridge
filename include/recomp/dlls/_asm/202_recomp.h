@@ -6,6 +6,6 @@
 #define dll_202_ctor __dll202_dll_202_ctor
 #define dll_202_dtor __dll202_dll_202_dtor
 #define dll_202_func_18 __dll202_dll_202_func_18
-#define _rodata_0 __dll202__rodata_0
+#define rodata_0 __dll202_rodata_0
 
 #endif //_DLL_202_RECOMP_H

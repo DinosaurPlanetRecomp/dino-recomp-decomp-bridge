@@ -20,10 +20,10 @@
 #define dll_665_func_FF0 __dll665_dll_665_func_FF0
 #define dll_665_func_10B4 __dll665_dll_665_func_10B4
 #define dll_665_func_122C __dll665_dll_665_func_122C
-#define _rodata_0 __dll665__rodata_0
-#define _data_0 __dll665__data_0
-#define _data_4 __dll665__data_4
-#define _data_8 __dll665__data_8
-#define _data_C8 __dll665__data_C8
+#define rodata_0 __dll665_rodata_0
+#define data_0 __dll665_data_0
+#define data_4 __dll665_data_4
+#define data_8 __dll665_data_8
+#define data_C8 __dll665_data_C8
 
 #endif //_DLL_665_RECOMP_H

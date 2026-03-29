@@ -19,12 +19,12 @@
 #define dll_230_func_FB0 __dll230_dll_230_func_FB0
 #define dll_230_func_10F4 __dll230_dll_230_func_10F4
 #define str_0 __dll230_str_0
-#define _rodata_28 __dll230__rodata_28
-#define _rodata_2C __dll230__rodata_2C
-#define _rodata_30 __dll230__rodata_30
-#define _data_0 __dll230__data_0
-#define _data_1C __dll230__data_1C
-#define _bss_0 __dll230__bss_0
-#define _bss_10 __dll230__bss_10
+#define rodata_28 __dll230_rodata_28
+#define rodata_2C __dll230_rodata_2C
+#define rodata_30 __dll230_rodata_30
+#define data_0 __dll230_data_0
+#define data_1C __dll230_data_1C
+#define bss_0 __dll230_bss_0
+#define bss_10 __dll230_bss_10
 
 #endif //_DLL_230_RECOMP_H

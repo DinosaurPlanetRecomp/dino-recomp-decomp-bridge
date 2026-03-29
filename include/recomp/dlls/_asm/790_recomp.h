@@ -15,7 +15,7 @@
 #define dll_790_func_500 __dll790_dll_790_func_500
 #define dll_790_func_644 __dll790_dll_790_func_644
 #define dll_790_func_7A4 __dll790_dll_790_func_7A4
-#define _rodata_0 __dll790__rodata_0
-#define _rodata_4 __dll790__rodata_4
+#define rodata_0 __dll790_rodata_0
+#define rodata_4 __dll790_rodata_4
 
 #endif //_DLL_790_RECOMP_H

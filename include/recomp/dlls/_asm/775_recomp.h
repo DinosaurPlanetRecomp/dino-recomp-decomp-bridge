@@ -23,11 +23,11 @@
 #define dll_775_func_8DC __dll775_dll_775_func_8DC
 #define dll_775_func_9E4 __dll775_dll_775_func_9E4
 #define str_0 __dll775_str_0
-#define _rodata_20 __dll775__rodata_20
-#define _rodata_24 __dll775__rodata_24
-#define _data_0 __dll775__data_0
-#define _data_10 __dll775__data_10
-#define _bss_0 __dll775__bss_0
-#define _bss_10 __dll775__bss_10
+#define rodata_20 __dll775_rodata_20
+#define rodata_24 __dll775_rodata_24
+#define data_0 __dll775_data_0
+#define data_10 __dll775_data_10
+#define bss_0 __dll775_bss_0
+#define bss_10 __dll775_bss_10
 
 #endif //_DLL_775_RECOMP_H

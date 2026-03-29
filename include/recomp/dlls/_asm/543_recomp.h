@@ -15,8 +15,8 @@
 #define dll_543_func_4DC __dll543_dll_543_func_4DC
 #define dll_543_func_648 __dll543_dll_543_func_648
 #define dll_543_func_7A8 __dll543_dll_543_func_7A8
-#define _rodata_0 __dll543__rodata_0
-#define _rodata_4 __dll543__rodata_4
-#define _rodata_8 __dll543__rodata_8
+#define rodata_0 __dll543_rodata_0
+#define rodata_4 __dll543_rodata_4
+#define rodata_8 __dll543_rodata_8
 
 #endif //_DLL_543_RECOMP_H

@@ -15,11 +15,11 @@
 #define dll_675_func_714 __dll675_dll_675_func_714
 #define dll_675_func_7F4 __dll675_dll_675_func_7F4
 #define str_0 __dll675_str_0
-#define _rodata_10 __dll675__rodata_10
-#define _rodata_14 __dll675__rodata_14
-#define _rodata_30 __dll675__rodata_30
-#define _rodata_34 __dll675__rodata_34
-#define _data_0 __dll675__data_0
-#define _data_214 __dll675__data_214
+#define rodata_10 __dll675_rodata_10
+#define rodata_14 __dll675_rodata_14
+#define rodata_30 __dll675_rodata_30
+#define rodata_34 __dll675_rodata_34
+#define data_0 __dll675_data_0
+#define data_214 __dll675_data_214
 
 #endif //_DLL_675_RECOMP_H

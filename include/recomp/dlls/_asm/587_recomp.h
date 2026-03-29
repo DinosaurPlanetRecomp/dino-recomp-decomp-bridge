@@ -14,14 +14,14 @@
 #define dll_587_get_data_size __dll587_dll_587_get_data_size
 #define dll_587_func_548 __dll587_dll_587_func_548
 #define dll_587_func_75C __dll587_dll_587_func_75C
-#define _rodata_0 __dll587__rodata_0
-#define _rodata_C0 __dll587__rodata_C0
-#define _rodata_F0 __dll587__rodata_F0
-#define _rodata_134 __dll587__rodata_134
-#define _rodata_138 __dll587__rodata_138
-#define _rodata_13C __dll587__rodata_13C
-#define _rodata_140 __dll587__rodata_140
-#define _bss_0 __dll587__bss_0
-#define _bss_4 __dll587__bss_4
+#define rodata_0 __dll587_rodata_0
+#define rodata_C0 __dll587_rodata_C0
+#define rodata_F0 __dll587_rodata_F0
+#define rodata_134 __dll587_rodata_134
+#define rodata_138 __dll587_rodata_138
+#define rodata_13C __dll587_rodata_13C
+#define rodata_140 __dll587_rodata_140
+#define bss_0 __dll587_bss_0
+#define bss_4 __dll587_bss_4
 
 #endif //_DLL_587_RECOMP_H

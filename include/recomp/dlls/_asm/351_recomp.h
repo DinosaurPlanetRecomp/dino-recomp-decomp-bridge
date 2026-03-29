@@ -17,6 +17,6 @@
 #define dll_351_func_DFC __dll351_dll_351_func_DFC
 #define dll_351_func_E38 __dll351_dll_351_func_E38
 #define str_0 __dll351_str_0
-#define _data_0 __dll351__data_0
+#define data_0 __dll351_data_0
 
 #endif //_DLL_351_RECOMP_H

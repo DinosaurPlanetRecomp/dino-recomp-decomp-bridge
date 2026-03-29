@@ -12,9 +12,9 @@
 #define dll_394_free __dll394_dll_394_free
 #define dll_394_get_model_flags __dll394_dll_394_get_model_flags
 #define dll_394_get_data_size __dll394_dll_394_get_data_size
-#define _rodata_0 __dll394__rodata_0
-#define _rodata_4 __dll394__rodata_4
-#define _rodata_8 __dll394__rodata_8
-#define _data_0 __dll394__data_0
+#define rodata_0 __dll394_rodata_0
+#define rodata_4 __dll394_rodata_4
+#define rodata_8 __dll394_rodata_8
+#define data_0 __dll394_data_0
 
 #endif //_DLL_394_RECOMP_H

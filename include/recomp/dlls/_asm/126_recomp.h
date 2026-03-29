@@ -6,12 +6,12 @@
 #define dll_126_ctor __dll126_dll_126_ctor
 #define dll_126_dtor __dll126_dll_126_dtor
 #define dll_126_func_18 __dll126_dll_126_func_18
-#define _rodata_0 __dll126__rodata_0
-#define _data_0 __dll126__data_0
-#define _data_34 __dll126__data_34
-#define _data_54 __dll126__data_54
-#define _data_6C __dll126__data_6C
-#define _data_6E __dll126__data_6E
-#define _data_70 __dll126__data_70
+#define rodata_0 __dll126_rodata_0
+#define data_0 __dll126_data_0
+#define data_34 __dll126_data_34
+#define data_54 __dll126_data_54
+#define data_6C __dll126_data_6C
+#define data_6E __dll126_data_6E
+#define data_70 __dll126_data_70
 
 #endif //_DLL_126_RECOMP_H

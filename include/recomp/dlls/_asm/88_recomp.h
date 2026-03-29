@@ -9,6 +9,6 @@
 #define dll_88_func_78 __dll88_dll_88_func_78
 #define dll_88_func_340 __dll88_dll_88_func_340
 #define dll_88_func_380 __dll88_dll_88_func_380
-#define _bss_0 __dll88__bss_0
+#define bss_0 __dll88_bss_0
 
 #endif //_DLL_88_RECOMP_H

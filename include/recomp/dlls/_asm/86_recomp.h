@@ -13,18 +13,18 @@
 #define dll_86_func_D90 __dll86_dll_86_func_D90
 #define dll_86_func_1008 __dll86_dll_86_func_1008
 #define dll_86_func_1524 __dll86_dll_86_func_1524
-#define _rodata_0 __dll86__rodata_0
-#define _rodata_4 __dll86__rodata_4
-#define _rodata_20 __dll86__rodata_20
-#define _rodata_24 __dll86__rodata_24
-#define _rodata_28 __dll86__rodata_28
-#define _rodata_2C __dll86__rodata_2C
-#define _rodata_30 __dll86__rodata_30
-#define _rodata_34 __dll86__rodata_34
-#define _rodata_38 __dll86__rodata_38
-#define _rodata_3C __dll86__rodata_3C
-#define _rodata_40 __dll86__rodata_40
-#define _rodata_44 __dll86__rodata_44
-#define _bss_0 __dll86__bss_0
+#define rodata_0 __dll86_rodata_0
+#define rodata_4 __dll86_rodata_4
+#define rodata_20 __dll86_rodata_20
+#define rodata_24 __dll86_rodata_24
+#define rodata_28 __dll86_rodata_28
+#define rodata_2C __dll86_rodata_2C
+#define rodata_30 __dll86_rodata_30
+#define rodata_34 __dll86_rodata_34
+#define rodata_38 __dll86_rodata_38
+#define rodata_3C __dll86_rodata_3C
+#define rodata_40 __dll86_rodata_40
+#define rodata_44 __dll86_rodata_44
+#define bss_0 __dll86_bss_0
 
 #endif //_DLL_86_RECOMP_H

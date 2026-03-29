@@ -14,6 +14,6 @@
 #define dll_563_get_data_size __dll563_dll_563_get_data_size
 #define dll_563_func_190 __dll563_dll_563_func_190
 #define dll_563_func_244 __dll563_dll_563_func_244
-#define _data_0 __dll563__data_0
+#define data_0 __dll563_data_0
 
 #endif //_DLL_563_RECOMP_H

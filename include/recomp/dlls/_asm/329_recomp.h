@@ -12,7 +12,7 @@
 #define dll_329_free __dll329_dll_329_free
 #define dll_329_get_model_flags __dll329_dll_329_get_model_flags
 #define dll_329_get_data_size __dll329_dll_329_get_data_size
-#define _rodata_0 __dll329__rodata_0
-#define _data_0 __dll329__data_0
+#define rodata_0 __dll329_rodata_0
+#define data_0 __dll329_data_0
 
 #endif //_DLL_329_RECOMP_H

@@ -6,13 +6,13 @@
 #define dll_162_ctor __dll162_dll_162_ctor
 #define dll_162_dtor __dll162_dll_162_dtor
 #define dll_162_func_18 __dll162_dll_162_func_18
-#define _rodata_0 __dll162__rodata_0
-#define _rodata_4 __dll162__rodata_4
-#define _data_0 __dll162__data_0
-#define _data_3C __dll162__data_3C
-#define _data_54 __dll162__data_54
-#define _data_64 __dll162__data_64
-#define _data_70 __dll162__data_70
-#define _data_7C __dll162__data_7C
+#define rodata_0 __dll162_rodata_0
+#define rodata_4 __dll162_rodata_4
+#define data_0 __dll162_data_0
+#define data_3C __dll162_data_3C
+#define data_54 __dll162_data_54
+#define data_64 __dll162_data_64
+#define data_70 __dll162_data_70
+#define data_7C __dll162_data_7C
 
 #endif //_DLL_162_RECOMP_H

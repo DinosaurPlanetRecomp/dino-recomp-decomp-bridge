@@ -15,15 +15,15 @@
 #define dll_528_func_46C __dll528_dll_528_func_46C
 #define dll_528_func_F44 __dll528_dll_528_func_F44
 #define str_0 __dll528_str_0
-#define _rodata_2C __dll528__rodata_2C
-#define _rodata_30 __dll528__rodata_30
-#define _rodata_34 __dll528__rodata_34
-#define _rodata_38 __dll528__rodata_38
-#define _rodata_3C __dll528__rodata_3C
-#define _rodata_40 __dll528__rodata_40
-#define _rodata_44 __dll528__rodata_44
-#define _data_0 __dll528__data_0
-#define _data_8 __dll528__data_8
-#define _bss_0 __dll528__bss_0
+#define rodata_2C __dll528_rodata_2C
+#define rodata_30 __dll528_rodata_30
+#define rodata_34 __dll528_rodata_34
+#define rodata_38 __dll528_rodata_38
+#define rodata_3C __dll528_rodata_3C
+#define rodata_40 __dll528_rodata_40
+#define rodata_44 __dll528_rodata_44
+#define data_0 __dll528_data_0
+#define data_8 __dll528_data_8
+#define bss_0 __dll528_bss_0
 
 #endif //_DLL_528_RECOMP_H

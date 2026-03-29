@@ -17,19 +17,19 @@
 #define dll_367_func_9DC __dll367_dll_367_func_9DC
 #define dll_367_func_A3C __dll367_dll_367_func_A3C
 #define dll_367_func_D64 __dll367_dll_367_func_D64
-#define _data_0 __dll367__data_0
-#define _data_4 __dll367__data_4
-#define _data_8 __dll367__data_8
-#define _data_C __dll367__data_C
-#define _data_10 __dll367__data_10
-#define _data_18 __dll367__data_18
-#define _bss_0 __dll367__bss_0
-#define _bss_4 __dll367__bss_4
-#define _bss_8 __dll367__bss_8
-#define _bss_90 __dll367__bss_90
-#define _bss_130 __dll367__bss_130
-#define _bss_138 __dll367__bss_138
-#define _bss_158 __dll367__bss_158
-#define _bss_160 __dll367__bss_160
+#define data_0 __dll367_data_0
+#define data_4 __dll367_data_4
+#define data_8 __dll367_data_8
+#define data_C __dll367_data_C
+#define data_10 __dll367_data_10
+#define data_18 __dll367_data_18
+#define bss_0 __dll367_bss_0
+#define bss_4 __dll367_bss_4
+#define bss_8 __dll367_bss_8
+#define bss_90 __dll367_bss_90
+#define bss_130 __dll367_bss_130
+#define bss_138 __dll367_bss_138
+#define bss_158 __dll367_bss_158
+#define bss_160 __dll367_bss_160
 
 #endif //_DLL_367_RECOMP_H

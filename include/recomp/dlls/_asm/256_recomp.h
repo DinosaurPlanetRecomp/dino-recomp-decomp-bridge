@@ -15,7 +15,7 @@
 #define dll_256_func_B58 __dll256_dll_256_func_B58
 #define dll_256_func_B8C __dll256_dll_256_func_B8C
 #define dll_256_func_B9C __dll256_dll_256_func_B9C
-#define _rodata_0 __dll256__rodata_0
-#define _rodata_4 __dll256__rodata_4
+#define rodata_0 __dll256_rodata_0
+#define rodata_4 __dll256_rodata_4
 
 #endif //_DLL_256_RECOMP_H

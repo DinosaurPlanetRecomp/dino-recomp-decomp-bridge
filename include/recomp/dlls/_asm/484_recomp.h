@@ -12,7 +12,7 @@
 #define dll_484_free __dll484_dll_484_free
 #define dll_484_get_model_flags __dll484_dll_484_get_model_flags
 #define dll_484_get_data_size __dll484_dll_484_get_data_size
-#define _rodata_0 __dll484__rodata_0
-#define _data_0 __dll484__data_0
+#define rodata_0 __dll484_rodata_0
+#define data_0 __dll484_data_0
 
 #endif //_DLL_484_RECOMP_H

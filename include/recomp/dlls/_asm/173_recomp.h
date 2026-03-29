@@ -6,14 +6,14 @@
 #define dll_173_ctor __dll173_dll_173_ctor
 #define dll_173_dtor __dll173_dll_173_dtor
 #define dll_173_func_18 __dll173_dll_173_func_18
-#define _data_0 __dll173__data_0
-#define _data_D4 __dll173__data_D4
-#define _data_164 __dll173__data_164
-#define _data_174 __dll173__data_174
-#define _data_184 __dll173__data_184
-#define _data_1B0 __dll173__data_1B0
-#define _data_1F8 __dll173__data_1F8
-#define _data_1FA __dll173__data_1FA
-#define _data_1FC __dll173__data_1FC
+#define data_0 __dll173_data_0
+#define data_D4 __dll173_data_D4
+#define data_164 __dll173_data_164
+#define data_174 __dll173_data_174
+#define data_184 __dll173_data_184
+#define data_1B0 __dll173_data_1B0
+#define data_1F8 __dll173_data_1F8
+#define data_1FA __dll173_data_1FA
+#define data_1FC __dll173_data_1FC
 
 #endif //_DLL_173_RECOMP_H

@@ -7,8 +7,8 @@
 #define dll_187_dtor __dll187_dll_187_dtor
 #define dll_187_func_18 __dll187_dll_187_func_18
 #define str_0 __dll187_str_0
-#define _rodata_40 __dll187__rodata_40
-#define _rodata_44 __dll187__rodata_44
-#define _data_0 __dll187__data_0
+#define rodata_40 __dll187_rodata_40
+#define rodata_44 __dll187_rodata_44
+#define data_0 __dll187_data_0
 
 #endif //_DLL_187_RECOMP_H

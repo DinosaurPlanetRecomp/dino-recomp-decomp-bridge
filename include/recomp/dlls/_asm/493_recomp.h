@@ -12,6 +12,6 @@
 #define dll_493_free __dll493_dll_493_free
 #define dll_493_get_model_flags __dll493_dll_493_get_model_flags
 #define dll_493_get_data_size __dll493_dll_493_get_data_size
-#define _data_0 __dll493__data_0
+#define data_0 __dll493_data_0
 
 #endif //_DLL_493_RECOMP_H

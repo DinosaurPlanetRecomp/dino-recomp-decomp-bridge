@@ -15,10 +15,10 @@
 #define dll_391_func_55C __dll391_dll_391_func_55C
 #define dll_391_func_5A4 __dll391_dll_391_func_5A4
 #define dll_391_func_66C __dll391_dll_391_func_66C
-#define _rodata_0 __dll391__rodata_0
-#define _rodata_4 __dll391__rodata_4
-#define _rodata_8 __dll391__rodata_8
-#define _rodata_C __dll391__rodata_C
-#define _rodata_10 __dll391__rodata_10
+#define rodata_0 __dll391_rodata_0
+#define rodata_4 __dll391_rodata_4
+#define rodata_8 __dll391_rodata_8
+#define rodata_C __dll391_rodata_C
+#define rodata_10 __dll391_rodata_10
 
 #endif //_DLL_391_RECOMP_H

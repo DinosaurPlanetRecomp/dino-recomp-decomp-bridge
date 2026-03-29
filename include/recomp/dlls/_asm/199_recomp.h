@@ -6,12 +6,12 @@
 #define dll_199_ctor __dll199_dll_199_ctor
 #define dll_199_dtor __dll199_dll_199_dtor
 #define dll_199_func_18 __dll199_dll_199_func_18
-#define _rodata_0 __dll199__rodata_0
-#define _rodata_4 __dll199__rodata_4
-#define _rodata_8 __dll199__rodata_8
-#define _rodata_C __dll199__rodata_C
-#define _rodata_10 __dll199__rodata_10
-#define _rodata_14 __dll199__rodata_14
-#define _rodata_18 __dll199__rodata_18
+#define rodata_0 __dll199_rodata_0
+#define rodata_4 __dll199_rodata_4
+#define rodata_8 __dll199_rodata_8
+#define rodata_C __dll199_rodata_C
+#define rodata_10 __dll199_rodata_10
+#define rodata_14 __dll199_rodata_14
+#define rodata_18 __dll199_rodata_18
 
 #endif //_DLL_199_RECOMP_H

@@ -14,11 +14,11 @@
 #define dll_423_get_data_size __dll423_dll_423_get_data_size
 #define dll_423_func_304 __dll423_dll_423_func_304
 #define dll_423_func_960 __dll423_dll_423_func_960
-#define _rodata_0 __dll423__rodata_0
-#define _rodata_4 __dll423__rodata_4
-#define _rodata_8 __dll423__rodata_8
-#define _rodata_C __dll423__rodata_C
-#define _rodata_10 __dll423__rodata_10
-#define _rodata_14 __dll423__rodata_14
+#define rodata_0 __dll423_rodata_0
+#define rodata_4 __dll423_rodata_4
+#define rodata_8 __dll423_rodata_8
+#define rodata_C __dll423_rodata_C
+#define rodata_10 __dll423_rodata_10
+#define rodata_14 __dll423_rodata_14
 
 #endif //_DLL_423_RECOMP_H

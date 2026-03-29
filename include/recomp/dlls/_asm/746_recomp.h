@@ -13,6 +13,6 @@
 #define dll_746_get_model_flags __dll746_dll_746_get_model_flags
 #define dll_746_get_data_size __dll746_dll_746_get_data_size
 #define dll_746_func_648 __dll746_dll_746_func_648
-#define _rodata_0 __dll746__rodata_0
+#define rodata_0 __dll746_rodata_0
 
 #endif //_DLL_746_RECOMP_H

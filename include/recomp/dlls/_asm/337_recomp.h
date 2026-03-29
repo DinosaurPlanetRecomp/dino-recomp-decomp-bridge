@@ -12,17 +12,17 @@
 #define dll_337_free __dll337_dll_337_free
 #define dll_337_get_model_flags __dll337_dll_337_get_model_flags
 #define dll_337_get_data_size __dll337_dll_337_get_data_size
-#define _rodata_0 __dll337__rodata_0
-#define _rodata_4 __dll337__rodata_4
-#define _rodata_8 __dll337__rodata_8
-#define _rodata_C __dll337__rodata_C
-#define _rodata_10 __dll337__rodata_10
-#define _rodata_14 __dll337__rodata_14
-#define _rodata_18 __dll337__rodata_18
-#define _rodata_1C __dll337__rodata_1C
-#define _data_0 __dll337__data_0
-#define _data_C __dll337__data_C
-#define _data_18 __dll337__data_18
-#define _data_1C __dll337__data_1C
+#define rodata_0 __dll337_rodata_0
+#define rodata_4 __dll337_rodata_4
+#define rodata_8 __dll337_rodata_8
+#define rodata_C __dll337_rodata_C
+#define rodata_10 __dll337_rodata_10
+#define rodata_14 __dll337_rodata_14
+#define rodata_18 __dll337_rodata_18
+#define rodata_1C __dll337_rodata_1C
+#define data_0 __dll337_data_0
+#define data_C __dll337_data_C
+#define data_18 __dll337_data_18
+#define data_1C __dll337_data_1C
 
 #endif //_DLL_337_RECOMP_H

@@ -6,13 +6,13 @@
 #define dll_142_ctor __dll142_dll_142_ctor
 #define dll_142_dtor __dll142_dll_142_dtor
 #define dll_142_func_18 __dll142_dll_142_func_18
-#define _data_0 __dll142__data_0
-#define _data_5C __dll142__data_5C
-#define _data_80 __dll142__data_80
-#define _data_98 __dll142__data_98
-#define _data_AC __dll142__data_AC
-#define _data_C4 __dll142__data_C4
-#define _data_C6 __dll142__data_C6
-#define _data_C8 __dll142__data_C8
+#define data_0 __dll142_data_0
+#define data_5C __dll142_data_5C
+#define data_80 __dll142_data_80
+#define data_98 __dll142_data_98
+#define data_AC __dll142_data_AC
+#define data_C4 __dll142_data_C4
+#define data_C6 __dll142_data_C6
+#define data_C8 __dll142_data_C8
 
 #endif //_DLL_142_RECOMP_H

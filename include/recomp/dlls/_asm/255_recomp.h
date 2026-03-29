@@ -13,6 +13,6 @@
 #define dll_255_get_model_flags __dll255_dll_255_get_model_flags
 #define dll_255_get_data_size __dll255_dll_255_get_data_size
 #define dll_255_func_9F0 __dll255_dll_255_func_9F0
-#define _data_0 __dll255__data_0
+#define data_0 __dll255_data_0
 
 #endif //_DLL_255_RECOMP_H

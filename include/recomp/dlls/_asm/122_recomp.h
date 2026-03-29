@@ -6,16 +6,16 @@
 #define dll_122_ctor __dll122_dll_122_ctor
 #define dll_122_dtor __dll122_dll_122_dtor
 #define dll_122_func_18 __dll122_dll_122_func_18
-#define _rodata_0 __dll122__rodata_0
-#define _rodata_4 __dll122__rodata_4
-#define _rodata_8 __dll122__rodata_8
-#define _data_0 __dll122__data_0
-#define _data_B4 __dll122__data_B4
-#define _data_114 __dll122__data_114
-#define _data_128 __dll122__data_128
-#define _data_160 __dll122__data_160
-#define _data_162 __dll122__data_162
-#define _data_164 __dll122__data_164
-#define _data_170 __dll122__data_170
+#define rodata_0 __dll122_rodata_0
+#define rodata_4 __dll122_rodata_4
+#define rodata_8 __dll122_rodata_8
+#define data_0 __dll122_data_0
+#define data_B4 __dll122_data_B4
+#define data_114 __dll122_data_114
+#define data_128 __dll122_data_128
+#define data_160 __dll122_data_160
+#define data_162 __dll122_data_162
+#define data_164 __dll122_data_164
+#define data_170 __dll122_data_170
 
 #endif //_DLL_122_RECOMP_H

@@ -10,8 +10,8 @@
 #define dll_58_func_8A4 __dll58_dll_58_func_8A4
 #define dll_58_func_14D4 __dll58_dll_58_func_14D4
 #define dll_58_func_14E0 __dll58_dll_58_func_14E0
-#define _data_0 __dll58__data_0
-#define _data_10 __dll58__data_10
-#define _bss_0 __dll58__bss_0
+#define data_0 __dll58_data_0
+#define data_10 __dll58_data_10
+#define bss_0 __dll58_bss_0
 
 #endif //_DLL_58_RECOMP_H

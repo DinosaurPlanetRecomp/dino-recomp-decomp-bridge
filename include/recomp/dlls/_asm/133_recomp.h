@@ -6,9 +6,9 @@
 #define dll_133_ctor __dll133_dll_133_ctor
 #define dll_133_dtor __dll133_dll_133_dtor
 #define dll_133_func_18 __dll133_dll_133_func_18
-#define _rodata_0 __dll133__rodata_0
-#define _data_0 __dll133__data_0
-#define _data_2 __dll133__data_2
-#define _data_4 __dll133__data_4
+#define rodata_0 __dll133_rodata_0
+#define data_0 __dll133_data_0
+#define data_2 __dll133_data_2
+#define data_4 __dll133_data_4
 
 #endif //_DLL_133_RECOMP_H

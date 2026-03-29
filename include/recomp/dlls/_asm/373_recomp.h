@@ -26,12 +26,12 @@
 #define dll_373_func_1FA0 __dll373_dll_373_func_1FA0
 #define dll_373_func_2050 __dll373_dll_373_func_2050
 #define str_0 __dll373_str_0
-#define _rodata_30 __dll373__rodata_30
-#define _rodata_188 __dll373__rodata_188
-#define _rodata_18C __dll373__rodata_18C
-#define _rodata_190 __dll373__rodata_190
-#define _rodata_194 __dll373__rodata_194
-#define _rodata_198 __dll373__rodata_198
-#define _data_0 __dll373__data_0
+#define rodata_30 __dll373_rodata_30
+#define rodata_188 __dll373_rodata_188
+#define rodata_18C __dll373_rodata_18C
+#define rodata_190 __dll373_rodata_190
+#define rodata_194 __dll373_rodata_194
+#define rodata_198 __dll373_rodata_198
+#define data_0 __dll373_data_0
 
 #endif //_DLL_373_RECOMP_H

@@ -12,9 +12,9 @@
 #define dll_536_free __dll536_dll_536_free
 #define dll_536_get_model_flags __dll536_dll_536_get_model_flags
 #define dll_536_get_data_size __dll536_dll_536_get_data_size
-#define _rodata_0 __dll536__rodata_0
-#define _rodata_4 __dll536__rodata_4
-#define _rodata_8 __dll536__rodata_8
-#define _data_0 __dll536__data_0
+#define rodata_0 __dll536_rodata_0
+#define rodata_4 __dll536_rodata_4
+#define rodata_8 __dll536_rodata_8
+#define data_0 __dll536_data_0
 
 #endif //_DLL_536_RECOMP_H

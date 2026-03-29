@@ -20,8 +20,8 @@
 #define str_0 __dll733_str_0
 #define str_24 __dll733_str_24
 #define str_58 __dll733_str_58
-#define _rodata_64 __dll733__rodata_64
-#define _rodata_68 __dll733__rodata_68
-#define _data_0 __dll733__data_0
+#define rodata_64 __dll733_rodata_64
+#define rodata_68 __dll733_rodata_68
+#define data_0 __dll733_data_0
 
 #endif //_DLL_733_RECOMP_H

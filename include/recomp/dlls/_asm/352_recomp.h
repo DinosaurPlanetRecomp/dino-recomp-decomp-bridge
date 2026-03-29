@@ -14,11 +14,11 @@
 #define dll_352_get_data_size __dll352_dll_352_get_data_size
 #define dll_352_func_1008 __dll352_dll_352_func_1008
 #define dll_352_func_11A0 __dll352_dll_352_func_11A0
-#define _rodata_0 __dll352__rodata_0
-#define _rodata_4 __dll352__rodata_4
-#define _rodata_8 __dll352__rodata_8
-#define _rodata_C __dll352__rodata_C
-#define _rodata_10 __dll352__rodata_10
-#define _data_0 __dll352__data_0
+#define rodata_0 __dll352_rodata_0
+#define rodata_4 __dll352_rodata_4
+#define rodata_8 __dll352_rodata_8
+#define rodata_C __dll352_rodata_C
+#define rodata_10 __dll352_rodata_10
+#define data_0 __dll352_data_0
 
 #endif //_DLL_352_RECOMP_H

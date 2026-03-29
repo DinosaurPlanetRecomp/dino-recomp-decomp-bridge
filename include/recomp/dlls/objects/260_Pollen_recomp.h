@@ -13,6 +13,6 @@
 #define dll_260_free __dll260_dll_260_free
 #define dll_260_get_model_flags __dll260_dll_260_get_model_flags
 #define dll_260_get_data_size __dll260_dll_260_get_data_size
-#define _rodata_8 __dll260__rodata_8
+#define rodata_8 __dll260_rodata_8
 
 #endif //_DLL_260_RECOMP_H

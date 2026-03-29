@@ -13,9 +13,9 @@
 #define dll_681_get_model_flags __dll681_dll_681_get_model_flags
 #define dll_681_get_data_size __dll681_dll_681_get_data_size
 #define str_0 __dll681_str_0
-#define _rodata_28 __dll681__rodata_28
-#define _rodata_2C __dll681__rodata_2C
-#define _data_0 __dll681__data_0
-#define _data_18 __dll681__data_18
+#define rodata_28 __dll681_rodata_28
+#define rodata_2C __dll681_rodata_2C
+#define data_0 __dll681_data_0
+#define data_18 __dll681_data_18
 
 #endif //_DLL_681_RECOMP_H

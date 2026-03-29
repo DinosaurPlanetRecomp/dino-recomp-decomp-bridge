@@ -14,8 +14,8 @@
 #define dll_486_get_data_size __dll486_dll_486_get_data_size
 #define dll_486_func_D90 __dll486_dll_486_func_D90
 #define dll_486_func_1194 __dll486_dll_486_func_1194
-#define _rodata_24 __dll486__rodata_24
-#define _rodata_28 __dll486__rodata_28
-#define _data_0 __dll486__data_0
+#define rodata_24 __dll486_rodata_24
+#define rodata_28 __dll486_rodata_28
+#define data_0 __dll486_data_0
 
 #endif //_DLL_486_RECOMP_H

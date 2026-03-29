@@ -29,17 +29,17 @@
 #define dll_251_func_1F78 __dll251_dll_251_func_1F78
 #define dll_251_func_1FC4 __dll251_dll_251_func_1FC4
 #define dll_251_func_25A8 __dll251_dll_251_func_25A8
-#define _rodata_0 __dll251__rodata_0
-#define _rodata_4 __dll251__rodata_4
-#define _data_0 __dll251__data_0
-#define _data_4 __dll251__data_4
-#define _data_8 __dll251__data_8
-#define _data_4C __dll251__data_4C
-#define _data_70 __dll251__data_70
-#define _data_78 __dll251__data_78
-#define _data_7C __dll251__data_7C
-#define _data_80 __dll251__data_80
-#define _bss_0 __dll251__bss_0
-#define _bss_8 __dll251__bss_8
+#define rodata_0 __dll251_rodata_0
+#define rodata_4 __dll251_rodata_4
+#define data_0 __dll251_data_0
+#define data_4 __dll251_data_4
+#define data_8 __dll251_data_8
+#define data_4C __dll251_data_4C
+#define data_70 __dll251_data_70
+#define data_78 __dll251_data_78
+#define data_7C __dll251_data_7C
+#define data_80 __dll251_data_80
+#define bss_0 __dll251_bss_0
+#define bss_8 __dll251_bss_8
 
 #endif //_DLL_251_RECOMP_H

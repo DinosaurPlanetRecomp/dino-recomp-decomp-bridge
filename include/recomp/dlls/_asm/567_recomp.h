@@ -22,19 +22,19 @@
 #define dll_567_func_126C __dll567_dll_567_func_126C
 #define dll_567_func_14C8 __dll567_dll_567_func_14C8
 #define dll_567_func_1524 __dll567_dll_567_func_1524
-#define _rodata_0 __dll567__rodata_0
-#define _rodata_4 __dll567__rodata_4
-#define _data_0 __dll567__data_0
-#define _bss_0 __dll567__bss_0
-#define _bss_8 __dll567__bss_8
-#define _bss_10 __dll567__bss_10
-#define _bss_14 __dll567__bss_14
-#define _bss_18 __dll567__bss_18
-#define _bss_1C __dll567__bss_1C
-#define _bss_20 __dll567__bss_20
-#define _bss_28 __dll567__bss_28
-#define _bss_34 __dll567__bss_34
-#define _bss_38 __dll567__bss_38
-#define _bss_3C __dll567__bss_3C
+#define rodata_0 __dll567_rodata_0
+#define rodata_4 __dll567_rodata_4
+#define data_0 __dll567_data_0
+#define bss_0 __dll567_bss_0
+#define bss_8 __dll567_bss_8
+#define bss_10 __dll567_bss_10
+#define bss_14 __dll567_bss_14
+#define bss_18 __dll567_bss_18
+#define bss_1C __dll567_bss_1C
+#define bss_20 __dll567_bss_20
+#define bss_28 __dll567_bss_28
+#define bss_34 __dll567_bss_34
+#define bss_38 __dll567_bss_38
+#define bss_3C __dll567_bss_3C
 
 #endif //_DLL_567_RECOMP_H

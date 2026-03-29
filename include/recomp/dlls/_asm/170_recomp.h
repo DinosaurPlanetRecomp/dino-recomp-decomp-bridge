@@ -6,18 +6,18 @@
 #define dll_170_ctor __dll170_dll_170_ctor
 #define dll_170_dtor __dll170_dll_170_dtor
 #define dll_170_func_18 __dll170_dll_170_func_18
-#define _rodata_0 __dll170__rodata_0
-#define _rodata_4 __dll170__rodata_4
-#define _rodata_8 __dll170__rodata_8
-#define _rodata_C __dll170__rodata_C
-#define _rodata_10 __dll170__rodata_10
-#define _rodata_14 __dll170__rodata_14
-#define _rodata_18 __dll170__rodata_18
-#define _rodata_1C __dll170__rodata_1C
-#define _data_0 __dll170__data_0
-#define _data_20 __dll170__data_20
-#define _data_28 __dll170__data_28
-#define _data_34 __dll170__data_34
-#define _data_3C __dll170__data_3C
+#define rodata_0 __dll170_rodata_0
+#define rodata_4 __dll170_rodata_4
+#define rodata_8 __dll170_rodata_8
+#define rodata_C __dll170_rodata_C
+#define rodata_10 __dll170_rodata_10
+#define rodata_14 __dll170_rodata_14
+#define rodata_18 __dll170_rodata_18
+#define rodata_1C __dll170_rodata_1C
+#define data_0 __dll170_data_0
+#define data_20 __dll170_data_20
+#define data_28 __dll170_data_28
+#define data_34 __dll170_data_34
+#define data_3C __dll170_data_3C
 
 #endif //_DLL_170_RECOMP_H

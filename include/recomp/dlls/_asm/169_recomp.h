@@ -6,13 +6,13 @@
 #define dll_169_ctor __dll169_dll_169_ctor
 #define dll_169_dtor __dll169_dll_169_dtor
 #define dll_169_func_18 __dll169_dll_169_func_18
-#define _rodata_0 __dll169__rodata_0
-#define _rodata_4 __dll169__rodata_4
-#define _data_0 __dll169__data_0
-#define _data_3C __dll169__data_3C
-#define _data_54 __dll169__data_54
-#define _data_64 __dll169__data_64
-#define _data_70 __dll169__data_70
-#define _data_7C __dll169__data_7C
+#define rodata_0 __dll169_rodata_0
+#define rodata_4 __dll169_rodata_4
+#define data_0 __dll169_data_0
+#define data_3C __dll169_data_3C
+#define data_54 __dll169_data_54
+#define data_64 __dll169_data_64
+#define data_70 __dll169_data_70
+#define data_7C __dll169_data_7C
 
 #endif //_DLL_169_RECOMP_H

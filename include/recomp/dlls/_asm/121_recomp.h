@@ -6,11 +6,11 @@
 #define dll_121_ctor __dll121_dll_121_ctor
 #define dll_121_dtor __dll121_dll_121_dtor
 #define dll_121_func_18 __dll121_dll_121_func_18
-#define _data_0 __dll121__data_0
-#define _data_50 __dll121__data_50
-#define _data_78 __dll121__data_78
-#define _data_98 __dll121__data_98
-#define _data_9A __dll121__data_9A
-#define _data_9C __dll121__data_9C
+#define data_0 __dll121_data_0
+#define data_50 __dll121_data_50
+#define data_78 __dll121_data_78
+#define data_98 __dll121_data_98
+#define data_9A __dll121_data_9A
+#define data_9C __dll121_data_9C
 
 #endif //_DLL_121_RECOMP_H

@@ -6,21 +6,21 @@
 #define dll_147_ctor __dll147_dll_147_ctor
 #define dll_147_dtor __dll147_dll_147_dtor
 #define dll_147_func_18 __dll147_dll_147_func_18
-#define _rodata_0 __dll147__rodata_0
-#define _rodata_4 __dll147__rodata_4
-#define _rodata_8 __dll147__rodata_8
-#define _rodata_C __dll147__rodata_C
-#define _data_0 __dll147__data_0
-#define _data_168 __dll147__data_168
-#define _data_1C8 __dll147__data_1C8
-#define _data_1DC __dll147__data_1DC
-#define _data_1F0 __dll147__data_1F0
-#define _data_204 __dll147__data_204
-#define _data_260 __dll147__data_260
-#define _data_2A8 __dll147__data_2A8
-#define _data_2CC __dll147__data_2CC
-#define _data_2CE __dll147__data_2CE
-#define _data_2D0 __dll147__data_2D0
-#define _data_2DC __dll147__data_2DC
+#define rodata_0 __dll147_rodata_0
+#define rodata_4 __dll147_rodata_4
+#define rodata_8 __dll147_rodata_8
+#define rodata_C __dll147_rodata_C
+#define data_0 __dll147_data_0
+#define data_168 __dll147_data_168
+#define data_1C8 __dll147_data_1C8
+#define data_1DC __dll147_data_1DC
+#define data_1F0 __dll147_data_1F0
+#define data_204 __dll147_data_204
+#define data_260 __dll147_data_260
+#define data_2A8 __dll147_data_2A8
+#define data_2CC __dll147_data_2CC
+#define data_2CE __dll147_data_2CE
+#define data_2D0 __dll147_data_2D0
+#define data_2DC __dll147_data_2DC
 
 #endif //_DLL_147_RECOMP_H

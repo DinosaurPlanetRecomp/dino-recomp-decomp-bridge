@@ -9,17 +9,17 @@
 #define dll_79_func_230 __dll79_dll_79_func_230
 #define dll_79_func_238 __dll79_dll_79_func_238
 #define dll_79_func_1340 __dll79_dll_79_func_1340
-#define _data_0 __dll79__data_0
-#define _data_4 __dll79__data_4
-#define _data_8 __dll79__data_8
-#define _bss_0 __dll79__bss_0
-#define _bss_4 __dll79__bss_4
-#define _bss_8 __dll79__bss_8
-#define _bss_C __dll79__bss_C
-#define _bss_10 __dll79__bss_10
-#define _bss_14 __dll79__bss_14
-#define _bss_18 __dll79__bss_18
-#define _bss_1C __dll79__bss_1C
-#define _bss_20 __dll79__bss_20
+#define data_0 __dll79_data_0
+#define data_4 __dll79_data_4
+#define data_8 __dll79_data_8
+#define bss_0 __dll79_bss_0
+#define bss_4 __dll79_bss_4
+#define bss_8 __dll79_bss_8
+#define bss_C __dll79_bss_C
+#define bss_10 __dll79_bss_10
+#define bss_14 __dll79_bss_14
+#define bss_18 __dll79_bss_18
+#define bss_1C __dll79_bss_1C
+#define bss_20 __dll79_bss_20
 
 #endif //_DLL_79_RECOMP_H

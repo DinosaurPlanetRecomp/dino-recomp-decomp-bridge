@@ -6,21 +6,21 @@
 #define dll_156_ctor __dll156_dll_156_ctor
 #define dll_156_dtor __dll156_dll_156_dtor
 #define dll_156_func_18 __dll156_dll_156_func_18
-#define _rodata_0 __dll156__rodata_0
-#define _rodata_4 __dll156__rodata_4
-#define _rodata_8 __dll156__rodata_8
-#define _rodata_C __dll156__rodata_C
-#define _rodata_10 __dll156__rodata_10
-#define _rodata_14 __dll156__rodata_14
-#define _rodata_18 __dll156__rodata_18
-#define _data_0 __dll156__data_0
-#define _data_D4 __dll156__data_D4
-#define _data_174 __dll156__data_174
-#define _data_184 __dll156__data_184
-#define _data_194 __dll156__data_194
-#define _data_1B0 __dll156__data_1B0
-#define _data_1DC __dll156__data_1DC
-#define _data_1DE __dll156__data_1DE
-#define _data_1E0 __dll156__data_1E0
+#define rodata_0 __dll156_rodata_0
+#define rodata_4 __dll156_rodata_4
+#define rodata_8 __dll156_rodata_8
+#define rodata_C __dll156_rodata_C
+#define rodata_10 __dll156_rodata_10
+#define rodata_14 __dll156_rodata_14
+#define rodata_18 __dll156_rodata_18
+#define data_0 __dll156_data_0
+#define data_D4 __dll156_data_D4
+#define data_174 __dll156_data_174
+#define data_184 __dll156_data_184
+#define data_194 __dll156_data_194
+#define data_1B0 __dll156_data_1B0
+#define data_1DC __dll156_data_1DC
+#define data_1DE __dll156_data_1DE
+#define data_1E0 __dll156_data_1E0
 
 #endif //_DLL_156_RECOMP_H

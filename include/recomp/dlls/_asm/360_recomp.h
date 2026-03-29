@@ -18,6 +18,6 @@
 #define dll_360_func_7D8 __dll360_dll_360_func_7D8
 #define dll_360_func_874 __dll360_dll_360_func_874
 #define str_0 __dll360_str_0
-#define _rodata_11C __dll360__rodata_11C
+#define rodata_11C __dll360_rodata_11C
 
 #endif //_DLL_360_RECOMP_H

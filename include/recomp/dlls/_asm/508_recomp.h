@@ -37,19 +37,19 @@
 #define dll_508_func_1F50 __dll508_dll_508_func_1F50
 #define dll_508_func_1F64 __dll508_dll_508_func_1F64
 #define str_0 __dll508_str_0
-#define _rodata_64 __dll508__rodata_64
-#define _rodata_A4 __dll508__rodata_A4
-#define _rodata_A8 __dll508__rodata_A8
-#define _rodata_AC __dll508__rodata_AC
-#define _data_0 __dll508__data_0
-#define _data_30 __dll508__data_30
-#define _data_40 __dll508__data_40
-#define _data_16C __dll508__data_16C
-#define _data_1A8 __dll508__data_1A8
-#define _data_1B8 __dll508__data_1B8
-#define _data_1F4 __dll508__data_1F4
-#define _data_1F8 __dll508__data_1F8
-#define _data_1FC __dll508__data_1FC
-#define _data_224 __dll508__data_224
+#define rodata_64 __dll508_rodata_64
+#define rodata_A4 __dll508_rodata_A4
+#define rodata_A8 __dll508_rodata_A8
+#define rodata_AC __dll508_rodata_AC
+#define data_0 __dll508_data_0
+#define data_30 __dll508_data_30
+#define data_40 __dll508_data_40
+#define data_16C __dll508_data_16C
+#define data_1A8 __dll508_data_1A8
+#define data_1B8 __dll508_data_1B8
+#define data_1F4 __dll508_data_1F4
+#define data_1F8 __dll508_data_1F8
+#define data_1FC __dll508_data_1FC
+#define data_224 __dll508_data_224
 
 #endif //_DLL_508_RECOMP_H

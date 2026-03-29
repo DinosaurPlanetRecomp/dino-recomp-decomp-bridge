@@ -18,6 +18,6 @@
 #define dll_407_func_984 __dll407_dll_407_func_984
 #define dll_407_func_9F0 __dll407_dll_407_func_9F0
 #define str_0 __dll407_str_0
-#define _rodata_64 __dll407__rodata_64
+#define rodata_64 __dll407_rodata_64
 
 #endif //_DLL_407_RECOMP_H

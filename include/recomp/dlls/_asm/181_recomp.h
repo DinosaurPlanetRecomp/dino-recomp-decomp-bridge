@@ -6,15 +6,15 @@
 #define dll_181_ctor __dll181_dll_181_ctor
 #define dll_181_dtor __dll181_dll_181_dtor
 #define dll_181_func_18 __dll181_dll_181_func_18
-#define _rodata_0 __dll181__rodata_0
-#define _rodata_4 __dll181__rodata_4
-#define _data_0 __dll181__data_0
-#define _data_50 __dll181__data_50
-#define _data_68 __dll181__data_68
-#define _data_70 __dll181__data_70
-#define _data_78 __dll181__data_78
-#define _data_98 __dll181__data_98
-#define _data_9A __dll181__data_9A
-#define _data_9C __dll181__data_9C
+#define rodata_0 __dll181_rodata_0
+#define rodata_4 __dll181_rodata_4
+#define data_0 __dll181_data_0
+#define data_50 __dll181_data_50
+#define data_68 __dll181_data_68
+#define data_70 __dll181_data_70
+#define data_78 __dll181_data_78
+#define data_98 __dll181_data_98
+#define data_9A __dll181_data_9A
+#define data_9C __dll181_data_9C
 
 #endif //_DLL_181_RECOMP_H

@@ -6,17 +6,17 @@
 #define dll_136_ctor __dll136_dll_136_ctor
 #define dll_136_dtor __dll136_dll_136_dtor
 #define dll_136_func_18 __dll136_dll_136_func_18
-#define _rodata_0 __dll136__rodata_0
-#define _rodata_4 __dll136__rodata_4
-#define _rodata_8 __dll136__rodata_8
-#define _rodata_C __dll136__rodata_C
-#define _data_0 __dll136__data_0
-#define _data_8C __dll136__data_8C
-#define _data_D4 __dll136__data_D4
-#define _data_F0 __dll136__data_F0
-#define _data_100 __dll136__data_100
-#define _data_110 __dll136__data_110
-#define _data_112 __dll136__data_112
-#define _data_114 __dll136__data_114
+#define rodata_0 __dll136_rodata_0
+#define rodata_4 __dll136_rodata_4
+#define rodata_8 __dll136_rodata_8
+#define rodata_C __dll136_rodata_C
+#define data_0 __dll136_data_0
+#define data_8C __dll136_data_8C
+#define data_D4 __dll136_data_D4
+#define data_F0 __dll136_data_F0
+#define data_100 __dll136_data_100
+#define data_110 __dll136_data_110
+#define data_112 __dll136_data_112
+#define data_114 __dll136_data_114
 
 #endif //_DLL_136_RECOMP_H

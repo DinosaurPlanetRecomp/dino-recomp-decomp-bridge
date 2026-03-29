@@ -6,18 +6,18 @@
 #define dll_161_ctor __dll161_dll_161_ctor
 #define dll_161_dtor __dll161_dll_161_dtor
 #define dll_161_func_18 __dll161_dll_161_func_18
-#define _rodata_0 __dll161__rodata_0
-#define _rodata_4 __dll161__rodata_4
-#define _rodata_8 __dll161__rodata_8
-#define _data_0 __dll161__data_0
-#define _data_B4 __dll161__data_B4
-#define _data_114 __dll161__data_114
-#define _data_128 __dll161__data_128
-#define _data_150 __dll161__data_150
-#define _data_188 __dll161__data_188
-#define _data_194 __dll161__data_194
-#define _data_19C __dll161__data_19C
-#define _data_19E __dll161__data_19E
-#define _data_1A0 __dll161__data_1A0
+#define rodata_0 __dll161_rodata_0
+#define rodata_4 __dll161_rodata_4
+#define rodata_8 __dll161_rodata_8
+#define data_0 __dll161_data_0
+#define data_B4 __dll161_data_B4
+#define data_114 __dll161_data_114
+#define data_128 __dll161_data_128
+#define data_150 __dll161_data_150
+#define data_188 __dll161_data_188
+#define data_194 __dll161_data_194
+#define data_19C __dll161_data_19C
+#define data_19E __dll161_data_19E
+#define data_1A0 __dll161_data_1A0
 
 #endif //_DLL_161_RECOMP_H

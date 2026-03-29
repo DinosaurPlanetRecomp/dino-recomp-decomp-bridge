@@ -16,6 +16,6 @@
 #define dll_749_func_870 __dll749_dll_749_func_870
 #define dll_749_func_89C __dll749_dll_749_func_89C
 #define dll_749_func_8B8 __dll749_dll_749_func_8B8
-#define _rodata_0 __dll749__rodata_0
+#define rodata_0 __dll749_rodata_0
 
 #endif //_DLL_749_RECOMP_H

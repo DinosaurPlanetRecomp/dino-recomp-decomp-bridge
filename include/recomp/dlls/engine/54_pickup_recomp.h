@@ -18,6 +18,6 @@
 #define dll_54_func_760 __dll54_dll_54_func_760
 #define dll_54_func_798 __dll54_dll_54_func_798
 #define dll_54_func_838 __dll54_dll_54_func_838
-#define _rodata_0 __dll54__rodata_0
+#define rodata_0 __dll54_rodata_0
 
 #endif //_DLL_54_RECOMP_H

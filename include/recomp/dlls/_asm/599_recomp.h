@@ -13,6 +13,6 @@
 #define dll_599_get_model_flags __dll599_dll_599_get_model_flags
 #define dll_599_get_data_size __dll599_dll_599_get_data_size
 #define dll_599_func_48C __dll599_dll_599_func_48C
-#define _data_0 __dll599__data_0
+#define data_0 __dll599_data_0
 
 #endif //_DLL_599_RECOMP_H

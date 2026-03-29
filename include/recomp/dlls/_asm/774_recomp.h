@@ -14,7 +14,7 @@
 #define dll_774_get_data_size __dll774_dll_774_get_data_size
 #define dll_774_func_318 __dll774_dll_774_func_318
 #define dll_774_func_3F4 __dll774_dll_774_func_3F4
-#define _data_0 __dll774__data_0
-#define _data_4 __dll774__data_4
+#define data_0 __dll774_data_0
+#define data_4 __dll774_data_4
 
 #endif //_DLL_774_RECOMP_H

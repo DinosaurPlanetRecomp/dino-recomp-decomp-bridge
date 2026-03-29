@@ -6,10 +6,10 @@
 #define dll_201_ctor __dll201_dll_201_ctor
 #define dll_201_dtor __dll201_dll_201_dtor
 #define dll_201_func_18 __dll201_dll_201_func_18
-#define _rodata_0 __dll201__rodata_0
-#define _rodata_4 __dll201__rodata_4
-#define _rodata_8 __dll201__rodata_8
-#define _rodata_C __dll201__rodata_C
-#define _rodata_10 __dll201__rodata_10
+#define rodata_0 __dll201_rodata_0
+#define rodata_4 __dll201_rodata_4
+#define rodata_8 __dll201_rodata_8
+#define rodata_C __dll201_rodata_C
+#define rodata_10 __dll201_rodata_10
 
 #endif //_DLL_201_RECOMP_H

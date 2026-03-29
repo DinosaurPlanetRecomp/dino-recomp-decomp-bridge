@@ -29,12 +29,12 @@
 #define dll_219_func_FA8 __dll219_dll_219_func_FA8
 #define dll_219_func_1010 __dll219_dll_219_func_1010
 #define dll_219_func_10F4 __dll219_dll_219_func_10F4
-#define _rodata_0 __dll219__rodata_0
-#define _rodata_4 __dll219__rodata_4
-#define _rodata_8 __dll219__rodata_8
-#define _data_0 __dll219__data_0
-#define _data_68 __dll219__data_68
-#define _bss_0 __dll219__bss_0
-#define _bss_10 __dll219__bss_10
+#define rodata_0 __dll219_rodata_0
+#define rodata_4 __dll219_rodata_4
+#define rodata_8 __dll219_rodata_8
+#define data_0 __dll219_data_0
+#define data_68 __dll219_data_68
+#define bss_0 __dll219_bss_0
+#define bss_10 __dll219_bss_10
 
 #endif //_DLL_219_RECOMP_H

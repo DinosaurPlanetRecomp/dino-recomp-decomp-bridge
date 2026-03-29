@@ -14,7 +14,7 @@
 #define dll_648_get_data_size __dll648_dll_648_get_data_size
 #define dll_648_func_170 __dll648_dll_648_func_170
 #define dll_648_func_2C0 __dll648_dll_648_func_2C0
-#define _data_0 __dll648__data_0
-#define _data_4 __dll648__data_4
+#define data_0 __dll648_data_0
+#define data_4 __dll648_data_4
 
 #endif //_DLL_648_RECOMP_H

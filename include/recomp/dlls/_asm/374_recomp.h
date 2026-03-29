@@ -12,7 +12,7 @@
 #define dll_374_free __dll374_dll_374_free
 #define dll_374_get_model_flags __dll374_dll_374_get_model_flags
 #define dll_374_get_data_size __dll374_dll_374_get_data_size
-#define _rodata_0 __dll374__rodata_0
-#define _data_0 __dll374__data_0
+#define rodata_0 __dll374_rodata_0
+#define data_0 __dll374_data_0
 
 #endif //_DLL_374_RECOMP_H

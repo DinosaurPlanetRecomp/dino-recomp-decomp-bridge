@@ -16,8 +16,8 @@
 #define dll_646_func_548 __dll646_dll_646_func_548
 #define dll_646_func_7A8 __dll646_dll_646_func_7A8
 #define dll_646_func_BB4 __dll646_dll_646_func_BB4
-#define _rodata_0 __dll646__rodata_0
-#define _rodata_4 __dll646__rodata_4
-#define _data_0 __dll646__data_0
+#define rodata_0 __dll646_rodata_0
+#define rodata_4 __dll646_rodata_4
+#define data_0 __dll646_data_0
 
 #endif //_DLL_646_RECOMP_H

@@ -15,18 +15,18 @@
 #define dll_370_func_880 __dll370_dll_370_func_880
 #define dll_370_func_F0C __dll370_dll_370_func_F0C
 #define str_0 __dll370_str_0
-#define _rodata_24 __dll370__rodata_24
-#define _rodata_28 __dll370__rodata_28
-#define _rodata_2C __dll370__rodata_2C
-#define _rodata_30 __dll370__rodata_30
-#define _rodata_34 __dll370__rodata_34
-#define _rodata_38 __dll370__rodata_38
-#define _rodata_3C __dll370__rodata_3C
-#define _rodata_40 __dll370__rodata_40
-#define _rodata_44 __dll370__rodata_44
-#define _rodata_48 __dll370__rodata_48
-#define _rodata_4C __dll370__rodata_4C
-#define _rodata_50 __dll370__rodata_50
-#define _rodata_54 __dll370__rodata_54
+#define rodata_24 __dll370_rodata_24
+#define rodata_28 __dll370_rodata_28
+#define rodata_2C __dll370_rodata_2C
+#define rodata_30 __dll370_rodata_30
+#define rodata_34 __dll370_rodata_34
+#define rodata_38 __dll370_rodata_38
+#define rodata_3C __dll370_rodata_3C
+#define rodata_40 __dll370_rodata_40
+#define rodata_44 __dll370_rodata_44
+#define rodata_48 __dll370_rodata_48
+#define rodata_4C __dll370_rodata_4C
+#define rodata_50 __dll370_rodata_50
+#define rodata_54 __dll370_rodata_54
 
 #endif //_DLL_370_RECOMP_H

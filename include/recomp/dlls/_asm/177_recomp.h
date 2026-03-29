@@ -6,13 +6,13 @@
 #define dll_177_ctor __dll177_dll_177_ctor
 #define dll_177_dtor __dll177_dll_177_dtor
 #define dll_177_func_18 __dll177_dll_177_func_18
-#define _rodata_0 __dll177__rodata_0
-#define _rodata_4 __dll177__rodata_4
-#define _data_0 __dll177__data_0
-#define _data_D4 __dll177__data_D4
-#define _data_1B0 __dll177__data_1B0
-#define _data_1F8 __dll177__data_1F8
-#define _data_1FA __dll177__data_1FA
-#define _data_1FC __dll177__data_1FC
+#define rodata_0 __dll177_rodata_0
+#define rodata_4 __dll177_rodata_4
+#define data_0 __dll177_data_0
+#define data_D4 __dll177_data_D4
+#define data_1B0 __dll177_data_1B0
+#define data_1F8 __dll177_data_1F8
+#define data_1FA __dll177_data_1FA
+#define data_1FC __dll177_data_1FC
 
 #endif //_DLL_177_RECOMP_H

@@ -14,11 +14,11 @@
 #define dll_366_get_data_size __dll366_dll_366_get_data_size
 #define dll_366_func_3C0 __dll366_dll_366_func_3C0
 #define str_0 __dll366_str_0
-#define _data_0 __dll366__data_0
-#define _data_4 __dll366__data_4
-#define _data_8 __dll366__data_8
-#define _bss_0 __dll366__bss_0
-#define _bss_8 __dll366__bss_8
-#define _bss_90 __dll366__bss_90
+#define data_0 __dll366_data_0
+#define data_4 __dll366_data_4
+#define data_8 __dll366_data_8
+#define bss_0 __dll366_bss_0
+#define bss_8 __dll366_bss_8
+#define bss_90 __dll366_bss_90
 
 #endif //_DLL_366_RECOMP_H

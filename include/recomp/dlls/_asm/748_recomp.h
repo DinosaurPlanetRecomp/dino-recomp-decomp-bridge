@@ -13,10 +13,10 @@
 #define dll_748_get_model_flags __dll748_dll_748_get_model_flags
 #define dll_748_get_data_size __dll748_dll_748_get_data_size
 #define str_0 __dll748_str_0
-#define _data_0 __dll748__data_0
-#define _data_8 __dll748__data_8
-#define _data_18 __dll748__data_18
-#define _data_1C __dll748__data_1C
-#define _data_20 __dll748__data_20
+#define data_0 __dll748_data_0
+#define data_8 __dll748_data_8
+#define data_18 __dll748_data_18
+#define data_1C __dll748_data_1C
+#define data_20 __dll748_data_20
 
 #endif //_DLL_748_RECOMP_H

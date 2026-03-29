@@ -16,21 +16,21 @@
 #define dll_390_func_884 __dll390_dll_390_func_884
 #define dll_390_func_C60 __dll390_dll_390_func_C60
 #define str_0 __dll390_str_0
-#define _rodata_AC __dll390__rodata_AC
-#define _data_0 __dll390__data_0
-#define _data_2E4 __dll390__data_2E4
-#define _data_2E8 __dll390__data_2E8
-#define _data_2EC __dll390__data_2EC
-#define _data_2F0 __dll390__data_2F0
-#define _data_2F4 __dll390__data_2F4
-#define _data_2F8 __dll390__data_2F8
-#define _data_2FC __dll390__data_2FC
-#define _data_300 __dll390__data_300
-#define _data_304 __dll390__data_304
-#define _data_308 __dll390__data_308
-#define _data_30C __dll390__data_30C
-#define _data_310 __dll390__data_310
-#define _data_314 __dll390__data_314
-#define _data_394 __dll390__data_394
+#define rodata_AC __dll390_rodata_AC
+#define data_0 __dll390_data_0
+#define data_2E4 __dll390_data_2E4
+#define data_2E8 __dll390_data_2E8
+#define data_2EC __dll390_data_2EC
+#define data_2F0 __dll390_data_2F0
+#define data_2F4 __dll390_data_2F4
+#define data_2F8 __dll390_data_2F8
+#define data_2FC __dll390_data_2FC
+#define data_300 __dll390_data_300
+#define data_304 __dll390_data_304
+#define data_308 __dll390_data_308
+#define data_30C __dll390_data_30C
+#define data_310 __dll390_data_310
+#define data_314 __dll390_data_314
+#define data_394 __dll390_data_394
 
 #endif //_DLL_390_RECOMP_H

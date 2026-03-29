@@ -16,6 +16,6 @@
 #define dll_531_func_608 __dll531_dll_531_func_608
 #define dll_531_func_7E4 __dll531_dll_531_func_7E4
 #define dll_531_func_8E8 __dll531_dll_531_func_8E8
-#define _rodata_0 __dll531__rodata_0
+#define rodata_0 __dll531_rodata_0
 
 #endif //_DLL_531_RECOMP_H

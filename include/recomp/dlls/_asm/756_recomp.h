@@ -17,10 +17,10 @@
 #define dll_756_get_data_size __dll756_dll_756_get_data_size
 #define dll_756_func_840 __dll756_dll_756_func_840
 #define str_0 __dll756_str_0
-#define _rodata_18 __dll756__rodata_18
-#define _rodata_1C __dll756__rodata_1C
-#define _rodata_20 __dll756__rodata_20
-#define _rodata_24 __dll756__rodata_24
-#define _data_0 __dll756__data_0
+#define rodata_18 __dll756_rodata_18
+#define rodata_1C __dll756_rodata_1C
+#define rodata_20 __dll756_rodata_20
+#define rodata_24 __dll756_rodata_24
+#define data_0 __dll756_data_0
 
 #endif //_DLL_756_RECOMP_H

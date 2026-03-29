@@ -12,8 +12,8 @@
 #define dll_788_free __dll788_dll_788_free
 #define dll_788_get_model_flags __dll788_dll_788_get_model_flags
 #define dll_788_get_data_size __dll788_dll_788_get_data_size
-#define _rodata_0 __dll788__rodata_0
-#define _rodata_4 __dll788__rodata_4
-#define _data_0 __dll788__data_0
+#define rodata_0 __dll788_rodata_0
+#define rodata_4 __dll788_rodata_4
+#define data_0 __dll788_data_0
 
 #endif //_DLL_788_RECOMP_H

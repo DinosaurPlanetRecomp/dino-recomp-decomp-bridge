@@ -13,16 +13,16 @@
 #define dll_478_get_model_flags __dll478_dll_478_get_model_flags
 #define dll_478_get_data_size __dll478_dll_478_get_data_size
 #define dll_478_func_6B0 __dll478_dll_478_func_6B0
-#define _rodata_0 __dll478__rodata_0
-#define _rodata_4 __dll478__rodata_4
-#define _rodata_8 __dll478__rodata_8
-#define _rodata_C __dll478__rodata_C
-#define _rodata_10 __dll478__rodata_10
-#define _rodata_14 __dll478__rodata_14
-#define _rodata_18 __dll478__rodata_18
-#define _data_0 __dll478__data_0
-#define _data_4 __dll478__data_4
-#define _data_8 __dll478__data_8
-#define _bss_0 __dll478__bss_0
+#define rodata_0 __dll478_rodata_0
+#define rodata_4 __dll478_rodata_4
+#define rodata_8 __dll478_rodata_8
+#define rodata_C __dll478_rodata_C
+#define rodata_10 __dll478_rodata_10
+#define rodata_14 __dll478_rodata_14
+#define rodata_18 __dll478_rodata_18
+#define data_0 __dll478_data_0
+#define data_4 __dll478_data_4
+#define data_8 __dll478_data_8
+#define bss_0 __dll478_bss_0
 
 #endif //_DLL_478_RECOMP_H

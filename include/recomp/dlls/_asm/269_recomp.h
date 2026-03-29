@@ -12,6 +12,6 @@
 #define dll_269_free __dll269_dll_269_free
 #define dll_269_get_model_flags __dll269_dll_269_get_model_flags
 #define dll_269_get_data_size __dll269_dll_269_get_data_size
-#define _data_0 __dll269__data_0
+#define data_0 __dll269_data_0
 
 #endif //_DLL_269_RECOMP_H

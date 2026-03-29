@@ -19,15 +19,15 @@
 #define dll_669_func_17D4 __dll669_dll_669_func_17D4
 #define dll_669_func_18EC __dll669_dll_669_func_18EC
 #define str_0 __dll669_str_0
-#define _rodata_FC __dll669__rodata_FC
-#define _rodata_100 __dll669__rodata_100
-#define _rodata_104 __dll669__rodata_104
-#define _rodata_108 __dll669__rodata_108
-#define _rodata_10C __dll669__rodata_10C
-#define _rodata_110 __dll669__rodata_110
-#define _data_0 __dll669__data_0
-#define _data_2D0 __dll669__data_2D0
-#define _data_2E0 __dll669__data_2E0
-#define _data_2E4 __dll669__data_2E4
+#define rodata_FC __dll669_rodata_FC
+#define rodata_100 __dll669_rodata_100
+#define rodata_104 __dll669_rodata_104
+#define rodata_108 __dll669_rodata_108
+#define rodata_10C __dll669_rodata_10C
+#define rodata_110 __dll669_rodata_110
+#define data_0 __dll669_data_0
+#define data_2D0 __dll669_data_2D0
+#define data_2E0 __dll669_data_2E0
+#define data_2E4 __dll669_data_2E4
 
 #endif //_DLL_669_RECOMP_H

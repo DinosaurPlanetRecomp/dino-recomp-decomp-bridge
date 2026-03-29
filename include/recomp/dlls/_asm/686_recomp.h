@@ -18,12 +18,12 @@
 #define dll_686_func_A68 __dll686_dll_686_func_A68
 #define dll_686_func_A8C __dll686_dll_686_func_A8C
 #define str_0 __dll686_str_0
-#define _rodata_6C __dll686__rodata_6C
-#define _rodata_70 __dll686__rodata_70
-#define _rodata_74 __dll686__rodata_74
-#define _rodata_78 __dll686__rodata_78
-#define _rodata_7C __dll686__rodata_7C
-#define _rodata_80 __dll686__rodata_80
-#define _rodata_84 __dll686__rodata_84
+#define rodata_6C __dll686_rodata_6C
+#define rodata_70 __dll686_rodata_70
+#define rodata_74 __dll686_rodata_74
+#define rodata_78 __dll686_rodata_78
+#define rodata_7C __dll686_rodata_7C
+#define rodata_80 __dll686_rodata_80
+#define rodata_84 __dll686_rodata_84
 
 #endif //_DLL_686_RECOMP_H

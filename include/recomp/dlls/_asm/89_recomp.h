@@ -17,13 +17,13 @@
 #define dll_89_func_1E5C __dll89_dll_89_func_1E5C
 #define dll_89_func_1F9C __dll89_dll_89_func_1F9C
 #define str_0 __dll89_str_0
-#define _rodata_34 __dll89__rodata_34
-#define _rodata_38 __dll89__rodata_38
-#define _rodata_3C __dll89__rodata_3C
-#define _rodata_40 __dll89__rodata_40
-#define _rodata_44 __dll89__rodata_44
-#define _rodata_48 __dll89__rodata_48
-#define _rodata_4C __dll89__rodata_4C
-#define _bss_0 __dll89__bss_0
+#define rodata_34 __dll89_rodata_34
+#define rodata_38 __dll89_rodata_38
+#define rodata_3C __dll89_rodata_3C
+#define rodata_40 __dll89_rodata_40
+#define rodata_44 __dll89_rodata_44
+#define rodata_48 __dll89_rodata_48
+#define rodata_4C __dll89_rodata_4C
+#define bss_0 __dll89_bss_0
 
 #endif //_DLL_89_RECOMP_H

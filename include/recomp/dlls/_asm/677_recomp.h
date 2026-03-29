@@ -23,19 +23,19 @@
 #define dll_677_func_1164 __dll677_dll_677_func_1164
 #define dll_677_func_12C4 __dll677_dll_677_func_12C4
 #define str_0 __dll677_str_0
-#define _rodata_C __dll677__rodata_C
-#define _rodata_10 __dll677__rodata_10
-#define _rodata_30 __dll677__rodata_30
-#define _rodata_34 __dll677__rodata_34
-#define _rodata_38 __dll677__rodata_38
-#define _rodata_3C __dll677__rodata_3C
-#define _rodata_40 __dll677__rodata_40
-#define _data_0 __dll677__data_0
-#define _data_10 __dll677__data_10
-#define _data_1C __dll677__data_1C
-#define _data_20 __dll677__data_20
-#define _data_24 __dll677__data_24
-#define _data_34 __dll677__data_34
-#define _data_44 __dll677__data_44
+#define rodata_C __dll677_rodata_C
+#define rodata_10 __dll677_rodata_10
+#define rodata_30 __dll677_rodata_30
+#define rodata_34 __dll677_rodata_34
+#define rodata_38 __dll677_rodata_38
+#define rodata_3C __dll677_rodata_3C
+#define rodata_40 __dll677_rodata_40
+#define data_0 __dll677_data_0
+#define data_10 __dll677_data_10
+#define data_1C __dll677_data_1C
+#define data_20 __dll677_data_20
+#define data_24 __dll677_data_24
+#define data_34 __dll677_data_34
+#define data_44 __dll677_data_44
 
 #endif //_DLL_677_RECOMP_H

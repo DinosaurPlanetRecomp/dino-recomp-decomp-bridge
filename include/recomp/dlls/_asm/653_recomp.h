@@ -13,6 +13,6 @@
 #define dll_653_get_model_flags __dll653_dll_653_get_model_flags
 #define dll_653_get_data_size __dll653_dll_653_get_data_size
 #define str_0 __dll653_str_0
-#define _data_0 __dll653__data_0
+#define data_0 __dll653_data_0
 
 #endif //_DLL_653_RECOMP_H

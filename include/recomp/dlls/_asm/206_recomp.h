@@ -6,10 +6,10 @@
 #define dll_206_ctor __dll206_dll_206_ctor
 #define dll_206_dtor __dll206_dll_206_dtor
 #define dll_206_func_18 __dll206_dll_206_func_18
-#define _rodata_0 __dll206__rodata_0
-#define _rodata_4 __dll206__rodata_4
-#define _rodata_8 __dll206__rodata_8
-#define _rodata_C __dll206__rodata_C
-#define _rodata_10 __dll206__rodata_10
+#define rodata_0 __dll206_rodata_0
+#define rodata_4 __dll206_rodata_4
+#define rodata_8 __dll206_rodata_8
+#define rodata_C __dll206_rodata_C
+#define rodata_10 __dll206_rodata_10
 
 #endif //_DLL_206_RECOMP_H

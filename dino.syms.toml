@@ -590,7 +590,7 @@ functions = [
     { name = "copy_obj_position_mirrors", vram = 0x8002254C, size = 0x68 },
     { name = "update_object", vram = 0x800225B4, size = 0x178 },
     { name = "func_8002272C", vram = 0x8002272C, size = 0x80 },
-    { name = "obj_alloc_object_state", vram = 0x800227AC, size = 0x7C },
+    { name = "obj_alloc_objdata", vram = 0x800227AC, size = 0x7C },
     { name = "obj_get_model_flags", vram = 0x80022828, size = 0x40 },
     { name = "obj_init_event_data", vram = 0x80022868, size = 0x68 },
     { name = "obj_load_event", vram = 0x800228D0, size = 0xBC },

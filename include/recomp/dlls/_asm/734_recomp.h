@@ -27,16 +27,16 @@
 #define dll_734_func_25A4 __dll734_dll_734_func_25A4
 #define str_0 __dll734_str_0
 #define str_1C __dll734_str_1C
-#define _rodata_30 __dll734__rodata_30
-#define _rodata_10C __dll734__rodata_10C
-#define _rodata_110 __dll734__rodata_110
-#define _rodata_114 __dll734__rodata_114
-#define _rodata_118 __dll734__rodata_118
-#define _rodata_11C __dll734__rodata_11C
-#define _rodata_120 __dll734__rodata_120
-#define _rodata_124 __dll734__rodata_124
-#define _rodata_128 __dll734__rodata_128
-#define _rodata_16C __dll734__rodata_16C
-#define _data_0 __dll734__data_0
+#define rodata_30 __dll734_rodata_30
+#define rodata_10C __dll734_rodata_10C
+#define rodata_110 __dll734_rodata_110
+#define rodata_114 __dll734_rodata_114
+#define rodata_118 __dll734_rodata_118
+#define rodata_11C __dll734_rodata_11C
+#define rodata_120 __dll734_rodata_120
+#define rodata_124 __dll734_rodata_124
+#define rodata_128 __dll734_rodata_128
+#define rodata_16C __dll734_rodata_16C
+#define data_0 __dll734_data_0
 
 #endif //_DLL_734_RECOMP_H

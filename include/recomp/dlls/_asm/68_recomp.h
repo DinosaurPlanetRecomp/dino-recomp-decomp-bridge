@@ -8,11 +8,11 @@
 #define dll_68_func_C4 __dll68_dll_68_func_C4
 #define dll_68_func_D0 __dll68_dll_68_func_D0
 #define dll_68_func_D8 __dll68_dll_68_func_D8
-#define _data_0 __dll68__data_0
-#define _bss_0 __dll68__bss_0
-#define _bss_4 __dll68__bss_4
-#define _bss_8 __dll68__bss_8
-#define _bss_C __dll68__bss_C
-#define _bss_10 __dll68__bss_10
+#define data_0 __dll68_data_0
+#define bss_0 __dll68_bss_0
+#define bss_4 __dll68_bss_4
+#define bss_8 __dll68_bss_8
+#define bss_C __dll68_bss_C
+#define bss_10 __dll68_bss_10
 
 #endif //_DLL_68_RECOMP_H

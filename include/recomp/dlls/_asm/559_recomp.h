@@ -12,11 +12,11 @@
 #define dll_559_free __dll559_dll_559_free
 #define dll_559_get_model_flags __dll559_dll_559_get_model_flags
 #define dll_559_get_data_size __dll559_dll_559_get_data_size
-#define _rodata_0 __dll559__rodata_0
-#define _rodata_4 __dll559__rodata_4
-#define _rodata_8 __dll559__rodata_8
-#define _rodata_C __dll559__rodata_C
-#define _rodata_10 __dll559__rodata_10
-#define _rodata_14 __dll559__rodata_14
+#define rodata_0 __dll559_rodata_0
+#define rodata_4 __dll559_rodata_4
+#define rodata_8 __dll559_rodata_8
+#define rodata_C __dll559_rodata_C
+#define rodata_10 __dll559_rodata_10
+#define rodata_14 __dll559_rodata_14
 
 #endif //_DLL_559_RECOMP_H

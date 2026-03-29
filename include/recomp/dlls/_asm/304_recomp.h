@@ -19,14 +19,14 @@
 #define dll_304_func_E54 __dll304_dll_304_func_E54
 #define str_0 __dll304_str_0
 #define str_14 __dll304_str_14
-#define _rodata_38 __dll304__rodata_38
-#define _rodata_3C __dll304__rodata_3C
-#define _rodata_40 __dll304__rodata_40
-#define _rodata_44 __dll304__rodata_44
-#define _rodata_48 __dll304__rodata_48
-#define _rodata_4C __dll304__rodata_4C
-#define _rodata_50 __dll304__rodata_50
-#define _data_0 __dll304__data_0
-#define _data_4 __dll304__data_4
+#define rodata_38 __dll304_rodata_38
+#define rodata_3C __dll304_rodata_3C
+#define rodata_40 __dll304_rodata_40
+#define rodata_44 __dll304_rodata_44
+#define rodata_48 __dll304_rodata_48
+#define rodata_4C __dll304_rodata_4C
+#define rodata_50 __dll304_rodata_50
+#define data_0 __dll304_data_0
+#define data_4 __dll304_data_4
 
 #endif //_DLL_304_RECOMP_H

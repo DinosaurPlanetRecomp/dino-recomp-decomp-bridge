@@ -13,6 +13,6 @@
 #define dll_473_get_model_flags __dll473_dll_473_get_model_flags
 #define dll_473_get_data_size __dll473_dll_473_get_data_size
 #define str_0 __dll473_str_0
-#define _data_0 __dll473__data_0
+#define data_0 __dll473_data_0
 
 #endif //_DLL_473_RECOMP_H

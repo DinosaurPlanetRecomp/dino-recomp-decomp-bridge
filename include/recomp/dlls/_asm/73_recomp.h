@@ -14,11 +14,11 @@
 #define dll_73_func_6D0 __dll73_dll_73_func_6D0
 #define dll_73_func_764 __dll73_dll_73_func_764
 #define dll_73_func_780 __dll73_dll_73_func_780
-#define _data_0 __dll73__data_0
-#define _bss_0 __dll73__bss_0
-#define _bss_1 __dll73__bss_1
-#define _bss_2 __dll73__bss_2
-#define _bss_4 __dll73__bss_4
-#define _bss_8 __dll73__bss_8
+#define data_0 __dll73_data_0
+#define bss_0 __dll73_bss_0
+#define bss_1 __dll73_bss_1
+#define bss_2 __dll73_bss_2
+#define bss_4 __dll73_bss_4
+#define bss_8 __dll73_bss_8
 
 #endif //_DLL_73_RECOMP_H

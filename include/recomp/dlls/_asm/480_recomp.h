@@ -12,9 +12,9 @@
 #define dll_480_free __dll480_dll_480_free
 #define dll_480_get_model_flags __dll480_dll_480_get_model_flags
 #define dll_480_get_data_size __dll480_dll_480_get_data_size
-#define _rodata_0 __dll480__rodata_0
-#define _data_0 __dll480__data_0
-#define _data_4 __dll480__data_4
-#define _data_14 __dll480__data_14
+#define rodata_0 __dll480_rodata_0
+#define data_0 __dll480_data_0
+#define data_4 __dll480_data_4
+#define data_14 __dll480_data_14
 
 #endif //_DLL_480_RECOMP_H

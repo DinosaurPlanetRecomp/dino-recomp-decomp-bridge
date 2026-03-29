@@ -6,16 +6,16 @@
 #define dll_116_ctor __dll116_dll_116_ctor
 #define dll_116_dtor __dll116_dll_116_dtor
 #define dll_116_func_18 __dll116_dll_116_func_18
-#define _rodata_0 __dll116__rodata_0
-#define _rodata_4 __dll116__rodata_4
-#define _rodata_8 __dll116__rodata_8
-#define _data_0 __dll116__data_0
-#define _data_8C __dll116__data_8C
-#define _data_D4 __dll116__data_D4
-#define _data_F0 __dll116__data_F0
-#define _data_100 __dll116__data_100
-#define _data_110 __dll116__data_110
-#define _data_112 __dll116__data_112
-#define _data_114 __dll116__data_114
+#define rodata_0 __dll116_rodata_0
+#define rodata_4 __dll116_rodata_4
+#define rodata_8 __dll116_rodata_8
+#define data_0 __dll116_data_0
+#define data_8C __dll116_data_8C
+#define data_D4 __dll116_data_D4
+#define data_F0 __dll116_data_F0
+#define data_100 __dll116_data_100
+#define data_110 __dll116_data_110
+#define data_112 __dll116_data_112
+#define data_114 __dll116_data_114
 
 #endif //_DLL_116_RECOMP_H

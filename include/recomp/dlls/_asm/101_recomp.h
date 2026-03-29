@@ -9,6 +9,6 @@
 #define dll_101_func_17C __dll101_dll_101_func_17C
 #define dll_101_func_2C4 __dll101_dll_101_func_2C4
 #define dll_101_func_304 __dll101_dll_101_func_304
-#define _bss_0 __dll101__bss_0
+#define bss_0 __dll101_bss_0
 
 #endif //_DLL_101_RECOMP_H

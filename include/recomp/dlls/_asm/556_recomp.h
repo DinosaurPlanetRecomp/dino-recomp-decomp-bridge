@@ -13,11 +13,11 @@
 #define dll_556_get_model_flags __dll556_dll_556_get_model_flags
 #define dll_556_get_data_size __dll556_dll_556_get_data_size
 #define dll_556_func_844 __dll556_dll_556_func_844
-#define _rodata_0 __dll556__rodata_0
-#define _rodata_4 __dll556__rodata_4
-#define _rodata_8 __dll556__rodata_8
-#define _rodata_C __dll556__rodata_C
-#define _rodata_10 __dll556__rodata_10
-#define _rodata_14 __dll556__rodata_14
+#define rodata_0 __dll556_rodata_0
+#define rodata_4 __dll556_rodata_4
+#define rodata_8 __dll556_rodata_8
+#define rodata_C __dll556_rodata_C
+#define rodata_10 __dll556_rodata_10
+#define rodata_14 __dll556_rodata_14
 
 #endif //_DLL_556_RECOMP_H

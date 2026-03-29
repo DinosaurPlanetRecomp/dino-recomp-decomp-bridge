@@ -20,10 +20,10 @@
 #define dll_75_func_820 __dll75_dll_75_func_820
 #define dll_75_func_938 __dll75_dll_75_func_938
 #define dll_75_func_A00 __dll75_dll_75_func_A00
-#define _data_0 __dll75__data_0
-#define _data_10 __dll75__data_10
-#define _data_14 __dll75__data_14
-#define _bss_0 __dll75__bss_0
-#define _bss_1C __dll75__bss_1C
+#define data_0 __dll75_data_0
+#define data_10 __dll75_data_10
+#define data_14 __dll75_data_14
+#define bss_0 __dll75_bss_0
+#define bss_1C __dll75_bss_1C
 
 #endif //_DLL_75_RECOMP_H

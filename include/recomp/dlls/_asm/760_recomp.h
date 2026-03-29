@@ -14,9 +14,9 @@
 #define dll_760_get_data_size __dll760_dll_760_get_data_size
 #define dll_760_func_2FC __dll760_dll_760_func_2FC
 #define str_0 __dll760_str_0
-#define _rodata_C __dll760__rodata_C
-#define _rodata_10 __dll760__rodata_10
-#define _rodata_14 __dll760__rodata_14
-#define _rodata_18 __dll760__rodata_18
+#define rodata_C __dll760_rodata_C
+#define rodata_10 __dll760_rodata_10
+#define rodata_14 __dll760_rodata_14
+#define rodata_18 __dll760_rodata_18
 
 #endif //_DLL_760_RECOMP_H

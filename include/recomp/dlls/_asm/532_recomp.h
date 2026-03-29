@@ -12,7 +12,7 @@
 #define dll_532_free __dll532_dll_532_free
 #define dll_532_get_model_flags __dll532_dll_532_get_model_flags
 #define dll_532_get_data_size __dll532_dll_532_get_data_size
-#define _data_0 __dll532__data_0
-#define _data_1884 __dll532__data_1884
+#define data_0 __dll532_data_0
+#define data_1884 __dll532_data_1884
 
 #endif //_DLL_532_RECOMP_H

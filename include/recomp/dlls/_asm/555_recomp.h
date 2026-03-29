@@ -13,7 +13,7 @@
 #define dll_555_get_model_flags __dll555_dll_555_get_model_flags
 #define dll_555_get_data_size __dll555_dll_555_get_data_size
 #define dll_555_func_B20 __dll555_dll_555_func_B20
-#define _data_0 __dll555__data_0
-#define _data_8 __dll555__data_8
+#define data_0 __dll555_data_0
+#define data_8 __dll555_data_8
 
 #endif //_DLL_555_RECOMP_H

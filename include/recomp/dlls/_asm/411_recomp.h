@@ -17,9 +17,9 @@
 #define dll_411_func_960 __dll411_dll_411_func_960
 #define dll_411_func_AD0 __dll411_dll_411_func_AD0
 #define str_0 __dll411_str_0
-#define _rodata_8 __dll411__rodata_8
-#define _rodata_C __dll411__rodata_C
-#define _rodata_10 __dll411__rodata_10
-#define _data_0 __dll411__data_0
+#define rodata_8 __dll411_rodata_8
+#define rodata_C __dll411_rodata_C
+#define rodata_10 __dll411_rodata_10
+#define data_0 __dll411_data_0
 
 #endif //_DLL_411_RECOMP_H

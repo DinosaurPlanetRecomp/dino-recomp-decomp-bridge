@@ -18,8 +18,8 @@
 #define dll_404_func_564 __dll404_dll_404_func_564
 #define dll_404_func_804 __dll404_dll_404_func_804
 #define str_0 __dll404_str_0
-#define _rodata_3C __dll404__rodata_3C
-#define _rodata_40 __dll404__rodata_40
-#define _rodata_44 __dll404__rodata_44
+#define rodata_3C __dll404_rodata_3C
+#define rodata_40 __dll404_rodata_40
+#define rodata_44 __dll404_rodata_44
 
 #endif //_DLL_404_RECOMP_H

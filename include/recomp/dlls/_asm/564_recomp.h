@@ -12,9 +12,9 @@
 #define dll_564_free __dll564_dll_564_free
 #define dll_564_get_model_flags __dll564_dll_564_get_model_flags
 #define dll_564_get_data_size __dll564_dll_564_get_data_size
-#define _rodata_0 __dll564__rodata_0
-#define _rodata_4 __dll564__rodata_4
-#define _rodata_8 __dll564__rodata_8
-#define _rodata_C __dll564__rodata_C
+#define rodata_0 __dll564_rodata_0
+#define rodata_4 __dll564_rodata_4
+#define rodata_8 __dll564_rodata_8
+#define rodata_C __dll564_rodata_C
 
 #endif //_DLL_564_RECOMP_H

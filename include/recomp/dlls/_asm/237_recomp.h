@@ -21,14 +21,14 @@
 #define dll_237_func_1584 __dll237_dll_237_func_1584
 #define dll_237_func_170C __dll237_dll_237_func_170C
 #define dll_237_func_1874 __dll237_dll_237_func_1874
-#define _rodata_0 __dll237__rodata_0
-#define _rodata_4 __dll237__rodata_4
-#define _rodata_8 __dll237__rodata_8
-#define _rodata_C __dll237__rodata_C
-#define _rodata_10 __dll237__rodata_10
-#define _data_0 __dll237__data_0
-#define _data_1C __dll237__data_1C
-#define _bss_0 __dll237__bss_0
-#define _bss_14 __dll237__bss_14
+#define rodata_0 __dll237_rodata_0
+#define rodata_4 __dll237_rodata_4
+#define rodata_8 __dll237_rodata_8
+#define rodata_C __dll237_rodata_C
+#define rodata_10 __dll237_rodata_10
+#define data_0 __dll237_data_0
+#define data_1C __dll237_data_1C
+#define bss_0 __dll237_bss_0
+#define bss_14 __dll237_bss_14
 
 #endif //_DLL_237_RECOMP_H

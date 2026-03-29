@@ -13,14 +13,14 @@
 #define dll_247_get_model_flags __dll247_dll_247_get_model_flags
 #define dll_247_get_data_size __dll247_dll_247_get_data_size
 #define dll_247_func_A5C __dll247_dll_247_func_A5C
-#define _rodata_0 __dll247__rodata_0
-#define _rodata_4 __dll247__rodata_4
-#define _rodata_8 __dll247__rodata_8
-#define _rodata_C __dll247__rodata_C
-#define _rodata_10 __dll247__rodata_10
-#define _rodata_18 __dll247__rodata_18
-#define _rodata_1C __dll247__rodata_1C
-#define _data_0 __dll247__data_0
-#define _bss_0 __dll247__bss_0
+#define rodata_0 __dll247_rodata_0
+#define rodata_4 __dll247_rodata_4
+#define rodata_8 __dll247_rodata_8
+#define rodata_C __dll247_rodata_C
+#define rodata_10 __dll247_rodata_10
+#define rodata_18 __dll247_rodata_18
+#define rodata_1C __dll247_rodata_1C
+#define data_0 __dll247_data_0
+#define bss_0 __dll247_bss_0
 
 #endif //_DLL_247_RECOMP_H

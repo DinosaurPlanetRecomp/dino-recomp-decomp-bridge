@@ -13,7 +13,7 @@
 #define dll_87_func_4E4 __dll87_dll_87_func_4E4
 #define dll_87_func_558 __dll87_dll_87_func_558
 #define dll_87_func_5E8 __dll87_dll_87_func_5E8
-#define _rodata_0 __dll87__rodata_0
-#define _bss_0 __dll87__bss_0
+#define rodata_0 __dll87_rodata_0
+#define bss_0 __dll87_bss_0
 
 #endif //_DLL_87_RECOMP_H

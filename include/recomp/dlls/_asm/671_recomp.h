@@ -15,6 +15,6 @@
 #define dll_671_func_540 __dll671_dll_671_func_540
 #define dll_671_func_93C __dll671_dll_671_func_93C
 #define str_0 __dll671_str_0
-#define _data_0 __dll671__data_0
+#define data_0 __dll671_data_0
 
 #endif //_DLL_671_RECOMP_H

@@ -6,17 +6,17 @@
 #define dll_179_ctor __dll179_dll_179_ctor
 #define dll_179_dtor __dll179_dll_179_dtor
 #define dll_179_func_18 __dll179_dll_179_func_18
-#define _rodata_0 __dll179__rodata_0
-#define _rodata_4 __dll179__rodata_4
-#define _rodata_8 __dll179__rodata_8
-#define _data_0 __dll179__data_0
-#define _data_D4 __dll179__data_D4
-#define _data_174 __dll179__data_174
-#define _data_184 __dll179__data_184
-#define _data_194 __dll179__data_194
-#define _data_1B0 __dll179__data_1B0
-#define _data_1DC __dll179__data_1DC
-#define _data_1DE __dll179__data_1DE
-#define _data_1E0 __dll179__data_1E0
+#define rodata_0 __dll179_rodata_0
+#define rodata_4 __dll179_rodata_4
+#define rodata_8 __dll179_rodata_8
+#define data_0 __dll179_data_0
+#define data_D4 __dll179_data_D4
+#define data_174 __dll179_data_174
+#define data_184 __dll179_data_184
+#define data_194 __dll179_data_194
+#define data_1B0 __dll179_data_1B0
+#define data_1DC __dll179_data_1DC
+#define data_1DE __dll179_data_1DE
+#define data_1E0 __dll179_data_1E0
 
 #endif //_DLL_179_RECOMP_H

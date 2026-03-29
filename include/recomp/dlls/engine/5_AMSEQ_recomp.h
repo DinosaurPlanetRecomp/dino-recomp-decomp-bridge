@@ -93,8 +93,8 @@
 #define str_4C0 __dll5_str_4C0
 #define str_4F8 __dll5_str_4F8
 #define str_520 __dll5_str_520
-#define _rodata_554 __dll5__rodata_554
-#define _rodata_588 __dll5__rodata_588
+#define rodata_554 __dll5_rodata_554
+#define rodata_588 __dll5_rodata_588
 #define _data_0 __dll5__data_0
 #define _data_4 __dll5__data_4
 #define sFocusObj __dll5_sFocusObj

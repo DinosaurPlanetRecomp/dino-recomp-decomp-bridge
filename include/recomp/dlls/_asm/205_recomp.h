@@ -6,20 +6,20 @@
 #define dll_205_ctor __dll205_dll_205_ctor
 #define dll_205_dtor __dll205_dll_205_dtor
 #define dll_205_func_18 __dll205_dll_205_func_18
-#define _rodata_0 __dll205__rodata_0
-#define _rodata_4 __dll205__rodata_4
-#define _rodata_8 __dll205__rodata_8
-#define _rodata_C __dll205__rodata_C
-#define _rodata_10 __dll205__rodata_10
-#define _rodata_14 __dll205__rodata_14
-#define _rodata_18 __dll205__rodata_18
-#define _rodata_1C __dll205__rodata_1C
-#define _rodata_20 __dll205__rodata_20
-#define _rodata_24 __dll205__rodata_24
-#define _rodata_28 __dll205__rodata_28
-#define _rodata_2C __dll205__rodata_2C
-#define _rodata_30 __dll205__rodata_30
-#define _rodata_34 __dll205__rodata_34
-#define _rodata_38 __dll205__rodata_38
+#define rodata_0 __dll205_rodata_0
+#define rodata_4 __dll205_rodata_4
+#define rodata_8 __dll205_rodata_8
+#define rodata_C __dll205_rodata_C
+#define rodata_10 __dll205_rodata_10
+#define rodata_14 __dll205_rodata_14
+#define rodata_18 __dll205_rodata_18
+#define rodata_1C __dll205_rodata_1C
+#define rodata_20 __dll205_rodata_20
+#define rodata_24 __dll205_rodata_24
+#define rodata_28 __dll205_rodata_28
+#define rodata_2C __dll205_rodata_2C
+#define rodata_30 __dll205_rodata_30
+#define rodata_34 __dll205_rodata_34
+#define rodata_38 __dll205_rodata_38
 
 #endif //_DLL_205_RECOMP_H

@@ -8,7 +8,7 @@
 #define dll_72_func_100 __dll72_dll_72_func_100
 #define dll_72_func_10C __dll72_dll_72_func_10C
 #define dll_72_func_114 __dll72_dll_72_func_114
-#define _data_0 __dll72__data_0
-#define _data_4 __dll72__data_4
+#define data_0 __dll72_data_0
+#define data_4 __dll72_data_4
 
 #endif //_DLL_72_RECOMP_H

@@ -33,12 +33,12 @@
 #define dll_316_func_1A0C __dll316_dll_316_func_1A0C
 #define dll_316_func_1A84 __dll316_dll_316_func_1A84
 #define str_0 __dll316_str_0
-#define _rodata_84 __dll316__rodata_84
-#define _rodata_88 __dll316__rodata_88
-#define _rodata_A8 __dll316__rodata_A8
-#define _rodata_AC __dll316__rodata_AC
-#define _rodata_B0 __dll316__rodata_B0
-#define _rodata_B4 __dll316__rodata_B4
-#define _rodata_B8 __dll316__rodata_B8
+#define rodata_84 __dll316_rodata_84
+#define rodata_88 __dll316_rodata_88
+#define rodata_A8 __dll316_rodata_A8
+#define rodata_AC __dll316_rodata_AC
+#define rodata_B0 __dll316_rodata_B0
+#define rodata_B4 __dll316_rodata_B4
+#define rodata_B8 __dll316_rodata_B8
 
 #endif //_DLL_316_RECOMP_H

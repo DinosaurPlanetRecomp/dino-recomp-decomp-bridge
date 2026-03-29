@@ -14,7 +14,7 @@
 #define dll_389_get_data_size __dll389_dll_389_get_data_size
 #define dll_389_func_490 __dll389_dll_389_func_490
 #define str_0 __dll389_str_0
-#define _data_0 __dll389__data_0
-#define _bss_0 __dll389__bss_0
+#define data_0 __dll389_data_0
+#define bss_0 __dll389_bss_0
 
 #endif //_DLL_389_RECOMP_H

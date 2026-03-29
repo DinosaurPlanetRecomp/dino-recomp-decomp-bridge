@@ -15,7 +15,7 @@
 #define dll_694_func_47C __dll694_dll_694_func_47C
 #define dll_694_func_4E8 __dll694_dll_694_func_4E8
 #define dll_694_func_4F8 __dll694_dll_694_func_4F8
-#define _rodata_0 __dll694__rodata_0
-#define _rodata_4 __dll694__rodata_4
+#define rodata_0 __dll694_rodata_0
+#define rodata_4 __dll694_rodata_4
 
 #endif //_DLL_694_RECOMP_H

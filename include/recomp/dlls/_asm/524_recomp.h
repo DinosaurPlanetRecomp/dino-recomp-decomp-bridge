@@ -12,9 +12,9 @@
 #define dll_524_free __dll524_dll_524_free
 #define dll_524_get_model_flags __dll524_dll_524_get_model_flags
 #define dll_524_get_data_size __dll524_dll_524_get_data_size
-#define _bss_0 __dll524__bss_0
-#define _bss_C __dll524__bss_C
-#define _bss_10 __dll524__bss_10
-#define _bss_14 __dll524__bss_14
+#define bss_0 __dll524_bss_0
+#define bss_C __dll524_bss_C
+#define bss_10 __dll524_bss_10
+#define bss_14 __dll524_bss_14
 
 #endif //_DLL_524_RECOMP_H

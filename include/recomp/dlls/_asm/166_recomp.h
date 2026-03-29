@@ -6,14 +6,14 @@
 #define dll_166_ctor __dll166_dll_166_ctor
 #define dll_166_dtor __dll166_dll_166_dtor
 #define dll_166_func_18 __dll166_dll_166_func_18
-#define _rodata_0 __dll166__rodata_0
-#define _rodata_4 __dll166__rodata_4
-#define _data_0 __dll166__data_0
-#define _data_D4 __dll166__data_D4
-#define _data_164 __dll166__data_164
-#define _data_1B0 __dll166__data_1B0
-#define _data_1F8 __dll166__data_1F8
-#define _data_1FA __dll166__data_1FA
-#define _data_1FC __dll166__data_1FC
+#define rodata_0 __dll166_rodata_0
+#define rodata_4 __dll166_rodata_4
+#define data_0 __dll166_data_0
+#define data_D4 __dll166_data_D4
+#define data_164 __dll166_data_164
+#define data_1B0 __dll166_data_1B0
+#define data_1F8 __dll166_data_1F8
+#define data_1FA __dll166_data_1FA
+#define data_1FC __dll166_data_1FC
 
 #endif //_DLL_166_RECOMP_H

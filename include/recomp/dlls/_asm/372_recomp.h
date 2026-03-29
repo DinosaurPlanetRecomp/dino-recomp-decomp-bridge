@@ -15,14 +15,14 @@
 #define dll_372_func_288 __dll372_dll_372_func_288
 #define dll_372_func_11B8 __dll372_dll_372_func_11B8
 #define str_0 __dll372_str_0
-#define _rodata_34 __dll372__rodata_34
-#define _rodata_38 __dll372__rodata_38
-#define _rodata_3C __dll372__rodata_3C
-#define _rodata_40 __dll372__rodata_40
-#define _rodata_44 __dll372__rodata_44
-#define _data_0 __dll372__data_0
-#define _data_C __dll372__data_C
-#define _data_10 __dll372__data_10
-#define _bss_0 __dll372__bss_0
+#define rodata_34 __dll372_rodata_34
+#define rodata_38 __dll372_rodata_38
+#define rodata_3C __dll372_rodata_3C
+#define rodata_40 __dll372_rodata_40
+#define rodata_44 __dll372_rodata_44
+#define data_0 __dll372_data_0
+#define data_C __dll372_data_C
+#define data_10 __dll372_data_10
+#define bss_0 __dll372_bss_0
 
 #endif //_DLL_372_RECOMP_H

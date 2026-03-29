@@ -6,6 +6,6 @@
 #define dll_195_ctor __dll195_dll_195_ctor
 #define dll_195_dtor __dll195_dll_195_dtor
 #define dll_195_func_18 __dll195_dll_195_func_18
-#define _rodata_0 __dll195__rodata_0
+#define rodata_0 __dll195_rodata_0
 
 #endif //_DLL_195_RECOMP_H

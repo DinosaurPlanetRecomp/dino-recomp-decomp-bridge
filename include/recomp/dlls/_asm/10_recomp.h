@@ -10,18 +10,18 @@
 #define dll_10_func_1118 __dll10_dll_10_func_1118
 #define dll_10_func_119C __dll10_dll_10_func_119C
 #define str_0 __dll10_str_0
-#define _rodata_68 __dll10__rodata_68
-#define _data_0 __dll10__data_0
-#define _data_4 __dll10__data_4
-#define _data_8 __dll10__data_8
-#define _data_C __dll10__data_C
-#define _data_128 __dll10__data_128
-#define _data_12C __dll10__data_12C
-#define _bss_0 __dll10__bss_0
-#define _bss_8 __dll10__bss_8
-#define _bss_14 __dll10__bss_14
-#define _bss_D0 __dll10__bss_D0
-#define _bss_DC __dll10__bss_DC
+#define rodata_68 __dll10_rodata_68
+#define data_0 __dll10_data_0
+#define data_4 __dll10_data_4
+#define data_8 __dll10_data_8
+#define data_C __dll10_data_C
+#define data_128 __dll10_data_128
+#define data_12C __dll10_data_12C
+#define bss_0 __dll10_bss_0
+#define bss_8 __dll10_bss_8
+#define bss_14 __dll10_bss_14
+#define bss_D0 __dll10_bss_D0
+#define bss_DC __dll10_bss_DC
 #define _oob_bss_17C __dll10__oob_bss_17C
 
 #endif //_DLL_10_RECOMP_H

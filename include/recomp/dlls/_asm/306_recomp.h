@@ -15,11 +15,11 @@
 #define dll_306_func_6E0 __dll306_dll_306_func_6E0
 #define dll_306_func_7FC __dll306_dll_306_func_7FC
 #define dll_306_func_95C __dll306_dll_306_func_95C
-#define _rodata_0 __dll306__rodata_0
-#define _rodata_4 __dll306__rodata_4
-#define _data_0 __dll306__data_0
-#define _data_20 __dll306__data_20
-#define _data_40 __dll306__data_40
-#define _data_60 __dll306__data_60
+#define rodata_0 __dll306_rodata_0
+#define rodata_4 __dll306_rodata_4
+#define data_0 __dll306_data_0
+#define data_20 __dll306_data_20
+#define data_40 __dll306_data_40
+#define data_60 __dll306_data_60
 
 #endif //_DLL_306_RECOMP_H

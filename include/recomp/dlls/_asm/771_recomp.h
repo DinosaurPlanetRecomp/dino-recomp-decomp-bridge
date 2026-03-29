@@ -14,19 +14,19 @@
 #define dll_771_get_data_size __dll771_dll_771_get_data_size
 #define dll_771_func_6BC __dll771_dll_771_func_6BC
 #define dll_771_func_7DC __dll771_dll_771_func_7DC
-#define _rodata_0 __dll771__rodata_0
-#define _rodata_20 __dll771__rodata_20
-#define _rodata_24 __dll771__rodata_24
-#define _rodata_28 __dll771__rodata_28
-#define _rodata_2C __dll771__rodata_2C
-#define _rodata_30 __dll771__rodata_30
-#define _rodata_34 __dll771__rodata_34
-#define _rodata_38 __dll771__rodata_38
-#define _rodata_3C __dll771__rodata_3C
-#define _rodata_40 __dll771__rodata_40
-#define _rodata_44 __dll771__rodata_44
-#define _rodata_48 __dll771__rodata_48
-#define _data_0 __dll771__data_0
-#define _data_4 __dll771__data_4
+#define rodata_0 __dll771_rodata_0
+#define rodata_20 __dll771_rodata_20
+#define rodata_24 __dll771_rodata_24
+#define rodata_28 __dll771_rodata_28
+#define rodata_2C __dll771_rodata_2C
+#define rodata_30 __dll771_rodata_30
+#define rodata_34 __dll771_rodata_34
+#define rodata_38 __dll771_rodata_38
+#define rodata_3C __dll771_rodata_3C
+#define rodata_40 __dll771_rodata_40
+#define rodata_44 __dll771_rodata_44
+#define rodata_48 __dll771_rodata_48
+#define data_0 __dll771_data_0
+#define data_4 __dll771_data_4
 
 #endif //_DLL_771_RECOMP_H

@@ -12,7 +12,7 @@
 #define dll_261_free __dll261_dll_261_free
 #define dll_261_get_model_flags __dll261_dll_261_get_model_flags
 #define dll_261_get_data_size __dll261_dll_261_get_data_size
-#define _rodata_0 __dll261__rodata_0
-#define _rodata_4 __dll261__rodata_4
+#define rodata_0 __dll261_rodata_0
+#define rodata_4 __dll261_rodata_4
 
 #endif //_DLL_261_RECOMP_H

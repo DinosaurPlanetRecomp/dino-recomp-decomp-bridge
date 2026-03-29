@@ -14,13 +14,13 @@
 #define dll_445_get_data_size __dll445_dll_445_get_data_size
 #define dll_445_func_628 __dll445_dll_445_func_628
 #define dll_445_func_A8C __dll445_dll_445_func_A8C
-#define _rodata_0 __dll445__rodata_0
-#define _rodata_4 __dll445__rodata_4
-#define _rodata_8 __dll445__rodata_8
-#define _bss_0 __dll445__bss_0
-#define _bss_8 __dll445__bss_8
-#define _bss_C __dll445__bss_C
-#define _bss_10 __dll445__bss_10
-#define _bss_14 __dll445__bss_14
+#define rodata_0 __dll445_rodata_0
+#define rodata_4 __dll445_rodata_4
+#define rodata_8 __dll445_rodata_8
+#define bss_0 __dll445_bss_0
+#define bss_8 __dll445_bss_8
+#define bss_C __dll445_bss_C
+#define bss_10 __dll445_bss_10
+#define bss_14 __dll445_bss_14
 
 #endif //_DLL_445_RECOMP_H

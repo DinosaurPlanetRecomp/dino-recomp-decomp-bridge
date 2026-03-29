@@ -13,7 +13,7 @@
 #define dll_341_get_model_flags __dll341_dll_341_get_model_flags
 #define dll_341_get_data_size __dll341_dll_341_get_data_size
 #define dll_341_func_2D0 __dll341_dll_341_func_2D0
-#define _rodata_0 __dll341__rodata_0
-#define _data_0 __dll341__data_0
+#define rodata_0 __dll341_rodata_0
+#define data_0 __dll341_data_0
 
 #endif //_DLL_341_RECOMP_H

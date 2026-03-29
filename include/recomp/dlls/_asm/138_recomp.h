@@ -6,17 +6,17 @@
 #define dll_138_ctor __dll138_dll_138_ctor
 #define dll_138_dtor __dll138_dll_138_dtor
 #define dll_138_func_18 __dll138_dll_138_func_18
-#define _rodata_0 __dll138__rodata_0
-#define _rodata_4 __dll138__rodata_4
-#define _rodata_8 __dll138__rodata_8
-#define _rodata_C __dll138__rodata_C
-#define _rodata_10 __dll138__rodata_10
-#define _data_0 __dll138__data_0
-#define _data_5C __dll138__data_5C
-#define _data_8C __dll138__data_8C
-#define _data_A4 __dll138__data_A4
-#define _data_B4 __dll138__data_B4
-#define _data_B6 __dll138__data_B6
-#define _data_B8 __dll138__data_B8
+#define rodata_0 __dll138_rodata_0
+#define rodata_4 __dll138_rodata_4
+#define rodata_8 __dll138_rodata_8
+#define rodata_C __dll138_rodata_C
+#define rodata_10 __dll138_rodata_10
+#define data_0 __dll138_data_0
+#define data_5C __dll138_data_5C
+#define data_8C __dll138_data_8C
+#define data_A4 __dll138_data_A4
+#define data_B4 __dll138_data_B4
+#define data_B6 __dll138_data_B6
+#define data_B8 __dll138_data_B8
 
 #endif //_DLL_138_RECOMP_H

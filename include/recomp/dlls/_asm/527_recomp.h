@@ -18,8 +18,8 @@
 #define dll_527_func_960 __dll527_dll_527_func_960
 #define dll_527_func_A70 __dll527_dll_527_func_A70
 #define dll_527_func_B80 __dll527_dll_527_func_B80
-#define _data_0 __dll527__data_0
-#define _data_8 __dll527__data_8
-#define _data_10 __dll527__data_10
+#define data_0 __dll527_data_0
+#define data_8 __dll527_data_8
+#define data_10 __dll527_data_10
 
 #endif //_DLL_527_RECOMP_H

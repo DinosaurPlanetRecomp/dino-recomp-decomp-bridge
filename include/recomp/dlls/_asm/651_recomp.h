@@ -12,10 +12,10 @@
 #define dll_651_free __dll651_dll_651_free
 #define dll_651_get_model_flags __dll651_dll_651_get_model_flags
 #define dll_651_get_data_size __dll651_dll_651_get_data_size
-#define _rodata_0 __dll651__rodata_0
-#define _rodata_4 __dll651__rodata_4
-#define _rodata_8 __dll651__rodata_8
-#define _data_0 __dll651__data_0
-#define _data_8 __dll651__data_8
+#define rodata_0 __dll651_rodata_0
+#define rodata_4 __dll651_rodata_4
+#define rodata_8 __dll651_rodata_8
+#define data_0 __dll651_data_0
+#define data_8 __dll651_data_8
 
 #endif //_DLL_651_RECOMP_H

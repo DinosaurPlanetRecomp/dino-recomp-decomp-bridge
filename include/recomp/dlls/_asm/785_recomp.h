@@ -14,6 +14,6 @@
 #define dll_785_get_data_size __dll785_dll_785_get_data_size
 #define dll_785_func_634 __dll785_dll_785_func_634
 #define str_0 __dll785_str_0
-#define _data_0 __dll785__data_0
+#define data_0 __dll785_data_0
 
 #endif //_DLL_785_RECOMP_H

@@ -14,13 +14,13 @@
 #define dll_635_get_data_size __dll635_dll_635_get_data_size
 #define dll_635_func_208 __dll635_dll_635_func_208
 #define dll_635_func_224 __dll635_dll_635_func_224
-#define _rodata_0 __dll635__rodata_0
-#define _rodata_4 __dll635__rodata_4
-#define _rodata_8 __dll635__rodata_8
-#define _rodata_C __dll635__rodata_C
-#define _rodata_10 __dll635__rodata_10
-#define _rodata_14 __dll635__rodata_14
-#define _data_0 __dll635__data_0
-#define _data_14 __dll635__data_14
+#define rodata_0 __dll635_rodata_0
+#define rodata_4 __dll635_rodata_4
+#define rodata_8 __dll635_rodata_8
+#define rodata_C __dll635_rodata_C
+#define rodata_10 __dll635_rodata_10
+#define rodata_14 __dll635_rodata_14
+#define data_0 __dll635_data_0
+#define data_14 __dll635_data_14
 
 #endif //_DLL_635_RECOMP_H

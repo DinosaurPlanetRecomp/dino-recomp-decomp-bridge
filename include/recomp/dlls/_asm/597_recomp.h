@@ -13,6 +13,6 @@
 #define dll_597_get_model_flags __dll597_dll_597_get_model_flags
 #define dll_597_get_data_size __dll597_dll_597_get_data_size
 #define dll_597_func_428 __dll597_dll_597_func_428
-#define _rodata_0 __dll597__rodata_0
+#define rodata_0 __dll597_rodata_0
 
 #endif //_DLL_597_RECOMP_H

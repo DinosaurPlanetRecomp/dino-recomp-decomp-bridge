@@ -12,6 +12,6 @@
 #define dll_604_free __dll604_dll_604_free
 #define dll_604_get_model_flags __dll604_dll_604_get_model_flags
 #define dll_604_get_data_size __dll604_dll_604_get_data_size
-#define _rodata_0 __dll604__rodata_0
+#define rodata_0 __dll604_rodata_0
 
 #endif //_DLL_604_RECOMP_H

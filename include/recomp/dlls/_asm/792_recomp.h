@@ -12,6 +12,6 @@
 #define dll_792_free __dll792_dll_792_free
 #define dll_792_get_model_flags __dll792_dll_792_get_model_flags
 #define dll_792_get_data_size __dll792_dll_792_get_data_size
-#define _data_0 __dll792__data_0
+#define data_0 __dll792_data_0
 
 #endif //_DLL_792_RECOMP_H

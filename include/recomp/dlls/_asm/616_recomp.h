@@ -12,13 +12,13 @@
 #define dll_616_free __dll616_dll_616_free
 #define dll_616_get_model_flags __dll616_dll_616_get_model_flags
 #define dll_616_get_data_size __dll616_dll_616_get_data_size
-#define _rodata_0 __dll616__rodata_0
-#define _rodata_4 __dll616__rodata_4
-#define _rodata_8 __dll616__rodata_8
-#define _rodata_C __dll616__rodata_C
-#define _rodata_10 __dll616__rodata_10
-#define _rodata_14 __dll616__rodata_14
-#define _rodata_18 __dll616__rodata_18
-#define _rodata_1C __dll616__rodata_1C
+#define rodata_0 __dll616_rodata_0
+#define rodata_4 __dll616_rodata_4
+#define rodata_8 __dll616_rodata_8
+#define rodata_C __dll616_rodata_C
+#define rodata_10 __dll616_rodata_10
+#define rodata_14 __dll616_rodata_14
+#define rodata_18 __dll616_rodata_18
+#define rodata_1C __dll616_rodata_1C
 
 #endif //_DLL_616_RECOMP_H

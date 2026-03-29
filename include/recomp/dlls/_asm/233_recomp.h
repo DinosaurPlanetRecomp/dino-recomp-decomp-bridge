@@ -24,20 +24,20 @@
 #define dll_233_func_14A4 __dll233_dll_233_func_14A4
 #define dll_233_func_161C __dll233_dll_233_func_161C
 #define dll_233_func_18DC __dll233_dll_233_func_18DC
-#define _rodata_0 __dll233__rodata_0
-#define _rodata_4 __dll233__rodata_4
-#define _rodata_8 __dll233__rodata_8
-#define _rodata_C __dll233__rodata_C
-#define _rodata_10 __dll233__rodata_10
-#define _rodata_14 __dll233__rodata_14
-#define _rodata_18 __dll233__rodata_18
-#define _rodata_1C __dll233__rodata_1C
-#define _rodata_20 __dll233__rodata_20
-#define _rodata_24 __dll233__rodata_24
-#define _data_0 __dll233__data_0
-#define _data_1C __dll233__data_1C
-#define _data_24 __dll233__data_24
-#define _bss_0 __dll233__bss_0
-#define _bss_1C __dll233__bss_1C
+#define rodata_0 __dll233_rodata_0
+#define rodata_4 __dll233_rodata_4
+#define rodata_8 __dll233_rodata_8
+#define rodata_C __dll233_rodata_C
+#define rodata_10 __dll233_rodata_10
+#define rodata_14 __dll233_rodata_14
+#define rodata_18 __dll233_rodata_18
+#define rodata_1C __dll233_rodata_1C
+#define rodata_20 __dll233_rodata_20
+#define rodata_24 __dll233_rodata_24
+#define data_0 __dll233_data_0
+#define data_1C __dll233_data_1C
+#define data_24 __dll233_data_24
+#define bss_0 __dll233_bss_0
+#define bss_1C __dll233_bss_1C
 
 #endif //_DLL_233_RECOMP_H

@@ -16,10 +16,10 @@
 #define dll_631_func_5E4 __dll631_dll_631_func_5E4
 #define dll_631_func_754 __dll631_dll_631_func_754
 #define dll_631_func_80C __dll631_dll_631_func_80C
-#define _data_0 __dll631__data_0
-#define _data_4 __dll631__data_4
-#define _data_8 __dll631__data_8
-#define _data_C __dll631__data_C
-#define _data_18 __dll631__data_18
+#define data_0 __dll631_data_0
+#define data_4 __dll631_data_4
+#define data_8 __dll631_data_8
+#define data_C __dll631_data_C
+#define data_18 __dll631_data_18
 
 #endif //_DLL_631_RECOMP_H
