@@ -1843,9 +1843,9 @@ symbols = [
     { name = "__dll2_sPlayerX", vram = 0x8100B9DC },
     { name = "__dll2_sPlayerY", vram = 0x8100B9E0 },
     { name = "__dll2_sPlayerZ", vram = 0x8100B9E4 },
-    { name = "__dll2_sPlayerPositionMirrorX", vram = 0x8100B9E8 },
-    { name = "__dll2_sPlayerPositionMirrorY", vram = 0x8100B9EC },
-    { name = "__dll2_sPlayerPositionMirrorZ", vram = 0x8100B9F0 },
+    { name = "__dll2_sPlayerGlobalPositionX", vram = 0x8100B9E8 },
+    { name = "__dll2_sPlayerGlobalPositionY", vram = 0x8100B9EC },
+    { name = "__dll2_sPlayerGlobalPositionZ", vram = 0x8100B9F0 },
     { name = "__dll2_sFov", vram = 0x8100B9F4 },
     { name = "__dll2__bss_1C4", vram = 0x8100B9F8 },
     { name = "__dll2__bss_1C8", vram = 0x8100B9FC },
@@ -5859,14 +5859,7 @@ vram = 0x810F5030
 size = 0x5B0
 
 symbols = [
-    { name = "__dll92_rodata_0", vram = 0x810F5588 },
-    { name = "__dll92_rodata_4", vram = 0x810F558C },
-    { name = "__dll92_rodata_8", vram = 0x810F5590 },
-    { name = "__dll92_rodata_C", vram = 0x810F5594 },
-    { name = "__dll92_rodata_10", vram = 0x810F5598 },
-    { name = "__dll92_rodata_14", vram = 0x810F559C },
-    { name = "__dll92_rodata_18", vram = 0x810F55A0 },
-    { name = "__dll92_bss_0", vram = 0x810F55A8 },
+    { name = "__dll92__bss_0", vram = 0x810F55A8 },
 ]
 
 [[section]]

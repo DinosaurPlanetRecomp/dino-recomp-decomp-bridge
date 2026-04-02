@@ -67,9 +67,9 @@
 #define sPlayerX __dll2_sPlayerX
 #define sPlayerY __dll2_sPlayerY
 #define sPlayerZ __dll2_sPlayerZ
-#define sPlayerPositionMirrorX __dll2_sPlayerPositionMirrorX
-#define sPlayerPositionMirrorY __dll2_sPlayerPositionMirrorY
-#define sPlayerPositionMirrorZ __dll2_sPlayerPositionMirrorZ
+#define sPlayerGlobalPositionX __dll2_sPlayerGlobalPositionX
+#define sPlayerGlobalPositionY __dll2_sPlayerGlobalPositionY
+#define sPlayerGlobalPositionZ __dll2_sPlayerGlobalPositionZ
 #define sFov __dll2_sFov
 #define _bss_1C4 __dll2__bss_1C4
 #define _bss_1C8 __dll2__bss_1C8
