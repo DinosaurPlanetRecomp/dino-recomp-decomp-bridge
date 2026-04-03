@@ -1244,7 +1244,7 @@ symbols = [
     { name = "gMobileMapID", vram = 0x800B4A70 },
     { name = "gMobileMapUnknown", vram = 0x800B4A72 },
     { name = "gFrustumPlanes", vram = 0x800B4A78 },
-    { name = "_bss_800b97c8", vram = 0x800B4AD0 },
+    { name = "_bss_800b97c8", vram = 0x800B4AD8 },
     { name = "D_800B4ADC", vram = 0x800B4ADC },
     { name = "gRenderList", vram = 0x800B4AE0 },
     { name = "gRenderListLength", vram = 0x800B5120 },
