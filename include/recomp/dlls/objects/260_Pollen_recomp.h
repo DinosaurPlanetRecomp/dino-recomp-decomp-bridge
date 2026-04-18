@@ -3,16 +3,15 @@
 #ifndef _DLL_260_RECOMP_H
 #define _DLL_260_RECOMP_H
 
-#define dll_260_ctor __dll260_dll_260_ctor
-#define dll_260_dtor __dll260_dll_260_dtor
-#define dll_260_setup __dll260_dll_260_setup
-#define dll_260_func_13C __dll260_dll_260_func_13C
-#define dll_260_control __dll260_dll_260_control
-#define dll_260_update __dll260_dll_260_update
-#define dll_260_print __dll260_dll_260_print
-#define dll_260_free __dll260_dll_260_free
-#define dll_260_get_model_flags __dll260_dll_260_get_model_flags
-#define dll_260_get_data_size __dll260_dll_260_get_data_size
-#define rodata_8 __dll260_rodata_8
+#define Pollen_ctor __dll260_Pollen_ctor
+#define Pollen_dtor __dll260_Pollen_dtor
+#define Pollen_setup __dll260_Pollen_setup
+#define Pollen_create_fragments __dll260_Pollen_create_fragments
+#define Pollen_control __dll260_Pollen_control
+#define Pollen_update __dll260_Pollen_update
+#define Pollen_print __dll260_Pollen_print
+#define Pollen_free __dll260_Pollen_free
+#define Pollen_get_model_flags __dll260_Pollen_get_model_flags
+#define Pollen_get_data_size __dll260_Pollen_get_data_size
 
 #endif //_DLL_260_RECOMP_H

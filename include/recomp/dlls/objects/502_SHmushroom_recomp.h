@@ -3,20 +3,20 @@
 #ifndef _DLL_502_RECOMP_H
 #define _DLL_502_RECOMP_H
 
-#define dll_502_ctor __dll502_dll_502_ctor
-#define dll_502_dtor __dll502_dll_502_dtor
-#define dll_502_setup __dll502_dll_502_setup
-#define dll_502_control __dll502_dll_502_control
-#define dll_502_update __dll502_dll_502_update
-#define dll_502_print __dll502_dll_502_print
-#define dll_502_free __dll502_dll_502_free
-#define dll_502_get_model_flags __dll502_dll_502_get_model_flags
-#define dll_502_get_data_size __dll502_dll_502_get_data_size
-#define dll_502_func_910 __dll502_dll_502_func_910
-#define dll_502_func_C70 __dll502_dll_502_func_C70
-#define dll_502_func_D74 __dll502_dll_502_func_D74
+#define SHmushroom_ctor __dll502_SHmushroom_ctor
+#define SHmushroom_dtor __dll502_SHmushroom_dtor
+#define SHmushroom_setup __dll502_SHmushroom_setup
+#define SHmushroom_control __dll502_SHmushroom_control
+#define SHmushroom_update __dll502_SHmushroom_update
+#define SHmushroom_print __dll502_SHmushroom_print
+#define SHmushroom_free __dll502_SHmushroom_free
+#define SHmushroom_get_model_flags __dll502_SHmushroom_get_model_flags
+#define SHmushroom_get_data_size __dll502_SHmushroom_get_data_size
+#define SHmushroom_flee_from_player __dll502_SHmushroom_flee_from_player
+#define SHmushroom_flee_along_curve __dll502_SHmushroom_flee_along_curve
+#define SHmushroom_tick_state_machine __dll502_SHmushroom_tick_state_machine
 #define str_0 __dll502_str_0
-#define _data_0 __dll502__data_0
-#define _data_14 __dll502__data_14
+#define dStateModAnimIDs __dll502_dStateModAnimIDs
+#define dStateAnimSpeeds __dll502_dStateAnimSpeeds
 
 #endif //_DLL_502_RECOMP_H

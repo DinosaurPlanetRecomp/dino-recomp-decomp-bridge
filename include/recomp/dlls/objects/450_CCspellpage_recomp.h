@@ -13,6 +13,6 @@
 #define CCspellpage_get_model_flags __dll450_CCspellpage_get_model_flags
 #define CCspellpage_get_data_size __dll450_CCspellpage_get_data_size
 #define CCspellpage_anim_callback __dll450_CCspellpage_anim_callback
-#define _data_0 __dll450__data_0
+#define dShowInfoScrollTimer __dll450_dShowInfoScrollTimer
 
 #endif //_DLL_450_RECOMP_H

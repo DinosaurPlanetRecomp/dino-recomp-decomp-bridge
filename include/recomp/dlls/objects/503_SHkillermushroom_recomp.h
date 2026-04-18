@@ -3,17 +3,17 @@
 #ifndef _DLL_503_RECOMP_H
 #define _DLL_503_RECOMP_H
 
-#define dll_503_ctor __dll503_dll_503_ctor
-#define dll_503_dtor __dll503_dll_503_dtor
-#define dll_503_setup __dll503_dll_503_setup
-#define dll_503_control __dll503_dll_503_control
-#define dll_503_update __dll503_dll_503_update
-#define dll_503_print __dll503_dll_503_print
-#define dll_503_free __dll503_dll_503_free
-#define dll_503_get_model_flags __dll503_dll_503_get_model_flags
-#define dll_503_get_data_size __dll503_dll_503_get_data_size
-#define dll_503_func_DE4 __dll503_dll_503_func_DE4
-#define _data_0 __dll503__data_0
-#define _data_18 __dll503__data_18
+#define SHkillermushroom_ctor __dll503_SHkillermushroom_ctor
+#define SHkillermushroom_dtor __dll503_SHkillermushroom_dtor
+#define SHkillermushroom_setup __dll503_SHkillermushroom_setup
+#define SHkillermushroom_control __dll503_SHkillermushroom_control
+#define SHkillermushroom_update __dll503_SHkillermushroom_update
+#define SHkillermushroom_print __dll503_SHkillermushroom_print
+#define SHkillermushroom_free __dll503_SHkillermushroom_free
+#define SHkillermushroom_get_model_flags __dll503_SHkillermushroom_get_model_flags
+#define SHkillermushroom_get_data_size __dll503_SHkillermushroom_get_data_size
+#define SHkillermushroom_reset __dll503_SHkillermushroom_reset
+#define dStateModAnimIDs __dll503_dStateModAnimIDs
+#define dStateAnimSpeeds __dll503_dStateAnimSpeeds
 
 #endif //_DLL_503_RECOMP_H
