@@ -3,22 +3,22 @@
 #ifndef _DLL_61_RECOMP_H
 #define _DLL_61_RECOMP_H
 
-#define dll_61_ctor __dll61_dll_61_ctor
-#define dll_61_dtor __dll61_dll_61_dtor
-#define dll_61_update1 __dll61_dll_61_update1
-#define dll_61_update2 __dll61_dll_61_update2
-#define dll_61_draw __dll61_dll_61_draw
-#define data_0 __dll61_data_0
-#define data_4 __dll61_data_4
+#define rareware_ctor __dll61_rareware_ctor
+#define rareware_dtor __dll61_rareware_dtor
+#define rareware_update1 __dll61_rareware_update1
+#define rareware_update2 __dll61_rareware_update2
+#define rareware_draw __dll61_rareware_draw
+#define dFrame __dll61_dFrame
+#define dState __dll61_dState
 #define dColourUnused __dll61_dColourUnused
-#define bss_0 __dll61_bss_0
-#define bss_1 __dll61_bss_1
-#define bss_2 __dll61_bss_2
-#define bss_4 __dll61_bss_4
-#define bss_8 __dll61_bss_8
-#define bss_C __dll61_bss_C
-#define bss_10 __dll61_bss_10
-#define bss_14 __dll61_bss_14
-#define bss_18 __dll61_bss_18
+#define sFadeOutStarted __dll61_sFadeOutStarted
+#define sFadeOutTimer __dll61_sFadeOutTimer
+#define sCutToNextScreen __dll61_sCutToNextScreen
+#define sLogoTimer __dll61_sLogoTimer
+#define sGlowTimer __dll61_sGlowTimer
+#define sTexRareLogo __dll61_sTexRareLogo
+#define sTexRareLogoGlow __dll61_sTexRareLogoGlow
+#define sTexRareware __dll61_sTexRareware
+#define sTexRarewareGlow __dll61_sTexRarewareGlow
 
 #endif //_DLL_61_RECOMP_H

@@ -101,8 +101,8 @@
 #define dPage4FoodItemsKrystal __dll1_dPage4FoodItemsKrystal
 #define dPage5FoodItemsSabre __dll1_dPage5FoodItemsSabre
 #define dPage6MagicSpells __dll1_dPage6MagicSpells
-#define dPage7CommandsKyte __dll1_dPage7CommandsKyte
-#define sPage8CommandsTricky __dll1_sPage8CommandsTricky
+#define dPage7CommandsTricky __dll1_dPage7CommandsTricky
+#define sPage8CommandsKyte __dll1_sPage8CommandsKyte
 #define dPage9FoodActionsKyte __dll1_dPage9FoodActionsKyte
 #define dPage10FoodActionsTricky __dll1_dPage10FoodActionsTricky
 #define dPage11FoodItemsKyte __dll1_dPage11FoodItemsKyte

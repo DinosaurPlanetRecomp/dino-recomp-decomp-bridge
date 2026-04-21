@@ -4937,11 +4937,11 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll61_dll_61_ctor", vram = 0x810C102C, size = 0xE8 },
-    { name = "__dll61_dll_61_dtor", vram = 0x810C1114, size = 0x7C },
-    { name = "__dll61_dll_61_update1", vram = 0x810C1190, size = 0x16C },
-    { name = "__dll61_dll_61_update2", vram = 0x810C12FC, size = 0x8 },
-    { name = "__dll61_dll_61_draw", vram = 0x810C1304, size = 0x3B8 },
+    { name = "__dll61_rareware_ctor", vram = 0x810C102C, size = 0xE8 },
+    { name = "__dll61_rareware_dtor", vram = 0x810C1114, size = 0x7C },
+    { name = "__dll61_rareware_update1", vram = 0x810C1190, size = 0x16C },
+    { name = "__dll61_rareware_update2", vram = 0x810C12FC, size = 0x8 },
+    { name = "__dll61_rareware_draw", vram = 0x810C1304, size = 0x3B8 },
 ]
 
 [[section]]

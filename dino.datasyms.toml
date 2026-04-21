@@ -1702,8 +1702,8 @@ symbols = [
     { name = "__dll1_dPage4FoodItemsKrystal", vram = 0x81007E0C },
     { name = "__dll1_dPage5FoodItemsSabre", vram = 0x81007EC0 },
     { name = "__dll1_dPage6MagicSpells", vram = 0x81007F74 },
-    { name = "__dll1_dPage7CommandsKyte", vram = 0x81007FEC },
-    { name = "__dll1_sPage8CommandsTricky", vram = 0x81008040 },
+    { name = "__dll1_dPage7CommandsTricky", vram = 0x81007FEC },
+    { name = "__dll1_sPage8CommandsKyte", vram = 0x81008040 },
     { name = "__dll1_dPage9FoodActionsKyte", vram = 0x81008094 },
     { name = "__dll1_dPage10FoodActionsTricky", vram = 0x810080B8 },
     { name = "__dll1_dPage11FoodItemsKyte", vram = 0x810080DC },
@@ -5192,18 +5192,18 @@ vram = 0x810C102C
 size = 0x740
 
 symbols = [
-    { name = "__dll61_data_0", vram = 0x810C1728 },
-    { name = "__dll61_data_4", vram = 0x810C172C },
+    { name = "__dll61_dFrame", vram = 0x810C1728 },
+    { name = "__dll61_dState", vram = 0x810C172C },
     { name = "__dll61_dColourUnused", vram = 0x810C1730 },
-    { name = "__dll61_bss_0", vram = 0x810C1738 },
-    { name = "__dll61_bss_1", vram = 0x810C1739 },
-    { name = "__dll61_bss_2", vram = 0x810C173A },
-    { name = "__dll61_bss_4", vram = 0x810C173C },
-    { name = "__dll61_bss_8", vram = 0x810C1740 },
-    { name = "__dll61_bss_C", vram = 0x810C1744 },
-    { name = "__dll61_bss_10", vram = 0x810C1748 },
-    { name = "__dll61_bss_14", vram = 0x810C174C },
-    { name = "__dll61_bss_18", vram = 0x810C1750 },
+    { name = "__dll61_sFadeOutStarted", vram = 0x810C1738 },
+    { name = "__dll61_sFadeOutTimer", vram = 0x810C1739 },
+    { name = "__dll61_sCutToNextScreen", vram = 0x810C173A },
+    { name = "__dll61_sLogoTimer", vram = 0x810C173C },
+    { name = "__dll61_sGlowTimer", vram = 0x810C1740 },
+    { name = "__dll61_sTexRareLogo", vram = 0x810C1744 },
+    { name = "__dll61_sTexRareLogoGlow", vram = 0x810C1748 },
+    { name = "__dll61_sTexRareware", vram = 0x810C174C },
+    { name = "__dll61_sTexRarewareGlow", vram = 0x810C1750 },
 ]
 
 [[section]]
