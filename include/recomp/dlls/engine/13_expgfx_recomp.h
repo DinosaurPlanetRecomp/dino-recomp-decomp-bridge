@@ -39,9 +39,6 @@
 #define str_10C __dll13_str_10C
 #define str_118 __dll13_str_118
 #define rodata_124 __dll13_rodata_124
-#define rodata_128 __dll13_rodata_128
-#define rodata_12C __dll13_rodata_12C
-#define rodata_130 __dll13_rodata_130
 #define rodata_134 __dll13_rodata_134
 #define rodata_138 __dll13_rodata_138
 #define rodata_13C __dll13_rodata_13C
@@ -75,6 +72,7 @@
 #define _data_60 __dll13__data_60
 #define _data_64 __dll13__data_64
 #define _data_68 __dll13__data_68
+#define _data_6C __dll13__data_6C
 #define _data_70 __dll13__data_70
 #define _data_90 __dll13__data_90
 #define _data_94 __dll13__data_94

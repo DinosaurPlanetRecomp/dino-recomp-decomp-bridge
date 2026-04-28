@@ -19907,15 +19907,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll489_dll_489_ctor", vram = 0x8131F03C, size = 0xC },
-    { name = "__dll489_dll_489_dtor", vram = 0x8131F048, size = 0xC },
-    { name = "__dll489_dll_489_setup", vram = 0x8131F054, size = 0x3C },
-    { name = "__dll489_dll_489_control", vram = 0x8131F090, size = 0x240 },
-    { name = "__dll489_dll_489_update", vram = 0x8131F2D0, size = 0xC },
-    { name = "__dll489_dll_489_print", vram = 0x8131F2DC, size = 0x54 },
-    { name = "__dll489_dll_489_free", vram = 0x8131F330, size = 0x10 },
-    { name = "__dll489_dll_489_get_model_flags", vram = 0x8131F340, size = 0x10 },
-    { name = "__dll489_dll_489_get_data_size", vram = 0x8131F350, size = 0x1C },
+    { name = "__dll489_WGSH_ObjCreator_ctor", vram = 0x8131F03C, size = 0xC },
+    { name = "__dll489_WGSH_ObjCreator_dtor", vram = 0x8131F048, size = 0xC },
+    { name = "__dll489_WGSH_ObjCreator_setup", vram = 0x8131F054, size = 0x3C },
+    { name = "__dll489_WGSH_ObjCreator_control", vram = 0x8131F090, size = 0x240 },
+    { name = "__dll489_WGSH_ObjCreator_update", vram = 0x8131F2D0, size = 0xC },
+    { name = "__dll489_WGSH_ObjCreator_print", vram = 0x8131F2DC, size = 0x54 },
+    { name = "__dll489_WGSH_ObjCreator_free", vram = 0x8131F330, size = 0x10 },
+    { name = "__dll489_WGSH_ObjCreator_get_model_flags", vram = 0x8131F340, size = 0x10 },
+    { name = "__dll489_WGSH_ObjCreator_get_data_size", vram = 0x8131F350, size = 0x1C },
 ]
 
 [[section]]
@@ -19939,17 +19939,17 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll490_dll_490_ctor", vram = 0x8132003C, size = 0xC },
-    { name = "__dll490_dll_490_dtor", vram = 0x81320048, size = 0xC },
-    { name = "__dll490_dll_490_setup", vram = 0x81320054, size = 0x1A8 },
-    { name = "__dll490_dll_490_control", vram = 0x813201FC, size = 0x4AC },
-    { name = "__dll490_dll_490_update", vram = 0x813206A8, size = 0xC },
-    { name = "__dll490_dll_490_print", vram = 0x813206B4, size = 0x54 },
-    { name = "__dll490_dll_490_free", vram = 0x81320708, size = 0x10 },
-    { name = "__dll490_dll_490_get_model_flags", vram = 0x81320718, size = 0x10 },
-    { name = "__dll490_dll_490_get_data_size", vram = 0x81320728, size = 0x14 },
-    { name = "__dll490_dll_490_func_700", vram = 0x8132073C, size = 0x1A4 },
-    { name = "__dll490_dll_490_func_8A4", vram = 0x813208E0, size = 0x24C },
+    { name = "__dll490_WGSH_flybaddie_ctor", vram = 0x8132003C, size = 0xC },
+    { name = "__dll490_WGSH_flybaddie_dtor", vram = 0x81320048, size = 0xC },
+    { name = "__dll490_WGSH_flybaddie_setup", vram = 0x81320054, size = 0x1A8 },
+    { name = "__dll490_WGSH_flybaddie_control", vram = 0x813201FC, size = 0x4AC },
+    { name = "__dll490_WGSH_flybaddie_update", vram = 0x813206A8, size = 0xC },
+    { name = "__dll490_WGSH_flybaddie_print", vram = 0x813206B4, size = 0x54 },
+    { name = "__dll490_WGSH_flybaddie_free", vram = 0x81320708, size = 0x10 },
+    { name = "__dll490_WGSH_flybaddie_get_model_flags", vram = 0x81320718, size = 0x10 },
+    { name = "__dll490_WGSH_flybaddie_get_data_size", vram = 0x81320728, size = 0x14 },
+    { name = "__dll490_WGSH_flybaddie_func_700", vram = 0x8132073C, size = 0x1A4 },
+    { name = "__dll490_WGSH_flybaddie_func_8A4", vram = 0x813208E0, size = 0x24C },
 ]
 
 [[section]]
