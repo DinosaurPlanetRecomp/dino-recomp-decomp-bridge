@@ -4,9 +4,14 @@
 #define _DLL_68_RECOMP_H
 
 #define dll_68_ctor __dll68_dll_68_ctor
+#define old_mainmenu_ctor __dll68_old_mainmenu_ctor
 #define dll_68_dtor __dll68_dll_68_dtor
+#define old_mainmenu_dtor __dll68_old_mainmenu_dtor
 #define dll_68_func_C4 __dll68_dll_68_func_C4
+#define old_mainmenu_func_C4 __dll68_old_mainmenu_func_C4
+#define old_mainmenu_func_D0 __dll68_old_mainmenu_func_D0
 #define dll_68_func_D0 __dll68_dll_68_func_D0
+#define old_mainmenu_func_D8 __dll68_old_mainmenu_func_D8
 #define dll_68_func_D8 __dll68_dll_68_func_D8
 #define data_0 __dll68_data_0
 #define bss_0 __dll68_bss_0

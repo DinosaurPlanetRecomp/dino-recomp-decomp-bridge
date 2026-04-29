@@ -50,7 +50,7 @@
 #define sWindowID __dll22_sWindowID
 #define _bss_8 __dll22__bss_8
 #define _bss_C __dll22__bss_C
-#define _bss_10 __dll22__bss_10
+#define sBackground __dll22_sBackground
 #define _bss_38 __dll22__bss_38
 #define _bss_77C __dll22__bss_77C
 #define _bss_780 __dll22__bss_780
@@ -61,10 +61,9 @@
 #define _bss_79C __dll22__bss_79C
 #define _bss_7A0 __dll22__bss_7A0
 #define _bss_7A2 __dll22__bss_7A2
-#define _bss_7A3 __dll22__bss_7A3
+#define sBackgroundWidth __dll22_sBackgroundWidth
 #define _bss_7A4 __dll22__bss_7A4
-#define currentColourCommand __dll22_currentColourCommand
-#define _bss_7A8 __dll22__bss_7A8
+#define sCurrentColourCommand __dll22_sCurrentColourCommand
 #define _bss_7AC __dll22__bss_7AC
 #define _bss_7B0 __dll22__bss_7B0
 #define _bss_7B2 __dll22__bss_7B2

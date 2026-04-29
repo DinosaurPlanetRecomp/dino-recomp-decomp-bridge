@@ -29,7 +29,6 @@
 #define dll_251_func_1F78 __dll251_dll_251_func_1F78
 #define dll_251_func_1FC4 __dll251_dll_251_func_1FC4
 #define dll_251_func_25A8 __dll251_dll_251_func_25A8
-#define rodata_0 __dll251_rodata_0
 #define rodata_4 __dll251_rodata_4
 #define data_0 __dll251_data_0
 #define data_4 __dll251_data_4
@@ -40,6 +39,7 @@
 #define data_7C __dll251_data_7C
 #define data_80 __dll251_data_80
 #define bss_0 __dll251_bss_0
+#define bss_4 __dll251_bss_4
 #define bss_8 __dll251_bss_8
 
 #endif //_DLL_251_RECOMP_H

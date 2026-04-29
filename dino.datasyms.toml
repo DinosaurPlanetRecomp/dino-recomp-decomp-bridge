@@ -169,8 +169,8 @@ symbols = [
     { name = "D_80090D50", vram = 0x80090D50 },
     { name = "D_80091350", vram = 0x80091350 },
     { name = "D_80091651", vram = 0x80091651 },
-    { name = "D_80091660", vram = 0x80091660 },
-    { name = "D_80091664", vram = 0x80091664 },
+    { name = "sObjFreeMode", vram = 0x80091660 },
+    { name = "sObjPlayerObjIDs", vram = 0x80091664 },
     { name = "D_80091668", vram = 0x80091668 },
     { name = "D_80091688", vram = 0x80091688 },
     { name = "D_800916B0", vram = 0x800916B0 },
@@ -1116,7 +1116,7 @@ symbols = [
     { name = "D_800B1864", vram = 0x800B1864 },
     { name = "D_800B1868", vram = 0x800B1868 },
     { name = "D_800B18D8", vram = 0x800B18D8 },
-    { name = "D_800B18E0", vram = 0x800B18E0 },
+    { name = "sObjListVisibleStartIdx", vram = 0x800B18E0 },
     { name = "D_800B18E4", vram = 0x800B18E4 },
     { name = "D_800B18E8", vram = 0x800B18E8 },
     { name = "gFile_OBJECTS_TAB", vram = 0x800B18EC },
@@ -1130,8 +1130,8 @@ symbols = [
     { name = "gObjIndexCount", vram = 0x800B190C },
     { name = "gObjDeferredFreeList", vram = 0x800B1910 },
     { name = "gObjDeferredFreeListCount", vram = 0x800B1914 },
-    { name = "D_800B1918", vram = 0x800B1918 },
-    { name = "D_800B191C", vram = 0x800B191C },
+    { name = "sObjLockList", vram = 0x800B1918 },
+    { name = "sObjLockListCount", vram = 0x800B191C },
     { name = "gObjList", vram = 0x800B1920 },
     { name = "gNumObjs", vram = 0x800B1924 },
     { name = "gObjUpdateList", vram = 0x800B1928 },
@@ -1286,8 +1286,8 @@ symbols = [
     { name = "D_800B97B4", vram = 0x800B97B4 },
     { name = "D_800B97B8", vram = 0x800B97B8 },
     { name = "D_800B97BC", vram = 0x800B97BC },
-    { name = "D_800B97C0", vram = 0x800B97C0 },
-    { name = "D_800B97C4", vram = 0x800B97C4 },
+    { name = "gBlockColorTable", vram = 0x800B97C0 },
+    { name = "gBlockColorTableLength", vram = 0x800B97C4 },
     { name = "_bss_800b97c8", vram = 0x800B97D0 },
     { name = "D_800B97E0", vram = 0x800B97E0 },
     { name = "D_800B9840", vram = 0x800B9840 },
@@ -2932,7 +2932,7 @@ symbols = [
     { name = "__dll22_sWindowID", vram = 0x810674B0 },
     { name = "__dll22__bss_8", vram = 0x810674B4 },
     { name = "__dll22__bss_C", vram = 0x810674B8 },
-    { name = "__dll22__bss_10", vram = 0x810674BC },
+    { name = "__dll22_sBackground", vram = 0x810674BC },
     { name = "__dll22__bss_38", vram = 0x810674E4 },
     { name = "__dll22__bss_77C", vram = 0x81067C28 },
     { name = "__dll22__bss_780", vram = 0x81067C2C },
@@ -2943,10 +2943,9 @@ symbols = [
     { name = "__dll22__bss_79C", vram = 0x81067C48 },
     { name = "__dll22__bss_7A0", vram = 0x81067C4C },
     { name = "__dll22__bss_7A2", vram = 0x81067C4E },
-    { name = "__dll22__bss_7A3", vram = 0x81067C4F },
+    { name = "__dll22_sBackgroundWidth", vram = 0x81067C4F },
     { name = "__dll22__bss_7A4", vram = 0x81067C50 },
-    { name = "__dll22_currentColourCommand", vram = 0x81067C54 },
-    { name = "__dll22__bss_7A8", vram = 0x81067C54 },
+    { name = "__dll22_sCurrentColourCommand", vram = 0x81067C54 },
     { name = "__dll22__bss_7AC", vram = 0x81067C58 },
     { name = "__dll22__bss_7B0", vram = 0x81067C5C },
     { name = "__dll22__bss_7B2", vram = 0x81067C5E },
@@ -5573,11 +5572,11 @@ vram = 0x810DF02C
 size = 0xF40
 
 symbols = [
-    { name = "__dll78_data_0", vram = 0x810DF950 },
-    { name = "__dll78_bss_0", vram = 0x810DFF40 },
-    { name = "__dll78_bss_4", vram = 0x810DFF44 },
-    { name = "__dll78_bss_8", vram = 0x810DFF48 },
-    { name = "__dll78_bss_C", vram = 0x810DFF4C },
+    { name = "__dll78_dCredits", vram = 0x810DF950 },
+    { name = "__dll78_sDinosaurPlanetLogoTex", vram = 0x810DFF40 },
+    { name = "__dll78_sGroupIdx", vram = 0x810DFF44 },
+    { name = "__dll78_sText", vram = 0x810DFF48 },
+    { name = "__dll78_sTime", vram = 0x810DFF4C },
 ]
 
 [[section]]
@@ -5587,18 +5586,18 @@ vram = 0x810E0030
 size = 0x1410
 
 symbols = [
-    { name = "__dll79_data_0", vram = 0x810E13F4 },
-    { name = "__dll79_data_4", vram = 0x810E13F8 },
-    { name = "__dll79_data_8", vram = 0x810E13FC },
-    { name = "__dll79_bss_0", vram = 0x810E1404 },
-    { name = "__dll79_bss_4", vram = 0x810E1408 },
-    { name = "__dll79_bss_8", vram = 0x810E140C },
-    { name = "__dll79_bss_C", vram = 0x810E1410 },
+    { name = "__dll79_dFrameButtonA", vram = 0x810E13F4 },
+    { name = "__dll79_dFrameButtonB", vram = 0x810E13F8 },
+    { name = "__dll79_dFrameControlStick", vram = 0x810E13FC },
+    { name = "__dll79_sMenuState", vram = 0x810E1404 },
+    { name = "__dll79_sTexButtonA", vram = 0x810E1408 },
+    { name = "__dll79_sTexButtonB", vram = 0x810E140C },
+    { name = "__dll79_sTexControlStick", vram = 0x810E1410 },
     { name = "__dll79_bss_10", vram = 0x810E1414 },
     { name = "__dll79_bss_14", vram = 0x810E1418 },
     { name = "__dll79_bss_18", vram = 0x810E141C },
-    { name = "__dll79_bss_1C", vram = 0x810E1420 },
-    { name = "__dll79_bss_20", vram = 0x810E1424 },
+    { name = "__dll79_sGametext", vram = 0x810E1420 },
+    { name = "__dll79_sOpacity", vram = 0x810E1424 },
 ]
 
 [[section]]
@@ -9458,7 +9457,6 @@ vram = 0x811F2070
 size = 0x2840
 
 symbols = [
-    { name = "__dll251_rodata_0", vram = 0x811F4764 },
     { name = "__dll251_rodata_4", vram = 0x811F4768 },
     { name = "__dll251_data_0", vram = 0x811F4774 },
     { name = "__dll251_data_4", vram = 0x811F4778 },
@@ -9469,6 +9467,7 @@ symbols = [
     { name = "__dll251_data_7C", vram = 0x811F47F0 },
     { name = "__dll251_data_80", vram = 0x811F47F4 },
     { name = "__dll251_bss_0", vram = 0x811F4834 },
+    { name = "__dll251_bss_4", vram = 0x811F4838 },
     { name = "__dll251_bss_8", vram = 0x811F483C },
 ]
 
