@@ -8,7 +8,6 @@
 #define WCSabreChase_setup __dll778_WCSabreChase_setup
 #define WCSabreChase_control __dll778_WCSabreChase_control
 #define WCSabreChase_update __dll778_WCSabreChase_update
-#define WCSabreChase_func_38 __dll778_WCSabreChase_func_38
 #define WCSabreChase_print __dll778_WCSabreChase_print
 #define WCSabreChase_free __dll778_WCSabreChase_free
 #define WCSabreChase_get_model_flags __dll778_WCSabreChase_get_model_flags

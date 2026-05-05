@@ -26,6 +26,5 @@
 #define data_coords_lever_blocks __dll457_data_coords_lever_blocks
 #define data_krazoa_symbol_shape_animatorIDs __dll457_data_krazoa_symbol_shape_animatorIDs
 #define data_tablet_quest_gamebits __dll457_data_tablet_quest_gamebits
-#define _data_44 __dll457__data_44
 
 #endif //_DLL_457_RECOMP_H

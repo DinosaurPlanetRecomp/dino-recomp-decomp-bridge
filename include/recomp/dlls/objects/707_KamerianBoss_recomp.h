@@ -42,7 +42,6 @@
 #define _data_18 __dll707__data_18
 #define sHealthBarTextures __dll707_sHealthBarTextures
 #define _bss_8 __dll707__bss_8
-#define _bss_20 __dll707__bss_20
 #define sHealthBarAlpha __dll707_sHealthBarAlpha
 #define _bss_3C __dll707__bss_3C
 #define _bss_40 __dll707__bss_40

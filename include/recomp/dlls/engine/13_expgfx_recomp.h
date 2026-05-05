@@ -65,9 +65,7 @@
 #define rodata_190 __dll13_rodata_190
 #define rodata_194 __dll13_rodata_194
 #define _data_0 __dll13__data_0
-#define _data_3A __dll13__data_3A
 #define _data_3C __dll13__data_3C
-#define _data_5A __dll13__data_5A
 #define _data_5C __dll13__data_5C
 #define _data_60 __dll13__data_60
 #define _data_64 __dll13__data_64
@@ -85,14 +83,6 @@
 #define _bss_110 __dll13__bss_110
 #define _bss_118 __dll13__bss_118
 #define _bss_190 __dll13__bss_190
-#define _bss_194 __dll13__bss_194
-#define _bss_198 __dll13__bss_198
-#define _bss_19C __dll13__bss_19C
-#define _bss_1A0 __dll13__bss_1A0
-#define _bss_1A4 __dll13__bss_1A4
-#define _bss_1A8 __dll13__bss_1A8
-#define _bss_1AC __dll13__bss_1AC
-#define _bss_1B0 __dll13__bss_1B0
 #define _bss_370 __dll13__bss_370
 #define _oob_bss_3F0 __dll13__oob_bss_3F0
 

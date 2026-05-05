@@ -9,7 +9,6 @@
 #define selection_update2 __dll79_selection_update2
 #define selection_draw __dll79_selection_draw
 #define selection_set_selection_state __dll79_selection_set_selection_state
-#define selection_set_menu_state __dll79_selection_set_menu_state
 #define dFrameButtonA __dll79_dFrameButtonA
 #define dFrameButtonB __dll79_dFrameButtonB
 #define dFrameControlStick __dll79_dFrameControlStick

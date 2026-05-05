@@ -6,8 +6,6 @@
 #define pausemenu_ctor __dll66_pausemenu_ctor
 #define pausemenu_dtor __dll66_pausemenu_dtor
 #define pausemenu_update1 __dll66_pausemenu_update1
-#define pausemenu_update __dll66_pausemenu_update
-#define pausemenu_func_524 __dll66_pausemenu_func_524
 #define pausemenu_update2 __dll66_pausemenu_update2
 #define pausemenu_draw __dll66_pausemenu_draw
 #define formatCompletionPercentage __dll66_formatCompletionPercentage

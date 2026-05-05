@@ -12,6 +12,5 @@
 #define SB_Debris_free __dll584_SB_Debris_free
 #define SB_Debris_get_model_flags __dll584_SB_Debris_get_model_flags
 #define SB_Debris_get_data_size __dll584_SB_Debris_get_data_size
-#define sSpeed __dll584_sSpeed
 
 #endif //_DLL_584_RECOMP_H

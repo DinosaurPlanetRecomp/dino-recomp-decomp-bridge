@@ -4,9 +4,7 @@
 #define _DLL_278_RECOMP_H
 
 #define flameblast_ctor __dll278_flameblast_ctor
-#define dll_278_ctor __dll278_dll_278_ctor
 #define flameblast_dtor __dll278_flameblast_dtor
-#define dll_278_dtor __dll278_dll_278_dtor
 #define flameblast_setup __dll278_flameblast_setup
 #define flameblast_control __dll278_flameblast_control
 #define flameblast_update __dll278_flameblast_update

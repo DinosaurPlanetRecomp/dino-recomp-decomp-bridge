@@ -3,18 +3,13 @@
 #ifndef _DLL_68_RECOMP_H
 #define _DLL_68_RECOMP_H
 
-#define dll_68_ctor __dll68_dll_68_ctor
 #define old_mainmenu_ctor __dll68_old_mainmenu_ctor
-#define dll_68_dtor __dll68_dll_68_dtor
 #define old_mainmenu_dtor __dll68_old_mainmenu_dtor
-#define dll_68_func_C4 __dll68_dll_68_func_C4
 #define old_mainmenu_func_C4 __dll68_old_mainmenu_func_C4
 #define old_mainmenu_func_D0 __dll68_old_mainmenu_func_D0
-#define dll_68_func_D0 __dll68_dll_68_func_D0
 #define old_mainmenu_func_D8 __dll68_old_mainmenu_func_D8
-#define dll_68_func_D8 __dll68_dll_68_func_D8
 #define data_0 __dll68_data_0
-#define bss_0 __dll68_bss_0
+#define sGametext __dll68_sGametext
 #define bss_4 __dll68_bss_4
 #define bss_8 __dll68_bss_8
 #define bss_C __dll68_bss_C

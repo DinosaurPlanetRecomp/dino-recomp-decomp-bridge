@@ -12,9 +12,9 @@
 #define CCcage_free __dll448_CCcage_free
 #define CCcage_get_model_flags __dll448_CCcage_get_model_flags
 #define CCcage_get_data_size __dll448_CCcage_get_data_size
-#define CCcage_func_938 __dll448_CCcage_func_938
-#define CCcage_func_A34 __dll448_CCcage_func_A34
-#define CCcage_func_B5C __dll448_CCcage_func_B5C
+#define CCcage_transform_child __dll448_CCcage_transform_child
+#define CCcage_hit_ground __dll448_CCcage_hit_ground
+#define CCcage_impact_sway __dll448_CCcage_impact_sway
 #define str_0 __dll448_str_0
 
 #endif //_DLL_448_RECOMP_H

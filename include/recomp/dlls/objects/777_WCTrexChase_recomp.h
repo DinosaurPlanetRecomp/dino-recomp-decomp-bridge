@@ -7,7 +7,6 @@
 #define WCTrexChase_dtor __dll777_WCTrexChase_dtor
 #define WCTrexChase_setup __dll777_WCTrexChase_setup
 #define WCTrexChase_control __dll777_WCTrexChase_control
-#define WCTrexChase_func_38 __dll777_WCTrexChase_func_38
 #define WCTrexChase_update __dll777_WCTrexChase_update
 #define WCTrexChase_print __dll777_WCTrexChase_print
 #define WCTrexChase_free __dll777_WCTrexChase_free

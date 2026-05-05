@@ -2408,9 +2408,7 @@ symbols = [
     { name = "__dll13_rodata_190", vram = 0x810416C8 },
     { name = "__dll13_rodata_194", vram = 0x810416CC },
     { name = "__dll13__data_0", vram = 0x810416D8 },
-    { name = "__dll13__data_3A", vram = 0x81041712 },
     { name = "__dll13__data_3C", vram = 0x81041714 },
-    { name = "__dll13__data_5A", vram = 0x81041732 },
     { name = "__dll13__data_5C", vram = 0x81041734 },
     { name = "__dll13__data_60", vram = 0x81041738 },
     { name = "__dll13__data_64", vram = 0x8104173C },
@@ -2428,14 +2426,6 @@ symbols = [
     { name = "__dll13__bss_110", vram = 0x810418D8 },
     { name = "__dll13__bss_118", vram = 0x810418E0 },
     { name = "__dll13__bss_190", vram = 0x81041958 },
-    { name = "__dll13__bss_194", vram = 0x8104195C },
-    { name = "__dll13__bss_198", vram = 0x81041960 },
-    { name = "__dll13__bss_19C", vram = 0x81041964 },
-    { name = "__dll13__bss_1A0", vram = 0x81041968 },
-    { name = "__dll13__bss_1A4", vram = 0x8104196C },
-    { name = "__dll13__bss_1A8", vram = 0x81041970 },
-    { name = "__dll13__bss_1AC", vram = 0x81041974 },
-    { name = "__dll13__bss_1B0", vram = 0x81041978 },
     { name = "__dll13__bss_370", vram = 0x81041B38 },
     { name = "__dll13__oob_bss_3F0", vram = 0x81041BB8 },
 ]
@@ -2705,37 +2695,21 @@ symbols = [
     { name = "__dll16__data_BA0", vram = 0x81050DEC },
     { name = "__dll16__data_BB0", vram = 0x81050DFC },
     { name = "__dll16__data_C30", vram = 0x81050E7C },
-    { name = "__dll16__data_C34", vram = 0x81050E80 },
     { name = "__dll16__data_C40", vram = 0x81050E8C },
-    { name = "__dll16__data_C44", vram = 0x81050E90 },
     { name = "__dll16__data_C50", vram = 0x81050E9C },
-    { name = "__dll16__data_C54", vram = 0x81050EA0 },
     { name = "__dll16__data_C60", vram = 0x81050EAC },
-    { name = "__dll16__data_C64", vram = 0x81050EB0 },
     { name = "__dll16__data_C70", vram = 0x81050EBC },
-    { name = "__dll16__data_C74", vram = 0x81050EC0 },
     { name = "__dll16__data_C80", vram = 0x81050ECC },
-    { name = "__dll16__data_C84", vram = 0x81050ED0 },
     { name = "__dll16__data_C90", vram = 0x81050EDC },
-    { name = "__dll16__data_C94", vram = 0x81050EE0 },
     { name = "__dll16__data_CA0", vram = 0x81050EEC },
-    { name = "__dll16__data_CA4", vram = 0x81050EF0 },
     { name = "__dll16__data_CB0", vram = 0x81050EFC },
-    { name = "__dll16__data_CB4", vram = 0x81050F00 },
     { name = "__dll16__data_CC0", vram = 0x81050F0C },
-    { name = "__dll16__data_CC4", vram = 0x81050F10 },
     { name = "__dll16__data_CD0", vram = 0x81050F1C },
-    { name = "__dll16__data_CD4", vram = 0x81050F20 },
     { name = "__dll16__data_CE0", vram = 0x81050F2C },
-    { name = "__dll16__data_CE4", vram = 0x81050F30 },
     { name = "__dll16__data_CF0", vram = 0x81050F3C },
-    { name = "__dll16__data_CF4", vram = 0x81050F40 },
     { name = "__dll16__data_D00", vram = 0x81050F4C },
-    { name = "__dll16__data_D04", vram = 0x81050F50 },
     { name = "__dll16__data_D10", vram = 0x81050F5C },
-    { name = "__dll16__data_D14", vram = 0x81050F60 },
     { name = "__dll16__data_D20", vram = 0x81050F6C },
-    { name = "__dll16__data_D24", vram = 0x81050F70 },
     { name = "__dll16__data_D30", vram = 0x81050F7C },
     { name = "__dll16__data_D40", vram = 0x81050F8C },
     { name = "__dll16__data_D50", vram = 0x81050F9C },
@@ -2817,13 +2791,6 @@ symbols = [
     { name = "__dll17__data_A8", vram = 0x8105E488 },
     { name = "__dll17__data_AC", vram = 0x8105E48C },
     { name = "__dll17__bss_0", vram = 0x8105E490 },
-    { name = "__dll17__bss_2", vram = 0x8105E492 },
-    { name = "__dll17__bss_4", vram = 0x8105E494 },
-    { name = "__dll17__bss_6", vram = 0x8105E496 },
-    { name = "__dll17__bss_8", vram = 0x8105E498 },
-    { name = "__dll17__bss_C", vram = 0x8105E49C },
-    { name = "__dll17__bss_10", vram = 0x8105E4A0 },
-    { name = "__dll17__bss_14", vram = 0x8105E4A4 },
     { name = "__dll17_sDLLTimers", vram = 0x8105E4A8 },
 ]
 
@@ -5399,7 +5366,7 @@ size = 0x400
 
 symbols = [
     { name = "__dll68_data_0", vram = 0x810D030C },
-    { name = "__dll68_bss_0", vram = 0x810D03FC },
+    { name = "__dll68_sGametext", vram = 0x810D03FC },
     { name = "__dll68_bss_4", vram = 0x810D0400 },
     { name = "__dll68_bss_8", vram = 0x810D0404 },
     { name = "__dll68_bss_C", vram = 0x810D0408 },
@@ -5547,7 +5514,7 @@ vram = 0x810DE02C
 size = 0x360
 
 symbols = [
-    { name = "__dll77__bss_0", vram = 0x810DE360 },
+    { name = "__dll77_scarabTexture", vram = 0x810DE360 },
 ]
 
 [[section]]
@@ -11256,14 +11223,6 @@ symbols = [
     { name = "__dll400__data_54", vram = 0x812B1668 },
     { name = "__dll400__data_6C", vram = 0x812B1680 },
     { name = "__dll400__data_D0", vram = 0x812B16E4 },
-    { name = "__dll400__data_D4", vram = 0x812B16E8 },
-    { name = "__dll400__data_DC", vram = 0x812B16F0 },
-    { name = "__dll400__data_E4", vram = 0x812B16F8 },
-    { name = "__dll400__data_EC", vram = 0x812B1700 },
-    { name = "__dll400__data_F4", vram = 0x812B1708 },
-    { name = "__dll400__data_FC", vram = 0x812B1710 },
-    { name = "__dll400__data_104", vram = 0x812B1718 },
-    { name = "__dll400__data_10C", vram = 0x812B1720 },
     { name = "__dll400__data_110", vram = 0x812B1724 },
     { name = "__dll400__data_114", vram = 0x812B1728 },
     { name = "__dll400__data_11C", vram = 0x812B1730 },
@@ -11428,7 +11387,6 @@ size = 0x6A0
 
 symbols = [
     { name = "__dll413_fxTransform", vram = 0x812BF6A0 },
-    { name = "__dll413__bss_0", vram = 0x812BF6A0 },
 ]
 
 [[section]]
@@ -11981,7 +11939,6 @@ symbols = [
     { name = "__dll457_data_coords_lever_blocks", vram = 0x812F7720 },
     { name = "__dll457_data_krazoa_symbol_shape_animatorIDs", vram = 0x812F7738 },
     { name = "__dll457_data_tablet_quest_gamebits", vram = 0x812F7740 },
-    { name = "__dll457__data_44", vram = 0x812F774C },
 ]
 
 [[section]]
@@ -12146,7 +12103,6 @@ size = 0xA80
 
 symbols = [
     { name = "__dll470_dShrine", vram = 0x81307A64 },
-    { name = "__dll470__data_4", vram = 0x81307A68 },
 ]
 
 [[section]]
@@ -13583,7 +13539,6 @@ vram = 0x8139503C
 size = 0x5F0
 
 symbols = [
-    { name = "__dll584_sSpeed", vram = 0x813955E0 },
 ]
 
 [[section]]
@@ -13653,7 +13608,6 @@ symbols = [
     { name = "__dll590_dataShowKrystalsAdventureScreen", vram = 0x8139BA54 },
     { name = "__dll590_dataDLLUnused", vram = 0x8139BA5C },
     { name = "__dll590_sUpdateRateCopy", vram = 0x8139BA60 },
-    { name = "__dll590__data_10", vram = 0x8139BA64 },
 ]
 
 [[section]]
@@ -13969,7 +13923,6 @@ vram = 0x813B903C
 size = 0x400
 
 symbols = [
-    { name = "__dll614__data_0", vram = 0x813B93E8 },
 ]
 
 [[section]]
@@ -14641,10 +14594,8 @@ symbols = [
     { name = "__dll663_str_0", vram = 0x813F7470 },
     { name = "__dll663__data_0", vram = 0x813F74A0 },
     { name = "__dll663__data_8", vram = 0x813F74A8 },
-    { name = "__dll663__data_E", vram = 0x813F74AE },
     { name = "__dll663__data_10", vram = 0x813F74B0 },
     { name = "__dll663__data_18", vram = 0x813F74B8 },
-    { name = "__dll663__data_1E", vram = 0x813F74BE },
     { name = "__dll663__data_20", vram = 0x813F74C0 },
 ]
 
@@ -15215,8 +15166,6 @@ symbols = [
     { name = "__dll702_sPlayerSegmentGamebits", vram = 0x8142AEFC },
     { name = "__dll702_sLaserWallGamebits", vram = 0x8142AF04 },
     { name = "__dll702__data_E4", vram = 0x8142AF0C },
-    { name = "__dll702__data_E8", vram = 0x8142AF10 },
-    { name = "__dll702__data_EC", vram = 0x8142AF14 },
     { name = "__dll702_sAnimStateCallbacks", vram = 0x8142AF28 },
     { name = "__dll702_sLogicStateCallbacks", vram = 0x8142AF50 },
     { name = "__dll702_sBaddie", vram = 0x8142AF80 },
@@ -15291,7 +15240,6 @@ symbols = [
     { name = "__dll707__data_18", vram = 0x814312D4 },
     { name = "__dll707_sHealthBarTextures", vram = 0x814312DC },
     { name = "__dll707__bss_8", vram = 0x814312E4 },
-    { name = "__dll707__bss_20", vram = 0x814312FC },
     { name = "__dll707_sHealthBarAlpha", vram = 0x81431314 },
     { name = "__dll707__bss_3C", vram = 0x81431318 },
     { name = "__dll707__bss_40", vram = 0x8143131C },
@@ -15352,12 +15300,9 @@ symbols = [
     { name = "__dll711__data_90", vram = 0x8143AA84 },
     { name = "__dll711__data_A8", vram = 0x8143AA9C },
     { name = "__dll711__data_AC", vram = 0x8143AAA0 },
-    { name = "__dll711__data_B0", vram = 0x8143AAA4 },
     { name = "__dll711__bss_0", vram = 0x8143AAB4 },
     { name = "__dll711__bss_4", vram = 0x8143AAB8 },
     { name = "__dll711__bss_8", vram = 0x8143AABC },
-    { name = "__dll711__bss_20", vram = 0x8143AAD4 },
-    { name = "__dll711__bss_24", vram = 0x8143AAD8 },
 ]
 
 [[section]]

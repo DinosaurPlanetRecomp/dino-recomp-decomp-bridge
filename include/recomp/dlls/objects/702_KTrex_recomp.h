@@ -74,8 +74,6 @@
 #define sPlayerSegmentGamebits __dll702_sPlayerSegmentGamebits
 #define sLaserWallGamebits __dll702_sLaserWallGamebits
 #define _data_E4 __dll702__data_E4
-#define _data_E8 __dll702__data_E8
-#define _data_EC __dll702__data_EC
 #define sAnimStateCallbacks __dll702_sAnimStateCallbacks
 #define sLogicStateCallbacks __dll702_sLogicStateCallbacks
 #define sBaddie __dll702_sBaddie

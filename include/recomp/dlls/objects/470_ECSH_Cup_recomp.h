@@ -13,6 +13,5 @@
 #define ECSHCup_get_model_flags __dll470_ECSHCup_get_model_flags
 #define ECSHCup_get_data_size __dll470_ECSHCup_get_data_size
 #define dShrine __dll470_dShrine
-#define _data_4 __dll470__data_4
 
 #endif //_DLL_470_RECOMP_H

@@ -4,8 +4,6 @@
 #define _DLL_287_RECOMP_H
 
 #define pressureswitch_ctor __dll287_pressureswitch_ctor
-#define dll_287_ctor __dll287_dll_287_ctor
-#define dll_287_dtor __dll287_dll_287_dtor
 #define pressureswitch_dtor __dll287_pressureswitch_dtor
 #define pressureswitch_setup __dll287_pressureswitch_setup
 #define pressureswitch_control __dll287_pressureswitch_control

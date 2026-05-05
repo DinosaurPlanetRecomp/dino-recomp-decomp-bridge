@@ -15,10 +15,8 @@
 #define str_0 __dll663_str_0
 #define _data_0 __dll663__data_0
 #define _data_8 __dll663__data_8
-#define _data_E __dll663__data_E
 #define _data_10 __dll663__data_10
 #define _data_18 __dll663__data_18
-#define _data_1E __dll663__data_1E
 #define _data_20 __dll663__data_20
 
 #endif //_DLL_663_RECOMP_H

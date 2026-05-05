@@ -42,13 +42,6 @@
 #define _data_A8 __dll17__data_A8
 #define _data_AC __dll17__data_AC
 #define _bss_0 __dll17__bss_0
-#define _bss_2 __dll17__bss_2
-#define _bss_4 __dll17__bss_4
-#define _bss_6 __dll17__bss_6
-#define _bss_8 __dll17__bss_8
-#define _bss_C __dll17__bss_C
-#define _bss_10 __dll17__bss_10
-#define _bss_14 __dll17__bss_14
 #define sDLLTimers __dll17_sDLLTimers
 
 #endif //_DLL_17_RECOMP_H

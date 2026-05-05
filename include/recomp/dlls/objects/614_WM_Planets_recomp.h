@@ -12,6 +12,5 @@
 #define WMPlanets_free __dll614_WMPlanets_free
 #define WMPlanets_get_model_flags __dll614_WMPlanets_get_model_flags
 #define WMPlanets_get_data_size __dll614_WMPlanets_get_data_size
-#define _data_0 __dll614__data_0
 
 #endif //_DLL_614_RECOMP_H

@@ -46,11 +46,8 @@
 #define _data_90 __dll711__data_90
 #define _data_A8 __dll711__data_A8
 #define _data_AC __dll711__data_AC
-#define _data_B0 __dll711__data_B0
 #define _bss_0 __dll711__bss_0
 #define _bss_4 __dll711__bss_4
 #define _bss_8 __dll711__bss_8
-#define _bss_20 __dll711__bss_20
-#define _bss_24 __dll711__bss_24
 
 #endif //_DLL_711_RECOMP_H

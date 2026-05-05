@@ -5,7 +5,6 @@
 
 #define minimap_ctor __dll59_minimap_ctor
 #define minimap_dtor __dll59_minimap_dtor
-#define minimap_toggle __dll59_minimap_toggle
 #define minimap_toggle_via_cmdmenu __dll59_minimap_toggle_via_cmdmenu
 #define minimap_print __dll59_minimap_print
 #define sLoadedTexTableID __dll59_sLoadedTexTableID

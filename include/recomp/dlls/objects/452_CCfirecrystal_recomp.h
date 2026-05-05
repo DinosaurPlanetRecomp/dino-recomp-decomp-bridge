@@ -12,7 +12,7 @@
 #define CCfirecrystal_free __dll452_CCfirecrystal_free
 #define CCfirecrystal_get_model_flags __dll452_CCfirecrystal_get_model_flags
 #define CCfirecrystal_get_data_size __dll452_CCfirecrystal_get_data_size
-#define CCfirecrystal_create_light __dll452_CCfirecrystal_create_light
+#define CCfirecrystal_create_flame __dll452_CCfirecrystal_create_flame
 #define CCfirecrystal_anim_callback __dll452_CCfirecrystal_anim_callback
 #define str_0 __dll452_str_0
 

@@ -40,14 +40,6 @@
 #define _data_54 __dll400__data_54
 #define _data_6C __dll400__data_6C
 #define _data_D0 __dll400__data_D0
-#define _data_D4 __dll400__data_D4
-#define _data_DC __dll400__data_DC
-#define _data_E4 __dll400__data_E4
-#define _data_EC __dll400__data_EC
-#define _data_F4 __dll400__data_F4
-#define _data_FC __dll400__data_FC
-#define _data_104 __dll400__data_104
-#define _data_10C __dll400__data_10C
 #define _data_110 __dll400__data_110
 #define _data_114 __dll400__data_114
 #define _data_11C __dll400__data_11C
