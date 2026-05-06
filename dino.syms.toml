@@ -3516,15 +3516,15 @@ relocs = [
 functions = [
     { name = "__dll24_waterfx_ctor", vram = 0x81069040, size = 0x160 },
     { name = "__dll24_waterfx_dtor", vram = 0x810691A0, size = 0xEC },
-    { name = "__dll24_waterfx_func_24C", vram = 0x8106928C, size = 0x318 },
+    { name = "__dll24_waterfx_init", vram = 0x8106928C, size = 0x318 },
     { name = "__dll24_waterfx_func_564", vram = 0x810695A4, size = 0x184 },
-    { name = "__dll24_waterfx_func_6E8", vram = 0x81069728, size = 0x594 },
-    { name = "__dll24_waterfx_func_C7C", vram = 0x81069CBC, size = 0x6E0 },
-    { name = "__dll24_waterfx_func_135C", vram = 0x8106A39C, size = 0x3F0 },
-    { name = "__dll24_waterfx_func_174C", vram = 0x8106A78C, size = 0x3DC },
-    { name = "__dll24_waterfx_func_1B28", vram = 0x8106AB68, size = 0x160 },
-    { name = "__dll24_waterfx_func_1C88", vram = 0x8106ACC8, size = 0x40 },
-    { name = "__dll24_waterfx_func_1CC8", vram = 0x8106AD08, size = 0x1C8 },
+    { name = "__dll24_waterfx_tick", vram = 0x81069728, size = 0x594 },
+    { name = "__dll24_waterfx_print", vram = 0x81069CBC, size = 0x6E0 },
+    { name = "__dll24_waterfx_make_splash_particles", vram = 0x8106A39C, size = 0x3F0 },
+    { name = "__dll24_waterfx_spawn_splash", vram = 0x8106A78C, size = 0x3DC },
+    { name = "__dll24_waterfx_spawn_movement_ripple", vram = 0x8106AB68, size = 0x160 },
+    { name = "__dll24_waterfx_set_circular_ripple_scale", vram = 0x8106ACC8, size = 0x40 },
+    { name = "__dll24_waterfx_spawn_circular_ripple", vram = 0x8106AD08, size = 0x1C8 },
 ]
 
 [[section]]
