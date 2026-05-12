@@ -2199,7 +2199,7 @@ functions = [
     { name = "__dll3_anim_calc_channel_value_at_time", vram = 0x81012FE0, size = 0x284 },
     { name = "__dll3_anim_func_71C0", vram = 0x81013264, size = 0x120 },
     { name = "__dll3_anim_func_72E0", vram = 0x81013384, size = 0x2C },
-    { name = "__dll3_anim_func_730C", vram = 0x810133B0, size = 0x668 },
+    { name = "__dll3_anim_update_camera", vram = 0x810133B0, size = 0x668 },
     { name = "__dll3_anim_func_7974", vram = 0x81013A18, size = 0x1F0 },
     { name = "__dll3_anim_func_7B64", vram = 0x81013C08, size = 0x108 },
     { name = "__dll3_anim_func_7C6C", vram = 0x81013D10, size = 0x84 },

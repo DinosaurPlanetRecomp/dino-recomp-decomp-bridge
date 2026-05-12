@@ -44,7 +44,7 @@
 #define anim_calc_channel_value_at_time __dll3_anim_calc_channel_value_at_time
 #define anim_func_71C0 __dll3_anim_func_71C0
 #define anim_func_72E0 __dll3_anim_func_72E0
-#define anim_func_730C __dll3_anim_func_730C
+#define anim_update_camera __dll3_anim_update_camera
 #define anim_func_7974 __dll3_anim_func_7974
 #define anim_func_7B64 __dll3_anim_func_7B64
 #define anim_func_7C6C __dll3_anim_func_7C6C
