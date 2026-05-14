@@ -12506,10 +12506,6 @@ size = 0x2390
 
 symbols = [
     { name = "__dll508_str_0", vram = 0x813390A4 },
-    { name = "__dll508_rodata_64", vram = 0x81339108 },
-    { name = "__dll508_rodata_A4", vram = 0x81339148 },
-    { name = "__dll508_rodata_A8", vram = 0x8133914C },
-    { name = "__dll508_rodata_AC", vram = 0x81339150 },
     { name = "__dll508_data_0", vram = 0x81339154 },
     { name = "__dll508_data_30", vram = 0x81339184 },
     { name = "__dll508_data_40", vram = 0x81339194 },
