@@ -1810,8 +1810,8 @@ symbols = [
     { name = "__dll3__data_AC", vram = 0x810167AC },
     { name = "__dll3__data_C4", vram = 0x810167C4 },
     { name = "__dll3_sButtonMaskActive", vram = 0x810167C8 },
-    { name = "__dll3__bss_0", vram = 0x810167D0 },
-    { name = "__dll3__bss_20", vram = 0x810167F0 },
+    { name = "__dll3_sPreemptTimeList", vram = 0x810167D0 },
+    { name = "__dll3_sPreemptTimeListCount", vram = 0x810167F0 },
     { name = "__dll3__bss_24", vram = 0x810167F4 },
     { name = "__dll3__bss_28", vram = 0x810167F8 },
     { name = "__dll3__bss_2C", vram = 0x810167FC },
@@ -1829,7 +1829,7 @@ symbols = [
     { name = "__dll3__bss_98", vram = 0x81016868 },
     { name = "__dll3_sPendingWarpID", vram = 0x8101686C },
     { name = "__dll3__bss_A0", vram = 0x81016870 },
-    { name = "__dll3__bss_A4", vram = 0x81016874 },
+    { name = "__dll3_sSeqEnded", vram = 0x81016874 },
     { name = "__dll3__bss_A8", vram = 0x81016878 },
     { name = "__dll3__bss_A9", vram = 0x81016879 },
     { name = "__dll3__bss_D8", vram = 0x810168A8 },
@@ -1877,12 +1877,12 @@ symbols = [
     { name = "__dll3__bss_5E8", vram = 0x81016DB8 },
     { name = "__dll3_sCodeEvtQueue", vram = 0x81016DC0 },
     { name = "__dll3_sCodeEvtQueueCount", vram = 0x81016E60 },
-    { name = "__dll3__bss_698", vram = 0x81016E68 },
+    { name = "__dll3_sActivates", vram = 0x81016E68 },
     { name = "__dll3__bss_69E", vram = 0x81016E6E },
-    { name = "__dll3__bss_6F8", vram = 0x81016EC8 },
+    { name = "__dll3_sActivatesCount", vram = 0x81016EC8 },
     { name = "__dll3__bss_6FC", vram = 0x81016ECC },
     { name = "__dll3__bss_700", vram = 0x81016ED0 },
-    { name = "__dll3__bss_708", vram = 0x81016ED8 },
+    { name = "__dll3_sOverrides", vram = 0x81016ED8 },
     { name = "__dll3__bss_1D88", vram = 0x81018558 },
 ]
 
@@ -4932,10 +4932,6 @@ size = 0x23C0
 
 symbols = [
     { name = "__dll53_str_0", vram = 0x810B7250 },
-    { name = "__dll53_rodata_134", vram = 0x810B7384 },
-    { name = "__dll53_rodata_138", vram = 0x810B7388 },
-    { name = "__dll53_rodata_13C", vram = 0x810B738C },
-    { name = "__dll53_rodata_140", vram = 0x810B7390 },
     { name = "__dll53_data_0", vram = 0x810B73A0 },
 ]
 

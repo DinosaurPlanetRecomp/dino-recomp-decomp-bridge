@@ -6,7 +6,7 @@
 #define anim_ctor __dll3_anim_ctor
 #define anim_dtor __dll3_anim_dtor
 #define anim_func_98 __dll3_anim_func_98
-#define anim_func_2C0 __dll3_anim_func_2C0
+#define anim_queue_activate __dll3_anim_queue_activate
 #define anim_func_324 __dll3_anim_func_324
 #define anim_func_358 __dll3_anim_func_358
 #define anim_func_394 __dll3_anim_func_394
@@ -16,11 +16,11 @@
 #define anim_apply_channel_values __dll3_anim_apply_channel_values
 #define anim_time_skip __dll3_anim_time_skip
 #define anim_func_2EB4 __dll3_anim_func_2EB4
-#define anim_func_2FE8 __dll3_anim_func_2FE8
+#define anim_toggle_override __dll3_anim_toggle_override
 #define anim_func_3170 __dll3_anim_func_3170
 #define anim_func_3268 __dll3_anim_func_3268
 #define anim_tick_seq_sfx __dll3_anim_tick_seq_sfx
-#define anim_func_3414 __dll3_anim_func_3414
+#define anim_activate_obj __dll3_anim_activate_obj
 #define anim_process_event __dll3_anim_process_event
 #define anim_get_free_sfx_slot __dll3_anim_get_free_sfx_slot
 #define anim_process_envfx_queue __dll3_anim_process_envfx_queue
@@ -28,8 +28,8 @@
 #define anim_get_actor_and_model_inst __dll3_anim_get_actor_and_model_inst
 #define anim_func_495C __dll3_anim_func_495C
 #define anim_find_jump_target_time __dll3_anim_find_jump_target_time
-#define anim_func_4B20 __dll3_anim_func_4B20
-#define anim_func_4BAC __dll3_anim_func_4BAC
+#define anim_snap_obj_to_ground __dll3_anim_snap_obj_to_ground
+#define anim_find_obj_ground_y __dll3_anim_find_obj_ground_y
 #define anim_func_4FC4 __dll3_anim_func_4FC4
 #define anim_func_51E0 __dll3_anim_func_51E0
 #define anim_func_5698 __dll3_anim_func_5698
@@ -39,18 +39,18 @@
 #define anim_check_condition __dll3_anim_check_condition
 #define anim_do_code_event __dll3_anim_do_code_event
 #define anim_set_camera_module __dll3_anim_set_camera_module
-#define anim_func_6620 __dll3_anim_func_6620
+#define anim_do_code_event_6 __dll3_anim_do_code_event_6
 #define anim_channel_value __dll3_anim_channel_value
 #define anim_calc_channel_value_at_time __dll3_anim_calc_channel_value_at_time
-#define anim_func_71C0 __dll3_anim_func_71C0
+#define anim_handle_seq_end __dll3_anim_handle_seq_end
 #define anim_func_72E0 __dll3_anim_func_72E0
 #define anim_update_camera __dll3_anim_update_camera
-#define anim_func_7974 __dll3_anim_func_7974
-#define anim_func_7B64 __dll3_anim_func_7B64
-#define anim_func_7C6C __dll3_anim_func_7C6C
-#define anim_func_7CF0 __dll3_anim_func_7CF0
+#define anim_init_curve __dll3_anim_init_curve
+#define anim_init_curve_keyframes __dll3_anim_init_curve_keyframes
+#define anim_free_curve __dll3_anim_free_curve
+#define anim_tick __dll3_anim_tick
 #define anim_find_animobj_target_in_world __dll3_anim_find_animobj_target_in_world
-#define anim_func_8598 __dll3_anim_func_8598
+#define anim_find_override_target __dll3_anim_find_override_target
 #define anim_func_8878 __dll3_anim_func_8878
 #define anim_func_8884 __dll3_anim_func_8884
 #define anim_func_88A0 __dll3_anim_func_88A0
@@ -60,7 +60,7 @@
 #define anim_start_obj_sequence __dll3_anim_start_obj_sequence
 #define anim_end_obj_sequence __dll3_anim_end_obj_sequence
 #define anim_preempt_sequence_time __dll3_anim_preempt_sequence_time
-#define anim_func_93A0 __dll3_anim_func_93A0
+#define anim_get_preempt_time __dll3_anim_get_preempt_time
 #define anim_func_9440 __dll3_anim_func_9440
 #define anim_func_9458 __dll3_anim_func_9458
 #define anim_func_9474 __dll3_anim_func_9474
@@ -70,9 +70,9 @@
 #define anim_set_anim_counter2 __dll3_anim_set_anim_counter2
 #define anim_func_9524 __dll3_anim_func_9524
 #define anim_func_9B70 __dll3_anim_func_9B70
-#define anim_func_9BC0 __dll3_anim_func_9BC0
-#define anim_func_9C08 __dll3_anim_func_9C08
-#define anim_func_9C94 __dll3_anim_func_9C94
+#define anim_override_list_clear __dll3_anim_override_list_clear
+#define anim_override_list_get __dll3_anim_override_list_get
+#define anim_override_list_add __dll3_anim_override_list_add
 #define anim_func_9CE8 __dll3_anim_func_9CE8
 #define anim_func_9DD4 __dll3_anim_func_9DD4
 #define anim_set_variable_obj __dll3_anim_set_variable_obj
@@ -96,8 +96,8 @@
 #define _data_AC __dll3__data_AC
 #define _data_C4 __dll3__data_C4
 #define sButtonMaskActive __dll3_sButtonMaskActive
-#define _bss_0 __dll3__bss_0
-#define _bss_20 __dll3__bss_20
+#define sPreemptTimeList __dll3_sPreemptTimeList
+#define sPreemptTimeListCount __dll3_sPreemptTimeListCount
 #define _bss_24 __dll3__bss_24
 #define _bss_28 __dll3__bss_28
 #define _bss_2C __dll3__bss_2C
@@ -115,7 +115,7 @@
 #define _bss_98 __dll3__bss_98
 #define sPendingWarpID __dll3_sPendingWarpID
 #define _bss_A0 __dll3__bss_A0
-#define _bss_A4 __dll3__bss_A4
+#define sSeqEnded __dll3_sSeqEnded
 #define _bss_A8 __dll3__bss_A8
 #define _bss_A9 __dll3__bss_A9
 #define _bss_D8 __dll3__bss_D8
@@ -163,12 +163,12 @@
 #define _bss_5E8 __dll3__bss_5E8
 #define sCodeEvtQueue __dll3_sCodeEvtQueue
 #define sCodeEvtQueueCount __dll3_sCodeEvtQueueCount
-#define _bss_698 __dll3__bss_698
+#define sActivates __dll3_sActivates
 #define _bss_69E __dll3__bss_69E
-#define _bss_6F8 __dll3__bss_6F8
+#define sActivatesCount __dll3_sActivatesCount
 #define _bss_6FC __dll3__bss_6FC
 #define _bss_700 __dll3__bss_700
-#define _bss_708 __dll3__bss_708
+#define sOverrides __dll3_sOverrides
 #define _bss_1D88 __dll3__bss_1D88
 
 #endif //_DLL_3_RECOMP_H
