@@ -321,7 +321,7 @@ functions = [
     { name = "joy_get_stick_menu_xy_sign", vram = 0x80011180, size = 0x3C },
     { name = "joy_handle_joystick_deadzone", vram = 0x800111BC, size = 0x90 },
     { name = "joy_set_security", vram = 0x8001124C, size = 0x10 },
-    { name = "joy_set_button_mask", vram = 0x8001125C, size = 0x34 },
+    { name = "joy_disable_buttons", vram = 0x8001125C, size = 0x34 },
     { name = "joy_reset_joystick", vram = 0x80011290, size = 0x18 },
     { name = "joy_set_menu_joystick_delay", vram = 0x800112A8, size = 0x1C },
     { name = "joy_reset_menu_joystick_delay", vram = 0x800112C4, size = 0x14 },

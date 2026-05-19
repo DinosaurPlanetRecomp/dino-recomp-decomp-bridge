@@ -80,7 +80,7 @@
 #define dTutorialBoxOpacity __dll1_dTutorialBoxOpacity
 #define dTutorialBoxTextOpacity __dll1_dTutorialBoxTextOpacity
 #define dInventoryPageIcon __dll1_dInventoryPageIcon
-#define sJoyButtonMask __dll1_sJoyButtonMask
+#define sJoyDisabledButtons __dll1_sJoyDisabledButtons
 #define dInventoryMovesQueued __dll1_dInventoryMovesQueued
 #define dInventoryIsScrolling __dll1_dInventoryIsScrolling
 #define sForceStatsDisplay __dll1_sForceStatsDisplay

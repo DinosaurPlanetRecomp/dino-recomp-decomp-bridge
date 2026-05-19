@@ -1649,7 +1649,7 @@ symbols = [
     { name = "__dll1_dTutorialBoxOpacity", vram = 0x81007938 },
     { name = "__dll1_dTutorialBoxTextOpacity", vram = 0x8100793C },
     { name = "__dll1_dInventoryPageIcon", vram = 0x81007944 },
-    { name = "__dll1_sJoyButtonMask", vram = 0x81007950 },
+    { name = "__dll1_sJoyDisabledButtons", vram = 0x81007950 },
     { name = "__dll1_dInventoryMovesQueued", vram = 0x81007954 },
     { name = "__dll1_dInventoryIsScrolling", vram = 0x81007958 },
     { name = "__dll1_sForceStatsDisplay", vram = 0x8100795C },
