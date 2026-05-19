@@ -14,10 +14,10 @@
 #define trigger_get_data_size __dll325_trigger_get_data_size
 #define trigger_process_commands __dll325_trigger_process_commands
 #define trigger_func_1754 __dll325_trigger_func_1754
-#define trigger_func_1764 __dll325_trigger_func_1764
-#define trigger_func_17FC __dll325_trigger_func_17FC
-#define trigger_func_1868 __dll325_trigger_func_1868
-#define trigger_func_1920 __dll325_trigger_func_1920
+#define trigger_bits_set __dll325_trigger_bits_set
+#define trigger_bits_toggle __dll325_trigger_bits_toggle
+#define trigger_tex_load __dll325_trigger_tex_load
+#define trigger_tex_free __dll325_trigger_tex_free
 #define trigger_point_setup __dll325_trigger_point_setup
 #define trigger_point_update __dll325_trigger_point_update
 #define trigger_cylinder_setup __dll325_trigger_cylinder_setup

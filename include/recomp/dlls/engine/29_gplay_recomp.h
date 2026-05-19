@@ -14,7 +14,7 @@
 #define gplay_save_game_options __dll29_gplay_save_game_options
 #define gplay_get_game_options __dll29_gplay_get_game_options
 #define gplay_func_94C __dll29_gplay_func_94C
-#define gplay_checkpoint __dll29_gplay_checkpoint
+#define gplay_savepoint __dll29_gplay_savepoint
 #define gplay_start_loaded_game __dll29_gplay_start_loaded_game
 #define gplay_restart_set __dll29_gplay_restart_set
 #define gplay_restart_goto __dll29_gplay_restart_goto
@@ -27,9 +27,9 @@
 #define gplay_get_player_stats __dll29_gplay_get_player_stats
 #define gplay_get_player_saved_location __dll29_gplay_get_player_saved_location
 #define gplay_get_sidekick_stats __dll29_gplay_get_sidekick_stats
-#define gplay_func_F60 __dll29_gplay_func_F60
-#define gplay_func_FA8 __dll29_gplay_func_FA8
-#define gplay_func_FE8 __dll29_gplay_func_FE8
+#define gplay_get_current_player_lactions __dll29_gplay_get_current_player_lactions
+#define gplay_get_current_player_envactions __dll29_gplay_get_current_player_envactions
+#define gplay_get_current_player_musicactions __dll29_gplay_get_current_player_musicactions
 #define gplay_add_time __dll29_gplay_add_time
 #define gplay_did_time_expire __dll29_gplay_did_time_expire
 #define gplay_get_time_remaining __dll29_gplay_get_time_remaining
@@ -39,24 +39,24 @@
 #define gplay_get_saved_objects __dll29_gplay_get_saved_objects
 #define gplay_get_time_played __dll29_gplay_get_time_played
 #define gplay_reset_state __dll29_gplay_reset_state
-#define gplay_func_1378 __dll29_gplay_func_1378
-#define gplay_set_map_setup __dll29_gplay_set_map_setup
-#define gplay_get_map_setup __dll29_gplay_get_map_setup
+#define gplay_set_mobile_map __dll29_gplay_set_mobile_map
+#define gplay_set_act __dll29_gplay_set_act
+#define gplay_get_act __dll29_gplay_get_act
 #define gplay_get_obj_group_status __dll29_gplay_get_obj_group_status
 #define gplay_get_obj_group_bit_key __dll29_gplay_get_obj_group_bit_key
 #define gplay_world_load_obj_group_bits __dll29_gplay_world_load_obj_group_bits
 #define gplay_world_get_obj_group_bits __dll29_gplay_world_get_obj_group_bits
 #define gplay_world_disable_all_obj_groups __dll29_gplay_world_disable_all_obj_groups
 #define gplay_set_obj_group_status __dll29_gplay_set_obj_group_status
-#define gplay_func_1974 __dll29_gplay_func_1974
-#define gplay_func_19B8 __dll29_gplay_func_19B8
+#define gplay_get_player_foodbag __dll29_gplay_get_player_foodbag
+#define gplay_get_dino_foodbag __dll29_gplay_get_dino_foodbag
 #define gplay_is_cheat_unlocked __dll29_gplay_is_cheat_unlocked
 #define gplay_unlock_cheat __dll29_gplay_unlock_cheat
 #define gplay_is_cheat_active __dll29_gplay_is_cheat_active
 #define gplay_set_cheat_enabled __dll29_gplay_set_cheat_enabled
 #define gplay_is_cinema_unlocked __dll29_gplay_is_cinema_unlocked
 #define gplay_unlock_cinema __dll29_gplay_unlock_cinema
-#define sMapSetupBitKeys __dll29_sMapSetupBitKeys
+#define sMapActBitKeys __dll29_sMapActBitKeys
 #define sMapObjGroupBitKeys __dll29_sMapObjGroupBitKeys
 #define sPlayerStartPos __dll29_sPlayerStartPos
 #define sSavegame __dll29_sSavegame
@@ -64,9 +64,9 @@
 #define sGameOptions __dll29_sGameOptions
 #define sState __dll29_sState
 #define sSavegameIdx __dll29_sSavegameIdx
-#define bss_1840 __dll29_bss_1840
+#define sMobileMaps __dll29_sMobileMaps
 #define sAllMapObjGroups __dll29_sAllMapObjGroups
-#define sMapSetup __dll29_sMapSetup
+#define sMapAct __dll29_sMapAct
 #define sMapObjGroups __dll29_sMapObjGroups
 
 #endif //_DLL_29_RECOMP_H

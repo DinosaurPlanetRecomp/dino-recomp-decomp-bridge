@@ -5,10 +5,10 @@
 
 #define anim_ctor __dll3_anim_ctor
 #define anim_dtor __dll3_anim_dtor
-#define anim_func_98 __dll3_anim_func_98
+#define anim_init __dll3_anim_init
 #define anim_queue_activate __dll3_anim_queue_activate
-#define anim_func_324 __dll3_anim_func_324
-#define anim_func_358 __dll3_anim_func_358
+#define anim_set_flag __dll3_anim_set_flag
+#define anim_get_flag __dll3_anim_get_flag
 #define anim_func_394 __dll3_anim_func_394
 #define anim_tick_obj __dll3_anim_tick_obj
 #define anim_process_remaining_events_immediate __dll3_anim_process_remaining_events_immediate

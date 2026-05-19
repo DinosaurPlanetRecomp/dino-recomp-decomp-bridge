@@ -2999,7 +2999,7 @@ vram = 0x8107E0E4
 size = 0x2270
 
 symbols = [
-    { name = "__dll29_sMapSetupBitKeys", vram = 0x81080074 },
+    { name = "__dll29_sMapActBitKeys", vram = 0x81080074 },
     { name = "__dll29_sMapObjGroupBitKeys", vram = 0x81080164 },
     { name = "__dll29_sPlayerStartPos", vram = 0x81080254 },
     { name = "__dll29_sSavegame", vram = 0x81080264 },
@@ -3007,9 +3007,9 @@ symbols = [
     { name = "__dll29_sGameOptions", vram = 0x8108026C },
     { name = "__dll29_sState", vram = 0x81080274 },
     { name = "__dll29_sSavegameIdx", vram = 0x81081AA0 },
-    { name = "__dll29_bss_1840", vram = 0x81081AA4 },
+    { name = "__dll29_sMobileMaps", vram = 0x81081AA4 },
     { name = "__dll29_sAllMapObjGroups", vram = 0x81081ACC },
-    { name = "__dll29_sMapSetup", vram = 0x81081CAC },
+    { name = "__dll29_sMapAct", vram = 0x81081CAC },
     { name = "__dll29_sMapObjGroups", vram = 0x81081CB4 },
 ]
 
