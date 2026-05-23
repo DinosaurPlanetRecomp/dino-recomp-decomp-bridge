@@ -2405,19 +2405,13 @@ size = 0x7290
 symbols = [
     { name = "__dll14_str_0", vram = 0x810491B0 },
     { name = "__dll14_rodata_54", vram = 0x81049204 },
-    { name = "__dll14_rodata_58", vram = 0x81049208 },
-    { name = "__dll14_rodata_5C", vram = 0x8104920C },
-    { name = "__dll14_rodata_60", vram = 0x81049210 },
-    { name = "__dll14_rodata_64", vram = 0x81049214 },
-    { name = "__dll14_rodata_68", vram = 0x81049218 },
-    { name = "__dll14_rodata_6C", vram = 0x8104921C },
-    { name = "__dll14_rodata_70", vram = 0x81049220 },
     { name = "__dll14_data_0", vram = 0x81049260 },
     { name = "__dll14_data_4", vram = 0x81049264 },
     { name = "__dll14_data_8", vram = 0x81049268 },
     { name = "__dll14_data_C", vram = 0x8104926C },
     { name = "__dll14_data_10", vram = 0x81049270 },
     { name = "__dll14_data_14", vram = 0x81049274 },
+    { name = "__dll14_data_28", vram = 0x81049288 },
     { name = "__dll14_data_2C", vram = 0x8104928C },
     { name = "__dll14_bss_0", vram = 0x81049290 },
     { name = "__dll14_bss_7C0", vram = 0x81049A50 },
@@ -2426,6 +2420,8 @@ symbols = [
     { name = "__dll14_bss_AC8", vram = 0x81049D58 },
     { name = "__dll14_bss_AD0", vram = 0x81049D60 },
     { name = "__dll14_bss_B16", vram = 0x81049DA6 },
+    { name = "__dll14__bss_B18", vram = 0x81049DA8 },
+    { name = "__dll14__bss_B20", vram = 0x81049DB0 },
 ]
 
 [[section]]

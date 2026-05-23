@@ -45,19 +45,13 @@
 #define dll_14_func_6FB0 __dll14_dll_14_func_6FB0
 #define str_0 __dll14_str_0
 #define rodata_54 __dll14_rodata_54
-#define rodata_58 __dll14_rodata_58
-#define rodata_5C __dll14_rodata_5C
-#define rodata_60 __dll14_rodata_60
-#define rodata_64 __dll14_rodata_64
-#define rodata_68 __dll14_rodata_68
-#define rodata_6C __dll14_rodata_6C
-#define rodata_70 __dll14_rodata_70
 #define data_0 __dll14_data_0
 #define data_4 __dll14_data_4
 #define data_8 __dll14_data_8
 #define data_C __dll14_data_C
 #define data_10 __dll14_data_10
 #define data_14 __dll14_data_14
+#define data_28 __dll14_data_28
 #define data_2C __dll14_data_2C
 #define bss_0 __dll14_bss_0
 #define bss_7C0 __dll14_bss_7C0
@@ -66,5 +60,7 @@
 #define bss_AC8 __dll14_bss_AC8
 #define bss_AD0 __dll14_bss_AD0
 #define bss_B16 __dll14_bss_B16
+#define _bss_B18 __dll14__bss_B18
+#define _bss_B20 __dll14__bss_B20
 
 #endif //_DLL_14_RECOMP_H
