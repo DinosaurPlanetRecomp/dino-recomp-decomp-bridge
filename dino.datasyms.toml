@@ -107,7 +107,7 @@ symbols = [
     { name = "gDLL_32", vram = 0x8008CA08 },
     { name = "gDLL_33_BaddieControl", vram = 0x8008CA0C },
     { name = "gDLL_59_Minimap", vram = 0x8008CA10 },
-    { name = "gDLL_54", vram = 0x8008CA14 },
+    { name = "gDLL_54_pickup", vram = 0x8008CA14 },
     { name = "gTempDLLIds", vram = 0x8008CA18 },
     { name = "gTempDLLInsts", vram = 0x8008CA24 },
     { name = "D_8008CA30", vram = 0x8008CA30 },
@@ -1205,8 +1205,8 @@ symbols = [
     { name = "gFbfxTimer:1", vram = 0x800B49E0 },
     { name = "gFbfxTimer", vram = 0x800B49E0 },
     { name = "sMainDLBuilder", vram = 0x800B49F0 },
-    { name = "_bss_800b97c8", vram = 0x800B4A20 },
     { name = "sAltDLBuilder", vram = 0x800B4A20 },
+    { name = "_bss_800b97c8", vram = 0x800B4A38 },
     { name = "D_800B4A50", vram = 0x800B4A50 },
     { name = "D_800B4A54", vram = 0x800B4A54 },
     { name = "D_800B4A58", vram = 0x800B4A58 },
@@ -4938,7 +4938,6 @@ vram = 0x810B8050
 size = 0x990
 
 symbols = [
-    { name = "__dll54_rodata_0", vram = 0x810B8980 },
 ]
 
 [[section]]

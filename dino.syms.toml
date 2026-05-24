@@ -4723,21 +4723,21 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll54_dll_54_ctor", vram = 0x810B8050, size = 0xC },
-    { name = "__dll54_dll_54_dtor", vram = 0x810B805C, size = 0xC },
-    { name = "__dll54_dll_54_func_18", vram = 0x810B8068, size = 0x4C },
-    { name = "__dll54_dll_54_func_64", vram = 0x810B80B4, size = 0x578 },
-    { name = "__dll54_dll_54_func_5DC", vram = 0x810B862C, size = 0x88 },
-    { name = "__dll54_dll_54_func_664", vram = 0x810B86B4, size = 0x3C },
-    { name = "__dll54_dll_54_func_6A0", vram = 0x810B86F0, size = 0xC },
-    { name = "__dll54_dll_54_func_6AC", vram = 0x810B86FC, size = 0x14 },
-    { name = "__dll54_dll_54_func_6C0", vram = 0x810B8710, size = 0xC },
-    { name = "__dll54_dll_54_func_6CC", vram = 0x810B871C, size = 0x38 },
-    { name = "__dll54_dll_54_func_704", vram = 0x810B8754, size = 0x38 },
-    { name = "__dll54_dll_54_func_73C", vram = 0x810B878C, size = 0x24 },
-    { name = "__dll54_dll_54_func_760", vram = 0x810B87B0, size = 0x38 },
-    { name = "__dll54_dll_54_func_798", vram = 0x810B87E8, size = 0xA0 },
-    { name = "__dll54_dll_54_func_838", vram = 0x810B8888, size = 0x98 },
+    { name = "__dll54_pickup_ctor", vram = 0x810B8050, size = 0xC },
+    { name = "__dll54_pickup_dtor", vram = 0x810B805C, size = 0xC },
+    { name = "__dll54_pickup_setup", vram = 0x810B8068, size = 0x4C },
+    { name = "__dll54_pickup_control", vram = 0x810B80B4, size = 0x578 },
+    { name = "__dll54_pickup_should_print", vram = 0x810B862C, size = 0x88 },
+    { name = "__dll54_pickup_free", vram = 0x810B86B4, size = 0x3C },
+    { name = "__dll54_pickup_get_state", vram = 0x810B86F0, size = 0xC },
+    { name = "__dll54_pickup_was_just_picked_up", vram = 0x810B86FC, size = 0x14 },
+    { name = "__dll54_pickup_func_6C0", vram = 0x810B8710, size = 0xC },
+    { name = "__dll54_pickup_set_gravity", vram = 0x810B871C, size = 0x38 },
+    { name = "__dll54_pickup_set_drop_disabled", vram = 0x810B8754, size = 0x38 },
+    { name = "__dll54_pickup_get_drop_disabled", vram = 0x810B878C, size = 0x24 },
+    { name = "__dll54_pickup_set_dont_save", vram = 0x810B87B0, size = 0x38 },
+    { name = "__dll54_pickup_drop", vram = 0x810B87E8, size = 0xA0 },
+    { name = "__dll54_pickup_should_pickup", vram = 0x810B8888, size = 0x98 },
 ]
 
 [[section]]

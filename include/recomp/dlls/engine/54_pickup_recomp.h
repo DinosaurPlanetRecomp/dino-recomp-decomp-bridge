@@ -3,21 +3,20 @@
 #ifndef _DLL_54_RECOMP_H
 #define _DLL_54_RECOMP_H
 
-#define dll_54_ctor __dll54_dll_54_ctor
-#define dll_54_dtor __dll54_dll_54_dtor
-#define dll_54_func_18 __dll54_dll_54_func_18
-#define dll_54_func_64 __dll54_dll_54_func_64
-#define dll_54_func_5DC __dll54_dll_54_func_5DC
-#define dll_54_func_664 __dll54_dll_54_func_664
-#define dll_54_func_6A0 __dll54_dll_54_func_6A0
-#define dll_54_func_6AC __dll54_dll_54_func_6AC
-#define dll_54_func_6C0 __dll54_dll_54_func_6C0
-#define dll_54_func_6CC __dll54_dll_54_func_6CC
-#define dll_54_func_704 __dll54_dll_54_func_704
-#define dll_54_func_73C __dll54_dll_54_func_73C
-#define dll_54_func_760 __dll54_dll_54_func_760
-#define dll_54_func_798 __dll54_dll_54_func_798
-#define dll_54_func_838 __dll54_dll_54_func_838
-#define rodata_0 __dll54_rodata_0
+#define pickup_ctor __dll54_pickup_ctor
+#define pickup_dtor __dll54_pickup_dtor
+#define pickup_setup __dll54_pickup_setup
+#define pickup_control __dll54_pickup_control
+#define pickup_should_print __dll54_pickup_should_print
+#define pickup_free __dll54_pickup_free
+#define pickup_get_state __dll54_pickup_get_state
+#define pickup_was_just_picked_up __dll54_pickup_was_just_picked_up
+#define pickup_func_6C0 __dll54_pickup_func_6C0
+#define pickup_set_gravity __dll54_pickup_set_gravity
+#define pickup_set_drop_disabled __dll54_pickup_set_drop_disabled
+#define pickup_get_drop_disabled __dll54_pickup_get_drop_disabled
+#define pickup_set_dont_save __dll54_pickup_set_dont_save
+#define pickup_drop __dll54_pickup_drop
+#define pickup_should_pickup __dll54_pickup_should_pickup
 
 #endif //_DLL_54_RECOMP_H
