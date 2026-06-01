@@ -9025,21 +9025,11 @@ vram = 0x811D003C
 size = 0x1A70
 
 symbols = [
-    { name = "__dll233_rodata_0", vram = 0x811D1A10 },
-    { name = "__dll233_rodata_4", vram = 0x811D1A14 },
-    { name = "__dll233_rodata_8", vram = 0x811D1A18 },
-    { name = "__dll233_rodata_C", vram = 0x811D1A1C },
-    { name = "__dll233_rodata_10", vram = 0x811D1A20 },
-    { name = "__dll233_rodata_14", vram = 0x811D1A24 },
-    { name = "__dll233_rodata_18", vram = 0x811D1A28 },
-    { name = "__dll233_rodata_1C", vram = 0x811D1A2C },
-    { name = "__dll233_rodata_20", vram = 0x811D1A30 },
-    { name = "__dll233_rodata_24", vram = 0x811D1A34 },
     { name = "__dll233_data_0", vram = 0x811D1A40 },
-    { name = "__dll233_data_1C", vram = 0x811D1A5C },
+    { name = "__dll233_sHitSounds", vram = 0x811D1A5C },
     { name = "__dll233_data_24", vram = 0x811D1A64 },
-    { name = "__dll233_bss_0", vram = 0x811D1A70 },
-    { name = "__dll233_bss_1C", vram = 0x811D1A8C },
+    { name = "__dll233_sStateCallbacks", vram = 0x811D1A70 },
+    { name = "__dll233_sAIStateCallbacks", vram = 0x811D1A8C },
 ]
 
 [[section]]
@@ -9049,26 +9039,12 @@ vram = 0x811D2040
 size = 0x1EA0
 
 symbols = [
-    { name = "__dll234_rodata_0", vram = 0x811D3E2C },
-    { name = "__dll234_rodata_4", vram = 0x811D3E30 },
-    { name = "__dll234_rodata_8", vram = 0x811D3E34 },
-    { name = "__dll234_rodata_C", vram = 0x811D3E38 },
-    { name = "__dll234_rodata_10", vram = 0x811D3E3C },
-    { name = "__dll234_rodata_14", vram = 0x811D3E40 },
-    { name = "__dll234_rodata_18", vram = 0x811D3E44 },
-    { name = "__dll234_rodata_1C", vram = 0x811D3E48 },
-    { name = "__dll234_rodata_20", vram = 0x811D3E4C },
-    { name = "__dll234_rodata_24", vram = 0x811D3E50 },
-    { name = "__dll234_rodata_28", vram = 0x811D3E54 },
-    { name = "__dll234_rodata_2C", vram = 0x811D3E58 },
-    { name = "__dll234_rodata_30", vram = 0x811D3E5C },
-    { name = "__dll234_rodata_34", vram = 0x811D3E60 },
-    { name = "__dll234_data_0", vram = 0x811D3E6C },
-    { name = "__dll234_data_1C", vram = 0x811D3E88 },
+    { name = "__dll234_sHitDamageMap", vram = 0x811D3E6C },
+    { name = "__dll234_sHitSounds", vram = 0x811D3E88 },
     { name = "__dll234_data_24", vram = 0x811D3E90 },
     { name = "__dll234_data_28", vram = 0x811D3E94 },
-    { name = "__dll234_bss_0", vram = 0x811D3E9C },
-    { name = "__dll234_bss_20", vram = 0x811D3EBC },
+    { name = "__dll234_sStateCallbacks", vram = 0x811D3E9C },
+    { name = "__dll234_sAIStateCallbacks", vram = 0x811D3EBC },
 ]
 
 [[section]]
