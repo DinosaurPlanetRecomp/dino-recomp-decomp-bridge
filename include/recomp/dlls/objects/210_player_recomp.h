@@ -192,8 +192,8 @@
 #define dll_210_func_1D2A8 __dll210_dll_210_func_1D2A8
 #define dll_210_func_1D368 __dll210_dll_210_func_1D368
 #define dll_210_func_1D380 __dll210_dll_210_func_1D380
-#define dll_210_func_1D390 __dll210_dll_210_func_1D390
-#define dll_210_func_1D3A4 __dll210_dll_210_func_1D3A4
+#define dll_210_get_spirit_bits __dll210_dll_210_get_spirit_bits
+#define dll_210_set_spirit_bits __dll210_dll_210_set_spirit_bits
 #define dll_210_func_1D40C __dll210_dll_210_func_1D40C
 #define dll_210_func_1D438 __dll210_dll_210_func_1D438
 #define dll_210_func_1D4C8 __dll210_dll_210_func_1D4C8

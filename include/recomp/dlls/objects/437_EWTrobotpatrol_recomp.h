@@ -59,7 +59,6 @@
 #define rodata_3C __dll437_rodata_3C
 #define rodata_40 __dll437_rodata_40
 #define rodata_44 __dll437_rodata_44
-#define rodata_48 __dll437_rodata_48
 #define rodata_4C __dll437_rodata_4C
 #define rodata_50 __dll437_rodata_50
 #define rodata_54 __dll437_rodata_54
@@ -68,5 +67,6 @@
 #define data_50 __dll437_data_50
 #define bss_0 __dll437_bss_0
 #define bss_4 __dll437_bss_4
+#define _bss_8 __dll437__bss_8
 
 #endif //_DLL_437_RECOMP_H
