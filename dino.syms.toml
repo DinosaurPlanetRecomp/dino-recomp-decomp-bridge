@@ -19419,15 +19419,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll473_dll_473_ctor", vram = 0x8130B03C, size = 0xC },
-    { name = "__dll473_dll_473_dtor", vram = 0x8130B048, size = 0xC },
-    { name = "__dll473_dll_473_setup", vram = 0x8130B054, size = 0x44 },
-    { name = "__dll473_dll_473_control", vram = 0x8130B098, size = 0x438 },
-    { name = "__dll473_dll_473_update", vram = 0x8130B4D0, size = 0xC },
-    { name = "__dll473_dll_473_print", vram = 0x8130B4DC, size = 0x54 },
-    { name = "__dll473_dll_473_free", vram = 0x8130B530, size = 0x10 },
-    { name = "__dll473_dll_473_get_model_flags", vram = 0x8130B540, size = 0x10 },
-    { name = "__dll473_dll_473_get_data_size", vram = 0x8130B550, size = 0x1C },
+    { name = "__dll473_GPSH_ObjCreator_ctor", vram = 0x8130B03C, size = 0xC },
+    { name = "__dll473_GPSH_ObjCreator_dtor", vram = 0x8130B048, size = 0xC },
+    { name = "__dll473_GPSH_ObjCreator_setup", vram = 0x8130B054, size = 0x44 },
+    { name = "__dll473_GPSH_ObjCreator_control", vram = 0x8130B098, size = 0x438 },
+    { name = "__dll473_GPSH_ObjCreator_update", vram = 0x8130B4D0, size = 0xC },
+    { name = "__dll473_GPSH_ObjCreator_print", vram = 0x8130B4DC, size = 0x54 },
+    { name = "__dll473_GPSH_ObjCreator_free", vram = 0x8130B530, size = 0x10 },
+    { name = "__dll473_GPSH_ObjCreator_get_model_flags", vram = 0x8130B540, size = 0x10 },
+    { name = "__dll473_GPSH_ObjCreator_get_data_size", vram = 0x8130B550, size = 0x1C },
 ]
 
 [[section]]
@@ -19817,17 +19817,17 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll486_dll_486_ctor", vram = 0x8131A03C, size = 0xC },
-    { name = "__dll486_dll_486_dtor", vram = 0x8131A048, size = 0xC },
-    { name = "__dll486_dll_486_setup", vram = 0x8131A054, size = 0x1D4 },
-    { name = "__dll486_dll_486_control", vram = 0x8131A228, size = 0xA90 },
-    { name = "__dll486_dll_486_update", vram = 0x8131ACB8, size = 0xC },
-    { name = "__dll486_dll_486_print", vram = 0x8131ACC4, size = 0x54 },
-    { name = "__dll486_dll_486_free", vram = 0x8131AD18, size = 0x90 },
-    { name = "__dll486_dll_486_get_model_flags", vram = 0x8131ADA8, size = 0x10 },
-    { name = "__dll486_dll_486_get_data_size", vram = 0x8131ADB8, size = 0x14 },
-    { name = "__dll486_dll_486_func_D90", vram = 0x8131ADCC, size = 0x404 },
-    { name = "__dll486_dll_486_func_1194", vram = 0x8131B1D0, size = 0x10C },
+    { name = "__dll486_CCSH_Shrine_ctor", vram = 0x8131A03C, size = 0xC },
+    { name = "__dll486_CCSH_Shrine_dtor", vram = 0x8131A048, size = 0xC },
+    { name = "__dll486_CCSH_Shrine_setup", vram = 0x8131A054, size = 0x1D4 },
+    { name = "__dll486_CCSH_Shrine_control", vram = 0x8131A228, size = 0xA90 },
+    { name = "__dll486_CCSH_Shrine_update", vram = 0x8131ACB8, size = 0xC },
+    { name = "__dll486_CCSH_Shrine_print", vram = 0x8131ACC4, size = 0x54 },
+    { name = "__dll486_CCSH_Shrine_free", vram = 0x8131AD18, size = 0x90 },
+    { name = "__dll486_CCSH_Shrine_get_model_flags", vram = 0x8131ADA8, size = 0x10 },
+    { name = "__dll486_CCSH_Shrine_get_data_size", vram = 0x8131ADB8, size = 0x14 },
+    { name = "__dll486_CCSH_Shrine_anim_callback", vram = 0x8131ADCC, size = 0x404 },
+    { name = "__dll486_CCSH_Shrine_process_obj_messages", vram = 0x8131B1D0, size = 0x10C },
 ]
 
 [[section]]

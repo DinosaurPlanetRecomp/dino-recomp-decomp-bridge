@@ -12029,8 +12029,6 @@ vram = 0x8131A03C
 size = 0x13D0
 
 symbols = [
-    { name = "__dll486_rodata_24", vram = 0x8131B384 },
-    { name = "__dll486_rodata_28", vram = 0x8131B388 },
     { name = "__dll486_data_0", vram = 0x8131B3C0 },
 ]
 
