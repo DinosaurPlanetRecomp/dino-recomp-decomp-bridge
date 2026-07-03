@@ -110,9 +110,9 @@
 #define _bss_8A __dll3__bss_8A
 #define _bss_8B __dll3__bss_8B
 #define sCameraModule __dll3_sCameraModule
-#define _bss_90 __dll3__bss_90
-#define _bss_94 __dll3__bss_94
-#define _bss_98 __dll3__bss_98
+#define sCamParam1 __dll3_sCamParam1
+#define sCamParam2 __dll3_sCamParam2
+#define sCamEaseDuration __dll3_sCamEaseDuration
 #define sPendingWarpID __dll3_sPendingWarpID
 #define _bss_A0 __dll3__bss_A0
 #define sSeqEnded __dll3_sSeqEnded

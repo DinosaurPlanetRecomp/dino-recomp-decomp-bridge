@@ -7,7 +7,7 @@
 #define CamControl_dtor __dll2_CamControl_dtor
 #define CamControl_init_data __dll2_CamControl_init_data
 #define CamControl_tick __dll2_CamControl_tick
-#define CamControl_get_data __dll2_CamControl_get_data
+#define CamControl_get_cam __dll2_CamControl_get_cam
 #define CamControl_get_dll_ID __dll2_CamControl_get_dll_ID
 #define CamControl_get_active_module __dll2_CamControl_get_active_module
 #define CamControl_get_camnormal_module __dll2_CamControl_get_camnormal_module
@@ -45,8 +45,8 @@
 #define CamControl_get_target_gametextID __dll2_CamControl_get_target_gametextID
 #define _rodata_2C __dll2__rodata_2C
 #define _data_0 __dll2__data_0
-#define sCamDataStruct __dll2_sCamDataStruct
-#define sCamData __dll2_sCamData
+#define sCamInternal __dll2_sCamInternal
+#define sCam __dll2_sCam
 #define sCamModules __dll2_sCamModules
 #define sCamModuleCount __dll2_sCamModuleCount
 #define sActiveModule __dll2_sActiveModule
@@ -55,8 +55,8 @@
 #define sNextID __dll2_sNextID
 #define sActiveFree __dll2_sActiveFree
 #define sActiveSetupVal __dll2_sActiveSetupVal
-#define sCamAction __dll2_sCamAction
-#define sEaseSetupNeeded __dll2_sEaseSetupNeeded
+#define sCamData __dll2_sCamData
+#define sCamSwitchNeeded __dll2_sCamSwitchNeeded
 #define sNextSetupVal __dll2_sNextSetupVal
 #define sNextFree __dll2_sNextFree
 #define sEaseDuration __dll2_sEaseDuration

@@ -3,18 +3,18 @@
 #ifndef _DLL_433_RECOMP_H
 #define _DLL_433_RECOMP_H
 
-#define dll_433_ctor __dll433_dll_433_ctor
-#define dll_433_dtor __dll433_dll_433_dtor
-#define dll_433_setup __dll433_dll_433_setup
-#define dll_433_control __dll433_dll_433_control
-#define dll_433_update __dll433_dll_433_update
-#define dll_433_print __dll433_dll_433_print
-#define dll_433_free __dll433_dll_433_free
-#define dll_433_get_model_flags __dll433_dll_433_get_model_flags
-#define dll_433_get_data_size __dll433_dll_433_get_data_size
-#define dll_433_func_F18 __dll433_dll_433_func_F18
-#define dll_433_func_12AC __dll433_dll_433_func_12AC
-#define _data_0 __dll433__data_0
-#define _data_4 __dll433__data_4
+#define DFShrine_ctor __dll433_DFShrine_ctor
+#define DFShrine_dtor __dll433_DFShrine_dtor
+#define DFShrine_setup __dll433_DFShrine_setup
+#define DFShrine_control __dll433_DFShrine_control
+#define DFShrine_update __dll433_DFShrine_update
+#define DFShrine_print __dll433_DFShrine_print
+#define DFShrine_free __dll433_DFShrine_free
+#define DFShrine_get_model_flags __dll433_DFShrine_get_model_flags
+#define DFShrine_get_data_size __dll433_DFShrine_get_data_size
+#define DFShrine_anim_callback __dll433_DFShrine_anim_callback
+#define DFShrine_process_obj_messages __dll433_DFShrine_process_obj_messages
+#define data_0 __dll433_data_0
+#define sFirstTick __dll433_sFirstTick
 
 #endif //_DLL_433_RECOMP_H
