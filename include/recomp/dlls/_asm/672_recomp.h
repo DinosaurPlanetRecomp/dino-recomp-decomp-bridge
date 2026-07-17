@@ -5,13 +5,13 @@
 
 #define dll_672_ctor __dll672_dll_672_ctor
 #define dll_672_dtor __dll672_dll_672_dtor
-#define dll_672_setup __dll672_dll_672_setup
-#define dll_672_control __dll672_dll_672_control
-#define dll_672_update __dll672_dll_672_update
-#define dll_672_print __dll672_dll_672_print
-#define dll_672_free __dll672_dll_672_free
-#define dll_672_get_model_flags __dll672_dll_672_get_model_flags
-#define dll_672_get_data_size __dll672_dll_672_get_data_size
+#define dll_672_obj_Setup __dll672_dll_672_obj_Setup
+#define dll_672_obj_Control __dll672_dll_672_obj_Control
+#define dll_672_obj_Update __dll672_dll_672_obj_Update
+#define dll_672_obj_Print __dll672_dll_672_obj_Print
+#define dll_672_obj_Free __dll672_dll_672_obj_Free
+#define dll_672_obj_GetModelFlags __dll672_dll_672_obj_GetModelFlags
+#define dll_672_obj_GetDataSize __dll672_dll_672_obj_GetDataSize
 #define dll_672_func_844 __dll672_dll_672_func_844
 #define dll_672_func_924 __dll672_dll_672_func_924
 #define rodata_0 __dll672_rodata_0

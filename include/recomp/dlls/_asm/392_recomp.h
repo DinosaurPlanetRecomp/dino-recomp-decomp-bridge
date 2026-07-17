@@ -5,13 +5,13 @@
 
 #define dll_392_ctor __dll392_dll_392_ctor
 #define dll_392_dtor __dll392_dll_392_dtor
-#define dll_392_setup __dll392_dll_392_setup
-#define dll_392_control __dll392_dll_392_control
-#define dll_392_update __dll392_dll_392_update
-#define dll_392_print __dll392_dll_392_print
-#define dll_392_free __dll392_dll_392_free
-#define dll_392_get_model_flags __dll392_dll_392_get_model_flags
-#define dll_392_get_data_size __dll392_dll_392_get_data_size
+#define dll_392_obj_Setup __dll392_dll_392_obj_Setup
+#define dll_392_obj_Control __dll392_dll_392_obj_Control
+#define dll_392_obj_Update __dll392_dll_392_obj_Update
+#define dll_392_obj_Print __dll392_dll_392_obj_Print
+#define dll_392_obj_Free __dll392_dll_392_obj_Free
+#define dll_392_obj_GetModelFlags __dll392_dll_392_obj_GetModelFlags
+#define dll_392_obj_GetDataSize __dll392_dll_392_obj_GetDataSize
 #define dll_392_func_544 __dll392_dll_392_func_544
 #define dll_392_func_628 __dll392_dll_392_func_628
 #define dll_392_func_638 __dll392_dll_392_func_638

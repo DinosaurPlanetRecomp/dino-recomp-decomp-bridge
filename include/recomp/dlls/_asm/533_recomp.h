@@ -5,12 +5,12 @@
 
 #define dll_533_ctor __dll533_dll_533_ctor
 #define dll_533_dtor __dll533_dll_533_dtor
-#define dll_533_setup __dll533_dll_533_setup
-#define dll_533_control __dll533_dll_533_control
-#define dll_533_update __dll533_dll_533_update
-#define dll_533_print __dll533_dll_533_print
-#define dll_533_free __dll533_dll_533_free
-#define dll_533_get_model_flags __dll533_dll_533_get_model_flags
-#define dll_533_get_data_size __dll533_dll_533_get_data_size
+#define dll_533_obj_Setup __dll533_dll_533_obj_Setup
+#define dll_533_obj_Control __dll533_dll_533_obj_Control
+#define dll_533_obj_Update __dll533_dll_533_obj_Update
+#define dll_533_obj_Print __dll533_dll_533_obj_Print
+#define dll_533_obj_Free __dll533_dll_533_obj_Free
+#define dll_533_obj_GetModelFlags __dll533_dll_533_obj_GetModelFlags
+#define dll_533_obj_GetDataSize __dll533_dll_533_obj_GetDataSize
 
 #endif //_DLL_533_RECOMP_H

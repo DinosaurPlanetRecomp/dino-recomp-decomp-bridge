@@ -5,12 +5,12 @@
 
 #define dll_491_ctor __dll491_dll_491_ctor
 #define dll_491_dtor __dll491_dll_491_dtor
-#define dll_491_setup __dll491_dll_491_setup
-#define dll_491_control __dll491_dll_491_control
-#define dll_491_update __dll491_dll_491_update
-#define dll_491_print __dll491_dll_491_print
-#define dll_491_free __dll491_dll_491_free
-#define dll_491_get_model_flags __dll491_dll_491_get_model_flags
-#define dll_491_get_data_size __dll491_dll_491_get_data_size
+#define dll_491_obj_Setup __dll491_dll_491_obj_Setup
+#define dll_491_obj_Control __dll491_dll_491_obj_Control
+#define dll_491_obj_Update __dll491_dll_491_obj_Update
+#define dll_491_obj_Print __dll491_dll_491_obj_Print
+#define dll_491_obj_Free __dll491_dll_491_obj_Free
+#define dll_491_obj_GetModelFlags __dll491_dll_491_obj_GetModelFlags
+#define dll_491_obj_GetDataSize __dll491_dll_491_obj_GetDataSize
 
 #endif //_DLL_491_RECOMP_H

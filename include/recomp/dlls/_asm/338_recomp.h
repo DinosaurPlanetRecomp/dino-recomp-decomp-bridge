@@ -5,16 +5,16 @@
 
 #define dll_338_ctor __dll338_dll_338_ctor
 #define dll_338_dtor __dll338_dll_338_dtor
-#define dll_338_setup __dll338_dll_338_setup
-#define dll_338_control __dll338_dll_338_control
-#define dll_338_update __dll338_dll_338_update
-#define dll_338_print __dll338_dll_338_print
-#define dll_338_free __dll338_dll_338_free
-#define dll_338_get_model_flags __dll338_dll_338_get_model_flags
-#define dll_338_get_data_size __dll338_dll_338_get_data_size
+#define dll_338_obj_Setup __dll338_dll_338_obj_Setup
+#define dll_338_obj_Control __dll338_dll_338_obj_Control
+#define dll_338_obj_Update __dll338_dll_338_obj_Update
+#define dll_338_obj_Print __dll338_dll_338_obj_Print
+#define dll_338_obj_Free __dll338_dll_338_obj_Free
+#define dll_338_obj_GetModelFlags __dll338_dll_338_obj_GetModelFlags
+#define dll_338_obj_GetDataSize __dll338_dll_338_obj_GetDataSize
 #define dll_338_func_5AC __dll338_dll_338_func_5AC
-#define dll_338_func_6B8 __dll338_dll_338_func_6B8
-#define dll_338_func_6DC __dll338_dll_338_func_6DC
+#define dll_338_Func_6B8 __dll338_dll_338_Func_6B8
+#define dll_338_Func_6DC __dll338_dll_338_Func_6DC
 #define rodata_0 __dll338_rodata_0
 #define data_0 __dll338_data_0
 #define bss_0 __dll338_bss_0

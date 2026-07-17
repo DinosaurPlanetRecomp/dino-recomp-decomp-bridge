@@ -5,13 +5,13 @@
 
 #define dll_451_ctor __dll451_dll_451_ctor
 #define dll_451_dtor __dll451_dll_451_dtor
-#define dll_451_setup __dll451_dll_451_setup
-#define dll_451_control __dll451_dll_451_control
-#define dll_451_update __dll451_dll_451_update
-#define dll_451_print __dll451_dll_451_print
-#define dll_451_free __dll451_dll_451_free
-#define dll_451_get_model_flags __dll451_dll_451_get_model_flags
-#define dll_451_get_data_size __dll451_dll_451_get_data_size
+#define dll_451_obj_Setup __dll451_dll_451_obj_Setup
+#define dll_451_obj_Control __dll451_dll_451_obj_Control
+#define dll_451_obj_Update __dll451_dll_451_obj_Update
+#define dll_451_obj_Print __dll451_dll_451_obj_Print
+#define dll_451_obj_Free __dll451_dll_451_obj_Free
+#define dll_451_obj_GetModelFlags __dll451_dll_451_obj_GetModelFlags
+#define dll_451_obj_GetDataSize __dll451_dll_451_obj_GetDataSize
 #define dll_451_func_234 __dll451_dll_451_func_234
 #define dll_451_func_308 __dll451_dll_451_func_308
 

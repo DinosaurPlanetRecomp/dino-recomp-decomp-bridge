@@ -5,6 +5,6 @@
 
 #define dll_198_ctor __dll198_dll_198_ctor
 #define dll_198_dtor __dll198_dll_198_dtor
-#define dll_198_func_18 __dll198_dll_198_func_18
+#define dll_198_Func_18 __dll198_dll_198_Func_18
 
 #endif //_DLL_198_RECOMP_H

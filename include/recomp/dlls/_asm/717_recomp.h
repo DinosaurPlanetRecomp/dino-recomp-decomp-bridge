@@ -5,16 +5,16 @@
 
 #define dll_717_ctor __dll717_dll_717_ctor
 #define dll_717_dtor __dll717_dll_717_dtor
-#define dll_717_setup __dll717_dll_717_setup
-#define dll_717_control __dll717_dll_717_control
-#define dll_717_update __dll717_dll_717_update
-#define dll_717_print __dll717_dll_717_print
-#define dll_717_free __dll717_dll_717_free
-#define dll_717_get_model_flags __dll717_dll_717_get_model_flags
-#define dll_717_get_data_size __dll717_dll_717_get_data_size
-#define dll_717_func_514 __dll717_dll_717_func_514
-#define dll_717_func_5C0 __dll717_dll_717_func_5C0
-#define dll_717_func_5D8 __dll717_dll_717_func_5D8
-#define dll_717_func_5F0 __dll717_dll_717_func_5F0
+#define dll_717_obj_Setup __dll717_dll_717_obj_Setup
+#define dll_717_obj_Control __dll717_dll_717_obj_Control
+#define dll_717_obj_Update __dll717_dll_717_obj_Update
+#define dll_717_obj_Print __dll717_dll_717_obj_Print
+#define dll_717_obj_Free __dll717_dll_717_obj_Free
+#define dll_717_obj_GetModelFlags __dll717_dll_717_obj_GetModelFlags
+#define dll_717_obj_GetDataSize __dll717_dll_717_obj_GetDataSize
+#define dll_717_Func_514 __dll717_dll_717_Func_514
+#define dll_717_Func_5C0 __dll717_dll_717_Func_5C0
+#define dll_717_Func_5D8 __dll717_dll_717_Func_5D8
+#define dll_717_Func_5F0 __dll717_dll_717_Func_5F0
 
 #endif //_DLL_717_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_500_ctor __dll500_dll_500_ctor
 #define dll_500_dtor __dll500_dll_500_dtor
-#define dll_500_setup __dll500_dll_500_setup
-#define dll_500_control __dll500_dll_500_control
-#define dll_500_update __dll500_dll_500_update
-#define dll_500_print __dll500_dll_500_print
-#define dll_500_free __dll500_dll_500_free
-#define dll_500_get_model_flags __dll500_dll_500_get_model_flags
-#define dll_500_get_data_size __dll500_dll_500_get_data_size
+#define dll_500_obj_Setup __dll500_dll_500_obj_Setup
+#define dll_500_obj_Control __dll500_dll_500_obj_Control
+#define dll_500_obj_Update __dll500_dll_500_obj_Update
+#define dll_500_obj_Print __dll500_dll_500_obj_Print
+#define dll_500_obj_Free __dll500_dll_500_obj_Free
+#define dll_500_obj_GetModelFlags __dll500_dll_500_obj_GetModelFlags
+#define dll_500_obj_GetDataSize __dll500_dll_500_obj_GetDataSize
 #define dll_500_func_2C0 __dll500_dll_500_func_2C0
 #define rodata_0 __dll500_rodata_0
 #define rodata_4 __dll500_rodata_4

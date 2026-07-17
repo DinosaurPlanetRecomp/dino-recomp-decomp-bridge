@@ -5,13 +5,13 @@
 
 #define dll_591_ctor __dll591_dll_591_ctor
 #define dll_591_dtor __dll591_dll_591_dtor
-#define dll_591_setup __dll591_dll_591_setup
-#define dll_591_control __dll591_dll_591_control
-#define dll_591_update __dll591_dll_591_update
-#define dll_591_print __dll591_dll_591_print
-#define dll_591_free __dll591_dll_591_free
-#define dll_591_get_model_flags __dll591_dll_591_get_model_flags
-#define dll_591_get_data_size __dll591_dll_591_get_data_size
+#define dll_591_obj_Setup __dll591_dll_591_obj_Setup
+#define dll_591_obj_Control __dll591_dll_591_obj_Control
+#define dll_591_obj_Update __dll591_dll_591_obj_Update
+#define dll_591_obj_Print __dll591_dll_591_obj_Print
+#define dll_591_obj_Free __dll591_dll_591_obj_Free
+#define dll_591_obj_GetModelFlags __dll591_dll_591_obj_GetModelFlags
+#define dll_591_obj_GetDataSize __dll591_dll_591_obj_GetDataSize
 #define rodata_24 __dll591_rodata_24
 #define rodata_28 __dll591_rodata_28
 #define bss_0 __dll591_bss_0

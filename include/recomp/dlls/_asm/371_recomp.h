@@ -5,13 +5,13 @@
 
 #define dll_371_ctor __dll371_dll_371_ctor
 #define dll_371_dtor __dll371_dll_371_dtor
-#define dll_371_setup __dll371_dll_371_setup
-#define dll_371_control __dll371_dll_371_control
-#define dll_371_update __dll371_dll_371_update
-#define dll_371_print __dll371_dll_371_print
-#define dll_371_free __dll371_dll_371_free
-#define dll_371_get_model_flags __dll371_dll_371_get_model_flags
-#define dll_371_get_data_size __dll371_dll_371_get_data_size
+#define dll_371_obj_Setup __dll371_dll_371_obj_Setup
+#define dll_371_obj_Control __dll371_dll_371_obj_Control
+#define dll_371_obj_Update __dll371_dll_371_obj_Update
+#define dll_371_obj_Print __dll371_dll_371_obj_Print
+#define dll_371_obj_Free __dll371_dll_371_obj_Free
+#define dll_371_obj_GetModelFlags __dll371_dll_371_obj_GetModelFlags
+#define dll_371_obj_GetDataSize __dll371_dll_371_obj_GetDataSize
 #define dll_371_func_380 __dll371_dll_371_func_380
 
 #endif //_DLL_371_RECOMP_H

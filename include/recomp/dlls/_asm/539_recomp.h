@@ -5,13 +5,13 @@
 
 #define dll_539_ctor __dll539_dll_539_ctor
 #define dll_539_dtor __dll539_dll_539_dtor
-#define dll_539_setup __dll539_dll_539_setup
-#define dll_539_control __dll539_dll_539_control
-#define dll_539_update __dll539_dll_539_update
-#define dll_539_print __dll539_dll_539_print
-#define dll_539_free __dll539_dll_539_free
-#define dll_539_get_model_flags __dll539_dll_539_get_model_flags
-#define dll_539_get_data_size __dll539_dll_539_get_data_size
+#define dll_539_obj_Setup __dll539_dll_539_obj_Setup
+#define dll_539_obj_Control __dll539_dll_539_obj_Control
+#define dll_539_obj_Update __dll539_dll_539_obj_Update
+#define dll_539_obj_Print __dll539_dll_539_obj_Print
+#define dll_539_obj_Free __dll539_dll_539_obj_Free
+#define dll_539_obj_GetModelFlags __dll539_dll_539_obj_GetModelFlags
+#define dll_539_obj_GetDataSize __dll539_dll_539_obj_GetDataSize
 #define dll_539_func_368 __dll539_dll_539_func_368
 
 #endif //_DLL_539_RECOMP_H

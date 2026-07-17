@@ -5,6 +5,6 @@
 
 #define dll_124_ctor __dll124_dll_124_ctor
 #define dll_124_dtor __dll124_dll_124_dtor
-#define dll_124_func_18 __dll124_dll_124_func_18
+#define dll_124_Func_18 __dll124_dll_124_Func_18
 
 #endif //_DLL_124_RECOMP_H

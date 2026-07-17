@@ -5,13 +5,13 @@
 
 #define dll_310_ctor __dll310_dll_310_ctor
 #define dll_310_dtor __dll310_dll_310_dtor
-#define dll_310_setup __dll310_dll_310_setup
-#define dll_310_control __dll310_dll_310_control
-#define dll_310_update __dll310_dll_310_update
-#define dll_310_print __dll310_dll_310_print
-#define dll_310_free __dll310_dll_310_free
-#define dll_310_get_model_flags __dll310_dll_310_get_model_flags
-#define dll_310_get_data_size __dll310_dll_310_get_data_size
+#define dll_310_obj_Setup __dll310_dll_310_obj_Setup
+#define dll_310_obj_Control __dll310_dll_310_obj_Control
+#define dll_310_obj_Update __dll310_dll_310_obj_Update
+#define dll_310_obj_Print __dll310_dll_310_obj_Print
+#define dll_310_obj_Free __dll310_dll_310_obj_Free
+#define dll_310_obj_GetModelFlags __dll310_dll_310_obj_GetModelFlags
+#define dll_310_obj_GetDataSize __dll310_dll_310_obj_GetDataSize
 #define dll_310_func_394 __dll310_dll_310_func_394
 #define str_0 __dll310_str_0
 

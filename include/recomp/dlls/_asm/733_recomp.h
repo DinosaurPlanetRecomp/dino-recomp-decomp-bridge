@@ -5,13 +5,13 @@
 
 #define dll_733_ctor __dll733_dll_733_ctor
 #define dll_733_dtor __dll733_dll_733_dtor
-#define dll_733_setup __dll733_dll_733_setup
-#define dll_733_control __dll733_dll_733_control
-#define dll_733_update __dll733_dll_733_update
-#define dll_733_print __dll733_dll_733_print
-#define dll_733_free __dll733_dll_733_free
-#define dll_733_get_model_flags __dll733_dll_733_get_model_flags
-#define dll_733_get_data_size __dll733_dll_733_get_data_size
+#define dll_733_obj_Setup __dll733_dll_733_obj_Setup
+#define dll_733_obj_Control __dll733_dll_733_obj_Control
+#define dll_733_obj_Update __dll733_dll_733_obj_Update
+#define dll_733_obj_Print __dll733_dll_733_obj_Print
+#define dll_733_obj_Free __dll733_dll_733_obj_Free
+#define dll_733_obj_GetModelFlags __dll733_dll_733_obj_GetModelFlags
+#define dll_733_obj_GetDataSize __dll733_dll_733_obj_GetDataSize
 #define dll_733_func_9A4 __dll733_dll_733_func_9A4
 #define dll_733_func_AF0 __dll733_dll_733_func_AF0
 #define dll_733_func_D74 __dll733_dll_733_func_D74

@@ -5,13 +5,13 @@
 
 #define dll_445_ctor __dll445_dll_445_ctor
 #define dll_445_dtor __dll445_dll_445_dtor
-#define dll_445_setup __dll445_dll_445_setup
-#define dll_445_control __dll445_dll_445_control
-#define dll_445_update __dll445_dll_445_update
-#define dll_445_print __dll445_dll_445_print
-#define dll_445_free __dll445_dll_445_free
-#define dll_445_get_model_flags __dll445_dll_445_get_model_flags
-#define dll_445_get_data_size __dll445_dll_445_get_data_size
+#define dll_445_obj_Setup __dll445_dll_445_obj_Setup
+#define dll_445_obj_Control __dll445_dll_445_obj_Control
+#define dll_445_obj_Update __dll445_dll_445_obj_Update
+#define dll_445_obj_Print __dll445_dll_445_obj_Print
+#define dll_445_obj_Free __dll445_dll_445_obj_Free
+#define dll_445_obj_GetModelFlags __dll445_dll_445_obj_GetModelFlags
+#define dll_445_obj_GetDataSize __dll445_dll_445_obj_GetDataSize
 #define dll_445_func_628 __dll445_dll_445_func_628
 #define dll_445_func_A8C __dll445_dll_445_func_A8C
 #define rodata_0 __dll445_rodata_0

@@ -5,13 +5,13 @@
 
 #define dll_352_ctor __dll352_dll_352_ctor
 #define dll_352_dtor __dll352_dll_352_dtor
-#define dll_352_setup __dll352_dll_352_setup
-#define dll_352_control __dll352_dll_352_control
-#define dll_352_update __dll352_dll_352_update
-#define dll_352_print __dll352_dll_352_print
-#define dll_352_free __dll352_dll_352_free
-#define dll_352_get_model_flags __dll352_dll_352_get_model_flags
-#define dll_352_get_data_size __dll352_dll_352_get_data_size
+#define dll_352_obj_Setup __dll352_dll_352_obj_Setup
+#define dll_352_obj_Control __dll352_dll_352_obj_Control
+#define dll_352_obj_Update __dll352_dll_352_obj_Update
+#define dll_352_obj_Print __dll352_dll_352_obj_Print
+#define dll_352_obj_Free __dll352_dll_352_obj_Free
+#define dll_352_obj_GetModelFlags __dll352_dll_352_obj_GetModelFlags
+#define dll_352_obj_GetDataSize __dll352_dll_352_obj_GetDataSize
 #define dll_352_func_1008 __dll352_dll_352_func_1008
 #define dll_352_func_11A0 __dll352_dll_352_func_11A0
 #define rodata_0 __dll352_rodata_0

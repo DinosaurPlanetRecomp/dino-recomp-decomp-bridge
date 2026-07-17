@@ -5,13 +5,13 @@
 
 #define dll_492_ctor __dll492_dll_492_ctor
 #define dll_492_dtor __dll492_dll_492_dtor
-#define dll_492_setup __dll492_dll_492_setup
-#define dll_492_control __dll492_dll_492_control
-#define dll_492_update __dll492_dll_492_update
-#define dll_492_print __dll492_dll_492_print
-#define dll_492_free __dll492_dll_492_free
-#define dll_492_get_model_flags __dll492_dll_492_get_model_flags
-#define dll_492_get_data_size __dll492_dll_492_get_data_size
+#define dll_492_obj_Setup __dll492_dll_492_obj_Setup
+#define dll_492_obj_Control __dll492_dll_492_obj_Control
+#define dll_492_obj_Update __dll492_dll_492_obj_Update
+#define dll_492_obj_Print __dll492_dll_492_obj_Print
+#define dll_492_obj_Free __dll492_dll_492_obj_Free
+#define dll_492_obj_GetModelFlags __dll492_dll_492_obj_GetModelFlags
+#define dll_492_obj_GetDataSize __dll492_dll_492_obj_GetDataSize
 #define str_0 __dll492_str_0
 #define rodata_14 __dll492_rodata_14
 #define data_0 __dll492_data_0

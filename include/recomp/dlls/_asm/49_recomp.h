@@ -5,9 +5,9 @@
 
 #define dll_49_ctor __dll49_dll_49_ctor
 #define dll_49_dtor __dll49_dll_49_dtor
-#define dll_49_func_18 __dll49_dll_49_func_18
-#define dll_49_func_20 __dll49_dll_49_func_20
-#define dll_49_func_194 __dll49_dll_49_func_194
+#define dll_49_Func_18 __dll49_dll_49_Func_18
+#define dll_49_Func_20 __dll49_dll_49_Func_20
+#define dll_49_Func_194 __dll49_dll_49_Func_194
 #define rodata_0 __dll49_rodata_0
 #define rodata_4 __dll49_rodata_4
 #define rodata_8 __dll49_rodata_8

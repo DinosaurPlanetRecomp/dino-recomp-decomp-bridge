@@ -5,13 +5,13 @@
 
 #define dll_696_ctor __dll696_dll_696_ctor
 #define dll_696_dtor __dll696_dll_696_dtor
-#define dll_696_setup __dll696_dll_696_setup
-#define dll_696_control __dll696_dll_696_control
-#define dll_696_update __dll696_dll_696_update
-#define dll_696_print __dll696_dll_696_print
-#define dll_696_free __dll696_dll_696_free
-#define dll_696_get_model_flags __dll696_dll_696_get_model_flags
-#define dll_696_get_data_size __dll696_dll_696_get_data_size
+#define dll_696_obj_Setup __dll696_dll_696_obj_Setup
+#define dll_696_obj_Control __dll696_dll_696_obj_Control
+#define dll_696_obj_Update __dll696_dll_696_obj_Update
+#define dll_696_obj_Print __dll696_dll_696_obj_Print
+#define dll_696_obj_Free __dll696_dll_696_obj_Free
+#define dll_696_obj_GetModelFlags __dll696_dll_696_obj_GetModelFlags
+#define dll_696_obj_GetDataSize __dll696_dll_696_obj_GetDataSize
 #define dll_696_func_364 __dll696_dll_696_func_364
 
 #endif //_DLL_696_RECOMP_H

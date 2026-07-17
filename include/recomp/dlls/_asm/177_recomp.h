@@ -5,7 +5,7 @@
 
 #define dll_177_ctor __dll177_dll_177_ctor
 #define dll_177_dtor __dll177_dll_177_dtor
-#define dll_177_func_18 __dll177_dll_177_func_18
+#define dll_177_Func_18 __dll177_dll_177_Func_18
 #define rodata_0 __dll177_rodata_0
 #define rodata_4 __dll177_rodata_4
 #define data_0 __dll177_data_0

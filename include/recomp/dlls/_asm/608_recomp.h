@@ -5,13 +5,13 @@
 
 #define dll_608_ctor __dll608_dll_608_ctor
 #define dll_608_dtor __dll608_dll_608_dtor
-#define dll_608_setup __dll608_dll_608_setup
-#define dll_608_control __dll608_dll_608_control
-#define dll_608_update __dll608_dll_608_update
-#define dll_608_print __dll608_dll_608_print
-#define dll_608_free __dll608_dll_608_free
-#define dll_608_get_model_flags __dll608_dll_608_get_model_flags
-#define dll_608_get_data_size __dll608_dll_608_get_data_size
+#define dll_608_obj_Setup __dll608_dll_608_obj_Setup
+#define dll_608_obj_Control __dll608_dll_608_obj_Control
+#define dll_608_obj_Update __dll608_dll_608_obj_Update
+#define dll_608_obj_Print __dll608_dll_608_obj_Print
+#define dll_608_obj_Free __dll608_dll_608_obj_Free
+#define dll_608_obj_GetModelFlags __dll608_dll_608_obj_GetModelFlags
+#define dll_608_obj_GetDataSize __dll608_dll_608_obj_GetDataSize
 #define dll_608_func_158 __dll608_dll_608_func_158
 #define dll_608_func_3B4 __dll608_dll_608_func_3B4
 #define rodata_0 __dll608_rodata_0

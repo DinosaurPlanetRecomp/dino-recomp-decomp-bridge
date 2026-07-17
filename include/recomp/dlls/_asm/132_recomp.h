@@ -5,7 +5,7 @@
 
 #define dll_132_ctor __dll132_dll_132_ctor
 #define dll_132_dtor __dll132_dll_132_dtor
-#define dll_132_func_18 __dll132_dll_132_func_18
+#define dll_132_Func_18 __dll132_dll_132_Func_18
 #define rodata_0 __dll132_rodata_0
 #define rodata_4 __dll132_rodata_4
 #define data_0 __dll132_data_0

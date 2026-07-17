@@ -5,7 +5,7 @@
 
 #define dll_140_ctor __dll140_dll_140_ctor
 #define dll_140_dtor __dll140_dll_140_dtor
-#define dll_140_func_18 __dll140_dll_140_func_18
+#define dll_140_Func_18 __dll140_dll_140_Func_18
 #define rodata_0 __dll140_rodata_0
 #define rodata_4 __dll140_rodata_4
 #define rodata_8 __dll140_rodata_8

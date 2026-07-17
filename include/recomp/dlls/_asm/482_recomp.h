@@ -5,12 +5,12 @@
 
 #define dll_482_ctor __dll482_dll_482_ctor
 #define dll_482_dtor __dll482_dll_482_dtor
-#define dll_482_setup __dll482_dll_482_setup
-#define dll_482_control __dll482_dll_482_control
-#define dll_482_update __dll482_dll_482_update
-#define dll_482_print __dll482_dll_482_print
-#define dll_482_free __dll482_dll_482_free
-#define dll_482_get_model_flags __dll482_dll_482_get_model_flags
-#define dll_482_get_data_size __dll482_dll_482_get_data_size
+#define dll_482_obj_Setup __dll482_dll_482_obj_Setup
+#define dll_482_obj_Control __dll482_dll_482_obj_Control
+#define dll_482_obj_Update __dll482_dll_482_obj_Update
+#define dll_482_obj_Print __dll482_dll_482_obj_Print
+#define dll_482_obj_Free __dll482_dll_482_obj_Free
+#define dll_482_obj_GetModelFlags __dll482_dll_482_obj_GetModelFlags
+#define dll_482_obj_GetDataSize __dll482_dll_482_obj_GetDataSize
 
 #endif //_DLL_482_RECOMP_H

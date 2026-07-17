@@ -5,13 +5,13 @@
 
 #define dll_699_ctor __dll699_dll_699_ctor
 #define dll_699_dtor __dll699_dll_699_dtor
-#define dll_699_setup __dll699_dll_699_setup
-#define dll_699_control __dll699_dll_699_control
-#define dll_699_update __dll699_dll_699_update
-#define dll_699_print __dll699_dll_699_print
-#define dll_699_free __dll699_dll_699_free
-#define dll_699_get_model_flags __dll699_dll_699_get_model_flags
-#define dll_699_get_data_size __dll699_dll_699_get_data_size
+#define dll_699_obj_Setup __dll699_dll_699_obj_Setup
+#define dll_699_obj_Control __dll699_dll_699_obj_Control
+#define dll_699_obj_Update __dll699_dll_699_obj_Update
+#define dll_699_obj_Print __dll699_dll_699_obj_Print
+#define dll_699_obj_Free __dll699_dll_699_obj_Free
+#define dll_699_obj_GetModelFlags __dll699_dll_699_obj_GetModelFlags
+#define dll_699_obj_GetDataSize __dll699_dll_699_obj_GetDataSize
 #define dll_699_func_C08 __dll699_dll_699_func_C08
 #define rodata_0 __dll699_rodata_0
 #define data_0 __dll699_data_0

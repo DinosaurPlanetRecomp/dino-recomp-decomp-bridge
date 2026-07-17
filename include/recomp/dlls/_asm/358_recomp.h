@@ -5,13 +5,13 @@
 
 #define dll_358_ctor __dll358_dll_358_ctor
 #define dll_358_dtor __dll358_dll_358_dtor
-#define dll_358_setup __dll358_dll_358_setup
-#define dll_358_control __dll358_dll_358_control
-#define dll_358_update __dll358_dll_358_update
-#define dll_358_print __dll358_dll_358_print
-#define dll_358_free __dll358_dll_358_free
-#define dll_358_get_model_flags __dll358_dll_358_get_model_flags
-#define dll_358_get_data_size __dll358_dll_358_get_data_size
+#define dll_358_obj_Setup __dll358_dll_358_obj_Setup
+#define dll_358_obj_Control __dll358_dll_358_obj_Control
+#define dll_358_obj_Update __dll358_dll_358_obj_Update
+#define dll_358_obj_Print __dll358_dll_358_obj_Print
+#define dll_358_obj_Free __dll358_dll_358_obj_Free
+#define dll_358_obj_GetModelFlags __dll358_dll_358_obj_GetModelFlags
+#define dll_358_obj_GetDataSize __dll358_dll_358_obj_GetDataSize
 #define dll_358_func_B6C __dll358_dll_358_func_B6C
 #define rodata_0 __dll358_rodata_0
 #define data_0 __dll358_data_0

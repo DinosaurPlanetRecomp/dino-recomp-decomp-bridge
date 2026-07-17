@@ -5,7 +5,7 @@
 
 #define dll_134_ctor __dll134_dll_134_ctor
 #define dll_134_dtor __dll134_dll_134_dtor
-#define dll_134_func_18 __dll134_dll_134_func_18
+#define dll_134_Func_18 __dll134_dll_134_Func_18
 #define rodata_0 __dll134_rodata_0
 #define data_0 __dll134_data_0
 #define data_2 __dll134_data_2

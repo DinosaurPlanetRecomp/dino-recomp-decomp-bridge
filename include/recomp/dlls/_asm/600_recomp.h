@@ -5,13 +5,13 @@
 
 #define dll_600_ctor __dll600_dll_600_ctor
 #define dll_600_dtor __dll600_dll_600_dtor
-#define dll_600_setup __dll600_dll_600_setup
-#define dll_600_control __dll600_dll_600_control
-#define dll_600_update __dll600_dll_600_update
-#define dll_600_print __dll600_dll_600_print
-#define dll_600_free __dll600_dll_600_free
-#define dll_600_get_model_flags __dll600_dll_600_get_model_flags
-#define dll_600_get_data_size __dll600_dll_600_get_data_size
+#define dll_600_obj_Setup __dll600_dll_600_obj_Setup
+#define dll_600_obj_Control __dll600_dll_600_obj_Control
+#define dll_600_obj_Update __dll600_dll_600_obj_Update
+#define dll_600_obj_Print __dll600_dll_600_obj_Print
+#define dll_600_obj_Free __dll600_dll_600_obj_Free
+#define dll_600_obj_GetModelFlags __dll600_dll_600_obj_GetModelFlags
+#define dll_600_obj_GetDataSize __dll600_dll_600_obj_GetDataSize
 #define dll_600_func_348 __dll600_dll_600_func_348
 #define rodata_0 __dll600_rodata_0
 #define rodata_4 __dll600_rodata_4

@@ -5,13 +5,13 @@
 
 #define dll_760_ctor __dll760_dll_760_ctor
 #define dll_760_dtor __dll760_dll_760_dtor
-#define dll_760_setup __dll760_dll_760_setup
-#define dll_760_control __dll760_dll_760_control
-#define dll_760_update __dll760_dll_760_update
-#define dll_760_print __dll760_dll_760_print
-#define dll_760_free __dll760_dll_760_free
-#define dll_760_get_model_flags __dll760_dll_760_get_model_flags
-#define dll_760_get_data_size __dll760_dll_760_get_data_size
+#define dll_760_obj_Setup __dll760_dll_760_obj_Setup
+#define dll_760_obj_Control __dll760_dll_760_obj_Control
+#define dll_760_obj_Update __dll760_dll_760_obj_Update
+#define dll_760_obj_Print __dll760_dll_760_obj_Print
+#define dll_760_obj_Free __dll760_dll_760_obj_Free
+#define dll_760_obj_GetModelFlags __dll760_dll_760_obj_GetModelFlags
+#define dll_760_obj_GetDataSize __dll760_dll_760_obj_GetDataSize
 #define dll_760_func_2FC __dll760_dll_760_func_2FC
 #define str_0 __dll760_str_0
 #define rodata_C __dll760_rodata_C

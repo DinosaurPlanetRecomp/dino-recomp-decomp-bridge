@@ -5,16 +5,16 @@
 
 #define dll_12_ctor __dll12_dll_12_ctor
 #define dll_12_dtor __dll12_dll_12_dtor
-#define dll_12_func_34 __dll12_dll_12_func_34
-#define dll_12_func_DA4 __dll12_dll_12_func_DA4
-#define dll_12_func_1824 __dll12_dll_12_func_1824
-#define dll_12_func_1F70 __dll12_dll_12_func_1F70
-#define dll_12_func_33C8 __dll12_dll_12_func_33C8
-#define dll_12_func_3658 __dll12_dll_12_func_3658
-#define dll_12_func_36D4 __dll12_dll_12_func_36D4
-#define dll_12_func_3710 __dll12_dll_12_func_3710
-#define dll_12_func_3744 __dll12_dll_12_func_3744
-#define dll_12_func_3778 __dll12_dll_12_func_3778
+#define dll_12_Func_34 __dll12_dll_12_Func_34
+#define dll_12_Func_DA4 __dll12_dll_12_Func_DA4
+#define dll_12_Func_1824 __dll12_dll_12_Func_1824
+#define dll_12_Func_1F70 __dll12_dll_12_Func_1F70
+#define dll_12_Func_33C8 __dll12_dll_12_Func_33C8
+#define dll_12_Func_3658 __dll12_dll_12_Func_3658
+#define dll_12_Func_36D4 __dll12_dll_12_Func_36D4
+#define dll_12_Func_3710 __dll12_dll_12_Func_3710
+#define dll_12_Func_3744 __dll12_dll_12_Func_3744
+#define dll_12_Func_3778 __dll12_dll_12_Func_3778
 #define dll_12_func_3844 __dll12_dll_12_func_3844
 #define dll_12_func_3930 __dll12_dll_12_func_3930
 #define dll_12_func_3A1C __dll12_dll_12_func_3A1C

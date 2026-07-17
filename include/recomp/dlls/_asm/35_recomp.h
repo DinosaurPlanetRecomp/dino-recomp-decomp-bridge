@@ -5,9 +5,9 @@
 
 #define dll_35_ctor __dll35_dll_35_ctor
 #define dll_35_dtor __dll35_dll_35_dtor
-#define dll_35_func_18 __dll35_dll_35_func_18
-#define dll_35_func_20 __dll35_dll_35_func_20
-#define dll_35_func_194 __dll35_dll_35_func_194
+#define dll_35_Func_18 __dll35_dll_35_Func_18
+#define dll_35_Func_20 __dll35_dll_35_Func_20
+#define dll_35_Func_194 __dll35_dll_35_Func_194
 #define rodata_0 __dll35_rodata_0
 #define rodata_4 __dll35_rodata_4
 #define rodata_8 __dll35_rodata_8

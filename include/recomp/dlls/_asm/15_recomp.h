@@ -5,15 +5,15 @@
 
 #define dll_15_ctor __dll15_dll_15_ctor
 #define dll_15_dtor __dll15_dll_15_dtor
-#define dll_15_func_98 __dll15_dll_15_func_98
-#define dll_15_func_114 __dll15_dll_15_func_114
-#define dll_15_func_1464 __dll15_dll_15_func_1464
-#define dll_15_func_2BE4 __dll15_dll_15_func_2BE4
-#define dll_15_func_2BEC __dll15_dll_15_func_2BEC
-#define dll_15_func_2C7C __dll15_dll_15_func_2C7C
+#define dll_15_Func_98 __dll15_dll_15_Func_98
+#define dll_15_Func_114 __dll15_dll_15_Func_114
+#define dll_15_Func_1464 __dll15_dll_15_Func_1464
+#define dll_15_Func_2BE4 __dll15_dll_15_Func_2BE4
+#define dll_15_Func_2BEC __dll15_dll_15_Func_2BEC
+#define dll_15_Func_2C7C __dll15_dll_15_Func_2C7C
 #define dll_15_func_344C __dll15_dll_15_func_344C
-#define dll_15_func_3654 __dll15_dll_15_func_3654
-#define dll_15_func_3748 __dll15_dll_15_func_3748
+#define dll_15_Func_3654 __dll15_dll_15_Func_3654
+#define dll_15_Func_3748 __dll15_dll_15_Func_3748
 #define dll_15_func_3774 __dll15_dll_15_func_3774
 #define dll_15_func_3B60 __dll15_dll_15_func_3B60
 #define dll_15_func_3BC8 __dll15_dll_15_func_3BC8

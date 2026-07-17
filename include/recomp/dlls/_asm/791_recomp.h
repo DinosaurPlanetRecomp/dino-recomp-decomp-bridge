@@ -5,13 +5,13 @@
 
 #define dll_791_ctor __dll791_dll_791_ctor
 #define dll_791_dtor __dll791_dll_791_dtor
-#define dll_791_setup __dll791_dll_791_setup
-#define dll_791_control __dll791_dll_791_control
-#define dll_791_update __dll791_dll_791_update
-#define dll_791_print __dll791_dll_791_print
-#define dll_791_free __dll791_dll_791_free
-#define dll_791_get_model_flags __dll791_dll_791_get_model_flags
-#define dll_791_get_data_size __dll791_dll_791_get_data_size
+#define dll_791_obj_Setup __dll791_dll_791_obj_Setup
+#define dll_791_obj_Control __dll791_dll_791_obj_Control
+#define dll_791_obj_Update __dll791_dll_791_obj_Update
+#define dll_791_obj_Print __dll791_dll_791_obj_Print
+#define dll_791_obj_Free __dll791_dll_791_obj_Free
+#define dll_791_obj_GetModelFlags __dll791_dll_791_obj_GetModelFlags
+#define dll_791_obj_GetDataSize __dll791_dll_791_obj_GetDataSize
 #define dll_791_func_544 __dll791_dll_791_func_544
 #define rodata_0 __dll791_rodata_0
 

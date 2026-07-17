@@ -5,9 +5,9 @@
 
 #define dll_46_ctor __dll46_dll_46_ctor
 #define dll_46_dtor __dll46_dll_46_dtor
-#define dll_46_func_18 __dll46_dll_46_func_18
-#define dll_46_func_20 __dll46_dll_46_func_20
-#define dll_46_func_2C __dll46_dll_46_func_2C
+#define dll_46_Func_18 __dll46_dll_46_Func_18
+#define dll_46_Func_20 __dll46_dll_46_Func_20
+#define dll_46_Func_2C __dll46_dll_46_Func_2C
 #define rodata_18 __dll46_rodata_18
 #define rodata_1C __dll46_rodata_1C
 #define rodata_20 __dll46_rodata_20

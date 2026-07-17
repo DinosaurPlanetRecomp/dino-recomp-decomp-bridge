@@ -5,13 +5,13 @@
 
 #define dll_705_ctor __dll705_dll_705_ctor
 #define dll_705_dtor __dll705_dll_705_dtor
-#define dll_705_setup __dll705_dll_705_setup
-#define dll_705_control __dll705_dll_705_control
-#define dll_705_update __dll705_dll_705_update
-#define dll_705_print __dll705_dll_705_print
-#define dll_705_free __dll705_dll_705_free
-#define dll_705_get_model_flags __dll705_dll_705_get_model_flags
-#define dll_705_get_data_size __dll705_dll_705_get_data_size
+#define dll_705_obj_Setup __dll705_dll_705_obj_Setup
+#define dll_705_obj_Control __dll705_dll_705_obj_Control
+#define dll_705_obj_Update __dll705_dll_705_obj_Update
+#define dll_705_obj_Print __dll705_dll_705_obj_Print
+#define dll_705_obj_Free __dll705_dll_705_obj_Free
+#define dll_705_obj_GetModelFlags __dll705_dll_705_obj_GetModelFlags
+#define dll_705_obj_GetDataSize __dll705_dll_705_obj_GetDataSize
 #define dll_705_func_40C __dll705_dll_705_func_40C
 
 #endif //_DLL_705_RECOMP_H

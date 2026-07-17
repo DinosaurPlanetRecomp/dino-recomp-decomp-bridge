@@ -5,7 +5,7 @@
 
 #define dll_114_ctor __dll114_dll_114_ctor
 #define dll_114_dtor __dll114_dll_114_dtor
-#define dll_114_func_18 __dll114_dll_114_func_18
+#define dll_114_Func_18 __dll114_dll_114_Func_18
 #define rodata_0 __dll114_rodata_0
 #define rodata_4 __dll114_rodata_4
 #define rodata_8 __dll114_rodata_8

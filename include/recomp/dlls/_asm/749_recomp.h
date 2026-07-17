@@ -5,16 +5,16 @@
 
 #define dll_749_ctor __dll749_dll_749_ctor
 #define dll_749_dtor __dll749_dll_749_dtor
-#define dll_749_setup __dll749_dll_749_setup
-#define dll_749_control __dll749_dll_749_control
-#define dll_749_update __dll749_dll_749_update
-#define dll_749_print __dll749_dll_749_print
-#define dll_749_free __dll749_dll_749_free
-#define dll_749_get_model_flags __dll749_dll_749_get_model_flags
-#define dll_749_get_data_size __dll749_dll_749_get_data_size
-#define dll_749_func_594 __dll749_dll_749_func_594
-#define dll_749_func_870 __dll749_dll_749_func_870
-#define dll_749_func_89C __dll749_dll_749_func_89C
+#define dll_749_obj_Setup __dll749_dll_749_obj_Setup
+#define dll_749_obj_Control __dll749_dll_749_obj_Control
+#define dll_749_obj_Update __dll749_dll_749_obj_Update
+#define dll_749_obj_Print __dll749_dll_749_obj_Print
+#define dll_749_obj_Free __dll749_dll_749_obj_Free
+#define dll_749_obj_GetModelFlags __dll749_dll_749_obj_GetModelFlags
+#define dll_749_obj_GetDataSize __dll749_dll_749_obj_GetDataSize
+#define dll_749_Func_594 __dll749_dll_749_Func_594
+#define dll_749_Func_870 __dll749_dll_749_Func_870
+#define dll_749_Func_89C __dll749_dll_749_Func_89C
 #define dll_749_func_8B8 __dll749_dll_749_func_8B8
 #define rodata_0 __dll749_rodata_0
 

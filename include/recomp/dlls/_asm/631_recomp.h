@@ -5,13 +5,13 @@
 
 #define dll_631_ctor __dll631_dll_631_ctor
 #define dll_631_dtor __dll631_dll_631_dtor
-#define dll_631_setup __dll631_dll_631_setup
-#define dll_631_control __dll631_dll_631_control
-#define dll_631_update __dll631_dll_631_update
-#define dll_631_print __dll631_dll_631_print
-#define dll_631_free __dll631_dll_631_free
-#define dll_631_get_model_flags __dll631_dll_631_get_model_flags
-#define dll_631_get_data_size __dll631_dll_631_get_data_size
+#define dll_631_obj_Setup __dll631_dll_631_obj_Setup
+#define dll_631_obj_Control __dll631_dll_631_obj_Control
+#define dll_631_obj_Update __dll631_dll_631_obj_Update
+#define dll_631_obj_Print __dll631_dll_631_obj_Print
+#define dll_631_obj_Free __dll631_dll_631_obj_Free
+#define dll_631_obj_GetModelFlags __dll631_dll_631_obj_GetModelFlags
+#define dll_631_obj_GetDataSize __dll631_dll_631_obj_GetDataSize
 #define dll_631_func_2C4 __dll631_dll_631_func_2C4
 #define dll_631_func_5E4 __dll631_dll_631_func_5E4
 #define dll_631_func_754 __dll631_dll_631_func_754

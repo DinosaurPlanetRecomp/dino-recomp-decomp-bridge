@@ -5,13 +5,13 @@
 
 #define dll_255_ctor __dll255_dll_255_ctor
 #define dll_255_dtor __dll255_dll_255_dtor
-#define dll_255_setup __dll255_dll_255_setup
-#define dll_255_control __dll255_dll_255_control
-#define dll_255_update __dll255_dll_255_update
-#define dll_255_print __dll255_dll_255_print
-#define dll_255_free __dll255_dll_255_free
-#define dll_255_get_model_flags __dll255_dll_255_get_model_flags
-#define dll_255_get_data_size __dll255_dll_255_get_data_size
+#define dll_255_obj_Setup __dll255_dll_255_obj_Setup
+#define dll_255_obj_Control __dll255_dll_255_obj_Control
+#define dll_255_obj_Update __dll255_dll_255_obj_Update
+#define dll_255_obj_Print __dll255_dll_255_obj_Print
+#define dll_255_obj_Free __dll255_dll_255_obj_Free
+#define dll_255_obj_GetModelFlags __dll255_dll_255_obj_GetModelFlags
+#define dll_255_obj_GetDataSize __dll255_dll_255_obj_GetDataSize
 #define dll_255_func_9F0 __dll255_dll_255_func_9F0
 #define data_0 __dll255_data_0
 

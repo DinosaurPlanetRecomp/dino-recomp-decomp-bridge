@@ -5,13 +5,13 @@
 
 #define dll_495_ctor __dll495_dll_495_ctor
 #define dll_495_dtor __dll495_dll_495_dtor
-#define dll_495_setup __dll495_dll_495_setup
-#define dll_495_control __dll495_dll_495_control
-#define dll_495_update __dll495_dll_495_update
-#define dll_495_print __dll495_dll_495_print
-#define dll_495_free __dll495_dll_495_free
-#define dll_495_get_model_flags __dll495_dll_495_get_model_flags
-#define dll_495_get_data_size __dll495_dll_495_get_data_size
+#define dll_495_obj_Setup __dll495_dll_495_obj_Setup
+#define dll_495_obj_Control __dll495_dll_495_obj_Control
+#define dll_495_obj_Update __dll495_dll_495_obj_Update
+#define dll_495_obj_Print __dll495_dll_495_obj_Print
+#define dll_495_obj_Free __dll495_dll_495_obj_Free
+#define dll_495_obj_GetModelFlags __dll495_dll_495_obj_GetModelFlags
+#define dll_495_obj_GetDataSize __dll495_dll_495_obj_GetDataSize
 #define dll_495_func_158 __dll495_dll_495_func_158
 
 #endif //_DLL_495_RECOMP_H

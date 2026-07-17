@@ -5,13 +5,13 @@
 
 #define dll_483_ctor __dll483_dll_483_ctor
 #define dll_483_dtor __dll483_dll_483_dtor
-#define dll_483_setup __dll483_dll_483_setup
-#define dll_483_control __dll483_dll_483_control
-#define dll_483_update __dll483_dll_483_update
-#define dll_483_print __dll483_dll_483_print
-#define dll_483_free __dll483_dll_483_free
-#define dll_483_get_model_flags __dll483_dll_483_get_model_flags
-#define dll_483_get_data_size __dll483_dll_483_get_data_size
+#define dll_483_obj_Setup __dll483_dll_483_obj_Setup
+#define dll_483_obj_Control __dll483_dll_483_obj_Control
+#define dll_483_obj_Update __dll483_dll_483_obj_Update
+#define dll_483_obj_Print __dll483_dll_483_obj_Print
+#define dll_483_obj_Free __dll483_dll_483_obj_Free
+#define dll_483_obj_GetModelFlags __dll483_dll_483_obj_GetModelFlags
+#define dll_483_obj_GetDataSize __dll483_dll_483_obj_GetDataSize
 #define str_0 __dll483_str_0
 #define rodata_18 __dll483_rodata_18
 #define data_0 __dll483_data_0

@@ -5,15 +5,15 @@
 
 #define dll_679_ctor __dll679_dll_679_ctor
 #define dll_679_dtor __dll679_dll_679_dtor
-#define dll_679_setup __dll679_dll_679_setup
-#define dll_679_control __dll679_dll_679_control
-#define dll_679_update __dll679_dll_679_update
-#define dll_679_print __dll679_dll_679_print
-#define dll_679_free __dll679_dll_679_free
-#define dll_679_get_model_flags __dll679_dll_679_get_model_flags
-#define dll_679_get_data_size __dll679_dll_679_get_data_size
-#define dll_679_func_97C __dll679_dll_679_func_97C
-#define dll_679_func_9AC __dll679_dll_679_func_9AC
+#define dll_679_obj_Setup __dll679_dll_679_obj_Setup
+#define dll_679_obj_Control __dll679_dll_679_obj_Control
+#define dll_679_obj_Update __dll679_dll_679_obj_Update
+#define dll_679_obj_Print __dll679_dll_679_obj_Print
+#define dll_679_obj_Free __dll679_dll_679_obj_Free
+#define dll_679_obj_GetModelFlags __dll679_dll_679_obj_GetModelFlags
+#define dll_679_obj_GetDataSize __dll679_dll_679_obj_GetDataSize
+#define dll_679_Func_97C __dll679_dll_679_Func_97C
+#define dll_679_Func_9AC __dll679_dll_679_Func_9AC
 #define dll_679_func_9C4 __dll679_dll_679_func_9C4
 #define dll_679_func_B38 __dll679_dll_679_func_B38
 #define dll_679_func_BE4 __dll679_dll_679_func_BE4

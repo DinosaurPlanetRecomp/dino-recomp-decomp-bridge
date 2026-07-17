@@ -5,13 +5,13 @@
 
 #define dll_406_ctor __dll406_dll_406_ctor
 #define dll_406_dtor __dll406_dll_406_dtor
-#define dll_406_setup __dll406_dll_406_setup
-#define dll_406_control __dll406_dll_406_control
-#define dll_406_update __dll406_dll_406_update
-#define dll_406_print __dll406_dll_406_print
-#define dll_406_free __dll406_dll_406_free
-#define dll_406_get_model_flags __dll406_dll_406_get_model_flags
-#define dll_406_get_data_size __dll406_dll_406_get_data_size
+#define dll_406_obj_Setup __dll406_dll_406_obj_Setup
+#define dll_406_obj_Control __dll406_dll_406_obj_Control
+#define dll_406_obj_Update __dll406_dll_406_obj_Update
+#define dll_406_obj_Print __dll406_dll_406_obj_Print
+#define dll_406_obj_Free __dll406_dll_406_obj_Free
+#define dll_406_obj_GetModelFlags __dll406_dll_406_obj_GetModelFlags
+#define dll_406_obj_GetDataSize __dll406_dll_406_obj_GetDataSize
 #define str_0 __dll406_str_0
 
 #endif //_DLL_406_RECOMP_H

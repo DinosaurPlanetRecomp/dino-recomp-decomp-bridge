@@ -5,15 +5,15 @@
 
 #define dll_694_ctor __dll694_dll_694_ctor
 #define dll_694_dtor __dll694_dll_694_dtor
-#define dll_694_setup __dll694_dll_694_setup
-#define dll_694_control __dll694_dll_694_control
-#define dll_694_update __dll694_dll_694_update
-#define dll_694_print __dll694_dll_694_print
-#define dll_694_free __dll694_dll_694_free
-#define dll_694_get_model_flags __dll694_dll_694_get_model_flags
-#define dll_694_get_data_size __dll694_dll_694_get_data_size
-#define dll_694_func_47C __dll694_dll_694_func_47C
-#define dll_694_func_4E8 __dll694_dll_694_func_4E8
+#define dll_694_obj_Setup __dll694_dll_694_obj_Setup
+#define dll_694_obj_Control __dll694_dll_694_obj_Control
+#define dll_694_obj_Update __dll694_dll_694_obj_Update
+#define dll_694_obj_Print __dll694_dll_694_obj_Print
+#define dll_694_obj_Free __dll694_dll_694_obj_Free
+#define dll_694_obj_GetModelFlags __dll694_dll_694_obj_GetModelFlags
+#define dll_694_obj_GetDataSize __dll694_dll_694_obj_GetDataSize
+#define dll_694_Func_47C __dll694_dll_694_Func_47C
+#define dll_694_Func_4E8 __dll694_dll_694_Func_4E8
 #define dll_694_func_4F8 __dll694_dll_694_func_4F8
 #define rodata_0 __dll694_rodata_0
 #define rodata_4 __dll694_rodata_4

@@ -5,13 +5,13 @@
 
 #define dll_625_ctor __dll625_dll_625_ctor
 #define dll_625_dtor __dll625_dll_625_dtor
-#define dll_625_setup __dll625_dll_625_setup
-#define dll_625_control __dll625_dll_625_control
-#define dll_625_update __dll625_dll_625_update
-#define dll_625_print __dll625_dll_625_print
-#define dll_625_free __dll625_dll_625_free
-#define dll_625_get_model_flags __dll625_dll_625_get_model_flags
-#define dll_625_get_data_size __dll625_dll_625_get_data_size
+#define dll_625_obj_Setup __dll625_dll_625_obj_Setup
+#define dll_625_obj_Control __dll625_dll_625_obj_Control
+#define dll_625_obj_Update __dll625_dll_625_obj_Update
+#define dll_625_obj_Print __dll625_dll_625_obj_Print
+#define dll_625_obj_Free __dll625_dll_625_obj_Free
+#define dll_625_obj_GetModelFlags __dll625_dll_625_obj_GetModelFlags
+#define dll_625_obj_GetDataSize __dll625_dll_625_obj_GetDataSize
 #define dll_625_func_28C __dll625_dll_625_func_28C
 #define dll_625_func_3C4 __dll625_dll_625_func_3C4
 #define str_0 __dll625_str_0

@@ -5,7 +5,7 @@
 
 #define dll_161_ctor __dll161_dll_161_ctor
 #define dll_161_dtor __dll161_dll_161_dtor
-#define dll_161_func_18 __dll161_dll_161_func_18
+#define dll_161_Func_18 __dll161_dll_161_Func_18
 #define rodata_0 __dll161_rodata_0
 #define rodata_4 __dll161_rodata_4
 #define rodata_8 __dll161_rodata_8

@@ -5,13 +5,13 @@
 
 #define dll_440_ctor __dll440_dll_440_ctor
 #define dll_440_dtor __dll440_dll_440_dtor
-#define dll_440_setup __dll440_dll_440_setup
-#define dll_440_control __dll440_dll_440_control
-#define dll_440_update __dll440_dll_440_update
-#define dll_440_print __dll440_dll_440_print
-#define dll_440_free __dll440_dll_440_free
-#define dll_440_get_model_flags __dll440_dll_440_get_model_flags
-#define dll_440_get_data_size __dll440_dll_440_get_data_size
+#define dll_440_obj_Setup __dll440_dll_440_obj_Setup
+#define dll_440_obj_Control __dll440_dll_440_obj_Control
+#define dll_440_obj_Update __dll440_dll_440_obj_Update
+#define dll_440_obj_Print __dll440_dll_440_obj_Print
+#define dll_440_obj_Free __dll440_dll_440_obj_Free
+#define dll_440_obj_GetModelFlags __dll440_dll_440_obj_GetModelFlags
+#define dll_440_obj_GetDataSize __dll440_dll_440_obj_GetDataSize
 #define dll_440_func_940 __dll440_dll_440_func_940
 #define rodata_0 __dll440_rodata_0
 #define rodata_4 __dll440_rodata_4

@@ -5,12 +5,12 @@
 
 #define dll_415_ctor __dll415_dll_415_ctor
 #define dll_415_dtor __dll415_dll_415_dtor
-#define dll_415_setup __dll415_dll_415_setup
-#define dll_415_control __dll415_dll_415_control
-#define dll_415_update __dll415_dll_415_update
-#define dll_415_print __dll415_dll_415_print
-#define dll_415_free __dll415_dll_415_free
-#define dll_415_get_model_flags __dll415_dll_415_get_model_flags
-#define dll_415_get_data_size __dll415_dll_415_get_data_size
+#define dll_415_obj_Setup __dll415_dll_415_obj_Setup
+#define dll_415_obj_Control __dll415_dll_415_obj_Control
+#define dll_415_obj_Update __dll415_dll_415_obj_Update
+#define dll_415_obj_Print __dll415_dll_415_obj_Print
+#define dll_415_obj_Free __dll415_dll_415_obj_Free
+#define dll_415_obj_GetModelFlags __dll415_dll_415_obj_GetModelFlags
+#define dll_415_obj_GetDataSize __dll415_dll_415_obj_GetDataSize
 
 #endif //_DLL_415_RECOMP_H

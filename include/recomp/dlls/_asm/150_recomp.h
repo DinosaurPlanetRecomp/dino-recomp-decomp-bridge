@@ -5,7 +5,7 @@
 
 #define dll_150_ctor __dll150_dll_150_ctor
 #define dll_150_dtor __dll150_dll_150_dtor
-#define dll_150_func_18 __dll150_dll_150_func_18
+#define dll_150_Func_18 __dll150_dll_150_Func_18
 #define rodata_0 __dll150_rodata_0
 #define rodata_4 __dll150_rodata_4
 #define data_0 __dll150_data_0

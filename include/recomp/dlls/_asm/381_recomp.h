@@ -5,13 +5,13 @@
 
 #define dll_381_ctor __dll381_dll_381_ctor
 #define dll_381_dtor __dll381_dll_381_dtor
-#define dll_381_setup __dll381_dll_381_setup
-#define dll_381_control __dll381_dll_381_control
-#define dll_381_update __dll381_dll_381_update
-#define dll_381_print __dll381_dll_381_print
-#define dll_381_free __dll381_dll_381_free
-#define dll_381_get_model_flags __dll381_dll_381_get_model_flags
-#define dll_381_get_data_size __dll381_dll_381_get_data_size
+#define dll_381_obj_Setup __dll381_dll_381_obj_Setup
+#define dll_381_obj_Control __dll381_dll_381_obj_Control
+#define dll_381_obj_Update __dll381_dll_381_obj_Update
+#define dll_381_obj_Print __dll381_dll_381_obj_Print
+#define dll_381_obj_Free __dll381_dll_381_obj_Free
+#define dll_381_obj_GetModelFlags __dll381_dll_381_obj_GetModelFlags
+#define dll_381_obj_GetDataSize __dll381_dll_381_obj_GetDataSize
 #define dll_381_func_BC4 __dll381_dll_381_func_BC4
 #define dll_381_func_16FC __dll381_dll_381_func_16FC
 #define dll_381_func_1928 __dll381_dll_381_func_1928

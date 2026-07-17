@@ -5,7 +5,7 @@
 
 #define dll_113_ctor __dll113_dll_113_ctor
 #define dll_113_dtor __dll113_dll_113_dtor
-#define dll_113_func_18 __dll113_dll_113_func_18
+#define dll_113_Func_18 __dll113_dll_113_Func_18
 #define rodata_0 __dll113_rodata_0
 #define rodata_4 __dll113_rodata_4
 #define data_0 __dll113_data_0

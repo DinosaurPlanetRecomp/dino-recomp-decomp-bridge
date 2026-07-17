@@ -5,14 +5,14 @@
 
 #define dll_317_ctor __dll317_dll_317_ctor
 #define dll_317_dtor __dll317_dll_317_dtor
-#define dll_317_setup __dll317_dll_317_setup
-#define dll_317_control __dll317_dll_317_control
-#define dll_317_update __dll317_dll_317_update
-#define dll_317_print __dll317_dll_317_print
-#define dll_317_free __dll317_dll_317_free
-#define dll_317_get_model_flags __dll317_dll_317_get_model_flags
-#define dll_317_get_data_size __dll317_dll_317_get_data_size
-#define dll_317_func_914 __dll317_dll_317_func_914
+#define dll_317_obj_Setup __dll317_dll_317_obj_Setup
+#define dll_317_obj_Control __dll317_dll_317_obj_Control
+#define dll_317_obj_Update __dll317_dll_317_obj_Update
+#define dll_317_obj_Print __dll317_dll_317_obj_Print
+#define dll_317_obj_Free __dll317_dll_317_obj_Free
+#define dll_317_obj_GetModelFlags __dll317_dll_317_obj_GetModelFlags
+#define dll_317_obj_GetDataSize __dll317_dll_317_obj_GetDataSize
+#define dll_317_Func_914 __dll317_dll_317_Func_914
 #define dll_317_func_954 __dll317_dll_317_func_954
 #define data_0 __dll317_data_0
 #define data_60 __dll317_data_60

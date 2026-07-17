@@ -5,13 +5,13 @@
 
 #define dll_629_ctor __dll629_dll_629_ctor
 #define dll_629_dtor __dll629_dll_629_dtor
-#define dll_629_setup __dll629_dll_629_setup
-#define dll_629_control __dll629_dll_629_control
-#define dll_629_update __dll629_dll_629_update
-#define dll_629_print __dll629_dll_629_print
-#define dll_629_free __dll629_dll_629_free
-#define dll_629_get_model_flags __dll629_dll_629_get_model_flags
-#define dll_629_get_data_size __dll629_dll_629_get_data_size
+#define dll_629_obj_Setup __dll629_dll_629_obj_Setup
+#define dll_629_obj_Control __dll629_dll_629_obj_Control
+#define dll_629_obj_Update __dll629_dll_629_obj_Update
+#define dll_629_obj_Print __dll629_dll_629_obj_Print
+#define dll_629_obj_Free __dll629_dll_629_obj_Free
+#define dll_629_obj_GetModelFlags __dll629_dll_629_obj_GetModelFlags
+#define dll_629_obj_GetDataSize __dll629_dll_629_obj_GetDataSize
 #define dll_629_func_23C __dll629_dll_629_func_23C
 #define dll_629_func_3D4 __dll629_dll_629_func_3D4
 #define data_0 __dll629_data_0

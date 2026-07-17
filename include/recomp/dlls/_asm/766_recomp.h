@@ -5,13 +5,13 @@
 
 #define dll_766_ctor __dll766_dll_766_ctor
 #define dll_766_dtor __dll766_dll_766_dtor
-#define dll_766_setup __dll766_dll_766_setup
-#define dll_766_control __dll766_dll_766_control
-#define dll_766_update __dll766_dll_766_update
-#define dll_766_print __dll766_dll_766_print
-#define dll_766_free __dll766_dll_766_free
-#define dll_766_get_model_flags __dll766_dll_766_get_model_flags
-#define dll_766_get_data_size __dll766_dll_766_get_data_size
+#define dll_766_obj_Setup __dll766_dll_766_obj_Setup
+#define dll_766_obj_Control __dll766_dll_766_obj_Control
+#define dll_766_obj_Update __dll766_dll_766_obj_Update
+#define dll_766_obj_Print __dll766_dll_766_obj_Print
+#define dll_766_obj_Free __dll766_dll_766_obj_Free
+#define dll_766_obj_GetModelFlags __dll766_dll_766_obj_GetModelFlags
+#define dll_766_obj_GetDataSize __dll766_dll_766_obj_GetDataSize
 #define dll_766_func_42C __dll766_dll_766_func_42C
 #define str_0 __dll766_str_0
 

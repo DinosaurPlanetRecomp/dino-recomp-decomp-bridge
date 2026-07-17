@@ -5,13 +5,13 @@
 
 #define dll_728_ctor __dll728_dll_728_ctor
 #define dll_728_dtor __dll728_dll_728_dtor
-#define dll_728_setup __dll728_dll_728_setup
-#define dll_728_control __dll728_dll_728_control
-#define dll_728_update __dll728_dll_728_update
-#define dll_728_print __dll728_dll_728_print
-#define dll_728_free __dll728_dll_728_free
-#define dll_728_get_model_flags __dll728_dll_728_get_model_flags
-#define dll_728_get_data_size __dll728_dll_728_get_data_size
+#define dll_728_obj_Setup __dll728_dll_728_obj_Setup
+#define dll_728_obj_Control __dll728_dll_728_obj_Control
+#define dll_728_obj_Update __dll728_dll_728_obj_Update
+#define dll_728_obj_Print __dll728_dll_728_obj_Print
+#define dll_728_obj_Free __dll728_dll_728_obj_Free
+#define dll_728_obj_GetModelFlags __dll728_dll_728_obj_GetModelFlags
+#define dll_728_obj_GetDataSize __dll728_dll_728_obj_GetDataSize
 #define dll_728_func_8F8 __dll728_dll_728_func_8F8
 #define dll_728_func_BF0 __dll728_dll_728_func_BF0
 #define dll_728_func_D58 __dll728_dll_728_func_D58

@@ -5,15 +5,15 @@
 
 #define dll_568_ctor __dll568_dll_568_ctor
 #define dll_568_dtor __dll568_dll_568_dtor
-#define dll_568_setup __dll568_dll_568_setup
-#define dll_568_control __dll568_dll_568_control
-#define dll_568_update __dll568_dll_568_update
-#define dll_568_print __dll568_dll_568_print
-#define dll_568_free __dll568_dll_568_free
-#define dll_568_get_model_flags __dll568_dll_568_get_model_flags
-#define dll_568_get_data_size __dll568_dll_568_get_data_size
-#define dll_568_func_604 __dll568_dll_568_func_604
-#define dll_568_func_614 __dll568_dll_568_func_614
+#define dll_568_obj_Setup __dll568_dll_568_obj_Setup
+#define dll_568_obj_Control __dll568_dll_568_obj_Control
+#define dll_568_obj_Update __dll568_dll_568_obj_Update
+#define dll_568_obj_Print __dll568_dll_568_obj_Print
+#define dll_568_obj_Free __dll568_dll_568_obj_Free
+#define dll_568_obj_GetModelFlags __dll568_dll_568_obj_GetModelFlags
+#define dll_568_obj_GetDataSize __dll568_dll_568_obj_GetDataSize
+#define dll_568_Func_604 __dll568_dll_568_Func_604
+#define dll_568_Func_614 __dll568_dll_568_Func_614
 #define dll_568_func_624 __dll568_dll_568_func_624
 #define dll_568_func_8EC __dll568_dll_568_func_8EC
 #define dll_568_func_A9C __dll568_dll_568_func_A9C

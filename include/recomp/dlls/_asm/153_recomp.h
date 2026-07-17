@@ -5,7 +5,7 @@
 
 #define dll_153_ctor __dll153_dll_153_ctor
 #define dll_153_dtor __dll153_dll_153_dtor
-#define dll_153_func_18 __dll153_dll_153_func_18
+#define dll_153_Func_18 __dll153_dll_153_Func_18
 #define rodata_0 __dll153_rodata_0
 #define rodata_4 __dll153_rodata_4
 #define rodata_8 __dll153_rodata_8

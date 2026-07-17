@@ -5,7 +5,7 @@
 
 #define dll_152_ctor __dll152_dll_152_ctor
 #define dll_152_dtor __dll152_dll_152_dtor
-#define dll_152_func_18 __dll152_dll_152_func_18
+#define dll_152_Func_18 __dll152_dll_152_Func_18
 #define rodata_0 __dll152_rodata_0
 #define data_0 __dll152_data_0
 #define data_FC __dll152_data_FC

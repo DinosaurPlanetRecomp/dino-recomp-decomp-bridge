@@ -5,7 +5,7 @@
 
 #define dll_136_ctor __dll136_dll_136_ctor
 #define dll_136_dtor __dll136_dll_136_dtor
-#define dll_136_func_18 __dll136_dll_136_func_18
+#define dll_136_Func_18 __dll136_dll_136_Func_18
 #define rodata_0 __dll136_rodata_0
 #define rodata_4 __dll136_rodata_4
 #define rodata_8 __dll136_rodata_8

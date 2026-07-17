@@ -5,16 +5,16 @@
 
 #define dll_404_ctor __dll404_dll_404_ctor
 #define dll_404_dtor __dll404_dll_404_dtor
-#define dll_404_setup __dll404_dll_404_setup
-#define dll_404_control __dll404_dll_404_control
+#define dll_404_obj_Setup __dll404_dll_404_obj_Setup
+#define dll_404_obj_Control __dll404_dll_404_obj_Control
 #define dll_404_func_16C __dll404_dll_404_func_16C
 #define dll_404_func_1E0 __dll404_dll_404_func_1E0
-#define dll_404_update __dll404_dll_404_update
-#define dll_404_print __dll404_dll_404_print
-#define dll_404_free __dll404_dll_404_free
-#define dll_404_get_model_flags __dll404_dll_404_get_model_flags
-#define dll_404_get_data_size __dll404_dll_404_get_data_size
-#define dll_404_func_554 __dll404_dll_404_func_554
+#define dll_404_obj_Update __dll404_dll_404_obj_Update
+#define dll_404_obj_Print __dll404_dll_404_obj_Print
+#define dll_404_obj_Free __dll404_dll_404_obj_Free
+#define dll_404_obj_GetModelFlags __dll404_dll_404_obj_GetModelFlags
+#define dll_404_obj_GetDataSize __dll404_dll_404_obj_GetDataSize
+#define dll_404_Func_554 __dll404_dll_404_Func_554
 #define dll_404_func_564 __dll404_dll_404_func_564
 #define dll_404_func_804 __dll404_dll_404_func_804
 #define str_0 __dll404_str_0

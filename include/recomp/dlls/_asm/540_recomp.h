@@ -5,15 +5,15 @@
 
 #define dll_540_ctor __dll540_dll_540_ctor
 #define dll_540_dtor __dll540_dll_540_dtor
-#define dll_540_setup __dll540_dll_540_setup
-#define dll_540_control __dll540_dll_540_control
-#define dll_540_update __dll540_dll_540_update
-#define dll_540_print __dll540_dll_540_print
-#define dll_540_free __dll540_dll_540_free
-#define dll_540_get_model_flags __dll540_dll_540_get_model_flags
-#define dll_540_get_data_size __dll540_dll_540_get_data_size
-#define dll_540_func_1CC __dll540_dll_540_func_1CC
-#define dll_540_func_28C __dll540_dll_540_func_28C
+#define dll_540_obj_Setup __dll540_dll_540_obj_Setup
+#define dll_540_obj_Control __dll540_dll_540_obj_Control
+#define dll_540_obj_Update __dll540_dll_540_obj_Update
+#define dll_540_obj_Print __dll540_dll_540_obj_Print
+#define dll_540_obj_Free __dll540_dll_540_obj_Free
+#define dll_540_obj_GetModelFlags __dll540_dll_540_obj_GetModelFlags
+#define dll_540_obj_GetDataSize __dll540_dll_540_obj_GetDataSize
+#define dll_540_Func_1CC __dll540_dll_540_Func_1CC
+#define dll_540_Func_28C __dll540_dll_540_Func_28C
 #define _oob_rodata_0 __dll540__oob_rodata_0
 
 #endif //_DLL_540_RECOMP_H

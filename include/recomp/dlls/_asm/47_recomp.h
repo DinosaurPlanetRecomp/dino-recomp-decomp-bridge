@@ -5,9 +5,9 @@
 
 #define dll_47_ctor __dll47_dll_47_ctor
 #define dll_47_dtor __dll47_dll_47_dtor
-#define dll_47_func_18 __dll47_dll_47_func_18
-#define dll_47_func_20 __dll47_dll_47_func_20
-#define dll_47_func_2C __dll47_dll_47_func_2C
+#define dll_47_Func_18 __dll47_dll_47_Func_18
+#define dll_47_Func_20 __dll47_dll_47_Func_20
+#define dll_47_Func_2C __dll47_dll_47_Func_2C
 #define rodata_64 __dll47_rodata_64
 #define rodata_68 __dll47_rodata_68
 #define rodata_6C __dll47_rodata_6C

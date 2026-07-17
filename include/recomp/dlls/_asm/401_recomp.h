@@ -5,13 +5,13 @@
 
 #define dll_401_ctor __dll401_dll_401_ctor
 #define dll_401_dtor __dll401_dll_401_dtor
-#define dll_401_setup __dll401_dll_401_setup
-#define dll_401_control __dll401_dll_401_control
-#define dll_401_update __dll401_dll_401_update
-#define dll_401_print __dll401_dll_401_print
-#define dll_401_free __dll401_dll_401_free
-#define dll_401_get_model_flags __dll401_dll_401_get_model_flags
-#define dll_401_get_data_size __dll401_dll_401_get_data_size
+#define dll_401_obj_Setup __dll401_dll_401_obj_Setup
+#define dll_401_obj_Control __dll401_dll_401_obj_Control
+#define dll_401_obj_Update __dll401_dll_401_obj_Update
+#define dll_401_obj_Print __dll401_dll_401_obj_Print
+#define dll_401_obj_Free __dll401_dll_401_obj_Free
+#define dll_401_obj_GetModelFlags __dll401_dll_401_obj_GetModelFlags
+#define dll_401_obj_GetDataSize __dll401_dll_401_obj_GetDataSize
 #define dll_401_func_81C __dll401_dll_401_func_81C
 #define dll_401_func_8E4 __dll401_dll_401_func_8E4
 #define dll_401_func_9E8 __dll401_dll_401_func_9E8

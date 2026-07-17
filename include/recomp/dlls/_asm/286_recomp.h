@@ -5,13 +5,13 @@
 
 #define dll_286_ctor __dll286_dll_286_ctor
 #define dll_286_dtor __dll286_dll_286_dtor
-#define dll_286_setup __dll286_dll_286_setup
-#define dll_286_control __dll286_dll_286_control
-#define dll_286_update __dll286_dll_286_update
-#define dll_286_print __dll286_dll_286_print
-#define dll_286_free __dll286_dll_286_free
-#define dll_286_get_model_flags __dll286_dll_286_get_model_flags
-#define dll_286_get_data_size __dll286_dll_286_get_data_size
+#define dll_286_obj_Setup __dll286_dll_286_obj_Setup
+#define dll_286_obj_Control __dll286_dll_286_obj_Control
+#define dll_286_obj_Update __dll286_dll_286_obj_Update
+#define dll_286_obj_Print __dll286_dll_286_obj_Print
+#define dll_286_obj_Free __dll286_dll_286_obj_Free
+#define dll_286_obj_GetModelFlags __dll286_dll_286_obj_GetModelFlags
+#define dll_286_obj_GetDataSize __dll286_dll_286_obj_GetDataSize
 #define rodata_0 __dll286_rodata_0
 
 #endif //_DLL_286_RECOMP_H

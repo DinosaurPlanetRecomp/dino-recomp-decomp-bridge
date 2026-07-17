@@ -5,13 +5,13 @@
 
 #define dll_11_ctor __dll11_dll_11_ctor
 #define dll_11_dtor __dll11_dll_11_dtor
-#define dll_11_func_18 __dll11_dll_11_func_18
-#define dll_11_func_384 __dll11_dll_11_func_384
-#define dll_11_func_488 __dll11_dll_11_func_488
-#define dll_11_func_828 __dll11_dll_11_func_828
-#define dll_11_func_874 __dll11_dll_11_func_874
-#define dll_11_func_9D8 __dll11_dll_11_func_9D8
-#define dll_11_func_BB8 __dll11_dll_11_func_BB8
+#define dll_11_Func_18 __dll11_dll_11_Func_18
+#define dll_11_Func_384 __dll11_dll_11_Func_384
+#define dll_11_Func_488 __dll11_dll_11_Func_488
+#define dll_11_Func_828 __dll11_dll_11_Func_828
+#define dll_11_Func_874 __dll11_dll_11_Func_874
+#define dll_11_Func_9D8 __dll11_dll_11_Func_9D8
+#define dll_11_Func_BB8 __dll11_dll_11_Func_BB8
 #define dll_11_func_D44 __dll11_dll_11_func_D44
 #define dll_11_func_1890 __dll11_dll_11_func_1890
 #define dll_11_func_1EB0 __dll11_dll_11_func_1EB0

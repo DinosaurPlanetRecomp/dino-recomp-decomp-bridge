@@ -5,13 +5,13 @@
 
 #define dll_667_ctor __dll667_dll_667_ctor
 #define dll_667_dtor __dll667_dll_667_dtor
-#define dll_667_setup __dll667_dll_667_setup
-#define dll_667_control __dll667_dll_667_control
-#define dll_667_update __dll667_dll_667_update
-#define dll_667_print __dll667_dll_667_print
-#define dll_667_free __dll667_dll_667_free
-#define dll_667_get_model_flags __dll667_dll_667_get_model_flags
-#define dll_667_get_data_size __dll667_dll_667_get_data_size
+#define dll_667_obj_Setup __dll667_dll_667_obj_Setup
+#define dll_667_obj_Control __dll667_dll_667_obj_Control
+#define dll_667_obj_Update __dll667_dll_667_obj_Update
+#define dll_667_obj_Print __dll667_dll_667_obj_Print
+#define dll_667_obj_Free __dll667_dll_667_obj_Free
+#define dll_667_obj_GetModelFlags __dll667_dll_667_obj_GetModelFlags
+#define dll_667_obj_GetDataSize __dll667_dll_667_obj_GetDataSize
 #define dll_667_func_4B4 __dll667_dll_667_func_4B4
 #define dll_667_func_620 __dll667_dll_667_func_620
 #define dll_667_func_780 __dll667_dll_667_func_780

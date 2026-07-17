@@ -5,13 +5,13 @@
 
 #define dll_664_ctor __dll664_dll_664_ctor
 #define dll_664_dtor __dll664_dll_664_dtor
-#define dll_664_setup __dll664_dll_664_setup
-#define dll_664_control __dll664_dll_664_control
-#define dll_664_update __dll664_dll_664_update
-#define dll_664_print __dll664_dll_664_print
-#define dll_664_free __dll664_dll_664_free
-#define dll_664_get_model_flags __dll664_dll_664_get_model_flags
-#define dll_664_get_data_size __dll664_dll_664_get_data_size
+#define dll_664_obj_Setup __dll664_dll_664_obj_Setup
+#define dll_664_obj_Control __dll664_dll_664_obj_Control
+#define dll_664_obj_Update __dll664_dll_664_obj_Update
+#define dll_664_obj_Print __dll664_dll_664_obj_Print
+#define dll_664_obj_Free __dll664_dll_664_obj_Free
+#define dll_664_obj_GetModelFlags __dll664_dll_664_obj_GetModelFlags
+#define dll_664_obj_GetDataSize __dll664_dll_664_obj_GetDataSize
 #define rodata_0 __dll664_rodata_0
 
 #endif //_DLL_664_RECOMP_H

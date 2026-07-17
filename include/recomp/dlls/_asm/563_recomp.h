@@ -5,14 +5,14 @@
 
 #define dll_563_ctor __dll563_dll_563_ctor
 #define dll_563_dtor __dll563_dll_563_dtor
-#define dll_563_setup __dll563_dll_563_setup
-#define dll_563_control __dll563_dll_563_control
-#define dll_563_update __dll563_dll_563_update
-#define dll_563_print __dll563_dll_563_print
-#define dll_563_free __dll563_dll_563_free
-#define dll_563_get_model_flags __dll563_dll_563_get_model_flags
-#define dll_563_get_data_size __dll563_dll_563_get_data_size
-#define dll_563_func_190 __dll563_dll_563_func_190
+#define dll_563_obj_Setup __dll563_dll_563_obj_Setup
+#define dll_563_obj_Control __dll563_dll_563_obj_Control
+#define dll_563_obj_Update __dll563_dll_563_obj_Update
+#define dll_563_obj_Print __dll563_dll_563_obj_Print
+#define dll_563_obj_Free __dll563_dll_563_obj_Free
+#define dll_563_obj_GetModelFlags __dll563_dll_563_obj_GetModelFlags
+#define dll_563_obj_GetDataSize __dll563_dll_563_obj_GetDataSize
+#define dll_563_Func_190 __dll563_dll_563_Func_190
 #define dll_563_func_244 __dll563_dll_563_func_244
 #define data_0 __dll563_data_0
 

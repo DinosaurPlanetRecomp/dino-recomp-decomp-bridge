@@ -5,13 +5,13 @@
 
 #define dll_276_ctor __dll276_dll_276_ctor
 #define dll_276_dtor __dll276_dll_276_dtor
-#define dll_276_setup __dll276_dll_276_setup
-#define dll_276_control __dll276_dll_276_control
-#define dll_276_update __dll276_dll_276_update
-#define dll_276_print __dll276_dll_276_print
-#define dll_276_free __dll276_dll_276_free
-#define dll_276_get_model_flags __dll276_dll_276_get_model_flags
-#define dll_276_get_data_size __dll276_dll_276_get_data_size
+#define dll_276_obj_Setup __dll276_dll_276_obj_Setup
+#define dll_276_obj_Control __dll276_dll_276_obj_Control
+#define dll_276_obj_Update __dll276_dll_276_obj_Update
+#define dll_276_obj_Print __dll276_dll_276_obj_Print
+#define dll_276_obj_Free __dll276_dll_276_obj_Free
+#define dll_276_obj_GetModelFlags __dll276_dll_276_obj_GetModelFlags
+#define dll_276_obj_GetDataSize __dll276_dll_276_obj_GetDataSize
 #define str_0 __dll276_str_0
 #define rodata_A8 __dll276_rodata_A8
 #define rodata_AC __dll276_rodata_AC

@@ -5,13 +5,13 @@
 
 #define dll_622_ctor __dll622_dll_622_ctor
 #define dll_622_dtor __dll622_dll_622_dtor
-#define dll_622_setup __dll622_dll_622_setup
-#define dll_622_control __dll622_dll_622_control
-#define dll_622_update __dll622_dll_622_update
-#define dll_622_print __dll622_dll_622_print
-#define dll_622_free __dll622_dll_622_free
-#define dll_622_get_model_flags __dll622_dll_622_get_model_flags
-#define dll_622_get_data_size __dll622_dll_622_get_data_size
+#define dll_622_obj_Setup __dll622_dll_622_obj_Setup
+#define dll_622_obj_Control __dll622_dll_622_obj_Control
+#define dll_622_obj_Update __dll622_dll_622_obj_Update
+#define dll_622_obj_Print __dll622_dll_622_obj_Print
+#define dll_622_obj_Free __dll622_dll_622_obj_Free
+#define dll_622_obj_GetModelFlags __dll622_dll_622_obj_GetModelFlags
+#define dll_622_obj_GetDataSize __dll622_dll_622_obj_GetDataSize
 #define rodata_0 __dll622_rodata_0
 #define rodata_4 __dll622_rodata_4
 

@@ -5,13 +5,13 @@
 
 #define dll_436_ctor __dll436_dll_436_ctor
 #define dll_436_dtor __dll436_dll_436_dtor
-#define dll_436_setup __dll436_dll_436_setup
-#define dll_436_control __dll436_dll_436_control
-#define dll_436_update __dll436_dll_436_update
-#define dll_436_print __dll436_dll_436_print
-#define dll_436_free __dll436_dll_436_free
-#define dll_436_get_model_flags __dll436_dll_436_get_model_flags
-#define dll_436_get_data_size __dll436_dll_436_get_data_size
+#define dll_436_obj_Setup __dll436_dll_436_obj_Setup
+#define dll_436_obj_Control __dll436_dll_436_obj_Control
+#define dll_436_obj_Update __dll436_dll_436_obj_Update
+#define dll_436_obj_Print __dll436_dll_436_obj_Print
+#define dll_436_obj_Free __dll436_dll_436_obj_Free
+#define dll_436_obj_GetModelFlags __dll436_dll_436_obj_GetModelFlags
+#define dll_436_obj_GetDataSize __dll436_dll_436_obj_GetDataSize
 #define rodata_0 __dll436_rodata_0
 #define rodata_4 __dll436_rodata_4
 #define rodata_8 __dll436_rodata_8

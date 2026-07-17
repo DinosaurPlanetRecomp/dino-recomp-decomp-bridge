@@ -5,9 +5,9 @@
 
 #define dll_34_ctor __dll34_dll_34_ctor
 #define dll_34_dtor __dll34_dll_34_dtor
-#define dll_34_func_18 __dll34_dll_34_func_18
-#define dll_34_func_20 __dll34_dll_34_func_20
-#define dll_34_func_194 __dll34_dll_34_func_194
+#define dll_34_Func_18 __dll34_dll_34_Func_18
+#define dll_34_Func_20 __dll34_dll_34_Func_20
+#define dll_34_Func_194 __dll34_dll_34_Func_194
 #define rodata_0 __dll34_rodata_0
 #define rodata_4 __dll34_rodata_4
 #define rodata_8 __dll34_rodata_8

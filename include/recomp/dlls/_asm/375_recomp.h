@@ -5,13 +5,13 @@
 
 #define dll_375_ctor __dll375_dll_375_ctor
 #define dll_375_dtor __dll375_dll_375_dtor
-#define dll_375_setup __dll375_dll_375_setup
-#define dll_375_control __dll375_dll_375_control
-#define dll_375_update __dll375_dll_375_update
-#define dll_375_print __dll375_dll_375_print
-#define dll_375_free __dll375_dll_375_free
-#define dll_375_get_model_flags __dll375_dll_375_get_model_flags
-#define dll_375_get_data_size __dll375_dll_375_get_data_size
+#define dll_375_obj_Setup __dll375_dll_375_obj_Setup
+#define dll_375_obj_Control __dll375_dll_375_obj_Control
+#define dll_375_obj_Update __dll375_dll_375_obj_Update
+#define dll_375_obj_Print __dll375_dll_375_obj_Print
+#define dll_375_obj_Free __dll375_dll_375_obj_Free
+#define dll_375_obj_GetModelFlags __dll375_dll_375_obj_GetModelFlags
+#define dll_375_obj_GetDataSize __dll375_dll_375_obj_GetDataSize
 #define dll_375_func_4B8 __dll375_dll_375_func_4B8
 #define str_0 __dll375_str_0
 #define str_40 __dll375_str_40

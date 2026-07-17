@@ -5,9 +5,9 @@
 
 #define dll_42_ctor __dll42_dll_42_ctor
 #define dll_42_dtor __dll42_dll_42_dtor
-#define dll_42_func_18 __dll42_dll_42_func_18
-#define dll_42_func_20 __dll42_dll_42_func_20
-#define dll_42_func_194 __dll42_dll_42_func_194
+#define dll_42_Func_18 __dll42_dll_42_Func_18
+#define dll_42_Func_20 __dll42_dll_42_Func_20
+#define dll_42_Func_194 __dll42_dll_42_Func_194
 #define rodata_0 __dll42_rodata_0
 #define rodata_4 __dll42_rodata_4
 #define rodata_8 __dll42_rodata_8

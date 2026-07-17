@@ -5,13 +5,13 @@
 
 #define dll_682_ctor __dll682_dll_682_ctor
 #define dll_682_dtor __dll682_dll_682_dtor
-#define dll_682_setup __dll682_dll_682_setup
-#define dll_682_control __dll682_dll_682_control
-#define dll_682_update __dll682_dll_682_update
-#define dll_682_print __dll682_dll_682_print
-#define dll_682_free __dll682_dll_682_free
-#define dll_682_get_model_flags __dll682_dll_682_get_model_flags
-#define dll_682_get_data_size __dll682_dll_682_get_data_size
+#define dll_682_obj_Setup __dll682_dll_682_obj_Setup
+#define dll_682_obj_Control __dll682_dll_682_obj_Control
+#define dll_682_obj_Update __dll682_dll_682_obj_Update
+#define dll_682_obj_Print __dll682_dll_682_obj_Print
+#define dll_682_obj_Free __dll682_dll_682_obj_Free
+#define dll_682_obj_GetModelFlags __dll682_dll_682_obj_GetModelFlags
+#define dll_682_obj_GetDataSize __dll682_dll_682_obj_GetDataSize
 #define dll_682_func_9B8 __dll682_dll_682_func_9B8
 #define dll_682_func_B5C __dll682_dll_682_func_B5C
 #define dll_682_func_BD0 __dll682_dll_682_func_BD0

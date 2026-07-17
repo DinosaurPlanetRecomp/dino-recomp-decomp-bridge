@@ -5,7 +5,7 @@
 
 #define dll_176_ctor __dll176_dll_176_ctor
 #define dll_176_dtor __dll176_dll_176_dtor
-#define dll_176_func_18 __dll176_dll_176_func_18
+#define dll_176_Func_18 __dll176_dll_176_Func_18
 #define rodata_0 __dll176_rodata_0
 #define rodata_4 __dll176_rodata_4
 #define rodata_8 __dll176_rodata_8

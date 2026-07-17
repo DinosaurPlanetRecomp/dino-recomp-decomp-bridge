@@ -5,13 +5,13 @@
 
 #define dll_653_ctor __dll653_dll_653_ctor
 #define dll_653_dtor __dll653_dll_653_dtor
-#define dll_653_setup __dll653_dll_653_setup
-#define dll_653_control __dll653_dll_653_control
-#define dll_653_update __dll653_dll_653_update
-#define dll_653_print __dll653_dll_653_print
-#define dll_653_free __dll653_dll_653_free
-#define dll_653_get_model_flags __dll653_dll_653_get_model_flags
-#define dll_653_get_data_size __dll653_dll_653_get_data_size
+#define dll_653_obj_Setup __dll653_dll_653_obj_Setup
+#define dll_653_obj_Control __dll653_dll_653_obj_Control
+#define dll_653_obj_Update __dll653_dll_653_obj_Update
+#define dll_653_obj_Print __dll653_dll_653_obj_Print
+#define dll_653_obj_Free __dll653_dll_653_obj_Free
+#define dll_653_obj_GetModelFlags __dll653_dll_653_obj_GetModelFlags
+#define dll_653_obj_GetDataSize __dll653_dll_653_obj_GetDataSize
 #define str_0 __dll653_str_0
 #define data_0 __dll653_data_0
 

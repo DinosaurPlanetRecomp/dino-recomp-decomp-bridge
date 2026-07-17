@@ -5,9 +5,9 @@
 
 #define dll_37_ctor __dll37_dll_37_ctor
 #define dll_37_dtor __dll37_dll_37_dtor
-#define dll_37_func_18 __dll37_dll_37_func_18
-#define dll_37_func_20 __dll37_dll_37_func_20
-#define dll_37_func_194 __dll37_dll_37_func_194
+#define dll_37_Func_18 __dll37_dll_37_Func_18
+#define dll_37_Func_20 __dll37_dll_37_Func_20
+#define dll_37_Func_194 __dll37_dll_37_Func_194
 #define rodata_0 __dll37_rodata_0
 #define rodata_4 __dll37_rodata_4
 #define rodata_8 __dll37_rodata_8

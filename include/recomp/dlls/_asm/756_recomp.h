@@ -5,16 +5,16 @@
 
 #define dll_756_ctor __dll756_dll_756_ctor
 #define dll_756_dtor __dll756_dll_756_dtor
-#define dll_756_setup __dll756_dll_756_setup
-#define dll_756_control __dll756_dll_756_control
+#define dll_756_obj_Setup __dll756_dll_756_obj_Setup
+#define dll_756_obj_Control __dll756_dll_756_obj_Control
 #define dll_756_func_2E8 __dll756_dll_756_func_2E8
 #define dll_756_func_310 __dll756_dll_756_func_310
 #define dll_756_func_3AC __dll756_dll_756_func_3AC
-#define dll_756_update __dll756_dll_756_update
-#define dll_756_print __dll756_dll_756_print
-#define dll_756_free __dll756_dll_756_free
-#define dll_756_get_model_flags __dll756_dll_756_get_model_flags
-#define dll_756_get_data_size __dll756_dll_756_get_data_size
+#define dll_756_obj_Update __dll756_dll_756_obj_Update
+#define dll_756_obj_Print __dll756_dll_756_obj_Print
+#define dll_756_obj_Free __dll756_dll_756_obj_Free
+#define dll_756_obj_GetModelFlags __dll756_dll_756_obj_GetModelFlags
+#define dll_756_obj_GetDataSize __dll756_dll_756_obj_GetDataSize
 #define dll_756_func_840 __dll756_dll_756_func_840
 #define str_0 __dll756_str_0
 #define rodata_18 __dll756_rodata_18

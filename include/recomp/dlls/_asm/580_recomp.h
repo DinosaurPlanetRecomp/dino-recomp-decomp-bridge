@@ -5,13 +5,13 @@
 
 #define dll_580_ctor __dll580_dll_580_ctor
 #define dll_580_dtor __dll580_dll_580_dtor
-#define dll_580_setup __dll580_dll_580_setup
-#define dll_580_control __dll580_dll_580_control
-#define dll_580_update __dll580_dll_580_update
-#define dll_580_print __dll580_dll_580_print
-#define dll_580_free __dll580_dll_580_free
-#define dll_580_get_model_flags __dll580_dll_580_get_model_flags
-#define dll_580_get_data_size __dll580_dll_580_get_data_size
+#define dll_580_obj_Setup __dll580_dll_580_obj_Setup
+#define dll_580_obj_Control __dll580_dll_580_obj_Control
+#define dll_580_obj_Update __dll580_dll_580_obj_Update
+#define dll_580_obj_Print __dll580_dll_580_obj_Print
+#define dll_580_obj_Free __dll580_dll_580_obj_Free
+#define dll_580_obj_GetModelFlags __dll580_dll_580_obj_GetModelFlags
+#define dll_580_obj_GetDataSize __dll580_dll_580_obj_GetDataSize
 #define _oob_rodata_0 __dll580__oob_rodata_0
 
 #endif //_DLL_580_RECOMP_H

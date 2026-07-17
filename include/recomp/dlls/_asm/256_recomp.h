@@ -5,16 +5,16 @@
 
 #define dll_256_ctor __dll256_dll_256_ctor
 #define dll_256_dtor __dll256_dll_256_dtor
-#define dll_256_setup __dll256_dll_256_setup
-#define dll_256_control __dll256_dll_256_control
-#define dll_256_update __dll256_dll_256_update
-#define dll_256_print __dll256_dll_256_print
-#define dll_256_free __dll256_dll_256_free
-#define dll_256_get_model_flags __dll256_dll_256_get_model_flags
-#define dll_256_get_data_size __dll256_dll_256_get_data_size
-#define dll_256_func_B58 __dll256_dll_256_func_B58
-#define dll_256_func_B8C __dll256_dll_256_func_B8C
-#define dll_256_func_B9C __dll256_dll_256_func_B9C
+#define dll_256_obj_Setup __dll256_dll_256_obj_Setup
+#define dll_256_obj_Control __dll256_dll_256_obj_Control
+#define dll_256_obj_Update __dll256_dll_256_obj_Update
+#define dll_256_obj_Print __dll256_dll_256_obj_Print
+#define dll_256_obj_Free __dll256_dll_256_obj_Free
+#define dll_256_obj_GetModelFlags __dll256_dll_256_obj_GetModelFlags
+#define dll_256_obj_GetDataSize __dll256_dll_256_obj_GetDataSize
+#define dll_256_Func_B58 __dll256_dll_256_Func_B58
+#define dll_256_Func_B8C __dll256_dll_256_Func_B8C
+#define dll_256_Func_B9C __dll256_dll_256_Func_B9C
 #define rodata_0 __dll256_rodata_0
 #define rodata_4 __dll256_rodata_4
 

@@ -5,17 +5,17 @@
 
 #define dll_719_ctor __dll719_dll_719_ctor
 #define dll_719_dtor __dll719_dll_719_dtor
-#define dll_719_setup __dll719_dll_719_setup
-#define dll_719_control __dll719_dll_719_control
-#define dll_719_update __dll719_dll_719_update
-#define dll_719_print __dll719_dll_719_print
-#define dll_719_free __dll719_dll_719_free
-#define dll_719_get_model_flags __dll719_dll_719_get_model_flags
-#define dll_719_get_data_size __dll719_dll_719_get_data_size
-#define dll_719_func_438 __dll719_dll_719_func_438
-#define dll_719_func_4E4 __dll719_dll_719_func_4E4
-#define dll_719_func_4FC __dll719_dll_719_func_4FC
-#define dll_719_func_514 __dll719_dll_719_func_514
+#define dll_719_obj_Setup __dll719_dll_719_obj_Setup
+#define dll_719_obj_Control __dll719_dll_719_obj_Control
+#define dll_719_obj_Update __dll719_dll_719_obj_Update
+#define dll_719_obj_Print __dll719_dll_719_obj_Print
+#define dll_719_obj_Free __dll719_dll_719_obj_Free
+#define dll_719_obj_GetModelFlags __dll719_dll_719_obj_GetModelFlags
+#define dll_719_obj_GetDataSize __dll719_dll_719_obj_GetDataSize
+#define dll_719_Func_438 __dll719_dll_719_Func_438
+#define dll_719_Func_4E4 __dll719_dll_719_Func_4E4
+#define dll_719_Func_4FC __dll719_dll_719_Func_4FC
+#define dll_719_Func_514 __dll719_dll_719_Func_514
 #define str_0 __dll719_str_0
 
 #endif //_DLL_719_RECOMP_H

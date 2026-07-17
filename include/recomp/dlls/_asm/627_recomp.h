@@ -5,13 +5,13 @@
 
 #define dll_627_ctor __dll627_dll_627_ctor
 #define dll_627_dtor __dll627_dll_627_dtor
-#define dll_627_setup __dll627_dll_627_setup
-#define dll_627_control __dll627_dll_627_control
-#define dll_627_update __dll627_dll_627_update
-#define dll_627_print __dll627_dll_627_print
-#define dll_627_free __dll627_dll_627_free
-#define dll_627_get_model_flags __dll627_dll_627_get_model_flags
-#define dll_627_get_data_size __dll627_dll_627_get_data_size
+#define dll_627_obj_Setup __dll627_dll_627_obj_Setup
+#define dll_627_obj_Control __dll627_dll_627_obj_Control
+#define dll_627_obj_Update __dll627_dll_627_obj_Update
+#define dll_627_obj_Print __dll627_dll_627_obj_Print
+#define dll_627_obj_Free __dll627_dll_627_obj_Free
+#define dll_627_obj_GetModelFlags __dll627_dll_627_obj_GetModelFlags
+#define dll_627_obj_GetDataSize __dll627_dll_627_obj_GetDataSize
 #define _oob_rodata_0 __dll627__oob_rodata_0
 
 #endif //_DLL_627_RECOMP_H

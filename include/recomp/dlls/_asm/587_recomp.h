@@ -5,13 +5,13 @@
 
 #define dll_587_ctor __dll587_dll_587_ctor
 #define dll_587_dtor __dll587_dll_587_dtor
-#define dll_587_setup __dll587_dll_587_setup
-#define dll_587_control __dll587_dll_587_control
-#define dll_587_update __dll587_dll_587_update
-#define dll_587_print __dll587_dll_587_print
-#define dll_587_free __dll587_dll_587_free
-#define dll_587_get_model_flags __dll587_dll_587_get_model_flags
-#define dll_587_get_data_size __dll587_dll_587_get_data_size
+#define dll_587_obj_Setup __dll587_dll_587_obj_Setup
+#define dll_587_obj_Control __dll587_dll_587_obj_Control
+#define dll_587_obj_Update __dll587_dll_587_obj_Update
+#define dll_587_obj_Print __dll587_dll_587_obj_Print
+#define dll_587_obj_Free __dll587_dll_587_obj_Free
+#define dll_587_obj_GetModelFlags __dll587_dll_587_obj_GetModelFlags
+#define dll_587_obj_GetDataSize __dll587_dll_587_obj_GetDataSize
 #define dll_587_func_548 __dll587_dll_587_func_548
 #define dll_587_func_75C __dll587_dll_587_func_75C
 #define rodata_0 __dll587_rodata_0

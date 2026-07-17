@@ -5,16 +5,16 @@
 
 #define dll_373_ctor __dll373_dll_373_ctor
 #define dll_373_dtor __dll373_dll_373_dtor
-#define dll_373_setup __dll373_dll_373_setup
-#define dll_373_control __dll373_dll_373_control
-#define dll_373_update __dll373_dll_373_update
-#define dll_373_print __dll373_dll_373_print
-#define dll_373_free __dll373_dll_373_free
-#define dll_373_get_model_flags __dll373_dll_373_get_model_flags
-#define dll_373_get_data_size __dll373_dll_373_get_data_size
+#define dll_373_obj_Setup __dll373_dll_373_obj_Setup
+#define dll_373_obj_Control __dll373_dll_373_obj_Control
+#define dll_373_obj_Update __dll373_dll_373_obj_Update
+#define dll_373_obj_Print __dll373_dll_373_obj_Print
+#define dll_373_obj_Free __dll373_dll_373_obj_Free
+#define dll_373_obj_GetModelFlags __dll373_dll_373_obj_GetModelFlags
+#define dll_373_obj_GetDataSize __dll373_dll_373_obj_GetDataSize
 #define dll_373_func_E9C __dll373_dll_373_func_E9C
-#define dll_373_func_12A4 __dll373_dll_373_func_12A4
-#define dll_373_func_12BC __dll373_dll_373_func_12BC
+#define dll_373_Func_12A4 __dll373_dll_373_Func_12A4
+#define dll_373_Func_12BC __dll373_dll_373_Func_12BC
 #define dll_373_func_12EC __dll373_dll_373_func_12EC
 #define dll_373_func_1464 __dll373_dll_373_func_1464
 #define dll_373_func_14F0 __dll373_dll_373_func_14F0

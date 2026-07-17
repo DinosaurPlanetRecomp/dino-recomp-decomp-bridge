@@ -5,7 +5,7 @@
 
 #define dll_203_ctor __dll203_dll_203_ctor
 #define dll_203_dtor __dll203_dll_203_dtor
-#define dll_203_func_18 __dll203_dll_203_func_18
+#define dll_203_Func_18 __dll203_dll_203_Func_18
 #define rodata_0 __dll203_rodata_0
 #define rodata_4 __dll203_rodata_4
 #define rodata_8 __dll203_rodata_8

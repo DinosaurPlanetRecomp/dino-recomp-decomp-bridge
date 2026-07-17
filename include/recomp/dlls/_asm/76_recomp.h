@@ -5,9 +5,9 @@
 
 #define dll_76_ctor __dll76_dll_76_ctor
 #define dll_76_dtor __dll76_dll_76_dtor
-#define dll_76_func_148 __dll76_dll_76_func_148
-#define dll_76_func_DA4 __dll76_dll_76_func_DA4
-#define dll_76_func_18A8 __dll76_dll_76_func_18A8
+#define dll_76_Func_148 __dll76_dll_76_Func_148
+#define dll_76_Func_DA4 __dll76_dll_76_Func_DA4
+#define dll_76_Func_18A8 __dll76_dll_76_Func_18A8
 #define rodata_0 __dll76_rodata_0
 #define rodata_4 __dll76_rodata_4
 #define rodata_8 __dll76_rodata_8

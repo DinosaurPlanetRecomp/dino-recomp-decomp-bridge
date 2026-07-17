@@ -5,9 +5,9 @@
 
 #define dll_43_ctor __dll43_dll_43_ctor
 #define dll_43_dtor __dll43_dll_43_dtor
-#define dll_43_func_18 __dll43_dll_43_func_18
-#define dll_43_func_20 __dll43_dll_43_func_20
-#define dll_43_func_194 __dll43_dll_43_func_194
+#define dll_43_Func_18 __dll43_dll_43_Func_18
+#define dll_43_Func_20 __dll43_dll_43_Func_20
+#define dll_43_Func_194 __dll43_dll_43_Func_194
 #define rodata_0 __dll43_rodata_0
 #define rodata_4 __dll43_rodata_4
 #define rodata_8 __dll43_rodata_8

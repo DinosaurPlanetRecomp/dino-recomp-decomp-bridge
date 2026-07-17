@@ -5,13 +5,13 @@
 
 #define dll_635_ctor __dll635_dll_635_ctor
 #define dll_635_dtor __dll635_dll_635_dtor
-#define dll_635_setup __dll635_dll_635_setup
-#define dll_635_control __dll635_dll_635_control
-#define dll_635_update __dll635_dll_635_update
-#define dll_635_print __dll635_dll_635_print
-#define dll_635_free __dll635_dll_635_free
-#define dll_635_get_model_flags __dll635_dll_635_get_model_flags
-#define dll_635_get_data_size __dll635_dll_635_get_data_size
+#define dll_635_obj_Setup __dll635_dll_635_obj_Setup
+#define dll_635_obj_Control __dll635_dll_635_obj_Control
+#define dll_635_obj_Update __dll635_dll_635_obj_Update
+#define dll_635_obj_Print __dll635_dll_635_obj_Print
+#define dll_635_obj_Free __dll635_dll_635_obj_Free
+#define dll_635_obj_GetModelFlags __dll635_dll_635_obj_GetModelFlags
+#define dll_635_obj_GetDataSize __dll635_dll_635_obj_GetDataSize
 #define dll_635_func_208 __dll635_dll_635_func_208
 #define dll_635_func_224 __dll635_dll_635_func_224
 #define rodata_0 __dll635_rodata_0

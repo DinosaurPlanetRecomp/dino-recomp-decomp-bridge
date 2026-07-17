@@ -5,13 +5,13 @@
 
 #define dll_736_ctor __dll736_dll_736_ctor
 #define dll_736_dtor __dll736_dll_736_dtor
-#define dll_736_setup __dll736_dll_736_setup
-#define dll_736_control __dll736_dll_736_control
-#define dll_736_update __dll736_dll_736_update
-#define dll_736_print __dll736_dll_736_print
-#define dll_736_free __dll736_dll_736_free
-#define dll_736_get_model_flags __dll736_dll_736_get_model_flags
-#define dll_736_get_data_size __dll736_dll_736_get_data_size
+#define dll_736_obj_Setup __dll736_dll_736_obj_Setup
+#define dll_736_obj_Control __dll736_dll_736_obj_Control
+#define dll_736_obj_Update __dll736_dll_736_obj_Update
+#define dll_736_obj_Print __dll736_dll_736_obj_Print
+#define dll_736_obj_Free __dll736_dll_736_obj_Free
+#define dll_736_obj_GetModelFlags __dll736_dll_736_obj_GetModelFlags
+#define dll_736_obj_GetDataSize __dll736_dll_736_obj_GetDataSize
 #define bss_0 __dll736_bss_0
 
 #endif //_DLL_736_RECOMP_H

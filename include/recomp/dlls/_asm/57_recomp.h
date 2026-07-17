@@ -5,10 +5,10 @@
 
 #define dll_57_ctor __dll57_dll_57_ctor
 #define dll_57_dtor __dll57_dll_57_dtor
-#define dll_57_func_18 __dll57_dll_57_func_18
-#define dll_57_func_74 __dll57_dll_57_func_74
-#define dll_57_func_190 __dll57_dll_57_func_190
-#define dll_57_func_1E4 __dll57_dll_57_func_1E4
+#define dll_57_Func_18 __dll57_dll_57_Func_18
+#define dll_57_Func_74 __dll57_dll_57_Func_74
+#define dll_57_Func_190 __dll57_dll_57_Func_190
+#define dll_57_Func_1E4 __dll57_dll_57_Func_1E4
 #define dll_57_func_9A0 __dll57_dll_57_func_9A0
 #define dll_57_func_BB0 __dll57_dll_57_func_BB0
 #define rodata_0 __dll57_rodata_0

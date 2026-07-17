@@ -5,17 +5,17 @@
 
 #define dll_724_ctor __dll724_dll_724_ctor
 #define dll_724_dtor __dll724_dll_724_dtor
-#define dll_724_setup __dll724_dll_724_setup
-#define dll_724_control __dll724_dll_724_control
-#define dll_724_update __dll724_dll_724_update
-#define dll_724_print __dll724_dll_724_print
-#define dll_724_func_2CC __dll724_dll_724_func_2CC
-#define dll_724_func_2E0 __dll724_dll_724_func_2E0
-#define dll_724_free __dll724_dll_724_free
-#define dll_724_get_model_flags __dll724_dll_724_get_model_flags
-#define dll_724_get_data_size __dll724_dll_724_get_data_size
-#define dll_724_func_35C __dll724_dll_724_func_35C
-#define dll_724_func_374 __dll724_dll_724_func_374
+#define dll_724_obj_Setup __dll724_dll_724_obj_Setup
+#define dll_724_obj_Control __dll724_dll_724_obj_Control
+#define dll_724_obj_Update __dll724_dll_724_obj_Update
+#define dll_724_obj_Print __dll724_dll_724_obj_Print
+#define dll_724_Func_2CC __dll724_dll_724_Func_2CC
+#define dll_724_Func_2E0 __dll724_dll_724_Func_2E0
+#define dll_724_obj_Free __dll724_dll_724_obj_Free
+#define dll_724_obj_GetModelFlags __dll724_dll_724_obj_GetModelFlags
+#define dll_724_obj_GetDataSize __dll724_dll_724_obj_GetDataSize
+#define dll_724_Func_35C __dll724_dll_724_Func_35C
+#define dll_724_Func_374 __dll724_dll_724_Func_374
 #define str_0 __dll724_str_0
 
 #endif //_DLL_724_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define dll_360_ctor __dll360_dll_360_ctor
 #define dll_360_dtor __dll360_dll_360_dtor
-#define dll_360_setup __dll360_dll_360_setup
-#define dll_360_control __dll360_dll_360_control
-#define dll_360_update __dll360_dll_360_update
-#define dll_360_print __dll360_dll_360_print
-#define dll_360_free __dll360_dll_360_free
-#define dll_360_get_model_flags __dll360_dll_360_get_model_flags
-#define dll_360_get_data_size __dll360_dll_360_get_data_size
+#define dll_360_obj_Setup __dll360_dll_360_obj_Setup
+#define dll_360_obj_Control __dll360_dll_360_obj_Control
+#define dll_360_obj_Update __dll360_dll_360_obj_Update
+#define dll_360_obj_Print __dll360_dll_360_obj_Print
+#define dll_360_obj_Free __dll360_dll_360_obj_Free
+#define dll_360_obj_GetModelFlags __dll360_dll_360_obj_GetModelFlags
+#define dll_360_obj_GetDataSize __dll360_dll_360_obj_GetDataSize
 #define dll_360_func_3CC __dll360_dll_360_func_3CC
 #define dll_360_func_610 __dll360_dll_360_func_610
 #define dll_360_func_6F8 __dll360_dll_360_func_6F8

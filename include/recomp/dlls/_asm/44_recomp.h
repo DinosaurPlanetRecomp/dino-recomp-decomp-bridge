@@ -5,9 +5,9 @@
 
 #define dll_44_ctor __dll44_dll_44_ctor
 #define dll_44_dtor __dll44_dll_44_dtor
-#define dll_44_func_18 __dll44_dll_44_func_18
-#define dll_44_func_20 __dll44_dll_44_func_20
-#define dll_44_func_2C __dll44_dll_44_func_2C
+#define dll_44_Func_18 __dll44_dll_44_Func_18
+#define dll_44_Func_20 __dll44_dll_44_Func_20
+#define dll_44_Func_2C __dll44_dll_44_Func_2C
 #define rodata_34 __dll44_rodata_34
 #define rodata_38 __dll44_rodata_38
 #define rodata_3C __dll44_rodata_3C

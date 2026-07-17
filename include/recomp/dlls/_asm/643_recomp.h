@@ -5,13 +5,13 @@
 
 #define dll_643_ctor __dll643_dll_643_ctor
 #define dll_643_dtor __dll643_dll_643_dtor
-#define dll_643_setup __dll643_dll_643_setup
-#define dll_643_control __dll643_dll_643_control
-#define dll_643_update __dll643_dll_643_update
-#define dll_643_print __dll643_dll_643_print
-#define dll_643_free __dll643_dll_643_free
-#define dll_643_get_model_flags __dll643_dll_643_get_model_flags
-#define dll_643_get_data_size __dll643_dll_643_get_data_size
+#define dll_643_obj_Setup __dll643_dll_643_obj_Setup
+#define dll_643_obj_Control __dll643_dll_643_obj_Control
+#define dll_643_obj_Update __dll643_dll_643_obj_Update
+#define dll_643_obj_Print __dll643_dll_643_obj_Print
+#define dll_643_obj_Free __dll643_dll_643_obj_Free
+#define dll_643_obj_GetModelFlags __dll643_dll_643_obj_GetModelFlags
+#define dll_643_obj_GetDataSize __dll643_dll_643_obj_GetDataSize
 #define dll_643_func_384 __dll643_dll_643_func_384
 #define dll_643_func_6DC __dll643_dll_643_func_6DC
 #define dll_643_func_84C __dll643_dll_643_func_84C

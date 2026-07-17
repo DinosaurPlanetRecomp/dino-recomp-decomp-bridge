@@ -5,9 +5,9 @@
 
 #define dll_10_ctor __dll10_dll_10_ctor
 #define dll_10_dtor __dll10_dll_10_dtor
-#define dll_10_func_18 __dll10_dll_10_func_18
-#define dll_10_func_A1C __dll10_dll_10_func_A1C
-#define dll_10_func_1118 __dll10_dll_10_func_1118
+#define dll_10_Func_18 __dll10_dll_10_Func_18
+#define dll_10_Func_A1C __dll10_dll_10_Func_A1C
+#define dll_10_Func_1118 __dll10_dll_10_Func_1118
 #define dll_10_func_119C __dll10_dll_10_func_119C
 #define str_0 __dll10_str_0
 #define rodata_68 __dll10_rodata_68

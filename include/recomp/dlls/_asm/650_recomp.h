@@ -5,13 +5,13 @@
 
 #define dll_650_ctor __dll650_dll_650_ctor
 #define dll_650_dtor __dll650_dll_650_dtor
-#define dll_650_setup __dll650_dll_650_setup
-#define dll_650_control __dll650_dll_650_control
-#define dll_650_update __dll650_dll_650_update
-#define dll_650_print __dll650_dll_650_print
-#define dll_650_free __dll650_dll_650_free
-#define dll_650_get_model_flags __dll650_dll_650_get_model_flags
-#define dll_650_get_data_size __dll650_dll_650_get_data_size
+#define dll_650_obj_Setup __dll650_dll_650_obj_Setup
+#define dll_650_obj_Control __dll650_dll_650_obj_Control
+#define dll_650_obj_Update __dll650_dll_650_obj_Update
+#define dll_650_obj_Print __dll650_dll_650_obj_Print
+#define dll_650_obj_Free __dll650_dll_650_obj_Free
+#define dll_650_obj_GetModelFlags __dll650_dll_650_obj_GetModelFlags
+#define dll_650_obj_GetDataSize __dll650_dll_650_obj_GetDataSize
 #define dll_650_func_EAC __dll650_dll_650_func_EAC
 #define str_0 __dll650_str_0
 #define rodata_2C __dll650_rodata_2C

@@ -5,7 +5,7 @@
 
 #define dll_148_ctor __dll148_dll_148_ctor
 #define dll_148_dtor __dll148_dll_148_dtor
-#define dll_148_func_18 __dll148_dll_148_func_18
+#define dll_148_Func_18 __dll148_dll_148_Func_18
 #define rodata_0 __dll148_rodata_0
 #define rodata_4 __dll148_rodata_4
 #define rodata_8 __dll148_rodata_8

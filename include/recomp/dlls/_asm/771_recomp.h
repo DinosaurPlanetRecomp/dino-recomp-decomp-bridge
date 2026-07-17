@@ -5,13 +5,13 @@
 
 #define dll_771_ctor __dll771_dll_771_ctor
 #define dll_771_dtor __dll771_dll_771_dtor
-#define dll_771_setup __dll771_dll_771_setup
-#define dll_771_control __dll771_dll_771_control
-#define dll_771_update __dll771_dll_771_update
-#define dll_771_print __dll771_dll_771_print
-#define dll_771_free __dll771_dll_771_free
-#define dll_771_get_model_flags __dll771_dll_771_get_model_flags
-#define dll_771_get_data_size __dll771_dll_771_get_data_size
+#define dll_771_obj_Setup __dll771_dll_771_obj_Setup
+#define dll_771_obj_Control __dll771_dll_771_obj_Control
+#define dll_771_obj_Update __dll771_dll_771_obj_Update
+#define dll_771_obj_Print __dll771_dll_771_obj_Print
+#define dll_771_obj_Free __dll771_dll_771_obj_Free
+#define dll_771_obj_GetModelFlags __dll771_dll_771_obj_GetModelFlags
+#define dll_771_obj_GetDataSize __dll771_dll_771_obj_GetDataSize
 #define dll_771_func_6BC __dll771_dll_771_func_6BC
 #define dll_771_func_7DC __dll771_dll_771_func_7DC
 #define rodata_0 __dll771_rodata_0

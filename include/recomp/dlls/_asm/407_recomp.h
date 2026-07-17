@@ -5,13 +5,13 @@
 
 #define dll_407_ctor __dll407_dll_407_ctor
 #define dll_407_dtor __dll407_dll_407_dtor
-#define dll_407_setup __dll407_dll_407_setup
-#define dll_407_control __dll407_dll_407_control
-#define dll_407_update __dll407_dll_407_update
-#define dll_407_print __dll407_dll_407_print
-#define dll_407_free __dll407_dll_407_free
-#define dll_407_get_model_flags __dll407_dll_407_get_model_flags
-#define dll_407_get_data_size __dll407_dll_407_get_data_size
+#define dll_407_obj_Setup __dll407_dll_407_obj_Setup
+#define dll_407_obj_Control __dll407_dll_407_obj_Control
+#define dll_407_obj_Update __dll407_dll_407_obj_Update
+#define dll_407_obj_Print __dll407_dll_407_obj_Print
+#define dll_407_obj_Free __dll407_dll_407_obj_Free
+#define dll_407_obj_GetModelFlags __dll407_dll_407_obj_GetModelFlags
+#define dll_407_obj_GetDataSize __dll407_dll_407_obj_GetDataSize
 #define dll_407_func_494 __dll407_dll_407_func_494
 #define dll_407_func_6D8 __dll407_dll_407_func_6D8
 #define dll_407_func_7C0 __dll407_dll_407_func_7C0

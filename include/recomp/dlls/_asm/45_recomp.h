@@ -5,9 +5,9 @@
 
 #define dll_45_ctor __dll45_dll_45_ctor
 #define dll_45_dtor __dll45_dll_45_dtor
-#define dll_45_func_18 __dll45_dll_45_func_18
-#define dll_45_func_20 __dll45_dll_45_func_20
-#define dll_45_func_2C __dll45_dll_45_func_2C
+#define dll_45_Func_18 __dll45_dll_45_Func_18
+#define dll_45_Func_20 __dll45_dll_45_Func_20
+#define dll_45_Func_2C __dll45_dll_45_Func_2C
 #define rodata_3C __dll45_rodata_3C
 #define rodata_40 __dll45_rodata_40
 #define rodata_44 __dll45_rodata_44

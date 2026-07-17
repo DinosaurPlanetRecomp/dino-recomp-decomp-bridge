@@ -5,12 +5,12 @@
 
 #define dll_542_ctor __dll542_dll_542_ctor
 #define dll_542_dtor __dll542_dll_542_dtor
-#define dll_542_setup __dll542_dll_542_setup
-#define dll_542_control __dll542_dll_542_control
-#define dll_542_update __dll542_dll_542_update
-#define dll_542_print __dll542_dll_542_print
-#define dll_542_free __dll542_dll_542_free
-#define dll_542_get_model_flags __dll542_dll_542_get_model_flags
-#define dll_542_get_data_size __dll542_dll_542_get_data_size
+#define dll_542_obj_Setup __dll542_dll_542_obj_Setup
+#define dll_542_obj_Control __dll542_dll_542_obj_Control
+#define dll_542_obj_Update __dll542_dll_542_obj_Update
+#define dll_542_obj_Print __dll542_dll_542_obj_Print
+#define dll_542_obj_Free __dll542_dll_542_obj_Free
+#define dll_542_obj_GetModelFlags __dll542_dll_542_obj_GetModelFlags
+#define dll_542_obj_GetDataSize __dll542_dll_542_obj_GetDataSize
 
 #endif //_DLL_542_RECOMP_H

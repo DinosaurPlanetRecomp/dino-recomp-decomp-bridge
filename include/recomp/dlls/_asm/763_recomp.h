@@ -5,13 +5,13 @@
 
 #define dll_763_ctor __dll763_dll_763_ctor
 #define dll_763_dtor __dll763_dll_763_dtor
-#define dll_763_setup __dll763_dll_763_setup
-#define dll_763_control __dll763_dll_763_control
-#define dll_763_update __dll763_dll_763_update
-#define dll_763_print __dll763_dll_763_print
-#define dll_763_free __dll763_dll_763_free
-#define dll_763_get_model_flags __dll763_dll_763_get_model_flags
-#define dll_763_get_data_size __dll763_dll_763_get_data_size
+#define dll_763_obj_Setup __dll763_dll_763_obj_Setup
+#define dll_763_obj_Control __dll763_dll_763_obj_Control
+#define dll_763_obj_Update __dll763_dll_763_obj_Update
+#define dll_763_obj_Print __dll763_dll_763_obj_Print
+#define dll_763_obj_Free __dll763_dll_763_obj_Free
+#define dll_763_obj_GetModelFlags __dll763_dll_763_obj_GetModelFlags
+#define dll_763_obj_GetDataSize __dll763_dll_763_obj_GetDataSize
 #define data_0 __dll763_data_0
 
 #endif //_DLL_763_RECOMP_H

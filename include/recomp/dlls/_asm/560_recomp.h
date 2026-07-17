@@ -5,13 +5,13 @@
 
 #define dll_560_ctor __dll560_dll_560_ctor
 #define dll_560_dtor __dll560_dll_560_dtor
-#define dll_560_setup __dll560_dll_560_setup
-#define dll_560_control __dll560_dll_560_control
-#define dll_560_update __dll560_dll_560_update
-#define dll_560_print __dll560_dll_560_print
-#define dll_560_free __dll560_dll_560_free
-#define dll_560_get_model_flags __dll560_dll_560_get_model_flags
-#define dll_560_get_data_size __dll560_dll_560_get_data_size
+#define dll_560_obj_Setup __dll560_dll_560_obj_Setup
+#define dll_560_obj_Control __dll560_dll_560_obj_Control
+#define dll_560_obj_Update __dll560_dll_560_obj_Update
+#define dll_560_obj_Print __dll560_dll_560_obj_Print
+#define dll_560_obj_Free __dll560_dll_560_obj_Free
+#define dll_560_obj_GetModelFlags __dll560_dll_560_obj_GetModelFlags
+#define dll_560_obj_GetDataSize __dll560_dll_560_obj_GetDataSize
 #define rodata_0 __dll560_rodata_0
 #define rodata_4 __dll560_rodata_4
 #define rodata_8 __dll560_rodata_8

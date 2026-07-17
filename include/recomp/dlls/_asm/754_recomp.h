@@ -5,13 +5,13 @@
 
 #define dll_754_ctor __dll754_dll_754_ctor
 #define dll_754_dtor __dll754_dll_754_dtor
-#define dll_754_setup __dll754_dll_754_setup
-#define dll_754_control __dll754_dll_754_control
-#define dll_754_update __dll754_dll_754_update
-#define dll_754_print __dll754_dll_754_print
-#define dll_754_free __dll754_dll_754_free
-#define dll_754_get_model_flags __dll754_dll_754_get_model_flags
-#define dll_754_get_data_size __dll754_dll_754_get_data_size
+#define dll_754_obj_Setup __dll754_dll_754_obj_Setup
+#define dll_754_obj_Control __dll754_dll_754_obj_Control
+#define dll_754_obj_Update __dll754_dll_754_obj_Update
+#define dll_754_obj_Print __dll754_dll_754_obj_Print
+#define dll_754_obj_Free __dll754_dll_754_obj_Free
+#define dll_754_obj_GetModelFlags __dll754_dll_754_obj_GetModelFlags
+#define dll_754_obj_GetDataSize __dll754_dll_754_obj_GetDataSize
 #define dll_754_func_3AC __dll754_dll_754_func_3AC
 #define str_0 __dll754_str_0
 

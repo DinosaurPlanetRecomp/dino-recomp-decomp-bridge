@@ -5,13 +5,13 @@
 
 #define dll_599_ctor __dll599_dll_599_ctor
 #define dll_599_dtor __dll599_dll_599_dtor
-#define dll_599_setup __dll599_dll_599_setup
-#define dll_599_control __dll599_dll_599_control
-#define dll_599_update __dll599_dll_599_update
-#define dll_599_print __dll599_dll_599_print
-#define dll_599_free __dll599_dll_599_free
-#define dll_599_get_model_flags __dll599_dll_599_get_model_flags
-#define dll_599_get_data_size __dll599_dll_599_get_data_size
+#define dll_599_obj_Setup __dll599_dll_599_obj_Setup
+#define dll_599_obj_Control __dll599_dll_599_obj_Control
+#define dll_599_obj_Update __dll599_dll_599_obj_Update
+#define dll_599_obj_Print __dll599_dll_599_obj_Print
+#define dll_599_obj_Free __dll599_dll_599_obj_Free
+#define dll_599_obj_GetModelFlags __dll599_dll_599_obj_GetModelFlags
+#define dll_599_obj_GetDataSize __dll599_dll_599_obj_GetDataSize
 #define dll_599_func_48C __dll599_dll_599_func_48C
 #define data_0 __dll599_data_0
 

@@ -5,13 +5,13 @@
 
 #define dll_409_ctor __dll409_dll_409_ctor
 #define dll_409_dtor __dll409_dll_409_dtor
-#define dll_409_setup __dll409_dll_409_setup
-#define dll_409_control __dll409_dll_409_control
-#define dll_409_update __dll409_dll_409_update
-#define dll_409_print __dll409_dll_409_print
-#define dll_409_free __dll409_dll_409_free
-#define dll_409_get_model_flags __dll409_dll_409_get_model_flags
-#define dll_409_get_data_size __dll409_dll_409_get_data_size
+#define dll_409_obj_Setup __dll409_dll_409_obj_Setup
+#define dll_409_obj_Control __dll409_dll_409_obj_Control
+#define dll_409_obj_Update __dll409_dll_409_obj_Update
+#define dll_409_obj_Print __dll409_dll_409_obj_Print
+#define dll_409_obj_Free __dll409_dll_409_obj_Free
+#define dll_409_obj_GetModelFlags __dll409_dll_409_obj_GetModelFlags
+#define dll_409_obj_GetDataSize __dll409_dll_409_obj_GetDataSize
 #define dll_409_func_83C __dll409_dll_409_func_83C
 #define dll_409_func_940 __dll409_dll_409_func_940
 #define rodata_0 __dll409_rodata_0

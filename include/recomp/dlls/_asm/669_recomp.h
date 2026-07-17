@@ -5,14 +5,14 @@
 
 #define dll_669_ctor __dll669_dll_669_ctor
 #define dll_669_dtor __dll669_dll_669_dtor
-#define dll_669_setup __dll669_dll_669_setup
-#define dll_669_control __dll669_dll_669_control
+#define dll_669_obj_Setup __dll669_dll_669_obj_Setup
+#define dll_669_obj_Control __dll669_dll_669_obj_Control
 #define dll_669_func_56C __dll669_dll_669_func_56C
-#define dll_669_update __dll669_dll_669_update
-#define dll_669_print __dll669_dll_669_print
-#define dll_669_free __dll669_dll_669_free
-#define dll_669_get_model_flags __dll669_dll_669_get_model_flags
-#define dll_669_get_data_size __dll669_dll_669_get_data_size
+#define dll_669_obj_Update __dll669_dll_669_obj_Update
+#define dll_669_obj_Print __dll669_dll_669_obj_Print
+#define dll_669_obj_Free __dll669_dll_669_obj_Free
+#define dll_669_obj_GetModelFlags __dll669_dll_669_obj_GetModelFlags
+#define dll_669_obj_GetDataSize __dll669_dll_669_obj_GetDataSize
 #define dll_669_func_C70 __dll669_dll_669_func_C70
 #define dll_669_func_110C __dll669_dll_669_func_110C
 #define dll_669_func_13F4 __dll669_dll_669_func_13F4

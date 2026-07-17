@@ -5,12 +5,12 @@
 
 #define dll_416_ctor __dll416_dll_416_ctor
 #define dll_416_dtor __dll416_dll_416_dtor
-#define dll_416_setup __dll416_dll_416_setup
-#define dll_416_control __dll416_dll_416_control
-#define dll_416_update __dll416_dll_416_update
-#define dll_416_print __dll416_dll_416_print
-#define dll_416_free __dll416_dll_416_free
-#define dll_416_get_model_flags __dll416_dll_416_get_model_flags
-#define dll_416_get_data_size __dll416_dll_416_get_data_size
+#define dll_416_obj_Setup __dll416_dll_416_obj_Setup
+#define dll_416_obj_Control __dll416_dll_416_obj_Control
+#define dll_416_obj_Update __dll416_dll_416_obj_Update
+#define dll_416_obj_Print __dll416_dll_416_obj_Print
+#define dll_416_obj_Free __dll416_dll_416_obj_Free
+#define dll_416_obj_GetModelFlags __dll416_dll_416_obj_GetModelFlags
+#define dll_416_obj_GetDataSize __dll416_dll_416_obj_GetDataSize
 
 #endif //_DLL_416_RECOMP_H

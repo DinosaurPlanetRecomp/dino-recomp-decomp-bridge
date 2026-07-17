@@ -5,12 +5,12 @@
 
 #define dll_655_ctor __dll655_dll_655_ctor
 #define dll_655_dtor __dll655_dll_655_dtor
-#define dll_655_setup __dll655_dll_655_setup
-#define dll_655_control __dll655_dll_655_control
-#define dll_655_update __dll655_dll_655_update
-#define dll_655_print __dll655_dll_655_print
-#define dll_655_free __dll655_dll_655_free
-#define dll_655_get_model_flags __dll655_dll_655_get_model_flags
-#define dll_655_get_data_size __dll655_dll_655_get_data_size
+#define dll_655_obj_Setup __dll655_dll_655_obj_Setup
+#define dll_655_obj_Control __dll655_dll_655_obj_Control
+#define dll_655_obj_Update __dll655_dll_655_obj_Update
+#define dll_655_obj_Print __dll655_dll_655_obj_Print
+#define dll_655_obj_Free __dll655_dll_655_obj_Free
+#define dll_655_obj_GetModelFlags __dll655_dll_655_obj_GetModelFlags
+#define dll_655_obj_GetDataSize __dll655_dll_655_obj_GetDataSize
 
 #endif //_DLL_655_RECOMP_H

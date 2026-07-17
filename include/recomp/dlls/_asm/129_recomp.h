@@ -5,7 +5,7 @@
 
 #define dll_129_ctor __dll129_dll_129_ctor
 #define dll_129_dtor __dll129_dll_129_dtor
-#define dll_129_func_18 __dll129_dll_129_func_18
+#define dll_129_Func_18 __dll129_dll_129_Func_18
 #define rodata_0 __dll129_rodata_0
 #define rodata_4 __dll129_rodata_4
 #define data_0 __dll129_data_0

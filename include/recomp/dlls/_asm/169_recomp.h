@@ -5,7 +5,7 @@
 
 #define dll_169_ctor __dll169_dll_169_ctor
 #define dll_169_dtor __dll169_dll_169_dtor
-#define dll_169_func_18 __dll169_dll_169_func_18
+#define dll_169_Func_18 __dll169_dll_169_Func_18
 #define rodata_0 __dll169_rodata_0
 #define rodata_4 __dll169_rodata_4
 #define data_0 __dll169_data_0

@@ -5,13 +5,13 @@
 
 #define dll_648_ctor __dll648_dll_648_ctor
 #define dll_648_dtor __dll648_dll_648_dtor
-#define dll_648_setup __dll648_dll_648_setup
-#define dll_648_control __dll648_dll_648_control
-#define dll_648_update __dll648_dll_648_update
-#define dll_648_print __dll648_dll_648_print
-#define dll_648_free __dll648_dll_648_free
-#define dll_648_get_model_flags __dll648_dll_648_get_model_flags
-#define dll_648_get_data_size __dll648_dll_648_get_data_size
+#define dll_648_obj_Setup __dll648_dll_648_obj_Setup
+#define dll_648_obj_Control __dll648_dll_648_obj_Control
+#define dll_648_obj_Update __dll648_dll_648_obj_Update
+#define dll_648_obj_Print __dll648_dll_648_obj_Print
+#define dll_648_obj_Free __dll648_dll_648_obj_Free
+#define dll_648_obj_GetModelFlags __dll648_dll_648_obj_GetModelFlags
+#define dll_648_obj_GetDataSize __dll648_dll_648_obj_GetDataSize
 #define dll_648_func_170 __dll648_dll_648_func_170
 #define dll_648_func_2C0 __dll648_dll_648_func_2C0
 #define data_0 __dll648_data_0

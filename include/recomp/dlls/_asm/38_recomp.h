@@ -5,9 +5,9 @@
 
 #define dll_38_ctor __dll38_dll_38_ctor
 #define dll_38_dtor __dll38_dll_38_dtor
-#define dll_38_func_18 __dll38_dll_38_func_18
-#define dll_38_func_20 __dll38_dll_38_func_20
-#define dll_38_func_194 __dll38_dll_38_func_194
+#define dll_38_Func_18 __dll38_dll_38_Func_18
+#define dll_38_Func_20 __dll38_dll_38_Func_20
+#define dll_38_Func_194 __dll38_dll_38_Func_194
 #define rodata_0 __dll38_rodata_0
 #define rodata_4 __dll38_rodata_4
 #define rodata_8 __dll38_rodata_8

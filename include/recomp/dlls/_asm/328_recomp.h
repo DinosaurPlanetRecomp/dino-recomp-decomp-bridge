@@ -5,13 +5,13 @@
 
 #define dll_328_ctor __dll328_dll_328_ctor
 #define dll_328_dtor __dll328_dll_328_dtor
-#define dll_328_setup __dll328_dll_328_setup
-#define dll_328_control __dll328_dll_328_control
-#define dll_328_update __dll328_dll_328_update
-#define dll_328_print __dll328_dll_328_print
-#define dll_328_free __dll328_dll_328_free
-#define dll_328_get_model_flags __dll328_dll_328_get_model_flags
-#define dll_328_get_data_size __dll328_dll_328_get_data_size
+#define dll_328_obj_Setup __dll328_dll_328_obj_Setup
+#define dll_328_obj_Control __dll328_dll_328_obj_Control
+#define dll_328_obj_Update __dll328_dll_328_obj_Update
+#define dll_328_obj_Print __dll328_dll_328_obj_Print
+#define dll_328_obj_Free __dll328_dll_328_obj_Free
+#define dll_328_obj_GetModelFlags __dll328_dll_328_obj_GetModelFlags
+#define dll_328_obj_GetDataSize __dll328_dll_328_obj_GetDataSize
 #define dll_328_func_3AC __dll328_dll_328_func_3AC
 #define dll_328_func_87C __dll328_dll_328_func_87C
 #define rodata_0 __dll328_rodata_0

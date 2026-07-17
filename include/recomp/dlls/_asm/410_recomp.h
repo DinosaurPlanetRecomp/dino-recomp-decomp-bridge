@@ -5,13 +5,13 @@
 
 #define dll_410_ctor __dll410_dll_410_ctor
 #define dll_410_dtor __dll410_dll_410_dtor
-#define dll_410_setup __dll410_dll_410_setup
-#define dll_410_control __dll410_dll_410_control
-#define dll_410_update __dll410_dll_410_update
-#define dll_410_print __dll410_dll_410_print
-#define dll_410_free __dll410_dll_410_free
-#define dll_410_get_model_flags __dll410_dll_410_get_model_flags
-#define dll_410_get_data_size __dll410_dll_410_get_data_size
+#define dll_410_obj_Setup __dll410_dll_410_obj_Setup
+#define dll_410_obj_Control __dll410_dll_410_obj_Control
+#define dll_410_obj_Update __dll410_dll_410_obj_Update
+#define dll_410_obj_Print __dll410_dll_410_obj_Print
+#define dll_410_obj_Free __dll410_dll_410_obj_Free
+#define dll_410_obj_GetModelFlags __dll410_dll_410_obj_GetModelFlags
+#define dll_410_obj_GetDataSize __dll410_dll_410_obj_GetDataSize
 #define dll_410_func_5E4 __dll410_dll_410_func_5E4
 #define _oob_rodata_0 __dll410__oob_rodata_0
 

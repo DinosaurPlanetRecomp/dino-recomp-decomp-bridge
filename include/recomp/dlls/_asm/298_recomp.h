@@ -5,13 +5,13 @@
 
 #define dll_298_ctor __dll298_dll_298_ctor
 #define dll_298_dtor __dll298_dll_298_dtor
-#define dll_298_setup __dll298_dll_298_setup
-#define dll_298_control __dll298_dll_298_control
-#define dll_298_update __dll298_dll_298_update
-#define dll_298_print __dll298_dll_298_print
-#define dll_298_free __dll298_dll_298_free
-#define dll_298_get_model_flags __dll298_dll_298_get_model_flags
-#define dll_298_get_data_size __dll298_dll_298_get_data_size
+#define dll_298_obj_Setup __dll298_dll_298_obj_Setup
+#define dll_298_obj_Control __dll298_dll_298_obj_Control
+#define dll_298_obj_Update __dll298_dll_298_obj_Update
+#define dll_298_obj_Print __dll298_dll_298_obj_Print
+#define dll_298_obj_Free __dll298_dll_298_obj_Free
+#define dll_298_obj_GetModelFlags __dll298_dll_298_obj_GetModelFlags
+#define dll_298_obj_GetDataSize __dll298_dll_298_obj_GetDataSize
 #define dll_298_func_F98 __dll298_dll_298_func_F98
 #define dll_298_func_1064 __dll298_dll_298_func_1064
 #define rodata_0 __dll298_rodata_0

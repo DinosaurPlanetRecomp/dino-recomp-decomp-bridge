@@ -5,13 +5,13 @@
 
 #define dll_758_ctor __dll758_dll_758_ctor
 #define dll_758_dtor __dll758_dll_758_dtor
-#define dll_758_setup __dll758_dll_758_setup
-#define dll_758_control __dll758_dll_758_control
-#define dll_758_update __dll758_dll_758_update
-#define dll_758_print __dll758_dll_758_print
-#define dll_758_free __dll758_dll_758_free
-#define dll_758_get_model_flags __dll758_dll_758_get_model_flags
-#define dll_758_get_data_size __dll758_dll_758_get_data_size
+#define dll_758_obj_Setup __dll758_dll_758_obj_Setup
+#define dll_758_obj_Control __dll758_dll_758_obj_Control
+#define dll_758_obj_Update __dll758_dll_758_obj_Update
+#define dll_758_obj_Print __dll758_dll_758_obj_Print
+#define dll_758_obj_Free __dll758_dll_758_obj_Free
+#define dll_758_obj_GetModelFlags __dll758_dll_758_obj_GetModelFlags
+#define dll_758_obj_GetDataSize __dll758_dll_758_obj_GetDataSize
 #define str_0 __dll758_str_0
 
 #endif //_DLL_758_RECOMP_H

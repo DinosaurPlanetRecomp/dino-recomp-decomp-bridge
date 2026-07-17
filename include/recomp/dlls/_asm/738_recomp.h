@@ -5,13 +5,13 @@
 
 #define dll_738_ctor __dll738_dll_738_ctor
 #define dll_738_dtor __dll738_dll_738_dtor
-#define dll_738_setup __dll738_dll_738_setup
-#define dll_738_control __dll738_dll_738_control
-#define dll_738_update __dll738_dll_738_update
-#define dll_738_print __dll738_dll_738_print
-#define dll_738_free __dll738_dll_738_free
-#define dll_738_get_model_flags __dll738_dll_738_get_model_flags
-#define dll_738_get_data_size __dll738_dll_738_get_data_size
+#define dll_738_obj_Setup __dll738_dll_738_obj_Setup
+#define dll_738_obj_Control __dll738_dll_738_obj_Control
+#define dll_738_obj_Update __dll738_dll_738_obj_Update
+#define dll_738_obj_Print __dll738_dll_738_obj_Print
+#define dll_738_obj_Free __dll738_dll_738_obj_Free
+#define dll_738_obj_GetModelFlags __dll738_dll_738_obj_GetModelFlags
+#define dll_738_obj_GetDataSize __dll738_dll_738_obj_GetDataSize
 #define str_0 __dll738_str_0
 #define str_8 __dll738_str_8
 #define str_14 __dll738_str_14

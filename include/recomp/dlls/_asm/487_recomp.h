@@ -5,13 +5,13 @@
 
 #define dll_487_ctor __dll487_dll_487_ctor
 #define dll_487_dtor __dll487_dll_487_dtor
-#define dll_487_setup __dll487_dll_487_setup
-#define dll_487_control __dll487_dll_487_control
-#define dll_487_update __dll487_dll_487_update
-#define dll_487_print __dll487_dll_487_print
-#define dll_487_free __dll487_dll_487_free
-#define dll_487_get_model_flags __dll487_dll_487_get_model_flags
-#define dll_487_get_data_size __dll487_dll_487_get_data_size
+#define dll_487_obj_Setup __dll487_dll_487_obj_Setup
+#define dll_487_obj_Control __dll487_dll_487_obj_Control
+#define dll_487_obj_Update __dll487_dll_487_obj_Update
+#define dll_487_obj_Print __dll487_dll_487_obj_Print
+#define dll_487_obj_Free __dll487_dll_487_obj_Free
+#define dll_487_obj_GetModelFlags __dll487_dll_487_obj_GetModelFlags
+#define dll_487_obj_GetDataSize __dll487_dll_487_obj_GetDataSize
 #define _oob_rodata_0 __dll487__oob_rodata_0
 
 #endif //_DLL_487_RECOMP_H

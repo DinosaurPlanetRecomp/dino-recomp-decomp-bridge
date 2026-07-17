@@ -5,13 +5,13 @@
 
 #define dll_761_ctor __dll761_dll_761_ctor
 #define dll_761_dtor __dll761_dll_761_dtor
-#define dll_761_setup __dll761_dll_761_setup
-#define dll_761_control __dll761_dll_761_control
-#define dll_761_update __dll761_dll_761_update
-#define dll_761_print __dll761_dll_761_print
-#define dll_761_free __dll761_dll_761_free
-#define dll_761_get_model_flags __dll761_dll_761_get_model_flags
-#define dll_761_get_data_size __dll761_dll_761_get_data_size
+#define dll_761_obj_Setup __dll761_dll_761_obj_Setup
+#define dll_761_obj_Control __dll761_dll_761_obj_Control
+#define dll_761_obj_Update __dll761_dll_761_obj_Update
+#define dll_761_obj_Print __dll761_dll_761_obj_Print
+#define dll_761_obj_Free __dll761_dll_761_obj_Free
+#define dll_761_obj_GetModelFlags __dll761_dll_761_obj_GetModelFlags
+#define dll_761_obj_GetDataSize __dll761_dll_761_obj_GetDataSize
 #define dll_761_func_2F0 __dll761_dll_761_func_2F0
 #define dll_761_func_590 __dll761_dll_761_func_590
 

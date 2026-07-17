@@ -5,13 +5,13 @@
 
 #define dll_386_ctor __dll386_dll_386_ctor
 #define dll_386_dtor __dll386_dll_386_dtor
-#define dll_386_setup __dll386_dll_386_setup
-#define dll_386_control __dll386_dll_386_control
-#define dll_386_update __dll386_dll_386_update
-#define dll_386_print __dll386_dll_386_print
-#define dll_386_free __dll386_dll_386_free
-#define dll_386_get_model_flags __dll386_dll_386_get_model_flags
-#define dll_386_get_data_size __dll386_dll_386_get_data_size
+#define dll_386_obj_Setup __dll386_dll_386_obj_Setup
+#define dll_386_obj_Control __dll386_dll_386_obj_Control
+#define dll_386_obj_Update __dll386_dll_386_obj_Update
+#define dll_386_obj_Print __dll386_dll_386_obj_Print
+#define dll_386_obj_Free __dll386_dll_386_obj_Free
+#define dll_386_obj_GetModelFlags __dll386_dll_386_obj_GetModelFlags
+#define dll_386_obj_GetDataSize __dll386_dll_386_obj_GetDataSize
 #define dll_386_func_38C __dll386_dll_386_func_38C
 #define str_0 __dll386_str_0
 

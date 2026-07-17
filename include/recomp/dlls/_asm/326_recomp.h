@@ -5,12 +5,12 @@
 
 #define dll_326_ctor __dll326_dll_326_ctor
 #define dll_326_dtor __dll326_dll_326_dtor
-#define dll_326_setup __dll326_dll_326_setup
-#define dll_326_control __dll326_dll_326_control
-#define dll_326_update __dll326_dll_326_update
-#define dll_326_print __dll326_dll_326_print
-#define dll_326_free __dll326_dll_326_free
-#define dll_326_get_model_flags __dll326_dll_326_get_model_flags
-#define dll_326_get_data_size __dll326_dll_326_get_data_size
+#define dll_326_obj_Setup __dll326_dll_326_obj_Setup
+#define dll_326_obj_Control __dll326_dll_326_obj_Control
+#define dll_326_obj_Update __dll326_dll_326_obj_Update
+#define dll_326_obj_Print __dll326_dll_326_obj_Print
+#define dll_326_obj_Free __dll326_dll_326_obj_Free
+#define dll_326_obj_GetModelFlags __dll326_dll_326_obj_GetModelFlags
+#define dll_326_obj_GetDataSize __dll326_dll_326_obj_GetDataSize
 
 #endif //_DLL_326_RECOMP_H

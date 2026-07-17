@@ -5,7 +5,7 @@
 
 #define dll_125_ctor __dll125_dll_125_ctor
 #define dll_125_dtor __dll125_dll_125_dtor
-#define dll_125_func_18 __dll125_dll_125_func_18
+#define dll_125_Func_18 __dll125_dll_125_Func_18
 #define rodata_0 __dll125_rodata_0
 #define rodata_4 __dll125_rodata_4
 #define data_0 __dll125_data_0

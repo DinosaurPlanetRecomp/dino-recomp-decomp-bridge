@@ -5,7 +5,7 @@
 
 #define dll_170_ctor __dll170_dll_170_ctor
 #define dll_170_dtor __dll170_dll_170_dtor
-#define dll_170_func_18 __dll170_dll_170_func_18
+#define dll_170_Func_18 __dll170_dll_170_Func_18
 #define rodata_0 __dll170_rodata_0
 #define rodata_4 __dll170_rodata_4
 #define rodata_8 __dll170_rodata_8

@@ -5,13 +5,13 @@
 
 #define dll_623_ctor __dll623_dll_623_ctor
 #define dll_623_dtor __dll623_dll_623_dtor
-#define dll_623_setup __dll623_dll_623_setup
-#define dll_623_control __dll623_dll_623_control
-#define dll_623_update __dll623_dll_623_update
-#define dll_623_print __dll623_dll_623_print
-#define dll_623_free __dll623_dll_623_free
-#define dll_623_get_model_flags __dll623_dll_623_get_model_flags
-#define dll_623_get_data_size __dll623_dll_623_get_data_size
+#define dll_623_obj_Setup __dll623_dll_623_obj_Setup
+#define dll_623_obj_Control __dll623_dll_623_obj_Control
+#define dll_623_obj_Update __dll623_dll_623_obj_Update
+#define dll_623_obj_Print __dll623_dll_623_obj_Print
+#define dll_623_obj_Free __dll623_dll_623_obj_Free
+#define dll_623_obj_GetModelFlags __dll623_dll_623_obj_GetModelFlags
+#define dll_623_obj_GetDataSize __dll623_dll_623_obj_GetDataSize
 #define rodata_0 __dll623_rodata_0
 #define rodata_4 __dll623_rodata_4
 

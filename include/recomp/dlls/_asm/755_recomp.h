@@ -5,13 +5,13 @@
 
 #define dll_755_ctor __dll755_dll_755_ctor
 #define dll_755_dtor __dll755_dll_755_dtor
-#define dll_755_setup __dll755_dll_755_setup
-#define dll_755_control __dll755_dll_755_control
-#define dll_755_update __dll755_dll_755_update
-#define dll_755_print __dll755_dll_755_print
-#define dll_755_free __dll755_dll_755_free
-#define dll_755_get_model_flags __dll755_dll_755_get_model_flags
-#define dll_755_get_data_size __dll755_dll_755_get_data_size
+#define dll_755_obj_Setup __dll755_dll_755_obj_Setup
+#define dll_755_obj_Control __dll755_dll_755_obj_Control
+#define dll_755_obj_Update __dll755_dll_755_obj_Update
+#define dll_755_obj_Print __dll755_dll_755_obj_Print
+#define dll_755_obj_Free __dll755_dll_755_obj_Free
+#define dll_755_obj_GetModelFlags __dll755_dll_755_obj_GetModelFlags
+#define dll_755_obj_GetDataSize __dll755_dll_755_obj_GetDataSize
 #define dll_755_func_3DC __dll755_dll_755_func_3DC
 #define str_0 __dll755_str_0
 #define str_18 __dll755_str_18

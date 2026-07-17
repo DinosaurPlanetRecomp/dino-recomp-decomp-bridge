@@ -5,13 +5,13 @@
 
 #define dll_774_ctor __dll774_dll_774_ctor
 #define dll_774_dtor __dll774_dll_774_dtor
-#define dll_774_setup __dll774_dll_774_setup
-#define dll_774_control __dll774_dll_774_control
-#define dll_774_update __dll774_dll_774_update
-#define dll_774_print __dll774_dll_774_print
-#define dll_774_free __dll774_dll_774_free
-#define dll_774_get_model_flags __dll774_dll_774_get_model_flags
-#define dll_774_get_data_size __dll774_dll_774_get_data_size
+#define dll_774_obj_Setup __dll774_dll_774_obj_Setup
+#define dll_774_obj_Control __dll774_dll_774_obj_Control
+#define dll_774_obj_Update __dll774_dll_774_obj_Update
+#define dll_774_obj_Print __dll774_dll_774_obj_Print
+#define dll_774_obj_Free __dll774_dll_774_obj_Free
+#define dll_774_obj_GetModelFlags __dll774_dll_774_obj_GetModelFlags
+#define dll_774_obj_GetDataSize __dll774_dll_774_obj_GetDataSize
 #define dll_774_func_318 __dll774_dll_774_func_318
 #define dll_774_func_3F4 __dll774_dll_774_func_3F4
 #define data_0 __dll774_data_0

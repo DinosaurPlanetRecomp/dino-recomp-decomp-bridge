@@ -5,9 +5,9 @@
 
 #define dll_40_ctor __dll40_dll_40_ctor
 #define dll_40_dtor __dll40_dll_40_dtor
-#define dll_40_func_18 __dll40_dll_40_func_18
-#define dll_40_func_20 __dll40_dll_40_func_20
-#define dll_40_func_194 __dll40_dll_40_func_194
+#define dll_40_Func_18 __dll40_dll_40_Func_18
+#define dll_40_Func_20 __dll40_dll_40_Func_20
+#define dll_40_Func_194 __dll40_dll_40_Func_194
 #define rodata_0 __dll40_rodata_0
 #define rodata_4 __dll40_rodata_4
 #define rodata_8 __dll40_rodata_8

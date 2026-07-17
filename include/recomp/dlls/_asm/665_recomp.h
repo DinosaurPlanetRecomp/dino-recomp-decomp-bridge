@@ -5,13 +5,13 @@
 
 #define dll_665_ctor __dll665_dll_665_ctor
 #define dll_665_dtor __dll665_dll_665_dtor
-#define dll_665_setup __dll665_dll_665_setup
-#define dll_665_control __dll665_dll_665_control
-#define dll_665_update __dll665_dll_665_update
-#define dll_665_print __dll665_dll_665_print
-#define dll_665_free __dll665_dll_665_free
-#define dll_665_get_model_flags __dll665_dll_665_get_model_flags
-#define dll_665_get_data_size __dll665_dll_665_get_data_size
+#define dll_665_obj_Setup __dll665_dll_665_obj_Setup
+#define dll_665_obj_Control __dll665_dll_665_obj_Control
+#define dll_665_obj_Update __dll665_dll_665_obj_Update
+#define dll_665_obj_Print __dll665_dll_665_obj_Print
+#define dll_665_obj_Free __dll665_dll_665_obj_Free
+#define dll_665_obj_GetModelFlags __dll665_dll_665_obj_GetModelFlags
+#define dll_665_obj_GetDataSize __dll665_dll_665_obj_GetDataSize
 #define dll_665_func_6A4 __dll665_dll_665_func_6A4
 #define dll_665_func_748 __dll665_dll_665_func_748
 #define dll_665_func_974 __dll665_dll_665_func_974

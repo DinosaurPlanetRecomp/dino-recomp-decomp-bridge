@@ -5,13 +5,13 @@
 
 #define dll_444_ctor __dll444_dll_444_ctor
 #define dll_444_dtor __dll444_dll_444_dtor
-#define dll_444_setup __dll444_dll_444_setup
-#define dll_444_control __dll444_dll_444_control
-#define dll_444_update __dll444_dll_444_update
-#define dll_444_print __dll444_dll_444_print
-#define dll_444_free __dll444_dll_444_free
-#define dll_444_get_model_flags __dll444_dll_444_get_model_flags
-#define dll_444_get_data_size __dll444_dll_444_get_data_size
+#define dll_444_obj_Setup __dll444_dll_444_obj_Setup
+#define dll_444_obj_Control __dll444_dll_444_obj_Control
+#define dll_444_obj_Update __dll444_dll_444_obj_Update
+#define dll_444_obj_Print __dll444_dll_444_obj_Print
+#define dll_444_obj_Free __dll444_dll_444_obj_Free
+#define dll_444_obj_GetModelFlags __dll444_dll_444_obj_GetModelFlags
+#define dll_444_obj_GetDataSize __dll444_dll_444_obj_GetDataSize
 #define rodata_0 __dll444_rodata_0
 #define bss_0 __dll444_bss_0
 #define bss_8 __dll444_bss_8

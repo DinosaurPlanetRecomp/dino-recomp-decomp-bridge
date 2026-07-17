@@ -5,7 +5,7 @@
 
 #define dll_110_ctor __dll110_dll_110_ctor
 #define dll_110_dtor __dll110_dll_110_dtor
-#define dll_110_func_18 __dll110_dll_110_func_18
+#define dll_110_Func_18 __dll110_dll_110_Func_18
 #define rodata_0 __dll110_rodata_0
 #define rodata_4 __dll110_rodata_4
 #define rodata_8 __dll110_rodata_8

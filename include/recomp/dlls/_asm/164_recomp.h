@@ -5,7 +5,7 @@
 
 #define dll_164_ctor __dll164_dll_164_ctor
 #define dll_164_dtor __dll164_dll_164_dtor
-#define dll_164_func_18 __dll164_dll_164_func_18
+#define dll_164_Func_18 __dll164_dll_164_Func_18
 #define rodata_0 __dll164_rodata_0
 #define rodata_4 __dll164_rodata_4
 #define data_0 __dll164_data_0

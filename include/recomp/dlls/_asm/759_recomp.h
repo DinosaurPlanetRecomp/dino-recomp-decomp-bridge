@@ -5,13 +5,13 @@
 
 #define dll_759_ctor __dll759_dll_759_ctor
 #define dll_759_dtor __dll759_dll_759_dtor
-#define dll_759_setup __dll759_dll_759_setup
-#define dll_759_control __dll759_dll_759_control
-#define dll_759_update __dll759_dll_759_update
-#define dll_759_print __dll759_dll_759_print
-#define dll_759_free __dll759_dll_759_free
-#define dll_759_get_model_flags __dll759_dll_759_get_model_flags
-#define dll_759_get_data_size __dll759_dll_759_get_data_size
+#define dll_759_obj_Setup __dll759_dll_759_obj_Setup
+#define dll_759_obj_Control __dll759_dll_759_obj_Control
+#define dll_759_obj_Update __dll759_dll_759_obj_Update
+#define dll_759_obj_Print __dll759_dll_759_obj_Print
+#define dll_759_obj_Free __dll759_dll_759_obj_Free
+#define dll_759_obj_GetModelFlags __dll759_dll_759_obj_GetModelFlags
+#define dll_759_obj_GetDataSize __dll759_dll_759_obj_GetDataSize
 #define dll_759_func_468 __dll759_dll_759_func_468
 #define dll_759_func_528 __dll759_dll_759_func_528
 #define dll_759_func_598 __dll759_dll_759_func_598

@@ -5,13 +5,13 @@
 
 #define dll_372_ctor __dll372_dll_372_ctor
 #define dll_372_dtor __dll372_dll_372_dtor
-#define dll_372_setup __dll372_dll_372_setup
-#define dll_372_control __dll372_dll_372_control
-#define dll_372_update __dll372_dll_372_update
-#define dll_372_print __dll372_dll_372_print
-#define dll_372_free __dll372_dll_372_free
-#define dll_372_get_model_flags __dll372_dll_372_get_model_flags
-#define dll_372_get_data_size __dll372_dll_372_get_data_size
+#define dll_372_obj_Setup __dll372_dll_372_obj_Setup
+#define dll_372_obj_Control __dll372_dll_372_obj_Control
+#define dll_372_obj_Update __dll372_dll_372_obj_Update
+#define dll_372_obj_Print __dll372_dll_372_obj_Print
+#define dll_372_obj_Free __dll372_dll_372_obj_Free
+#define dll_372_obj_GetModelFlags __dll372_dll_372_obj_GetModelFlags
+#define dll_372_obj_GetDataSize __dll372_dll_372_obj_GetDataSize
 #define dll_372_func_288 __dll372_dll_372_func_288
 #define dll_372_func_11B8 __dll372_dll_372_func_11B8
 #define str_0 __dll372_str_0

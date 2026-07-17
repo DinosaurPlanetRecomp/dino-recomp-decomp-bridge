@@ -5,18 +5,18 @@
 
 #define dll_9_ctor __dll9_dll_9_ctor
 #define dll_9_dtor __dll9_dll_9_dtor
-#define dll_9_func_178 __dll9_dll_9_func_178
-#define dll_9_func_B18 __dll9_dll_9_func_B18
-#define dll_9_func_BB8 __dll9_dll_9_func_BB8
-#define dll_9_func_CD4 __dll9_dll_9_func_CD4
-#define dll_9_func_1388 __dll9_dll_9_func_1388
-#define dll_9_func_1418 __dll9_dll_9_func_1418
-#define dll_9_func_1434 __dll9_dll_9_func_1434
+#define dll_9_Func_178 __dll9_dll_9_Func_178
+#define dll_9_Func_B18 __dll9_dll_9_Func_B18
+#define dll_9_Func_BB8 __dll9_dll_9_Func_BB8
+#define dll_9_Func_CD4 __dll9_dll_9_Func_CD4
+#define dll_9_Func_1388 __dll9_dll_9_Func_1388
+#define dll_9_Func_1418 __dll9_dll_9_Func_1418
+#define dll_9_Func_1434 __dll9_dll_9_Func_1434
 #define dll_9_func_1B98 __dll9_dll_9_func_1B98
 #define dll_9_func_2B44 __dll9_dll_9_func_2B44
 #define dll_9_func_2DF8 __dll9_dll_9_func_2DF8
 #define dll_9_func_3844 __dll9_dll_9_func_3844
-#define dll_9_func_44AC __dll9_dll_9_func_44AC
+#define dll_9_Func_44AC __dll9_dll_9_Func_44AC
 #define dll_9_func_44D4 __dll9_dll_9_func_44D4
 #define dll_9_func_464C __dll9_dll_9_func_464C
 #define dll_9_func_48F8 __dll9_dll_9_func_48F8

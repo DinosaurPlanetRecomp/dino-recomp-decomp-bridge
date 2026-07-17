@@ -5,9 +5,9 @@
 
 #define dll_55_ctor __dll55_dll_55_ctor
 #define dll_55_dtor __dll55_dll_55_dtor
-#define dll_55_func_18 __dll55_dll_55_func_18
-#define dll_55_func_304 __dll55_dll_55_func_304
-#define dll_55_func_580 __dll55_dll_55_func_580
+#define dll_55_Func_18 __dll55_dll_55_Func_18
+#define dll_55_Func_304 __dll55_dll_55_Func_304
+#define dll_55_Func_580 __dll55_dll_55_Func_580
 #define str_0 __dll55_str_0
 #define rodata_28 __dll55_rodata_28
 #define rodata_2C __dll55_rodata_2C

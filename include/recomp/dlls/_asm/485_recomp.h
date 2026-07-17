@@ -5,13 +5,13 @@
 
 #define dll_485_ctor __dll485_dll_485_ctor
 #define dll_485_dtor __dll485_dll_485_dtor
-#define dll_485_setup __dll485_dll_485_setup
-#define dll_485_control __dll485_dll_485_control
-#define dll_485_update __dll485_dll_485_update
-#define dll_485_print __dll485_dll_485_print
-#define dll_485_free __dll485_dll_485_free
-#define dll_485_get_model_flags __dll485_dll_485_get_model_flags
-#define dll_485_get_data_size __dll485_dll_485_get_data_size
+#define dll_485_obj_Setup __dll485_dll_485_obj_Setup
+#define dll_485_obj_Control __dll485_dll_485_obj_Control
+#define dll_485_obj_Update __dll485_dll_485_obj_Update
+#define dll_485_obj_Print __dll485_dll_485_obj_Print
+#define dll_485_obj_Free __dll485_dll_485_obj_Free
+#define dll_485_obj_GetModelFlags __dll485_dll_485_obj_GetModelFlags
+#define dll_485_obj_GetDataSize __dll485_dll_485_obj_GetDataSize
 #define rodata_0 __dll485_rodata_0
 #define rodata_4 __dll485_rodata_4
 #define rodata_8 __dll485_rodata_8

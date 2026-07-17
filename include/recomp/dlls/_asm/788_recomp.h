@@ -5,13 +5,13 @@
 
 #define dll_788_ctor __dll788_dll_788_ctor
 #define dll_788_dtor __dll788_dll_788_dtor
-#define dll_788_setup __dll788_dll_788_setup
-#define dll_788_control __dll788_dll_788_control
-#define dll_788_update __dll788_dll_788_update
-#define dll_788_print __dll788_dll_788_print
-#define dll_788_free __dll788_dll_788_free
-#define dll_788_get_model_flags __dll788_dll_788_get_model_flags
-#define dll_788_get_data_size __dll788_dll_788_get_data_size
+#define dll_788_obj_Setup __dll788_dll_788_obj_Setup
+#define dll_788_obj_Control __dll788_dll_788_obj_Control
+#define dll_788_obj_Update __dll788_dll_788_obj_Update
+#define dll_788_obj_Print __dll788_dll_788_obj_Print
+#define dll_788_obj_Free __dll788_dll_788_obj_Free
+#define dll_788_obj_GetModelFlags __dll788_dll_788_obj_GetModelFlags
+#define dll_788_obj_GetDataSize __dll788_dll_788_obj_GetDataSize
 #define rodata_0 __dll788_rodata_0
 #define rodata_4 __dll788_rodata_4
 #define data_0 __dll788_data_0

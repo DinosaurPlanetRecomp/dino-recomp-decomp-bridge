@@ -5,6 +5,6 @@
 
 #define dll_104_ctor __dll104_dll_104_ctor
 #define dll_104_dtor __dll104_dll_104_dtor
-#define dll_104_func_18 __dll104_dll_104_func_18
+#define dll_104_Func_18 __dll104_dll_104_Func_18
 
 #endif //_DLL_104_RECOMP_H

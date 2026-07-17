@@ -5,13 +5,13 @@
 
 #define dll_597_ctor __dll597_dll_597_ctor
 #define dll_597_dtor __dll597_dll_597_dtor
-#define dll_597_setup __dll597_dll_597_setup
-#define dll_597_control __dll597_dll_597_control
-#define dll_597_update __dll597_dll_597_update
-#define dll_597_print __dll597_dll_597_print
-#define dll_597_free __dll597_dll_597_free
-#define dll_597_get_model_flags __dll597_dll_597_get_model_flags
-#define dll_597_get_data_size __dll597_dll_597_get_data_size
+#define dll_597_obj_Setup __dll597_dll_597_obj_Setup
+#define dll_597_obj_Control __dll597_dll_597_obj_Control
+#define dll_597_obj_Update __dll597_dll_597_obj_Update
+#define dll_597_obj_Print __dll597_dll_597_obj_Print
+#define dll_597_obj_Free __dll597_dll_597_obj_Free
+#define dll_597_obj_GetModelFlags __dll597_dll_597_obj_GetModelFlags
+#define dll_597_obj_GetDataSize __dll597_dll_597_obj_GetDataSize
 #define dll_597_func_428 __dll597_dll_597_func_428
 #define rodata_0 __dll597_rodata_0
 

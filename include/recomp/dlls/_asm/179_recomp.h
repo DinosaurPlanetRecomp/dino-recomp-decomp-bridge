@@ -5,7 +5,7 @@
 
 #define dll_179_ctor __dll179_dll_179_ctor
 #define dll_179_dtor __dll179_dll_179_dtor
-#define dll_179_func_18 __dll179_dll_179_func_18
+#define dll_179_Func_18 __dll179_dll_179_Func_18
 #define rodata_0 __dll179_rodata_0
 #define rodata_4 __dll179_rodata_4
 #define rodata_8 __dll179_rodata_8

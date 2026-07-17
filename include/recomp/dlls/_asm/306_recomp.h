@@ -5,13 +5,13 @@
 
 #define dll_306_ctor __dll306_dll_306_ctor
 #define dll_306_dtor __dll306_dll_306_dtor
-#define dll_306_setup __dll306_dll_306_setup
-#define dll_306_control __dll306_dll_306_control
-#define dll_306_update __dll306_dll_306_update
-#define dll_306_print __dll306_dll_306_print
-#define dll_306_free __dll306_dll_306_free
-#define dll_306_get_model_flags __dll306_dll_306_get_model_flags
-#define dll_306_get_data_size __dll306_dll_306_get_data_size
+#define dll_306_obj_Setup __dll306_dll_306_obj_Setup
+#define dll_306_obj_Control __dll306_dll_306_obj_Control
+#define dll_306_obj_Update __dll306_dll_306_obj_Update
+#define dll_306_obj_Print __dll306_dll_306_obj_Print
+#define dll_306_obj_Free __dll306_dll_306_obj_Free
+#define dll_306_obj_GetModelFlags __dll306_dll_306_obj_GetModelFlags
+#define dll_306_obj_GetDataSize __dll306_dll_306_obj_GetDataSize
 #define dll_306_func_6E0 __dll306_dll_306_func_6E0
 #define dll_306_func_7FC __dll306_dll_306_func_7FC
 #define dll_306_func_95C __dll306_dll_306_func_95C

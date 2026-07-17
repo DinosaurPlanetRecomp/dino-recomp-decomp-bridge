@@ -5,13 +5,13 @@
 
 #define dll_594_ctor __dll594_dll_594_ctor
 #define dll_594_dtor __dll594_dll_594_dtor
-#define dll_594_setup __dll594_dll_594_setup
-#define dll_594_control __dll594_dll_594_control
-#define dll_594_update __dll594_dll_594_update
-#define dll_594_print __dll594_dll_594_print
-#define dll_594_free __dll594_dll_594_free
-#define dll_594_get_model_flags __dll594_dll_594_get_model_flags
-#define dll_594_get_data_size __dll594_dll_594_get_data_size
+#define dll_594_obj_Setup __dll594_dll_594_obj_Setup
+#define dll_594_obj_Control __dll594_dll_594_obj_Control
+#define dll_594_obj_Update __dll594_dll_594_obj_Update
+#define dll_594_obj_Print __dll594_dll_594_obj_Print
+#define dll_594_obj_Free __dll594_dll_594_obj_Free
+#define dll_594_obj_GetModelFlags __dll594_dll_594_obj_GetModelFlags
+#define dll_594_obj_GetDataSize __dll594_dll_594_obj_GetDataSize
 #define rodata_0 __dll594_rodata_0
 #define rodata_4 __dll594_rodata_4
 #define rodata_8 __dll594_rodata_8

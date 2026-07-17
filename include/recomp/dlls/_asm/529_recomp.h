@@ -5,15 +5,15 @@
 
 #define dll_529_ctor __dll529_dll_529_ctor
 #define dll_529_dtor __dll529_dll_529_dtor
-#define dll_529_setup __dll529_dll_529_setup
-#define dll_529_control __dll529_dll_529_control
-#define dll_529_update __dll529_dll_529_update
-#define dll_529_print __dll529_dll_529_print
-#define dll_529_free __dll529_dll_529_free
-#define dll_529_get_model_flags __dll529_dll_529_get_model_flags
-#define dll_529_get_data_size __dll529_dll_529_get_data_size
-#define dll_529_func_6A0 __dll529_dll_529_func_6A0
-#define dll_529_func_6B8 __dll529_dll_529_func_6B8
+#define dll_529_obj_Setup __dll529_dll_529_obj_Setup
+#define dll_529_obj_Control __dll529_dll_529_obj_Control
+#define dll_529_obj_Update __dll529_dll_529_obj_Update
+#define dll_529_obj_Print __dll529_dll_529_obj_Print
+#define dll_529_obj_Free __dll529_dll_529_obj_Free
+#define dll_529_obj_GetModelFlags __dll529_dll_529_obj_GetModelFlags
+#define dll_529_obj_GetDataSize __dll529_dll_529_obj_GetDataSize
+#define dll_529_Func_6A0 __dll529_dll_529_Func_6A0
+#define dll_529_Func_6B8 __dll529_dll_529_Func_6B8
 #define dll_529_func_7F8 __dll529_dll_529_func_7F8
 #define dll_529_func_8D0 __dll529_dll_529_func_8D0
 #define dll_529_func_9AC __dll529_dll_529_func_9AC

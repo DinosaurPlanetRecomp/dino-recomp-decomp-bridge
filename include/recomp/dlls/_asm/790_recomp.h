@@ -5,13 +5,13 @@
 
 #define dll_790_ctor __dll790_dll_790_ctor
 #define dll_790_dtor __dll790_dll_790_dtor
-#define dll_790_setup __dll790_dll_790_setup
-#define dll_790_control __dll790_dll_790_control
-#define dll_790_update __dll790_dll_790_update
-#define dll_790_print __dll790_dll_790_print
-#define dll_790_free __dll790_dll_790_free
-#define dll_790_get_model_flags __dll790_dll_790_get_model_flags
-#define dll_790_get_data_size __dll790_dll_790_get_data_size
+#define dll_790_obj_Setup __dll790_dll_790_obj_Setup
+#define dll_790_obj_Control __dll790_dll_790_obj_Control
+#define dll_790_obj_Update __dll790_dll_790_obj_Update
+#define dll_790_obj_Print __dll790_dll_790_obj_Print
+#define dll_790_obj_Free __dll790_dll_790_obj_Free
+#define dll_790_obj_GetModelFlags __dll790_dll_790_obj_GetModelFlags
+#define dll_790_obj_GetDataSize __dll790_dll_790_obj_GetDataSize
 #define dll_790_func_500 __dll790_dll_790_func_500
 #define dll_790_func_644 __dll790_dll_790_func_644
 #define dll_790_func_7A4 __dll790_dll_790_func_7A4

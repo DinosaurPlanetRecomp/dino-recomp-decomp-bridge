@@ -5,17 +5,17 @@
 
 #define dll_349_ctor __dll349_dll_349_ctor
 #define dll_349_dtor __dll349_dll_349_dtor
-#define dll_349_setup __dll349_dll_349_setup
-#define dll_349_control __dll349_dll_349_control
-#define dll_349_update __dll349_dll_349_update
-#define dll_349_print __dll349_dll_349_print
-#define dll_349_free __dll349_dll_349_free
-#define dll_349_get_model_flags __dll349_dll_349_get_model_flags
-#define dll_349_get_data_size __dll349_dll_349_get_data_size
+#define dll_349_obj_Setup __dll349_dll_349_obj_Setup
+#define dll_349_obj_Control __dll349_dll_349_obj_Control
+#define dll_349_obj_Update __dll349_dll_349_obj_Update
+#define dll_349_obj_Print __dll349_dll_349_obj_Print
+#define dll_349_obj_Free __dll349_dll_349_obj_Free
+#define dll_349_obj_GetModelFlags __dll349_dll_349_obj_GetModelFlags
+#define dll_349_obj_GetDataSize __dll349_dll_349_obj_GetDataSize
 #define dll_349_func_C98 __dll349_dll_349_func_C98
-#define dll_349_func_1268 __dll349_dll_349_func_1268
-#define dll_349_func_128C __dll349_dll_349_func_128C
-#define dll_349_func_12A8 __dll349_dll_349_func_12A8
+#define dll_349_Func_1268 __dll349_dll_349_Func_1268
+#define dll_349_Func_128C __dll349_dll_349_Func_128C
+#define dll_349_Func_12A8 __dll349_dll_349_Func_12A8
 #define rodata_0 __dll349_rodata_0
 #define data_0 __dll349_data_0
 #define bss_0 __dll349_bss_0

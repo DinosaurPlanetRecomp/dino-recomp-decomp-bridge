@@ -5,13 +5,13 @@
 
 #define dll_369_ctor __dll369_dll_369_ctor
 #define dll_369_dtor __dll369_dll_369_dtor
-#define dll_369_setup __dll369_dll_369_setup
-#define dll_369_control __dll369_dll_369_control
-#define dll_369_update __dll369_dll_369_update
-#define dll_369_print __dll369_dll_369_print
-#define dll_369_free __dll369_dll_369_free
-#define dll_369_get_model_flags __dll369_dll_369_get_model_flags
-#define dll_369_get_data_size __dll369_dll_369_get_data_size
+#define dll_369_obj_Setup __dll369_dll_369_obj_Setup
+#define dll_369_obj_Control __dll369_dll_369_obj_Control
+#define dll_369_obj_Update __dll369_dll_369_obj_Update
+#define dll_369_obj_Print __dll369_dll_369_obj_Print
+#define dll_369_obj_Free __dll369_dll_369_obj_Free
+#define dll_369_obj_GetModelFlags __dll369_dll_369_obj_GetModelFlags
+#define dll_369_obj_GetDataSize __dll369_dll_369_obj_GetDataSize
 #define dll_369_func_4D0 __dll369_dll_369_func_4D0
 #define dll_369_func_678 __dll369_dll_369_func_678
 #define dll_369_func_1B8C __dll369_dll_369_func_1B8C
@@ -26,7 +26,7 @@
 #define dll_369_func_26F8 __dll369_dll_369_func_26F8
 #define dll_369_func_2700 __dll369_dll_369_func_2700
 #define dll_369_func_2770 __dll369_dll_369_func_2770
-#define dll_369_func_2778 __dll369_dll_369_func_2778
+#define dll_369_Func_2778 __dll369_dll_369_Func_2778
 #define dll_369_func_2790 __dll369_dll_369_func_2790
 #define str_0 __dll369_str_0
 #define str_50 __dll369_str_50

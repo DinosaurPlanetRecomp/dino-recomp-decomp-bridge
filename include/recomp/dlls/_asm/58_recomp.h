@@ -5,11 +5,11 @@
 
 #define dll_58_ctor __dll58_dll_58_ctor
 #define dll_58_dtor __dll58_dll_58_dtor
-#define dll_58_func_18 __dll58_dll_58_func_18
-#define dll_58_func_264 __dll58_dll_58_func_264
-#define dll_58_func_8A4 __dll58_dll_58_func_8A4
-#define dll_58_func_14D4 __dll58_dll_58_func_14D4
-#define dll_58_func_14E0 __dll58_dll_58_func_14E0
+#define dll_58_Func_18 __dll58_dll_58_Func_18
+#define dll_58_Func_264 __dll58_dll_58_Func_264
+#define dll_58_Func_8A4 __dll58_dll_58_Func_8A4
+#define dll_58_Func_14D4 __dll58_dll_58_Func_14D4
+#define dll_58_Func_14E0 __dll58_dll_58_Func_14E0
 #define data_0 __dll58_data_0
 #define data_10 __dll58_data_10
 #define bss_0 __dll58_bss_0

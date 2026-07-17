@@ -5,13 +5,13 @@
 
 #define dll_337_ctor __dll337_dll_337_ctor
 #define dll_337_dtor __dll337_dll_337_dtor
-#define dll_337_setup __dll337_dll_337_setup
-#define dll_337_control __dll337_dll_337_control
-#define dll_337_update __dll337_dll_337_update
-#define dll_337_print __dll337_dll_337_print
-#define dll_337_free __dll337_dll_337_free
-#define dll_337_get_model_flags __dll337_dll_337_get_model_flags
-#define dll_337_get_data_size __dll337_dll_337_get_data_size
+#define dll_337_obj_Setup __dll337_dll_337_obj_Setup
+#define dll_337_obj_Control __dll337_dll_337_obj_Control
+#define dll_337_obj_Update __dll337_dll_337_obj_Update
+#define dll_337_obj_Print __dll337_dll_337_obj_Print
+#define dll_337_obj_Free __dll337_dll_337_obj_Free
+#define dll_337_obj_GetModelFlags __dll337_dll_337_obj_GetModelFlags
+#define dll_337_obj_GetDataSize __dll337_dll_337_obj_GetDataSize
 #define rodata_0 __dll337_rodata_0
 #define rodata_4 __dll337_rodata_4
 #define rodata_8 __dll337_rodata_8

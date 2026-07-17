@@ -5,14 +5,14 @@
 
 #define dll_350_ctor __dll350_dll_350_ctor
 #define dll_350_dtor __dll350_dll_350_dtor
-#define dll_350_setup __dll350_dll_350_setup
-#define dll_350_control __dll350_dll_350_control
+#define dll_350_obj_Setup __dll350_dll_350_obj_Setup
+#define dll_350_obj_Control __dll350_dll_350_obj_Control
 #define dll_350_func_808 __dll350_dll_350_func_808
-#define dll_350_update __dll350_dll_350_update
-#define dll_350_print __dll350_dll_350_print
-#define dll_350_free __dll350_dll_350_free
-#define dll_350_get_model_flags __dll350_dll_350_get_model_flags
-#define dll_350_get_data_size __dll350_dll_350_get_data_size
+#define dll_350_obj_Update __dll350_dll_350_obj_Update
+#define dll_350_obj_Print __dll350_dll_350_obj_Print
+#define dll_350_obj_Free __dll350_dll_350_obj_Free
+#define dll_350_obj_GetModelFlags __dll350_dll_350_obj_GetModelFlags
+#define dll_350_obj_GetDataSize __dll350_dll_350_obj_GetDataSize
 #define dll_350_func_C8C __dll350_dll_350_func_C8C
 #define str_0 __dll350_str_0
 #define rodata_10 __dll350_rodata_10

@@ -5,13 +5,13 @@
 
 #define dll_621_ctor __dll621_dll_621_ctor
 #define dll_621_dtor __dll621_dll_621_dtor
-#define dll_621_setup __dll621_dll_621_setup
-#define dll_621_control __dll621_dll_621_control
-#define dll_621_update __dll621_dll_621_update
-#define dll_621_print __dll621_dll_621_print
-#define dll_621_free __dll621_dll_621_free
-#define dll_621_get_model_flags __dll621_dll_621_get_model_flags
-#define dll_621_get_data_size __dll621_dll_621_get_data_size
+#define dll_621_obj_Setup __dll621_dll_621_obj_Setup
+#define dll_621_obj_Control __dll621_dll_621_obj_Control
+#define dll_621_obj_Update __dll621_dll_621_obj_Update
+#define dll_621_obj_Print __dll621_dll_621_obj_Print
+#define dll_621_obj_Free __dll621_dll_621_obj_Free
+#define dll_621_obj_GetModelFlags __dll621_dll_621_obj_GetModelFlags
+#define dll_621_obj_GetDataSize __dll621_dll_621_obj_GetDataSize
 #define rodata_0 __dll621_rodata_0
 #define data_0 __dll621_data_0
 

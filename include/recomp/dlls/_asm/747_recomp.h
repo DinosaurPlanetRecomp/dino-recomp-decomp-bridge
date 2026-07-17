@@ -5,15 +5,15 @@
 
 #define dll_747_ctor __dll747_dll_747_ctor
 #define dll_747_dtor __dll747_dll_747_dtor
-#define dll_747_setup __dll747_dll_747_setup
-#define dll_747_control __dll747_dll_747_control
-#define dll_747_update __dll747_dll_747_update
-#define dll_747_print __dll747_dll_747_print
-#define dll_747_free __dll747_dll_747_free
-#define dll_747_get_model_flags __dll747_dll_747_get_model_flags
-#define dll_747_get_data_size __dll747_dll_747_get_data_size
-#define dll_747_func_580 __dll747_dll_747_func_580
-#define dll_747_func_7D4 __dll747_dll_747_func_7D4
+#define dll_747_obj_Setup __dll747_dll_747_obj_Setup
+#define dll_747_obj_Control __dll747_dll_747_obj_Control
+#define dll_747_obj_Update __dll747_dll_747_obj_Update
+#define dll_747_obj_Print __dll747_dll_747_obj_Print
+#define dll_747_obj_Free __dll747_dll_747_obj_Free
+#define dll_747_obj_GetModelFlags __dll747_dll_747_obj_GetModelFlags
+#define dll_747_obj_GetDataSize __dll747_dll_747_obj_GetDataSize
+#define dll_747_Func_580 __dll747_dll_747_Func_580
+#define dll_747_Func_7D4 __dll747_dll_747_Func_7D4
 #define dll_747_func_7E4 __dll747_dll_747_func_7E4
 #define str_0 __dll747_str_0
 

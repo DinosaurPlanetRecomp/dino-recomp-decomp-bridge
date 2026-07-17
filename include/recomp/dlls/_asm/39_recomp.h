@@ -5,9 +5,9 @@
 
 #define dll_39_ctor __dll39_dll_39_ctor
 #define dll_39_dtor __dll39_dll_39_dtor
-#define dll_39_func_18 __dll39_dll_39_func_18
-#define dll_39_func_20 __dll39_dll_39_func_20
-#define dll_39_func_194 __dll39_dll_39_func_194
+#define dll_39_Func_18 __dll39_dll_39_Func_18
+#define dll_39_Func_20 __dll39_dll_39_Func_20
+#define dll_39_Func_194 __dll39_dll_39_Func_194
 #define rodata_0 __dll39_rodata_0
 #define rodata_4 __dll39_rodata_4
 #define rodata_8 __dll39_rodata_8

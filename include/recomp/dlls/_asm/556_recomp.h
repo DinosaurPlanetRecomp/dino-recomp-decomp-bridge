@@ -5,13 +5,13 @@
 
 #define dll_556_ctor __dll556_dll_556_ctor
 #define dll_556_dtor __dll556_dll_556_dtor
-#define dll_556_setup __dll556_dll_556_setup
-#define dll_556_control __dll556_dll_556_control
-#define dll_556_update __dll556_dll_556_update
-#define dll_556_print __dll556_dll_556_print
-#define dll_556_free __dll556_dll_556_free
-#define dll_556_get_model_flags __dll556_dll_556_get_model_flags
-#define dll_556_get_data_size __dll556_dll_556_get_data_size
+#define dll_556_obj_Setup __dll556_dll_556_obj_Setup
+#define dll_556_obj_Control __dll556_dll_556_obj_Control
+#define dll_556_obj_Update __dll556_dll_556_obj_Update
+#define dll_556_obj_Print __dll556_dll_556_obj_Print
+#define dll_556_obj_Free __dll556_dll_556_obj_Free
+#define dll_556_obj_GetModelFlags __dll556_dll_556_obj_GetModelFlags
+#define dll_556_obj_GetDataSize __dll556_dll_556_obj_GetDataSize
 #define dll_556_func_844 __dll556_dll_556_func_844
 #define rodata_0 __dll556_rodata_0
 #define rodata_4 __dll556_rodata_4

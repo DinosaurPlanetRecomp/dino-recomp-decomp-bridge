@@ -5,7 +5,7 @@
 
 #define dll_105_ctor __dll105_dll_105_ctor
 #define dll_105_dtor __dll105_dll_105_dtor
-#define dll_105_func_18 __dll105_dll_105_func_18
+#define dll_105_Func_18 __dll105_dll_105_Func_18
 #define rodata_0 __dll105_rodata_0
 #define data_0 __dll105_data_0
 #define data_AC __dll105_data_AC

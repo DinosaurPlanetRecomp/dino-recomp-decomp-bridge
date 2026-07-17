@@ -5,13 +5,13 @@
 
 #define dll_620_ctor __dll620_dll_620_ctor
 #define dll_620_dtor __dll620_dll_620_dtor
-#define dll_620_setup __dll620_dll_620_setup
-#define dll_620_control __dll620_dll_620_control
-#define dll_620_update __dll620_dll_620_update
-#define dll_620_print __dll620_dll_620_print
-#define dll_620_free __dll620_dll_620_free
-#define dll_620_get_model_flags __dll620_dll_620_get_model_flags
-#define dll_620_get_data_size __dll620_dll_620_get_data_size
+#define dll_620_obj_Setup __dll620_dll_620_obj_Setup
+#define dll_620_obj_Control __dll620_dll_620_obj_Control
+#define dll_620_obj_Update __dll620_dll_620_obj_Update
+#define dll_620_obj_Print __dll620_dll_620_obj_Print
+#define dll_620_obj_Free __dll620_dll_620_obj_Free
+#define dll_620_obj_GetModelFlags __dll620_dll_620_obj_GetModelFlags
+#define dll_620_obj_GetDataSize __dll620_dll_620_obj_GetDataSize
 #define rodata_0 __dll620_rodata_0
 #define rodata_4 __dll620_rodata_4
 #define rodata_8 __dll620_rodata_8

@@ -5,13 +5,13 @@
 
 #define dll_520_ctor __dll520_dll_520_ctor
 #define dll_520_dtor __dll520_dll_520_dtor
-#define dll_520_setup __dll520_dll_520_setup
-#define dll_520_control __dll520_dll_520_control
-#define dll_520_update __dll520_dll_520_update
-#define dll_520_print __dll520_dll_520_print
-#define dll_520_free __dll520_dll_520_free
-#define dll_520_get_model_flags __dll520_dll_520_get_model_flags
-#define dll_520_get_data_size __dll520_dll_520_get_data_size
+#define dll_520_obj_Setup __dll520_dll_520_obj_Setup
+#define dll_520_obj_Control __dll520_dll_520_obj_Control
+#define dll_520_obj_Update __dll520_dll_520_obj_Update
+#define dll_520_obj_Print __dll520_dll_520_obj_Print
+#define dll_520_obj_Free __dll520_dll_520_obj_Free
+#define dll_520_obj_GetModelFlags __dll520_dll_520_obj_GetModelFlags
+#define dll_520_obj_GetDataSize __dll520_dll_520_obj_GetDataSize
 #define dll_520_func_914 __dll520_dll_520_func_914
 #define dll_520_func_BAC __dll520_dll_520_func_BAC
 #define dll_520_func_EA4 __dll520_dll_520_func_EA4

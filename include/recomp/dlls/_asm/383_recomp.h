@@ -5,13 +5,13 @@
 
 #define dll_383_ctor __dll383_dll_383_ctor
 #define dll_383_dtor __dll383_dll_383_dtor
-#define dll_383_setup __dll383_dll_383_setup
-#define dll_383_control __dll383_dll_383_control
-#define dll_383_update __dll383_dll_383_update
-#define dll_383_print __dll383_dll_383_print
-#define dll_383_free __dll383_dll_383_free
-#define dll_383_get_model_flags __dll383_dll_383_get_model_flags
-#define dll_383_get_data_size __dll383_dll_383_get_data_size
+#define dll_383_obj_Setup __dll383_dll_383_obj_Setup
+#define dll_383_obj_Control __dll383_dll_383_obj_Control
+#define dll_383_obj_Update __dll383_dll_383_obj_Update
+#define dll_383_obj_Print __dll383_dll_383_obj_Print
+#define dll_383_obj_Free __dll383_dll_383_obj_Free
+#define dll_383_obj_GetModelFlags __dll383_dll_383_obj_GetModelFlags
+#define dll_383_obj_GetDataSize __dll383_dll_383_obj_GetDataSize
 #define dll_383_func_19C __dll383_dll_383_func_19C
 
 #endif //_DLL_383_RECOMP_H

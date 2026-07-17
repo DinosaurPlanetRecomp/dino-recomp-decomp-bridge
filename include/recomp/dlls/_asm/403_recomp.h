@@ -5,13 +5,13 @@
 
 #define dll_403_ctor __dll403_dll_403_ctor
 #define dll_403_dtor __dll403_dll_403_dtor
-#define dll_403_setup __dll403_dll_403_setup
-#define dll_403_control __dll403_dll_403_control
-#define dll_403_update __dll403_dll_403_update
-#define dll_403_print __dll403_dll_403_print
-#define dll_403_free __dll403_dll_403_free
-#define dll_403_get_model_flags __dll403_dll_403_get_model_flags
-#define dll_403_get_data_size __dll403_dll_403_get_data_size
+#define dll_403_obj_Setup __dll403_dll_403_obj_Setup
+#define dll_403_obj_Control __dll403_dll_403_obj_Control
+#define dll_403_obj_Update __dll403_dll_403_obj_Update
+#define dll_403_obj_Print __dll403_dll_403_obj_Print
+#define dll_403_obj_Free __dll403_dll_403_obj_Free
+#define dll_403_obj_GetModelFlags __dll403_dll_403_obj_GetModelFlags
+#define dll_403_obj_GetDataSize __dll403_dll_403_obj_GetDataSize
 #define rodata_0 __dll403_rodata_0
 #define data_0 __dll403_data_0
 #define data_4 __dll403_data_4

@@ -5,7 +5,7 @@
 
 #define dll_181_ctor __dll181_dll_181_ctor
 #define dll_181_dtor __dll181_dll_181_dtor
-#define dll_181_func_18 __dll181_dll_181_func_18
+#define dll_181_Func_18 __dll181_dll_181_Func_18
 #define rodata_0 __dll181_rodata_0
 #define rodata_4 __dll181_rodata_4
 #define data_0 __dll181_data_0

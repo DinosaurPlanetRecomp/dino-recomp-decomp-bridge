@@ -5,9 +5,9 @@
 
 #define dll_51_ctor __dll51_dll_51_ctor
 #define dll_51_dtor __dll51_dll_51_dtor
-#define dll_51_func_18 __dll51_dll_51_func_18
-#define dll_51_func_20 __dll51_dll_51_func_20
-#define dll_51_func_194 __dll51_dll_51_func_194
+#define dll_51_Func_18 __dll51_dll_51_Func_18
+#define dll_51_Func_20 __dll51_dll_51_Func_20
+#define dll_51_Func_194 __dll51_dll_51_Func_194
 #define rodata_0 __dll51_rodata_0
 #define rodata_4 __dll51_rodata_4
 #define rodata_8 __dll51_rodata_8

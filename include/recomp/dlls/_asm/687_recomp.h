@@ -5,13 +5,13 @@
 
 #define dll_687_ctor __dll687_dll_687_ctor
 #define dll_687_dtor __dll687_dll_687_dtor
-#define dll_687_setup __dll687_dll_687_setup
-#define dll_687_control __dll687_dll_687_control
-#define dll_687_update __dll687_dll_687_update
-#define dll_687_print __dll687_dll_687_print
-#define dll_687_free __dll687_dll_687_free
-#define dll_687_get_model_flags __dll687_dll_687_get_model_flags
-#define dll_687_get_data_size __dll687_dll_687_get_data_size
+#define dll_687_obj_Setup __dll687_dll_687_obj_Setup
+#define dll_687_obj_Control __dll687_dll_687_obj_Control
+#define dll_687_obj_Update __dll687_dll_687_obj_Update
+#define dll_687_obj_Print __dll687_dll_687_obj_Print
+#define dll_687_obj_Free __dll687_dll_687_obj_Free
+#define dll_687_obj_GetModelFlags __dll687_dll_687_obj_GetModelFlags
+#define dll_687_obj_GetDataSize __dll687_dll_687_obj_GetDataSize
 #define dll_687_func_1E0 __dll687_dll_687_func_1E0
 #define dll_687_func_3A4 __dll687_dll_687_func_3A4
 

@@ -5,15 +5,15 @@
 
 #define dll_693_ctor __dll693_dll_693_ctor
 #define dll_693_dtor __dll693_dll_693_dtor
-#define dll_693_setup __dll693_dll_693_setup
-#define dll_693_control __dll693_dll_693_control
-#define dll_693_update __dll693_dll_693_update
-#define dll_693_print __dll693_dll_693_print
-#define dll_693_free __dll693_dll_693_free
-#define dll_693_get_model_flags __dll693_dll_693_get_model_flags
-#define dll_693_get_data_size __dll693_dll_693_get_data_size
-#define dll_693_func_3CC __dll693_dll_693_func_3CC
-#define dll_693_func_438 __dll693_dll_693_func_438
+#define dll_693_obj_Setup __dll693_dll_693_obj_Setup
+#define dll_693_obj_Control __dll693_dll_693_obj_Control
+#define dll_693_obj_Update __dll693_dll_693_obj_Update
+#define dll_693_obj_Print __dll693_dll_693_obj_Print
+#define dll_693_obj_Free __dll693_dll_693_obj_Free
+#define dll_693_obj_GetModelFlags __dll693_dll_693_obj_GetModelFlags
+#define dll_693_obj_GetDataSize __dll693_dll_693_obj_GetDataSize
+#define dll_693_Func_3CC __dll693_dll_693_Func_3CC
+#define dll_693_Func_438 __dll693_dll_693_Func_438
 #define dll_693_func_448 __dll693_dll_693_func_448
 #define dll_693_func_580 __dll693_dll_693_func_580
 #define rodata_0 __dll693_rodata_0

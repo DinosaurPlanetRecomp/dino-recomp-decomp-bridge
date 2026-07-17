@@ -5,16 +5,16 @@
 
 #define dll_677_ctor __dll677_dll_677_ctor
 #define dll_677_dtor __dll677_dll_677_dtor
-#define dll_677_setup __dll677_dll_677_setup
-#define dll_677_control __dll677_dll_677_control
-#define dll_677_update __dll677_dll_677_update
-#define dll_677_print __dll677_dll_677_print
-#define dll_677_free __dll677_dll_677_free
-#define dll_677_get_model_flags __dll677_dll_677_get_model_flags
-#define dll_677_get_data_size __dll677_dll_677_get_data_size
-#define dll_677_func_8B4 __dll677_dll_677_func_8B4
-#define dll_677_func_964 __dll677_dll_677_func_964
-#define dll_677_func_98C __dll677_dll_677_func_98C
+#define dll_677_obj_Setup __dll677_dll_677_obj_Setup
+#define dll_677_obj_Control __dll677_dll_677_obj_Control
+#define dll_677_obj_Update __dll677_dll_677_obj_Update
+#define dll_677_obj_Print __dll677_dll_677_obj_Print
+#define dll_677_obj_Free __dll677_dll_677_obj_Free
+#define dll_677_obj_GetModelFlags __dll677_dll_677_obj_GetModelFlags
+#define dll_677_obj_GetDataSize __dll677_dll_677_obj_GetDataSize
+#define dll_677_Func_8B4 __dll677_dll_677_Func_8B4
+#define dll_677_Func_964 __dll677_dll_677_Func_964
+#define dll_677_Func_98C __dll677_dll_677_Func_98C
 #define dll_677_func_9A4 __dll677_dll_677_func_9A4
 #define dll_677_func_A2C __dll677_dll_677_func_A2C
 #define dll_677_func_DA0 __dll677_dll_677_func_DA0

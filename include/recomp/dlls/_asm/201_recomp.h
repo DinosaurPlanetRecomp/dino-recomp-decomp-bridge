@@ -5,7 +5,7 @@
 
 #define dll_201_ctor __dll201_dll_201_ctor
 #define dll_201_dtor __dll201_dll_201_dtor
-#define dll_201_func_18 __dll201_dll_201_func_18
+#define dll_201_Func_18 __dll201_dll_201_Func_18
 #define rodata_0 __dll201_rodata_0
 #define rodata_4 __dll201_rodata_4
 #define rodata_8 __dll201_rodata_8

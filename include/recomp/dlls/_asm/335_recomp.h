@@ -5,13 +5,13 @@
 
 #define dll_335_ctor __dll335_dll_335_ctor
 #define dll_335_dtor __dll335_dll_335_dtor
-#define dll_335_setup __dll335_dll_335_setup
-#define dll_335_control __dll335_dll_335_control
-#define dll_335_update __dll335_dll_335_update
-#define dll_335_print __dll335_dll_335_print
-#define dll_335_free __dll335_dll_335_free
-#define dll_335_get_model_flags __dll335_dll_335_get_model_flags
-#define dll_335_get_data_size __dll335_dll_335_get_data_size
+#define dll_335_obj_Setup __dll335_dll_335_obj_Setup
+#define dll_335_obj_Control __dll335_dll_335_obj_Control
+#define dll_335_obj_Update __dll335_dll_335_obj_Update
+#define dll_335_obj_Print __dll335_dll_335_obj_Print
+#define dll_335_obj_Free __dll335_dll_335_obj_Free
+#define dll_335_obj_GetModelFlags __dll335_dll_335_obj_GetModelFlags
+#define dll_335_obj_GetDataSize __dll335_dll_335_obj_GetDataSize
 #define dll_335_func_B48 __dll335_dll_335_func_B48
 #define rodata_0 __dll335_rodata_0
 #define rodata_4 __dll335_rodata_4

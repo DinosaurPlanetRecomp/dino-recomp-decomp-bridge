@@ -5,13 +5,13 @@
 
 #define dll_462_ctor __dll462_dll_462_ctor
 #define dll_462_dtor __dll462_dll_462_dtor
-#define dll_462_setup __dll462_dll_462_setup
-#define dll_462_control __dll462_dll_462_control
-#define dll_462_update __dll462_dll_462_update
-#define dll_462_print __dll462_dll_462_print
-#define dll_462_free __dll462_dll_462_free
-#define dll_462_get_model_flags __dll462_dll_462_get_model_flags
-#define dll_462_get_data_size __dll462_dll_462_get_data_size
+#define dll_462_obj_Setup __dll462_dll_462_obj_Setup
+#define dll_462_obj_Control __dll462_dll_462_obj_Control
+#define dll_462_obj_Update __dll462_dll_462_obj_Update
+#define dll_462_obj_Print __dll462_dll_462_obj_Print
+#define dll_462_obj_Free __dll462_dll_462_obj_Free
+#define dll_462_obj_GetModelFlags __dll462_dll_462_obj_GetModelFlags
+#define dll_462_obj_GetDataSize __dll462_dll_462_obj_GetDataSize
 #define str_0 __dll462_str_0
 
 #endif //_DLL_462_RECOMP_H
