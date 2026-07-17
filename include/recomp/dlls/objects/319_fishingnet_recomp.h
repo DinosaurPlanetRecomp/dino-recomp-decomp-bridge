@@ -12,10 +12,10 @@
 #define fishingnet_free __dll319_fishingnet_free
 #define fishingnet_get_model_flags __dll319_fishingnet_get_model_flags
 #define fishingnet_get_data_size __dll319_fishingnet_get_data_size
-#define fishingnet_func_C0 __dll319_fishingnet_func_C0
-#define fishingnet_func_DC __dll319_fishingnet_func_DC
-#define fishingnet_func_304 __dll319_fishingnet_func_304
-#define fishingnet_func_338 __dll319_fishingnet_func_338
+#define fishingnet_set_visibility __dll319_fishingnet_set_visibility
+#define fishingnet_draw __dll319_fishingnet_draw
+#define fishingnet_get_transform __dll319_fishingnet_get_transform
+#define fishingnet_catch __dll319_fishingnet_catch
 #define fishingnet_func_4D4 __dll319_fishingnet_func_4D4
 
 #endif //_DLL_319_RECOMP_H

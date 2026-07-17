@@ -3,20 +3,20 @@
 #ifndef _DLL_716_RECOMP_H
 #define _DLL_716_RECOMP_H
 
-#define dll_716_ctor __dll716_dll_716_ctor
-#define dll_716_dtor __dll716_dll_716_dtor
-#define dll_716_setup __dll716_dll_716_setup
-#define dll_716_control __dll716_dll_716_control
-#define dll_716_update __dll716_dll_716_update
-#define dll_716_print __dll716_dll_716_print
-#define dll_716_free __dll716_dll_716_free
-#define dll_716_get_model_flags __dll716_dll_716_get_model_flags
-#define dll_716_get_data_size __dll716_dll_716_get_data_size
-#define dll_716_func_354 __dll716_dll_716_func_354
-#define dll_716_func_49C __dll716_dll_716_func_49C
-#define dll_716_func_4B4 __dll716_dll_716_func_4B4
-#define dll_716_func_4CC __dll716_dll_716_func_4CC
-#define dll_716_func_4DC __dll716_dll_716_func_4DC
+#define KyteFireFlys_ctor __dll716_KyteFireFlys_ctor
+#define KyteFireFlys_dtor __dll716_KyteFireFlys_dtor
+#define KyteFireFlys_setup __dll716_KyteFireFlys_setup
+#define KyteFireFlys_control __dll716_KyteFireFlys_control
+#define KyteFireFlys_update __dll716_KyteFireFlys_update
+#define KyteFireFlys_print __dll716_KyteFireFlys_print
+#define KyteFireFlys_free __dll716_KyteFireFlys_free
+#define KyteFireFlys_get_model_flags __dll716_KyteFireFlys_get_model_flags
+#define KyteFireFlys_get_data_size __dll716_KyteFireFlys_get_data_size
+#define KyteFireFlys_func_354 __dll716_KyteFireFlys_func_354
+#define KyteFireFlys_func_49C __dll716_KyteFireFlys_func_49C
+#define KyteFireFlys_func_4B4 __dll716_KyteFireFlys_func_4B4
+#define KyteFireFlys_func_4CC __dll716_KyteFireFlys_func_4CC
+#define KyteFireFlys_create_firefly __dll716_KyteFireFlys_create_firefly
 #define str_0 __dll716_str_0
 
 #endif //_DLL_716_RECOMP_H

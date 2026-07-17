@@ -3,27 +3,25 @@
 #ifndef _DLL_236_RECOMP_H
 #define _DLL_236_RECOMP_H
 
-#define dll_236_func_0 __dll236_dll_236_func_0
-#define dll_236_ctor __dll236_dll_236_ctor
-#define dll_236_dtor __dll236_dll_236_dtor
-#define dll_236_setup __dll236_dll_236_setup
-#define dll_236_control __dll236_dll_236_control
-#define dll_236_update __dll236_dll_236_update
-#define dll_236_print __dll236_dll_236_print
-#define dll_236_free __dll236_dll_236_free
-#define dll_236_get_model_flags __dll236_dll_236_get_model_flags
-#define dll_236_get_data_size __dll236_dll_236_get_data_size
-#define dll_236_func_7F8 __dll236_dll_236_func_7F8
-#define dll_236_func_A20 __dll236_dll_236_func_A20
-#define dll_236_func_B44 __dll236_dll_236_func_B44
-#define dll_236_func_C60 __dll236_dll_236_func_C60
-#define dll_236_func_D64 __dll236_dll_236_func_D64
-#define dll_236_func_EA0 __dll236_dll_236_func_EA0
-#define rodata_0 __dll236_rodata_0
-#define rodata_4 __dll236_rodata_4
-#define _data_0 __dll236__data_0
-#define _data_1C __dll236__data_1C
-#define _bss_0 __dll236__bss_0
-#define _bss_10 __dll236__bss_10
+#define WGTriffid_fsa_state_setup __dll236_WGTriffid_fsa_state_setup
+#define WGTriffid_ctor __dll236_WGTriffid_ctor
+#define WGTriffid_dtor __dll236_WGTriffid_dtor
+#define WGTriffid_setup __dll236_WGTriffid_setup
+#define WGTriffid_control __dll236_WGTriffid_control
+#define WGTriffid_update __dll236_WGTriffid_update
+#define WGTriffid_print __dll236_WGTriffid_print
+#define WGTriffid_free __dll236_WGTriffid_free
+#define WGTriffid_get_model_flags __dll236_WGTriffid_get_model_flags
+#define WGTriffid_get_data_size __dll236_WGTriffid_get_data_size
+#define WGTriffid_create_pollen __dll236_WGTriffid_create_pollen
+#define WGTriffid_anim_state_0 __dll236_WGTriffid_anim_state_0
+#define WGTriffid_anim_state_1 __dll236_WGTriffid_anim_state_1
+#define WGTriffid_anim_state_2 __dll236_WGTriffid_anim_state_2
+#define WGTriffid_anim_state_3 __dll236_WGTriffid_anim_state_3
+#define WGTriffid_logic_state_0 __dll236_WGTriffid_logic_state_0
+#define dHitDamageMap __dll236_dHitDamageMap
+#define dFXScales __dll236_dFXScales
+#define sAnimStates __dll236_sAnimStates
+#define sLogicStates __dll236_sLogicStates
 
 #endif //_DLL_236_RECOMP_H

@@ -6,19 +6,19 @@
 #define fish_ctor __dll318_fish_ctor
 #define fish_dtor __dll318_fish_dtor
 #define fish_setup __dll318_fish_setup
-#define fish_func_84 __dll318_fish_func_84
+#define fish_initialise __dll318_fish_initialise
 #define fish_control __dll318_fish_control
 #define fish_update __dll318_fish_update
 #define fish_print __dll318_fish_print
 #define fish_free __dll318_fish_free
 #define fish_get_model_flags __dll318_fish_get_model_flags
 #define fish_get_data_size __dll318_fish_get_data_size
-#define fish_func_F74 __dll318_fish_func_F74
-#define fish_func_10BC __dll318_fish_func_10BC
-#define fish_func_11C8 __dll318_fish_func_11C8
-#define fish_func_1880 __dll318_fish_func_1880
-#define fish_func_1978 __dll318_fish_func_1978
-#define fish_func_1EF4 __dll318_fish_func_1EF4
-#define fish_func_2150 __dll318_fish_func_2150
+#define fish_is_jump_possible __dll318_fish_is_jump_possible
+#define fish_random_turn_swim __dll318_fish_random_turn_swim
+#define fish_swim __dll318_fish_swim
+#define fish_handle_approaching_wall __dll318_fish_handle_approaching_wall
+#define fish_jump_handle_flight __dll318_fish_jump_handle_flight
+#define fish_jump_handle_anticipation __dll318_fish_jump_handle_anticipation
+#define fish_caught_by_net __dll318_fish_caught_by_net
 
 #endif //_DLL_318_RECOMP_H

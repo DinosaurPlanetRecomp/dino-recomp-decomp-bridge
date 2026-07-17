@@ -3,21 +3,21 @@
 #ifndef _DLL_220_RECOMP_H
 #define _DLL_220_RECOMP_H
 
-#define dll_220_ctor __dll220_dll_220_ctor
-#define dll_220_dtor __dll220_dll_220_dtor
-#define dll_220_setup __dll220_dll_220_setup
-#define dll_220_control __dll220_dll_220_control
-#define dll_220_update __dll220_dll_220_update
-#define dll_220_print __dll220_dll_220_print
-#define dll_220_free __dll220_dll_220_free
-#define dll_220_get_model_flags __dll220_dll_220_get_model_flags
-#define dll_220_get_data_size __dll220_dll_220_get_data_size
-#define dll_220_func_704 __dll220_dll_220_func_704
-#define dll_220_func_778 __dll220_dll_220_func_778
-#define dll_220_func_8A4 __dll220_dll_220_func_8A4
+#define Chuka_ctor __dll220_Chuka_ctor
+#define Chuka_dtor __dll220_Chuka_dtor
+#define Chuka_setup __dll220_Chuka_setup
+#define Chuka_control __dll220_Chuka_control
+#define Chuka_update __dll220_Chuka_update
+#define Chuka_print __dll220_Chuka_print
+#define Chuka_free __dll220_Chuka_free
+#define Chuka_get_model_flags __dll220_Chuka_get_model_flags
+#define Chuka_get_data_size __dll220_Chuka_get_data_size
+#define Chuka_receive_message __dll220_Chuka_receive_message
+#define Chuka_chuck __dll220_Chuka_chuck
+#define Chuka_die __dll220_Chuka_die
 #define str_0 __dll220_str_0
-#define _data_0 __dll220__data_0
-#define _data_12 __dll220__data_12
+#define dBlinkFrames __dll220_dBlinkFrames
+#define dSoundIDs __dll220_dSoundIDs
 #define _data_1A __dll220__data_1A
 #define _data_1E __dll220__data_1E
 

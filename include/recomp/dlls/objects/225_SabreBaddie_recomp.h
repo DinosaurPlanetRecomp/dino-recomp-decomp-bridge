@@ -39,19 +39,6 @@
 #define dll_225_func_2190 __dll225_dll_225_func_2190
 #define dll_225_func_21F8 __dll225_dll_225_func_21F8
 #define dll_225_func_2404 __dll225_dll_225_func_2404
-#define rodata_0 __dll225_rodata_0
-#define rodata_4 __dll225_rodata_4
-#define rodata_8 __dll225_rodata_8
-#define rodata_C __dll225_rodata_C
-#define rodata_10 __dll225_rodata_10
-#define rodata_14 __dll225_rodata_14
-#define rodata_18 __dll225_rodata_18
-#define rodata_1C __dll225_rodata_1C
-#define rodata_20 __dll225_rodata_20
-#define rodata_24 __dll225_rodata_24
-#define rodata_28 __dll225_rodata_28
-#define rodata_2C __dll225_rodata_2C
-#define rodata_30 __dll225_rodata_30
 #define _data_0 __dll225__data_0
 #define _data_168 __dll225__data_168
 #define _data_1D0 __dll225__data_1D0
@@ -60,6 +47,5 @@
 #define _data_20C __dll225__data_20C
 #define _bss_0 __dll225__bss_0
 #define _bss_38 __dll225__bss_38
-#define _bss_40 __dll225__bss_40
 
 #endif //_DLL_225_RECOMP_H

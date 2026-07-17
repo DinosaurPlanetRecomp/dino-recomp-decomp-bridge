@@ -33,17 +33,6 @@
 #define rodata_40 __dll274_rodata_40
 #define rodata_44 __dll274_rodata_44
 #define rodata_48 __dll274_rodata_48
-#define rodata_4C __dll274_rodata_4C
-#define rodata_50 __dll274_rodata_50
-#define rodata_54 __dll274_rodata_54
-#define rodata_58 __dll274_rodata_58
-#define rodata_5C __dll274_rodata_5C
-#define rodata_60 __dll274_rodata_60
-#define rodata_64 __dll274_rodata_64
-#define rodata_68 __dll274_rodata_68
-#define rodata_6C __dll274_rodata_6C
-#define rodata_70 __dll274_rodata_70
-#define rodata_74 __dll274_rodata_74
 #define _data_0 __dll274__data_0
 #define _data_10 __dll274__data_10
 #define _data_30 __dll274__data_30

@@ -3,19 +3,18 @@
 #ifndef _DLL_593_RECOMP_H
 #define _DLL_593_RECOMP_H
 
-#define dll_593_ctor __dll593_dll_593_ctor
-#define dll_593_dtor __dll593_dll_593_dtor
-#define dll_593_setup __dll593_dll_593_setup
-#define dll_593_control __dll593_dll_593_control
-#define dll_593_update __dll593_dll_593_update
-#define dll_593_print __dll593_dll_593_print
-#define dll_593_free __dll593_dll_593_free
-#define dll_593_get_model_flags __dll593_dll_593_get_model_flags
-#define dll_593_get_data_size __dll593_dll_593_get_data_size
-#define dll_593_func_7F0 __dll593_dll_593_func_7F0
-#define dll_593_func_8E4 __dll593_dll_593_func_8E4
-#define dll_593_func_8EC __dll593_dll_593_func_8EC
-#define rodata_0 __dll593_rodata_0
-#define _data_0 __dll593__data_0
+#define WL_DeadDino_ctor __dll593_WL_DeadDino_ctor
+#define WL_DeadDino_dtor __dll593_WL_DeadDino_dtor
+#define WL_DeadDino_setup __dll593_WL_DeadDino_setup
+#define WL_DeadDino_control __dll593_WL_DeadDino_control
+#define WL_DeadDino_update __dll593_WL_DeadDino_update
+#define WL_DeadDino_print __dll593_WL_DeadDino_print
+#define WL_DeadDino_free __dll593_WL_DeadDino_free
+#define WL_DeadDino_get_model_flags __dll593_WL_DeadDino_get_model_flags
+#define WL_DeadDino_get_data_size __dll593_WL_DeadDino_get_data_size
+#define WL_DeadDino_anim_callback __dll593_WL_DeadDino_anim_callback
+#define WL_DeadDino_func_8E4 __dll593_WL_DeadDino_func_8E4
+#define WL_DeadDino_create_magic_dust __dll593_WL_DeadDino_create_magic_dust
+#define dJointHitSounds __dll593_dJointHitSounds
 
 #endif //_DLL_593_RECOMP_H

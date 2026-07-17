@@ -30,12 +30,7 @@
 #define rodata_E8 __dll662_rodata_E8
 #define rodata_EC __dll662_rodata_EC
 #define rodata_F0 __dll662_rodata_F0
-#define rodata_F4 __dll662_rodata_F4
-#define rodata_F8 __dll662_rodata_F8
-#define rodata_FC __dll662_rodata_FC
-#define rodata_100 __dll662_rodata_100
 #define rodata_104 __dll662_rodata_104
-#define rodata_108 __dll662_rodata_108
 #define _data_0 __dll662__data_0
 
 #endif //_DLL_662_RECOMP_H

@@ -3,14 +3,14 @@
 #ifndef _DLL_336_RECOMP_H
 #define _DLL_336_RECOMP_H
 
-#define dll_336_ctor __dll336_dll_336_ctor
-#define dll_336_dtor __dll336_dll_336_dtor
-#define dll_336_setup __dll336_dll_336_setup
-#define dll_336_control __dll336_dll_336_control
-#define dll_336_update __dll336_dll_336_update
-#define dll_336_print __dll336_dll_336_print
-#define dll_336_free __dll336_dll_336_free
-#define dll_336_get_model_flags __dll336_dll_336_get_model_flags
-#define dll_336_get_data_size __dll336_dll_336_get_data_size
+#define FirePole_ctor __dll336_FirePole_ctor
+#define FirePole_dtor __dll336_FirePole_dtor
+#define FirePole_setup __dll336_FirePole_setup
+#define FirePole_control __dll336_FirePole_control
+#define FirePole_update __dll336_FirePole_update
+#define FirePole_print __dll336_FirePole_print
+#define FirePole_free __dll336_FirePole_free
+#define FirePole_get_model_flags __dll336_FirePole_get_model_flags
+#define FirePole_get_data_size __dll336_FirePole_get_data_size
 
 #endif //_DLL_336_RECOMP_H

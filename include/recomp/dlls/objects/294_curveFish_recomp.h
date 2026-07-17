@@ -3,18 +3,18 @@
 #ifndef _DLL_294_RECOMP_H
 #define _DLL_294_RECOMP_H
 
-#define dll_294_ctor __dll294_dll_294_ctor
-#define dll_294_dtor __dll294_dll_294_dtor
-#define dll_294_setup __dll294_dll_294_setup
-#define dll_294_func_6C __dll294_dll_294_func_6C
-#define dll_294_control __dll294_dll_294_control
-#define dll_294_update __dll294_dll_294_update
-#define dll_294_print __dll294_dll_294_print
-#define dll_294_free __dll294_dll_294_free
-#define dll_294_get_model_flags __dll294_dll_294_get_model_flags
-#define dll_294_get_data_size __dll294_dll_294_get_data_size
-#define dll_294_func_968 __dll294_dll_294_func_968
+#define curveFish_ctor __dll294_curveFish_ctor
+#define curveFish_dtor __dll294_curveFish_dtor
+#define curveFish_setup __dll294_curveFish_setup
+#define curveFish_initialise __dll294_curveFish_initialise
+#define curveFish_control __dll294_curveFish_control
+#define curveFish_update __dll294_curveFish_update
+#define curveFish_print __dll294_curveFish_print
+#define curveFish_free __dll294_curveFish_free
+#define curveFish_get_model_flags __dll294_curveFish_get_model_flags
+#define curveFish_get_data_size __dll294_curveFish_get_data_size
+#define curveFish_caught_by_net __dll294_curveFish_caught_by_net
 #define str_0 __dll294_str_0
-#define _data_0 __dll294__data_0
+#define dCurveType __dll294_dCurveType
 
 #endif //_DLL_294_RECOMP_H

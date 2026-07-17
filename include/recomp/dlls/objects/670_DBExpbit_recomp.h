@@ -3,14 +3,14 @@
 #ifndef _DLL_670_RECOMP_H
 #define _DLL_670_RECOMP_H
 
-#define dll_670_ctor __dll670_dll_670_ctor
-#define dll_670_dtor __dll670_dll_670_dtor
-#define dll_670_setup __dll670_dll_670_setup
-#define dll_670_control __dll670_dll_670_control
-#define dll_670_update __dll670_dll_670_update
-#define dll_670_print __dll670_dll_670_print
-#define dll_670_free __dll670_dll_670_free
-#define dll_670_get_model_flags __dll670_dll_670_get_model_flags
-#define dll_670_get_data_size __dll670_dll_670_get_data_size
+#define DBExpBit_ctor __dll670_DBExpBit_ctor
+#define DBExpBit_dtor __dll670_DBExpBit_dtor
+#define DBExpBit_setup __dll670_DBExpBit_setup
+#define DBExpBit_control __dll670_DBExpBit_control
+#define DBExpBit_update __dll670_DBExpBit_update
+#define DBExpBit_print __dll670_DBExpBit_print
+#define DBExpBit_free __dll670_DBExpBit_free
+#define DBExpBit_get_model_flags __dll670_DBExpBit_get_model_flags
+#define DBExpBit_get_data_size __dll670_DBExpBit_get_data_size
 
 #endif //_DLL_670_RECOMP_H

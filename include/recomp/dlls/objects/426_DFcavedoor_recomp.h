@@ -3,14 +3,14 @@
 #ifndef _DLL_426_RECOMP_H
 #define _DLL_426_RECOMP_H
 
-#define dll_426_ctor __dll426_dll_426_ctor
-#define dll_426_dtor __dll426_dll_426_dtor
-#define dll_426_setup __dll426_dll_426_setup
-#define dll_426_control __dll426_dll_426_control
-#define dll_426_update __dll426_dll_426_update
-#define dll_426_print __dll426_dll_426_print
-#define dll_426_free __dll426_dll_426_free
-#define dll_426_get_model_flags __dll426_dll_426_get_model_flags
-#define dll_426_get_data_size __dll426_dll_426_get_data_size
+#define DFcavedoor_ctor __dll426_DFcavedoor_ctor
+#define DFcavedoor_dtor __dll426_DFcavedoor_dtor
+#define DFcavedoor_setup __dll426_DFcavedoor_setup
+#define DFcavedoor_control __dll426_DFcavedoor_control
+#define DFcavedoor_update __dll426_DFcavedoor_update
+#define DFcavedoor_print __dll426_DFcavedoor_print
+#define DFcavedoor_free __dll426_DFcavedoor_free
+#define DFcavedoor_get_model_flags __dll426_DFcavedoor_get_model_flags
+#define DFcavedoor_get_data_size __dll426_DFcavedoor_get_data_size
 
 #endif //_DLL_426_RECOMP_H
