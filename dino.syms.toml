@@ -6,7 +6,6 @@ size = 0xA3AA0
 
 functions = [
     { name = "entrypoint", vram = 0x80000400, size = 0x38 },
-    { name = ".clear_bytes", vram = 0x80000410, size = 0x40 },
     { name = "func_80000450", vram = 0x80000450, size = 0x1B8 },
     { name = "func_80000608", vram = 0x80000608, size = 0x1BC },
     { name = "func_800007D0", vram = 0x800007D0, size = 0x1C },
