@@ -64,6 +64,7 @@
 #define rodata_1AC __dll658_rodata_1AC
 #define _data_0 __dll658__data_0
 #define _data_10 __dll658__data_10
+#define _data_1C __dll658__data_1C
 #define _data_64 __dll658__data_64
 #define _data_7C __dll658__data_7C
 #define _data_84 __dll658__data_84

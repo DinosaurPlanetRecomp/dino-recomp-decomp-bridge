@@ -5,14 +5,14 @@
 
 #define DIMTent_ctor __dll545_DIMTent_ctor
 #define DIMTent_dtor __dll545_DIMTent_dtor
-#define DIMTent_setup __dll545_DIMTent_setup
-#define DIMTent_control __dll545_DIMTent_control
-#define DIMTent_update __dll545_DIMTent_update
-#define DIMTent_print __dll545_DIMTent_print
-#define DIMTent_free __dll545_DIMTent_free
-#define DIMTent_get_model_flags __dll545_DIMTent_get_model_flags
-#define DIMTent_get_data_size __dll545_DIMTent_get_data_size
-#define DIMTent_draw_mask __dll545_DIMTent_draw_mask
+#define DIMTent_obj_Setup __dll545_DIMTent_obj_Setup
+#define DIMTent_obj_Control __dll545_DIMTent_obj_Control
+#define DIMTent_obj_Update __dll545_DIMTent_obj_Update
+#define DIMTent_obj_Print __dll545_DIMTent_obj_Print
+#define DIMTent_obj_Free __dll545_DIMTent_obj_Free
+#define DIMTent_obj_GetModelFlags __dll545_DIMTent_obj_GetModelFlags
+#define DIMTent_obj_GetDataSize __dll545_DIMTent_obj_GetDataSize
+#define DIMTent_drawMask __dll545_DIMTent_drawMask
 #define sMaskTris __dll545_sMaskTris
 #define sMaskVertCoords __dll545_sMaskVertCoords
 #define sMaskSpeeds __dll545_sMaskSpeeds

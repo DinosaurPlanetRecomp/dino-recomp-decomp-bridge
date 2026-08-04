@@ -22,19 +22,6 @@
 #define KamerianBoss_get_model_flags __dll707_KamerianBoss_get_model_flags
 #define KamerianBoss_get_data_size __dll707_KamerianBoss_get_data_size
 #define str_0 __dll707_str_0
-#define str_C __dll707_str_C
-#define rodata_28 __dll707_rodata_28
-#define rodata_2C __dll707_rodata_2C
-#define rodata_30 __dll707_rodata_30
-#define rodata_34 __dll707_rodata_34
-#define rodata_38 __dll707_rodata_38
-#define rodata_3C __dll707_rodata_3C
-#define rodata_40 __dll707_rodata_40
-#define rodata_70 __dll707_rodata_70
-#define rodata_B0 __dll707_rodata_B0
-#define rodata_B4 __dll707_rodata_B4
-#define rodata_B8 __dll707_rodata_B8
-#define rodata_BC __dll707_rodata_BC
 #define _data_0 __dll707__data_0
 #define sModel __dll707_sModel
 #define sHealthBarTextureIDs __dll707_sHealthBarTextureIDs
@@ -43,7 +30,6 @@
 #define sHealthBarTextures __dll707_sHealthBarTextures
 #define _bss_8 __dll707__bss_8
 #define sHealthBarAlpha __dll707_sHealthBarAlpha
-#define _bss_3C __dll707__bss_3C
 #define _bss_40 __dll707__bss_40
 
 #endif //_DLL_707_RECOMP_H

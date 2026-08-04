@@ -3,33 +3,22 @@
 #ifndef _DLL_537_RECOMP_H
 #define _DLL_537_RECOMP_H
 
-#define dll_537_ctor __dll537_dll_537_ctor
-#define dll_537_dtor __dll537_dll_537_dtor
-#define dll_537_setup __dll537_dll_537_setup
-#define dll_537_control __dll537_dll_537_control
-#define dll_537_update __dll537_dll_537_update
-#define dll_537_print __dll537_dll_537_print
-#define dll_537_free __dll537_dll_537_free
-#define dll_537_get_model_flags __dll537_dll_537_get_model_flags
-#define dll_537_get_data_size __dll537_dll_537_get_data_size
-#define dll_537_func_A94 __dll537_dll_537_func_A94
-#define dll_537_func_DAC __dll537_dll_537_func_DAC
-#define dll_537_func_1150 __dll537_dll_537_func_1150
-#define dll_537_func_1314 __dll537_dll_537_func_1314
-#define dll_537_func_1430 __dll537_dll_537_func_1430
-#define dll_537_func_1640 __dll537_dll_537_func_1640
-#define dll_537_func_16AC __dll537_dll_537_func_16AC
-#define rodata_18 __dll537_rodata_18
-#define rodata_1C __dll537_rodata_1C
-#define rodata_20 __dll537_rodata_20
-#define rodata_24 __dll537_rodata_24
-#define rodata_28 __dll537_rodata_28
-#define rodata_2C __dll537_rodata_2C
-#define rodata_30 __dll537_rodata_30
-#define rodata_34 __dll537_rodata_34
-#define rodata_38 __dll537_rodata_38
-#define rodata_3C __dll537_rodata_3C
-#define rodata_40 __dll537_rodata_40
-#define _data_0 __dll537__data_0
+#define DIMCannon_ctor __dll537_DIMCannon_ctor
+#define DIMCannon_dtor __dll537_DIMCannon_dtor
+#define DIMCannon_obj_Setup __dll537_DIMCannon_obj_Setup
+#define DIMCannon_obj_Control __dll537_DIMCannon_obj_Control
+#define DIMCannon_obj_Update __dll537_DIMCannon_obj_Update
+#define DIMCannon_obj_Print __dll537_DIMCannon_obj_Print
+#define DIMCannon_obj_Free __dll537_DIMCannon_obj_Free
+#define DIMCannon_obj_GetModelFlags __dll537_DIMCannon_obj_GetModelFlags
+#define DIMCannon_obj_GetDataSize __dll537_DIMCannon_obj_GetDataSize
+#define DIMCannon_animCallback __dll537_DIMCannon_animCallback
+#define DIMCannon_aimCannonClaw __dll537_DIMCannon_aimCannonClaw
+#define DIMCannon_fireWhenReady __dll537_DIMCannon_fireWhenReady
+#define DIMCannon_setupCannonBall __dll537_DIMCannon_setupCannonBall
+#define DIMCannon_tickCannonBall __dll537_DIMCannon_tickCannonBall
+#define DIMCannon_freeCannonBall __dll537_DIMCannon_freeCannonBall
+#define DIMCannon_createCannonBallExplosion __dll537_DIMCannon_createCannonBallExplosion
+#define dModGfxDLL __dll537_dModGfxDLL
 
 #endif //_DLL_537_RECOMP_H

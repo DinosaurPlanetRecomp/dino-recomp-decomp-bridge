@@ -3,14 +3,14 @@
 #ifndef _DLL_327_RECOMP_H
 #define _DLL_327_RECOMP_H
 
-#define dll_327_ctor __dll327_dll_327_ctor
-#define dll_327_dtor __dll327_dll_327_dtor
-#define dll_327_setup __dll327_dll_327_setup
-#define dll_327_control __dll327_dll_327_control
-#define dll_327_update __dll327_dll_327_update
-#define dll_327_print __dll327_dll_327_print
-#define dll_327_free __dll327_dll_327_free
-#define dll_327_get_model_flags __dll327_dll_327_get_model_flags
-#define dll_327_get_data_size __dll327_dll_327_get_data_size
+#define DLL327_ctor __dll327_DLL327_ctor
+#define DLL327_dtor __dll327_DLL327_dtor
+#define DLL327_obj_Setup __dll327_DLL327_obj_Setup
+#define DLL327_obj_Control __dll327_DLL327_obj_Control
+#define DLL327_obj_Update __dll327_DLL327_obj_Update
+#define DLL327_obj_Print __dll327_DLL327_obj_Print
+#define DLL327_obj_Free __dll327_DLL327_obj_Free
+#define DLL327_obj_GetModelFlags __dll327_DLL327_obj_GetModelFlags
+#define DLL327_obj_GetDataSize __dll327_DLL327_obj_GetDataSize
 
 #endif //_DLL_327_RECOMP_H

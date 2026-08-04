@@ -3,17 +3,17 @@
 #ifndef _DLL_307_RECOMP_H
 #define _DLL_307_RECOMP_H
 
-#define dll_307_ctor __dll307_dll_307_ctor
-#define dll_307_dtor __dll307_dll_307_dtor
-#define dll_307_setup __dll307_dll_307_setup
-#define dll_307_control __dll307_dll_307_control
-#define dll_307_update __dll307_dll_307_update
-#define dll_307_print __dll307_dll_307_print
-#define dll_307_free __dll307_dll_307_free
-#define dll_307_get_model_flags __dll307_dll_307_get_model_flags
-#define dll_307_get_data_size __dll307_dll_307_get_data_size
-#define dll_307_func_33C __dll307_dll_307_func_33C
-#define dll_307_func_6E4 __dll307_dll_307_func_6E4
+#define DLL307_ctor __dll307_DLL307_ctor
+#define DLL307_dtor __dll307_DLL307_dtor
+#define DLL307_obj_Setup __dll307_DLL307_obj_Setup
+#define DLL307_obj_Control __dll307_DLL307_obj_Control
+#define DLL307_obj_Update __dll307_DLL307_obj_Update
+#define DLL307_obj_Print __dll307_DLL307_obj_Print
+#define DLL307_obj_Free __dll307_DLL307_obj_Free
+#define DLL307_obj_GetModelFlags __dll307_DLL307_obj_GetModelFlags
+#define DLL307_obj_GetDataSize __dll307_DLL307_obj_GetDataSize
+#define DLL307_animCallback __dll307_DLL307_animCallback
+#define DLL307_func_6E4 __dll307_DLL307_func_6E4
 #define _oob_rodata_0 __dll307__oob_rodata_0
 
 #endif //_DLL_307_RECOMP_H

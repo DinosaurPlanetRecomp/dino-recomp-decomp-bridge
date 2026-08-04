@@ -5,13 +5,13 @@
 
 #define SCAnimObj_ctor __dll524_SCAnimObj_ctor
 #define SCAnimObj_dtor __dll524_SCAnimObj_dtor
-#define SCAnimObj_setup __dll524_SCAnimObj_setup
-#define SCAnimObj_control __dll524_SCAnimObj_control
-#define SCAnimObj_update __dll524_SCAnimObj_update
-#define SCAnimObj_print __dll524_SCAnimObj_print
-#define SCAnimObj_free __dll524_SCAnimObj_free
-#define SCAnimObj_get_model_flags __dll524_SCAnimObj_get_model_flags
-#define SCAnimObj_get_data_size __dll524_SCAnimObj_get_data_size
+#define SCAnimObj_obj_Setup __dll524_SCAnimObj_obj_Setup
+#define SCAnimObj_obj_Control __dll524_SCAnimObj_obj_Control
+#define SCAnimObj_obj_Update __dll524_SCAnimObj_obj_Update
+#define SCAnimObj_obj_Print __dll524_SCAnimObj_obj_Print
+#define SCAnimObj_obj_Free __dll524_SCAnimObj_obj_Free
+#define SCAnimObj_obj_GetModelFlags __dll524_SCAnimObj_obj_GetModelFlags
+#define SCAnimObj_obj_GetDataSize __dll524_SCAnimObj_obj_GetDataSize
 #define sTransform __dll524_sTransform
 
 #endif //_DLL_524_RECOMP_H
