@@ -8873,33 +8873,11 @@ vram = 0x8129303C
 size = 0x3C80
 
 symbols = [
-    { name = "__dll380_rodata_0", vram = 0x81296BBC },
-    { name = "__dll380_rodata_4", vram = 0x81296BC0 },
-    { name = "__dll380_rodata_8", vram = 0x81296BC4 },
-    { name = "__dll380_rodata_C", vram = 0x81296BC8 },
-    { name = "__dll380_rodata_10", vram = 0x81296BCC },
-    { name = "__dll380_rodata_14", vram = 0x81296BD0 },
-    { name = "__dll380_rodata_18", vram = 0x81296BD4 },
-    { name = "__dll380_rodata_1C", vram = 0x81296BD8 },
-    { name = "__dll380_rodata_20", vram = 0x81296BDC },
-    { name = "__dll380_rodata_24", vram = 0x81296BE0 },
-    { name = "__dll380_rodata_28", vram = 0x81296BE4 },
-    { name = "__dll380_rodata_2C", vram = 0x81296BE8 },
-    { name = "__dll380_rodata_30", vram = 0x81296BEC },
-    { name = "__dll380_rodata_34", vram = 0x81296BF0 },
-    { name = "__dll380_rodata_38", vram = 0x81296BF4 },
-    { name = "__dll380_rodata_3C", vram = 0x81296BF8 },
-    { name = "__dll380_rodata_40", vram = 0x81296BFC },
-    { name = "__dll380_rodata_44", vram = 0x81296C00 },
-    { name = "__dll380_rodata_48", vram = 0x81296C04 },
-    { name = "__dll380_rodata_4C", vram = 0x81296C08 },
-    { name = "__dll380_rodata_50", vram = 0x81296C0C },
-    { name = "__dll380_rodata_54", vram = 0x81296C10 },
-    { name = "__dll380_data_0", vram = 0x81296C1C },
+    { name = "__dll380_sLaserTris", vram = 0x81296C1C },
     { name = "__dll380_data_20", vram = 0x81296C3C },
     { name = "__dll380_data_50", vram = 0x81296C6C },
-    { name = "__dll380_bss_0", vram = 0x81296C7C },
-    { name = "__dll380_bss_4", vram = 0x81296C80 },
+    { name = "__dll380_sLaserBeamTexture", vram = 0x81296C7C },
+    { name = "__dll380_sNoiseTexture", vram = 0x81296C80 },
 ]
 
 [[section]]
@@ -9621,9 +9599,7 @@ vram = 0x812DD044
 size = 0x4420
 
 symbols = [
-    { name = "__dll437_rodata_C", vram = 0x812E1368 },
-    { name = "__dll437_rodata_4C", vram = 0x812E13A8 },
-    { name = "__dll437_data_0", vram = 0x812E13BC },
+    { name = "__dll437_sLaserTris", vram = 0x812E13BC },
     { name = "__dll437_data_20", vram = 0x812E13DC },
     { name = "__dll437_data_50", vram = 0x812E140C },
     { name = "__dll437_sLaserBeamTexture", vram = 0x812E141C },

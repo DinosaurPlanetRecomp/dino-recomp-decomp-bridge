@@ -24,7 +24,7 @@
 #define EWTrobotpatrol_initGun __dll437_EWTrobotpatrol_initGun
 #define EWTrobotpatrol_animateGun __dll437_EWTrobotpatrol_animateGun
 #define EWTrobotpatrol_fireGun __dll437_EWTrobotpatrol_fireGun
-#define EWTrobotpatrol_func_231C __dll437_EWTrobotpatrol_func_231C
+#define EWTrobotpatrol_gunPrint __dll437_EWTrobotpatrol_gunPrint
 #define EWTrobotpatrol_aimRaycast __dll437_EWTrobotpatrol_aimRaycast
 #define EWTrobotpatrol_animateDeployedGun __dll437_EWTrobotpatrol_animateDeployedGun
 #define EWTrobotpatrol_setGunMode __dll437_EWTrobotpatrol_setGunMode
@@ -41,9 +41,7 @@
 #define EWTrobotpatrol_updateStunState __dll437_EWTrobotpatrol_updateStunState
 #define EWTrobotpatrol_func_4004 __dll437_EWTrobotpatrol_func_4004
 #define EWTrobotpatrol_func_40A0 __dll437_EWTrobotpatrol_func_40A0
-#define rodata_C __dll437_rodata_C
-#define rodata_4C __dll437_rodata_4C
-#define data_0 __dll437_data_0
+#define sLaserTris __dll437_sLaserTris
 #define data_20 __dll437_data_20
 #define data_50 __dll437_data_50
 #define sLaserBeamTexture __dll437_sLaserBeamTexture
