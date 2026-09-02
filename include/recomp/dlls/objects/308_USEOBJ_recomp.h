@@ -5,14 +5,14 @@
 
 #define UseObj_ctor __dll308_UseObj_ctor
 #define UseObj_dtor __dll308_UseObj_dtor
-#define UseObj_setup __dll308_UseObj_setup
-#define UseObj_control __dll308_UseObj_control
-#define UseObj_update __dll308_UseObj_update
-#define UseObj_print __dll308_UseObj_print
-#define UseObj_free __dll308_UseObj_free
-#define UseObj_get_model_flags __dll308_UseObj_get_model_flags
-#define UseObj_get_data_size __dll308_UseObj_get_data_size
-#define UseObj_anim_callback __dll308_UseObj_anim_callback
+#define UseObj_obj_Setup __dll308_UseObj_obj_Setup
+#define UseObj_obj_Control __dll308_UseObj_obj_Control
+#define UseObj_obj_Update __dll308_UseObj_obj_Update
+#define UseObj_obj_Print __dll308_UseObj_obj_Print
+#define UseObj_obj_Free __dll308_UseObj_obj_Free
+#define UseObj_obj_GetModelFlags __dll308_UseObj_obj_GetModelFlags
+#define UseObj_obj_GetDataSize __dll308_UseObj_obj_GetDataSize
+#define UseObj_animCallback __dll308_UseObj_animCallback
 #define str_0 __dll308_str_0
 
 #endif //_DLL_308_RECOMP_H

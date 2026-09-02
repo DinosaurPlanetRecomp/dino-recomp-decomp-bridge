@@ -5,14 +5,14 @@
 
 #define CCgrub_ctor __dll454_CCgrub_ctor
 #define CCgrub_dtor __dll454_CCgrub_dtor
-#define CCgrub_setup __dll454_CCgrub_setup
-#define CCgrub_control __dll454_CCgrub_control
+#define CCgrub_obj_Setup __dll454_CCgrub_obj_Setup
+#define CCgrub_obj_Control __dll454_CCgrub_obj_Control
 #define CCgrub_func_AB0 __dll454_CCgrub_func_AB0
-#define CCgrub_update __dll454_CCgrub_update
-#define CCgrub_print __dll454_CCgrub_print
-#define CCgrub_free __dll454_CCgrub_free
-#define CCgrub_get_model_flags __dll454_CCgrub_get_model_flags
-#define CCgrub_get_data_size __dll454_CCgrub_get_data_size
+#define CCgrub_obj_Update __dll454_CCgrub_obj_Update
+#define CCgrub_obj_Print __dll454_CCgrub_obj_Print
+#define CCgrub_obj_Free __dll454_CCgrub_obj_Free
+#define CCgrub_obj_GetModelFlags __dll454_CCgrub_obj_GetModelFlags
+#define CCgrub_obj_GetDataSize __dll454_CCgrub_obj_GetDataSize
 #define CCgrub_func_BE8 __dll454_CCgrub_func_BE8
 #define CCgrub_func_CEC __dll454_CCgrub_func_CEC
 #define CCgrub_func_DC4 __dll454_CCgrub_func_DC4

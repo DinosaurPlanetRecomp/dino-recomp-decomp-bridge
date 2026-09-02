@@ -3,14 +3,14 @@
 #ifndef _DLL_783_RECOMP_H
 #define _DLL_783_RECOMP_H
 
-#define dll_783_ctor __dll783_dll_783_ctor
-#define dll_783_dtor __dll783_dll_783_dtor
-#define dll_783_setup __dll783_dll_783_setup
-#define dll_783_control __dll783_dll_783_control
-#define dll_783_update __dll783_dll_783_update
-#define dll_783_print __dll783_dll_783_print
-#define dll_783_free __dll783_dll_783_free
-#define dll_783_get_model_flags __dll783_dll_783_get_model_flags
-#define dll_783_get_data_size __dll783_dll_783_get_data_size
+#define WCTile_ctor __dll783_WCTile_ctor
+#define WCTile_dtor __dll783_WCTile_dtor
+#define WCTile_obj_Setup __dll783_WCTile_obj_Setup
+#define WCTile_obj_Control __dll783_WCTile_obj_Control
+#define WCTile_obj_Update __dll783_WCTile_obj_Update
+#define WCTile_obj_Print __dll783_WCTile_obj_Print
+#define WCTile_obj_Free __dll783_WCTile_obj_Free
+#define WCTile_obj_GetModelFlags __dll783_WCTile_obj_GetModelFlags
+#define WCTile_obj_GetDataSize __dll783_WCTile_obj_GetDataSize
 
 #endif //_DLL_783_RECOMP_H

@@ -5,13 +5,13 @@
 
 #define MagicDust_ctor __dll291_MagicDust_ctor
 #define MagicDust_dtor __dll291_MagicDust_dtor
-#define MagicDust_setup __dll291_MagicDust_setup
-#define MagicDust_control __dll291_MagicDust_control
-#define MagicDust_update __dll291_MagicDust_update
-#define MagicDust_print __dll291_MagicDust_print
-#define MagicDust_free __dll291_MagicDust_free
-#define MagicDust_get_model_flags __dll291_MagicDust_get_model_flags
-#define MagicDust_get_data_size __dll291_MagicDust_get_data_size
+#define MagicDust_obj_Setup __dll291_MagicDust_obj_Setup
+#define MagicDust_obj_Control __dll291_MagicDust_obj_Control
+#define MagicDust_obj_Update __dll291_MagicDust_obj_Update
+#define MagicDust_obj_Print __dll291_MagicDust_obj_Print
+#define MagicDust_obj_Free __dll291_MagicDust_obj_Free
+#define MagicDust_obj_GetModelFlags __dll291_MagicDust_obj_GetModelFlags
+#define MagicDust_obj_GetDataSize __dll291_MagicDust_obj_GetDataSize
 #define MagicDust_collect __dll291_MagicDust_collect
 #define dCollisionPoint __dll291_dCollisionPoint
 

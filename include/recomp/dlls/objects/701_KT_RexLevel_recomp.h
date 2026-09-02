@@ -5,14 +5,14 @@
 
 #define KT_RexLevel_ctor __dll701_KT_RexLevel_ctor
 #define KT_RexLevel_dtor __dll701_KT_RexLevel_dtor
-#define KT_RexLevel_setup __dll701_KT_RexLevel_setup
-#define KT_RexLevel_control __dll701_KT_RexLevel_control
-#define KT_RexLevel_update __dll701_KT_RexLevel_update
-#define KT_RexLevel_print __dll701_KT_RexLevel_print
-#define KT_RexLevel_free __dll701_KT_RexLevel_free
-#define KT_RexLevel_get_model_flags __dll701_KT_RexLevel_get_model_flags
-#define KT_RexLevel_get_data_size __dll701_KT_RexLevel_get_data_size
+#define KT_RexLevel_obj_Setup __dll701_KT_RexLevel_obj_Setup
+#define KT_RexLevel_obj_Control __dll701_KT_RexLevel_obj_Control
+#define KT_RexLevel_obj_Update __dll701_KT_RexLevel_obj_Update
+#define KT_RexLevel_obj_Print __dll701_KT_RexLevel_obj_Print
+#define KT_RexLevel_obj_Free __dll701_KT_RexLevel_obj_Free
+#define KT_RexLevel_obj_GetModelFlags __dll701_KT_RexLevel_obj_GetModelFlags
+#define KT_RexLevel_obj_GetDataSize __dll701_KT_RexLevel_obj_GetDataSize
 #define _data_0 __dll701__data_0
-#define _bss_0 __dll701__bss_0
+#define sPrevFightProgress __dll701_sPrevFightProgress
 
 #endif //_DLL_701_RECOMP_H

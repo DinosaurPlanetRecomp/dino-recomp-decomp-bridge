@@ -5,14 +5,14 @@
 
 #define SPItem_ctor __dll767_SPItem_ctor
 #define SPItem_dtor __dll767_SPItem_dtor
-#define SPItem_setup __dll767_SPItem_setup
-#define SPItem_control __dll767_SPItem_control
+#define SPItem_obj_Setup __dll767_SPItem_obj_Setup
+#define SPItem_obj_Control __dll767_SPItem_obj_Control
 #define SPItem_update __dll767_SPItem_update
-#define SPItem_print __dll767_SPItem_print
-#define SPItem_free __dll767_SPItem_free
-#define SPItem_get_model_flags __dll767_SPItem_get_model_flags
-#define SPItem_get_data_size __dll767_SPItem_get_data_size
-#define SPItem_anim_callback __dll767_SPItem_anim_callback
-#define SPItem_bought_callback __dll767_SPItem_bought_callback
+#define SPItem_obj_Print __dll767_SPItem_obj_Print
+#define SPItem_obj_Free __dll767_SPItem_obj_Free
+#define SPItem_obj_GetModelFlags __dll767_SPItem_obj_GetModelFlags
+#define SPItem_obj_GetDataSize __dll767_SPItem_obj_GetDataSize
+#define SPItem_animCallback __dll767_SPItem_animCallback
+#define SPItem_boughtCallback __dll767_SPItem_boughtCallback
 
 #endif //_DLL_767_RECOMP_H

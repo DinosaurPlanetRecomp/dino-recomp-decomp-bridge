@@ -3,14 +3,14 @@
 #ifndef _DLL_780_RECOMP_H
 #define _DLL_780_RECOMP_H
 
-#define dll_780_ctor __dll780_dll_780_ctor
-#define dll_780_dtor __dll780_dll_780_dtor
-#define dll_780_setup __dll780_dll_780_setup
-#define dll_780_control __dll780_dll_780_control
-#define dll_780_update __dll780_dll_780_update
-#define dll_780_print __dll780_dll_780_print
-#define dll_780_free __dll780_dll_780_free
-#define dll_780_get_model_flags __dll780_dll_780_get_model_flags
-#define dll_780_get_data_size __dll780_dll_780_get_data_size
+#define WCBeacon_ctor __dll780_WCBeacon_ctor
+#define WCBeacon_dtor __dll780_WCBeacon_dtor
+#define WCBeacon_obj_Setup __dll780_WCBeacon_obj_Setup
+#define WCBeacon_obj_Control __dll780_WCBeacon_obj_Control
+#define WCBeacon_obj_Update __dll780_WCBeacon_obj_Update
+#define WCBeacon_obj_Print __dll780_WCBeacon_obj_Print
+#define WCBeacon_obj_Free __dll780_WCBeacon_obj_Free
+#define WCBeacon_obj_GetModelFlags __dll780_WCBeacon_obj_GetModelFlags
+#define WCBeacon_obj_GetDataSize __dll780_WCBeacon_obj_GetDataSize
 
 #endif //_DLL_780_RECOMP_H

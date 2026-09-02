@@ -5,9 +5,9 @@
 
 #define gameover_ctor __dll67_gameover_ctor
 #define gameover_dtor __dll67_gameover_dtor
-#define gameover_update1 __dll67_gameover_update1
-#define gameover_update2 __dll67_gameover_update2
-#define gameover_draw __dll67_gameover_draw
+#define gameover_Update1 __dll67_gameover_Update1
+#define gameover_Update2 __dll67_gameover_Update2
+#define gameover_Draw __dll67_gameover_Draw
 #define dPicmenuItems __dll67_dPicmenuItems
 #define sGameOverText __dll67_sGameOverText
 #define sTexDusterCounter __dll67_sTexDusterCounter

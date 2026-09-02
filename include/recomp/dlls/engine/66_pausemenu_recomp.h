@@ -5,9 +5,9 @@
 
 #define pausemenu_ctor __dll66_pausemenu_ctor
 #define pausemenu_dtor __dll66_pausemenu_dtor
-#define pausemenu_update1 __dll66_pausemenu_update1
-#define pausemenu_update2 __dll66_pausemenu_update2
-#define pausemenu_draw __dll66_pausemenu_draw
+#define pausemenu_Update1 __dll66_pausemenu_Update1
+#define pausemenu_Update2 __dll66_pausemenu_Update2
+#define pausemenu_Draw __dll66_pausemenu_Draw
 #define formatCompletionPercentage __dll66_formatCompletionPercentage
 #define formatGameplayTime __dll66_formatGameplayTime
 #define formatSpellStoneCount __dll66_formatSpellStoneCount

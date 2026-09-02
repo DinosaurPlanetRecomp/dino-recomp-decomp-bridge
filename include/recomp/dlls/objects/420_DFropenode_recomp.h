@@ -40,7 +40,6 @@
 #define rodata_128 __dll420_rodata_128
 #define rodata_12C __dll420_rodata_12C
 #define rodata_130 __dll420_rodata_130
-#define rodata_134 __dll420_rodata_134
 #define data_0 __dll420_data_0
 #define data_4 __dll420_data_4
 #define data_8 __dll420_data_8

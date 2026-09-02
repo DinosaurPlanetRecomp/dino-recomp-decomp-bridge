@@ -5,14 +5,14 @@
 
 #define WarpPoint_ctor __dll275_WarpPoint_ctor
 #define WarpPoint_dtor __dll275_WarpPoint_dtor
-#define WarpPoint_setup __dll275_WarpPoint_setup
-#define WarpPoint_control __dll275_WarpPoint_control
-#define WarpPoint_update __dll275_WarpPoint_update
-#define WarpPoint_print __dll275_WarpPoint_print
-#define WarpPoint_free __dll275_WarpPoint_free
-#define WarpPoint_get_model_flags __dll275_WarpPoint_get_model_flags
-#define WarpPoint_get_data_size __dll275_WarpPoint_get_data_size
-#define WarpPoint_anim_callback __dll275_WarpPoint_anim_callback
+#define WarpPoint_obj_Setup __dll275_WarpPoint_obj_Setup
+#define WarpPoint_obj_Control __dll275_WarpPoint_obj_Control
+#define WarpPoint_obj_Update __dll275_WarpPoint_obj_Update
+#define WarpPoint_obj_Print __dll275_WarpPoint_obj_Print
+#define WarpPoint_obj_Free __dll275_WarpPoint_obj_Free
+#define WarpPoint_obj_GetModelFlags __dll275_WarpPoint_obj_GetModelFlags
+#define WarpPoint_obj_GetDataSize __dll275_WarpPoint_obj_GetDataSize
+#define WarpPoint_animCallback __dll275_WarpPoint_animCallback
 #define str_0 __dll275_str_0
 
 #endif //_DLL_275_RECOMP_H

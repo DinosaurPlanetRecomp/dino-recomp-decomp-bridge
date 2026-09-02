@@ -5,14 +5,14 @@
 
 #define SeqObj_ctor __dll309_SeqObj_ctor
 #define SeqObj_dtor __dll309_SeqObj_dtor
-#define SeqObj_setup __dll309_SeqObj_setup
-#define SeqObj_control __dll309_SeqObj_control
-#define SeqObj_update __dll309_SeqObj_update
-#define SeqObj_print __dll309_SeqObj_print
-#define SeqObj_free __dll309_SeqObj_free
-#define SeqObj_get_model_flags __dll309_SeqObj_get_model_flags
-#define SeqObj_get_data_size __dll309_SeqObj_get_data_size
-#define SeqObj_anim_callback __dll309_SeqObj_anim_callback
+#define SeqObj_obj_Setup __dll309_SeqObj_obj_Setup
+#define SeqObj_obj_Control __dll309_SeqObj_obj_Control
+#define SeqObj_obj_Update __dll309_SeqObj_obj_Update
+#define SeqObj_obj_Print __dll309_SeqObj_obj_Print
+#define SeqObj_obj_Free __dll309_SeqObj_obj_Free
+#define SeqObj_obj_GetModelFlags __dll309_SeqObj_obj_GetModelFlags
+#define SeqObj_obj_GetDataSize __dll309_SeqObj_obj_GetDataSize
+#define SeqObj_animCallback __dll309_SeqObj_animCallback
 #define str_0 __dll309_str_0
 
 #endif //_DLL_309_RECOMP_H

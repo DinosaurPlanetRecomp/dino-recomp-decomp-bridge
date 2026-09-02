@@ -3,15 +3,15 @@
 #ifndef _DLL_786_RECOMP_H
 #define _DLL_786_RECOMP_H
 
-#define dll_786_ctor __dll786_dll_786_ctor
-#define dll_786_dtor __dll786_dll_786_dtor
-#define dll_786_setup __dll786_dll_786_setup
-#define dll_786_control __dll786_dll_786_control
-#define dll_786_update __dll786_dll_786_update
-#define dll_786_print __dll786_dll_786_print
-#define dll_786_free __dll786_dll_786_free
-#define dll_786_get_model_flags __dll786_dll_786_get_model_flags
-#define dll_786_get_data_size __dll786_dll_786_get_data_size
+#define WCTempleLift_ctor __dll786_WCTempleLift_ctor
+#define WCTempleLift_dtor __dll786_WCTempleLift_dtor
+#define WCTempleLift_obj_Setup __dll786_WCTempleLift_obj_Setup
+#define WCTempleLift_obj_Control __dll786_WCTempleLift_obj_Control
+#define WCTempleLift_obj_Update __dll786_WCTempleLift_obj_Update
+#define WCTempleLift_obj_Print __dll786_WCTempleLift_obj_Print
+#define WCTempleLift_obj_Free __dll786_WCTempleLift_obj_Free
+#define WCTempleLift_obj_GetModelFlags __dll786_WCTempleLift_obj_GetModelFlags
+#define WCTempleLift_obj_GetDataSize __dll786_WCTempleLift_obj_GetDataSize
 #define _oob_rodata_0 __dll786__oob_rodata_0
 
 #endif //_DLL_786_RECOMP_H

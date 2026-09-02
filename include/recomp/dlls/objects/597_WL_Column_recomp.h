@@ -10,8 +10,8 @@
 #define WL_Column_obj_Update __dll597_WL_Column_obj_Update
 #define WL_Column_obj_Print __dll597_WL_Column_obj_Print
 #define WL_Column_obj_Free __dll597_WL_Column_obj_Free
-#define WL_Column_obj_getModelFlags __dll597_WL_Column_obj_getModelFlags
-#define WL_Column_obj_getDataSize __dll597_WL_Column_obj_getDataSize
+#define WL_Column_obj_GetModelFlags __dll597_WL_Column_obj_GetModelFlags
+#define WL_Column_obj_GetDataSize __dll597_WL_Column_obj_GetDataSize
 #define WL_Column_handlePlayerInteraction __dll597_WL_Column_handlePlayerInteraction
 
 #endif //_DLL_597_RECOMP_H

@@ -4057,12 +4057,12 @@ relocs = [
 functions = [
     { name = "__dll30_task_ctor", vram = 0x81082038, size = 0xC },
     { name = "__dll30_task_dtor", vram = 0x81082044, size = 0xC },
-    { name = "__dll30_task_load_recently_completed", vram = 0x81082050, size = 0xC4 },
-    { name = "__dll30_task_mark_task_completed", vram = 0x81082114, size = 0x28C },
-    { name = "__dll30_task_get_num_recently_completed", vram = 0x810823A0, size = 0x28 },
-    { name = "__dll30_task_get_recently_completed_task_text", vram = 0x810823C8, size = 0x68 },
-    { name = "__dll30_task_get_completion_task_text", vram = 0x81082430, size = 0x5C },
-    { name = "__dll30_task_get_completion_percentage", vram = 0x8108248C, size = 0x6C },
+    { name = "__dll30_task_LoadRecentlyCompleted", vram = 0x81082050, size = 0xC4 },
+    { name = "__dll30_task_MarkTaskCompleted", vram = 0x81082114, size = 0x28C },
+    { name = "__dll30_task_GetNumRecentlyCompleted", vram = 0x810823A0, size = 0x28 },
+    { name = "__dll30_task_GetRecentlyCompletedTaskText", vram = 0x810823C8, size = 0x68 },
+    { name = "__dll30_task_GetCompletionTaskText", vram = 0x81082430, size = 0x5C },
+    { name = "__dll30_task_GetCompletionPercentage", vram = 0x8108248C, size = 0x6C },
 ]
 
 [[section]]
@@ -5184,9 +5184,9 @@ relocs = [
 functions = [
     { name = "__dll66_pausemenu_ctor", vram = 0x810CD02C, size = 0x14C },
     { name = "__dll66_pausemenu_dtor", vram = 0x810CD178, size = 0xAC },
-    { name = "__dll66_pausemenu_update1", vram = 0x810CD224, size = 0x32C },
-    { name = "__dll66_pausemenu_update2", vram = 0x810CD550, size = 0x8 },
-    { name = "__dll66_pausemenu_draw", vram = 0x810CD558, size = 0x864 },
+    { name = "__dll66_pausemenu_Update1", vram = 0x810CD224, size = 0x32C },
+    { name = "__dll66_pausemenu_Update2", vram = 0x810CD550, size = 0x8 },
+    { name = "__dll66_pausemenu_Draw", vram = 0x810CD558, size = 0x864 },
 ]
 
 [[section]]
@@ -5210,9 +5210,9 @@ relocs = [
 functions = [
     { name = "__dll67_gameover_ctor", vram = 0x810CE02C, size = 0x198 },
     { name = "__dll67_gameover_dtor", vram = 0x810CE1C4, size = 0x68 },
-    { name = "__dll67_gameover_update1", vram = 0x810CE22C, size = 0x668 },
-    { name = "__dll67_gameover_update2", vram = 0x810CE894, size = 0x8 },
-    { name = "__dll67_gameover_draw", vram = 0x810CE89C, size = 0xA10 },
+    { name = "__dll67_gameover_Update1", vram = 0x810CE22C, size = 0x668 },
+    { name = "__dll67_gameover_Update2", vram = 0x810CE894, size = 0x8 },
+    { name = "__dll67_gameover_Draw", vram = 0x810CE89C, size = 0xA10 },
 ]
 
 [[section]]
@@ -10137,42 +10137,42 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll225_dll_225_func_0", vram = 0x811BC03C, size = 0x12C },
-    { name = "__dll225_dll_225_ctor", vram = 0x811BC168, size = 0x40 },
-    { name = "__dll225_dll_225_dtor", vram = 0x811BC1A8, size = 0xC },
-    { name = "__dll225_dll_225_setup", vram = 0x811BC1B4, size = 0x130 },
-    { name = "__dll225_dll_225_control", vram = 0x811BC2E4, size = 0x1A8 },
-    { name = "__dll225_dll_225_update", vram = 0x811BC48C, size = 0x50 },
-    { name = "__dll225_dll_225_print", vram = 0x811BC4DC, size = 0x60 },
-    { name = "__dll225_dll_225_free", vram = 0x811BC53C, size = 0xA4 },
-    { name = "__dll225_dll_225_get_model_flags", vram = 0x811BC5E0, size = 0x10 },
-    { name = "__dll225_dll_225_get_data_size", vram = 0x811BC5F0, size = 0x14 },
-    { name = "__dll225_dll_225_func_5C8", vram = 0x811BC604, size = 0x29C },
-    { name = "__dll225_dll_225_func_864", vram = 0x811BC8A0, size = 0x220 },
-    { name = "__dll225_dll_225_func_A84", vram = 0x811BCAC0, size = 0x18C },
-    { name = "__dll225_dll_225_func_C10", vram = 0x811BCC4C, size = 0xF8 },
-    { name = "__dll225_dll_225_func_D08", vram = 0x811BCD44, size = 0xAC },
-    { name = "__dll225_dll_225_func_DB4", vram = 0x811BCDF0, size = 0x184 },
-    { name = "__dll225_dll_225_func_F38", vram = 0x811BCF74, size = 0x1B4 },
-    { name = "__dll225_dll_225_func_10EC", vram = 0x811BD128, size = 0xB8 },
-    { name = "__dll225_dll_225_func_11A4", vram = 0x811BD1E0, size = 0xC0 },
-    { name = "__dll225_dll_225_func_1264", vram = 0x811BD2A0, size = 0xE8 },
-    { name = "__dll225_dll_225_func_134C", vram = 0x811BD388, size = 0xE8 },
-    { name = "__dll225_dll_225_func_1434", vram = 0x811BD470, size = 0xE8 },
-    { name = "__dll225_dll_225_func_151C", vram = 0x811BD558, size = 0xE8 },
-    { name = "__dll225_dll_225_func_1604", vram = 0x811BD640, size = 0x274 },
-    { name = "__dll225_dll_225_func_1878", vram = 0x811BD8B4, size = 0x274 },
-    { name = "__dll225_dll_225_func_1AEC", vram = 0x811BDB28, size = 0x274 },
-    { name = "__dll225_dll_225_func_1D60", vram = 0x811BDD9C, size = 0x100 },
-    { name = "__dll225_dll_225_func_1E60", vram = 0x811BDE9C, size = 0xC0 },
-    { name = "__dll225_dll_225_func_1F20", vram = 0x811BDF5C, size = 0x18 },
-    { name = "__dll225_dll_225_func_1F38", vram = 0x811BDF74, size = 0xD8 },
-    { name = "__dll225_dll_225_func_2010", vram = 0x811BE04C, size = 0x18 },
-    { name = "__dll225_dll_225_func_2028", vram = 0x811BE064, size = 0x74 },
-    { name = "__dll225_dll_225_func_209C", vram = 0x811BE0D8, size = 0xF4 },
-    { name = "__dll225_dll_225_func_2190", vram = 0x811BE1CC, size = 0x68 },
-    { name = "__dll225_dll_225_func_21F8", vram = 0x811BE234, size = 0x20C },
-    { name = "__dll225_dll_225_func_2404", vram = 0x811BE440, size = 0x64C },
+    { name = "__dll225_SabreBaddie_initFSACallbacks", vram = 0x811BC03C, size = 0x12C },
+    { name = "__dll225_SabreBaddie_ctor", vram = 0x811BC168, size = 0x40 },
+    { name = "__dll225_SabreBaddie_dtor", vram = 0x811BC1A8, size = 0xC },
+    { name = "__dll225_SabreBaddie_obj_Setup", vram = 0x811BC1B4, size = 0x130 },
+    { name = "__dll225_SabreBaddie_obj_Control", vram = 0x811BC2E4, size = 0x1A8 },
+    { name = "__dll225_SabreBaddie_obj_Update", vram = 0x811BC48C, size = 0x50 },
+    { name = "__dll225_SabreBaddie_obj_Print", vram = 0x811BC4DC, size = 0x60 },
+    { name = "__dll225_SabreBaddie_obj_Free", vram = 0x811BC53C, size = 0xA4 },
+    { name = "__dll225_SabreBaddie_obj_GetModelFlags", vram = 0x811BC5E0, size = 0x10 },
+    { name = "__dll225_SabreBaddie_obj_GetDataSize", vram = 0x811BC5F0, size = 0x14 },
+    { name = "__dll225_SabreBaddie_func_5C8", vram = 0x811BC604, size = 0x29C },
+    { name = "__dll225_SabreBaddie_func_864", vram = 0x811BC8A0, size = 0x220 },
+    { name = "__dll225_SabreBaddie_func_A84", vram = 0x811BCAC0, size = 0x18C },
+    { name = "__dll225_SabreBaddie_func_C10", vram = 0x811BCC4C, size = 0xF8 },
+    { name = "__dll225_SabreBaddie_animState0", vram = 0x811BCD44, size = 0xAC },
+    { name = "__dll225_SabreBaddie_animState1", vram = 0x811BCDF0, size = 0x184 },
+    { name = "__dll225_SabreBaddie_animState2", vram = 0x811BCF74, size = 0x1B4 },
+    { name = "__dll225_SabreBaddie_animState3", vram = 0x811BD128, size = 0xB8 },
+    { name = "__dll225_SabreBaddie_animState4", vram = 0x811BD1E0, size = 0xC0 },
+    { name = "__dll225_SabreBaddie_animState5", vram = 0x811BD2A0, size = 0xE8 },
+    { name = "__dll225_SabreBaddie_animState6", vram = 0x811BD388, size = 0xE8 },
+    { name = "__dll225_SabreBaddie_animState7", vram = 0x811BD470, size = 0xE8 },
+    { name = "__dll225_SabreBaddie_animState8", vram = 0x811BD558, size = 0xE8 },
+    { name = "__dll225_SabreBaddie_animState9", vram = 0x811BD640, size = 0x274 },
+    { name = "__dll225_SabreBaddie_animState10", vram = 0x811BD8B4, size = 0x274 },
+    { name = "__dll225_SabreBaddie_animState11", vram = 0x811BDB28, size = 0x274 },
+    { name = "__dll225_SabreBaddie_animState12", vram = 0x811BDD9C, size = 0x100 },
+    { name = "__dll225_SabreBaddie_animState13", vram = 0x811BDE9C, size = 0xC0 },
+    { name = "__dll225_SabreBaddie_logicState0", vram = 0x811BDF5C, size = 0x18 },
+    { name = "__dll225_SabreBaddie_logicState1", vram = 0x811BDF74, size = 0xD8 },
+    { name = "__dll225_SabreBaddie_logicState2", vram = 0x811BE04C, size = 0x18 },
+    { name = "__dll225_SabreBaddie_logicState3", vram = 0x811BE064, size = 0x74 },
+    { name = "__dll225_SabreBaddie_logicState4", vram = 0x811BE0D8, size = 0xF4 },
+    { name = "__dll225_SabreBaddie_logicState5", vram = 0x811BE1CC, size = 0x68 },
+    { name = "__dll225_SabreBaddie_logicState6", vram = 0x811BE234, size = 0x20C },
+    { name = "__dll225_SabreBaddie_logicState7", vram = 0x811BE440, size = 0x64C },
 ]
 
 [[section]]
@@ -10196,15 +10196,15 @@ relocs = [
 functions = [
     { name = "__dll226_TumbleweedBush_ctor", vram = 0x811BF040, size = 0xC },
     { name = "__dll226_TumbleweedBush_dtor", vram = 0x811BF04C, size = 0xC },
-    { name = "__dll226_TumbleweedBush_setup", vram = 0x811BF058, size = 0x234 },
-    { name = "__dll226_TumbleweedBush_control", vram = 0x811BF28C, size = 0x2C0 },
-    { name = "__dll226_TumbleweedBush_update", vram = 0x811BF54C, size = 0xC },
-    { name = "__dll226_TumbleweedBush_print", vram = 0x811BF558, size = 0x90 },
-    { name = "__dll226_TumbleweedBush_free", vram = 0x811BF5E8, size = 0x10 },
-    { name = "__dll226_TumbleweedBush_get_model_flags", vram = 0x811BF5F8, size = 0x10 },
-    { name = "__dll226_TumbleweedBush_get_data_size", vram = 0x811BF608, size = 0x14 },
-    { name = "__dll226_TumbleweedBush_remove_tumbleweed", vram = 0x811BF61C, size = 0x44 },
-    { name = "__dll226_TumbleweedBush_create_tumbleweed", vram = 0x811BF660, size = 0x3B0 },
+    { name = "__dll226_TumbleweedBush_obj_Setup", vram = 0x811BF058, size = 0x234 },
+    { name = "__dll226_TumbleweedBush_obj_Control", vram = 0x811BF28C, size = 0x2C0 },
+    { name = "__dll226_TumbleweedBush_obj_Update", vram = 0x811BF54C, size = 0xC },
+    { name = "__dll226_TumbleweedBush_obj_Print", vram = 0x811BF558, size = 0x90 },
+    { name = "__dll226_TumbleweedBush_obj_Free", vram = 0x811BF5E8, size = 0x10 },
+    { name = "__dll226_TumbleweedBush_obj_GetModelFlags", vram = 0x811BF5F8, size = 0x10 },
+    { name = "__dll226_TumbleweedBush_obj_GetDataSize", vram = 0x811BF608, size = 0x14 },
+    { name = "__dll226_TumbleweedBush_RemoveTumbleweed", vram = 0x811BF61C, size = 0x44 },
+    { name = "__dll226_TumbleweedBush_createTumbleweed", vram = 0x811BF660, size = 0x3B0 },
 ]
 
 [[section]]
@@ -10246,26 +10246,26 @@ relocs = [
 functions = [
     { name = "__dll227_Tumbleweed_ctor", vram = 0x811C0054, size = 0xC },
     { name = "__dll227_Tumbleweed_dtor", vram = 0x811C0060, size = 0xC },
-    { name = "__dll227_Tumbleweed_setup", vram = 0x811C006C, size = 0x33C },
-    { name = "__dll227_Tumbleweed_control", vram = 0x811C03A8, size = 0xCC },
-    { name = "__dll227_Tumbleweed_tick_handle_flags", vram = 0x811C0474, size = 0x238 },
-    { name = "__dll227_Tumbleweed_tick_chase_player", vram = 0x811C06AC, size = 0x5AC },
-    { name = "__dll227_Tumbleweed_tick_flee_from_player", vram = 0x811C0C58, size = 0x914 },
-    { name = "__dll227_Tumbleweed_update", vram = 0x811C156C, size = 0xC },
-    { name = "__dll227_Tumbleweed_print", vram = 0x811C1578, size = 0x54 },
-    { name = "__dll227_Tumbleweed_free", vram = 0x811C15CC, size = 0x180 },
-    { name = "__dll227_Tumbleweed_get_model_flags", vram = 0x811C174C, size = 0x10 },
-    { name = "__dll227_Tumbleweed_get_data_size", vram = 0x811C175C, size = 0x14 },
-    { name = "__dll227_Tumbleweed_get_state", vram = 0x811C1770, size = 0x10 },
-    { name = "__dll227_Tumbleweed_set_home", vram = 0x811C1780, size = 0x20 },
-    { name = "__dll227_Tumbleweed_fall", vram = 0x811C17A0, size = 0x74 },
-    { name = "__dll227_Tumbleweed_gravitate_towards_point", vram = 0x811C1814, size = 0x68 },
-    { name = "__dll227_Tumbleweed_is_gravitating", vram = 0x811C187C, size = 0x18 },
-    { name = "__dll227_Tumbleweed_store_player", vram = 0x811C1894, size = 0x10 },
-    { name = "__dll227_Tumbleweed_bounce_and_roll", vram = 0x811C18A4, size = 0x514 },
-    { name = "__dll227_Tumbleweed_handle_carry_behaviour", vram = 0x811C1DB8, size = 0x23C },
-    { name = "__dll227_Tumbleweed_did_player_lift_twig", vram = 0x811C1FF4, size = 0x98 },
-    { name = "__dll227_Tumbleweed_create_twigs", vram = 0x811C208C, size = 0x138 },
+    { name = "__dll227_Tumbleweed_obj_Setup", vram = 0x811C006C, size = 0x33C },
+    { name = "__dll227_Tumbleweed_obj_Control", vram = 0x811C03A8, size = 0xCC },
+    { name = "__dll227_Tumbleweed_handleFlags", vram = 0x811C0474, size = 0x238 },
+    { name = "__dll227_Tumbleweed_chasePlayer", vram = 0x811C06AC, size = 0x5AC },
+    { name = "__dll227_Tumbleweed_fleeFromPlayer", vram = 0x811C0C58, size = 0x914 },
+    { name = "__dll227_Tumbleweed_obj_Update", vram = 0x811C156C, size = 0xC },
+    { name = "__dll227_Tumbleweed_obj_Print", vram = 0x811C1578, size = 0x54 },
+    { name = "__dll227_Tumbleweed_obj_Free", vram = 0x811C15CC, size = 0x180 },
+    { name = "__dll227_Tumbleweed_obj_GetModelFlags", vram = 0x811C174C, size = 0x10 },
+    { name = "__dll227_Tumbleweed_obj_GetDataSize", vram = 0x811C175C, size = 0x14 },
+    { name = "__dll227_Tumbleweed_GetState", vram = 0x811C1770, size = 0x10 },
+    { name = "__dll227_Tumbleweed_SetHome", vram = 0x811C1780, size = 0x20 },
+    { name = "__dll227_Tumbleweed_Fall", vram = 0x811C17A0, size = 0x74 },
+    { name = "__dll227_Tumbleweed_GravitateTowardsPoint", vram = 0x811C1814, size = 0x68 },
+    { name = "__dll227_Tumbleweed_IsGravitating", vram = 0x811C187C, size = 0x18 },
+    { name = "__dll227_Tumbleweed_StorePlayer", vram = 0x811C1894, size = 0x10 },
+    { name = "__dll227_Tumbleweed_bounceAndRoll", vram = 0x811C18A4, size = 0x514 },
+    { name = "__dll227_Tumbleweed_handleCarryBehaviour", vram = 0x811C1DB8, size = 0x23C },
+    { name = "__dll227_Tumbleweed_didPlayerLiftTwig", vram = 0x811C1FF4, size = 0x98 },
+    { name = "__dll227_Tumbleweed_createTwigs", vram = 0x811C208C, size = 0x138 },
 ]
 
 [[section]]
@@ -10621,24 +10621,24 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll232_dll_232_func_0", vram = 0x811CE03C, size = 0x78 },
-    { name = "__dll232_dll_232_ctor", vram = 0x811CE0B4, size = 0x40 },
-    { name = "__dll232_dll_232_dtor", vram = 0x811CE0F4, size = 0xC },
-    { name = "__dll232_dll_232_setup", vram = 0x811CE100, size = 0x178 },
-    { name = "__dll232_dll_232_control", vram = 0x811CE278, size = 0x5EC },
-    { name = "__dll232_dll_232_update", vram = 0x811CE864, size = 0xC },
-    { name = "__dll232_dll_232_print", vram = 0x811CE870, size = 0x60 },
-    { name = "__dll232_dll_232_free", vram = 0x811CE8D0, size = 0xA4 },
-    { name = "__dll232_dll_232_get_model_flags", vram = 0x811CE974, size = 0x10 },
-    { name = "__dll232_dll_232_get_data_size", vram = 0x811CE984, size = 0x14 },
-    { name = "__dll232_dll_232_func_95C", vram = 0x811CE998, size = 0x1C },
-    { name = "__dll232_dll_232_func_978", vram = 0x811CE9B4, size = 0x110 },
-    { name = "__dll232_dll_232_func_A88", vram = 0x811CEAC4, size = 0x30 },
-    { name = "__dll232_dll_232_func_AB8", vram = 0x811CEAF4, size = 0x238 },
-    { name = "__dll232_dll_232_func_CF0", vram = 0x811CED2C, size = 0x14C },
-    { name = "__dll232_dll_232_func_E3C", vram = 0x811CEE78, size = 0x8C },
-    { name = "__dll232_dll_232_func_EC8", vram = 0x811CEF04, size = 0x144 },
-    { name = "__dll232_dll_232_func_100C", vram = 0x811CF048, size = 0xB4 },
+    { name = "__dll232_VampireBat_initFSACallbacks", vram = 0x811CE03C, size = 0x78 },
+    { name = "__dll232_VampireBat_ctor", vram = 0x811CE0B4, size = 0x40 },
+    { name = "__dll232_VampireBat_dtor", vram = 0x811CE0F4, size = 0xC },
+    { name = "__dll232_VampireBat_obj_Setup", vram = 0x811CE100, size = 0x178 },
+    { name = "__dll232_VampireBat_obj_Control", vram = 0x811CE278, size = 0x5EC },
+    { name = "__dll232_VampireBat_obj_Update", vram = 0x811CE864, size = 0xC },
+    { name = "__dll232_VampireBat_obj_Print", vram = 0x811CE870, size = 0x60 },
+    { name = "__dll232_VampireBat_obj_Free", vram = 0x811CE8D0, size = 0xA4 },
+    { name = "__dll232_VampireBat_obj_GetModelFlags", vram = 0x811CE974, size = 0x10 },
+    { name = "__dll232_VampireBat_obj_GetDataSize", vram = 0x811CE984, size = 0x14 },
+    { name = "__dll232_VampireBat_animState0Flying", vram = 0x811CE998, size = 0x1C },
+    { name = "__dll232_VampireBat_animState1Hit", vram = 0x811CE9B4, size = 0x110 },
+    { name = "__dll232_VampireBat_logicState0Top", vram = 0x811CEAC4, size = 0x30 },
+    { name = "__dll232_VampireBat_handleMotion", vram = 0x811CEAF4, size = 0x238 },
+    { name = "__dll232_VampireBat_logicState2FlyRandom", vram = 0x811CED2C, size = 0x14C },
+    { name = "__dll232_VampireBat_logicState2FlyTarget", vram = 0x811CEE78, size = 0x8C },
+    { name = "__dll232_VampireBat_logicState3Dying", vram = 0x811CEF04, size = 0x144 },
+    { name = "__dll232_VampireBat_logicState4Dead", vram = 0x811CF048, size = 0xB4 },
 ]
 
 [[section]]
@@ -12266,13 +12266,13 @@ relocs = [
 functions = [
     { name = "__dll273_EffectBox_ctor", vram = 0x8120C03C, size = 0xC },
     { name = "__dll273_EffectBox_dtor", vram = 0x8120C048, size = 0xC },
-    { name = "__dll273_EffectBox_setup", vram = 0x8120C054, size = 0x84 },
-    { name = "__dll273_EffectBox_control", vram = 0x8120C0D8, size = 0x3C0 },
-    { name = "__dll273_EffectBox_update", vram = 0x8120C498, size = 0xC },
-    { name = "__dll273_EffectBox_print", vram = 0x8120C4A4, size = 0x54 },
-    { name = "__dll273_EffectBox_free", vram = 0x8120C4F8, size = 0x3C },
-    { name = "__dll273_EffectBox_get_model_flags", vram = 0x8120C534, size = 0x10 },
-    { name = "__dll273_EffectBox_get_data_size", vram = 0x8120C544, size = 0x18 },
+    { name = "__dll273_EffectBox_obj_Setup", vram = 0x8120C054, size = 0x84 },
+    { name = "__dll273_EffectBox_obj_Control", vram = 0x8120C0D8, size = 0x3C0 },
+    { name = "__dll273_EffectBox_obj_Update", vram = 0x8120C498, size = 0xC },
+    { name = "__dll273_EffectBox_obj_Print", vram = 0x8120C4A4, size = 0x54 },
+    { name = "__dll273_EffectBox_obj_Free", vram = 0x8120C4F8, size = 0x3C },
+    { name = "__dll273_EffectBox_obj_GetModelFlags", vram = 0x8120C534, size = 0x10 },
+    { name = "__dll273_EffectBox_obj_GetDataSize", vram = 0x8120C544, size = 0x18 },
 ]
 
 [[section]]
@@ -12361,14 +12361,14 @@ relocs = [
 functions = [
     { name = "__dll275_WarpPoint_ctor", vram = 0x8121003C, size = 0xC },
     { name = "__dll275_WarpPoint_dtor", vram = 0x81210048, size = 0xC },
-    { name = "__dll275_WarpPoint_setup", vram = 0x81210054, size = 0x94 },
-    { name = "__dll275_WarpPoint_control", vram = 0x812100E8, size = 0x790 },
-    { name = "__dll275_WarpPoint_update", vram = 0x81210878, size = 0xC },
-    { name = "__dll275_WarpPoint_print", vram = 0x81210884, size = 0x20 },
-    { name = "__dll275_WarpPoint_free", vram = 0x812108A4, size = 0x10 },
-    { name = "__dll275_WarpPoint_get_model_flags", vram = 0x812108B4, size = 0x10 },
-    { name = "__dll275_WarpPoint_get_data_size", vram = 0x812108C4, size = 0x14 },
-    { name = "__dll275_WarpPoint_anim_callback", vram = 0x812108D8, size = 0x84 },
+    { name = "__dll275_WarpPoint_obj_Setup", vram = 0x81210054, size = 0x94 },
+    { name = "__dll275_WarpPoint_obj_Control", vram = 0x812100E8, size = 0x790 },
+    { name = "__dll275_WarpPoint_obj_Update", vram = 0x81210878, size = 0xC },
+    { name = "__dll275_WarpPoint_obj_Print", vram = 0x81210884, size = 0x20 },
+    { name = "__dll275_WarpPoint_obj_Free", vram = 0x812108A4, size = 0x10 },
+    { name = "__dll275_WarpPoint_obj_GetModelFlags", vram = 0x812108B4, size = 0x10 },
+    { name = "__dll275_WarpPoint_obj_GetDataSize", vram = 0x812108C4, size = 0x14 },
+    { name = "__dll275_WarpPoint_animCallback", vram = 0x812108D8, size = 0x84 },
 ]
 
 [[section]]
@@ -12611,18 +12611,18 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll283_krazoatext_ctor", vram = 0x81219040, size = 0xC },
-    { name = "__dll283_krazoatext_dtor", vram = 0x8121904C, size = 0xC },
-    { name = "__dll283_krazoatext_setup", vram = 0x81219058, size = 0x70 },
-    { name = "__dll283_krazoatext_control", vram = 0x812190C8, size = 0x29C },
-    { name = "__dll283_krazoatext_update", vram = 0x81219364, size = 0xC },
-    { name = "__dll283_krazoatext_print", vram = 0x81219370, size = 0x74 },
-    { name = "__dll283_krazoatext_free", vram = 0x812193E4, size = 0x70 },
-    { name = "__dll283_krazoatext_get_model_flags", vram = 0x81219454, size = 0x10 },
-    { name = "__dll283_krazoatext_get_data_size", vram = 0x81219464, size = 0x14 },
-    { name = "__dll283_krazoatext_print_text", vram = 0x81219478, size = 0x12C },
-    { name = "__dll283_krazoatext_load_required_glyph_textures", vram = 0x812195A4, size = 0xB8 },
-    { name = "__dll283_krazoatext_unload_all_glyph_textures", vram = 0x8121965C, size = 0x94 },
+    { name = "__dll283_KrazoaText_ctor", vram = 0x81219040, size = 0xC },
+    { name = "__dll283_KrazoaText_dtor", vram = 0x8121904C, size = 0xC },
+    { name = "__dll283_KrazoaText_obj_Setup", vram = 0x81219058, size = 0x70 },
+    { name = "__dll283_KrazoaText_obj_Control", vram = 0x812190C8, size = 0x29C },
+    { name = "__dll283_KrazoaText_obj_Update", vram = 0x81219364, size = 0xC },
+    { name = "__dll283_KrazoaText_obj_Print", vram = 0x81219370, size = 0x74 },
+    { name = "__dll283_KrazoaText_obj_Free", vram = 0x812193E4, size = 0x70 },
+    { name = "__dll283_KrazoaText_obj_GetModelFlags", vram = 0x81219454, size = 0x10 },
+    { name = "__dll283_KrazoaText_obj_GetDataSize", vram = 0x81219464, size = 0x14 },
+    { name = "__dll283_KrazoaText_PrintText", vram = 0x81219478, size = 0x12C },
+    { name = "__dll283_KrazoaText_loadRequiredGlyphTextures", vram = 0x812195A4, size = 0xB8 },
+    { name = "__dll283_KrazoaText_unloadAllGlyphTextures", vram = 0x8121965C, size = 0x94 },
 ]
 
 [[section]]
@@ -12646,16 +12646,16 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll284_levelname_ctor", vram = 0x8121A03C, size = 0xC },
-    { name = "__dll284_levelname_dtor", vram = 0x8121A048, size = 0xC },
-    { name = "__dll284_levelname_setup", vram = 0x8121A054, size = 0x108 },
-    { name = "__dll284_levelname_control", vram = 0x8121A15C, size = 0x1E4 },
-    { name = "__dll284_levelname_update", vram = 0x8121A340, size = 0xC },
-    { name = "__dll284_levelname_print", vram = 0x8121A34C, size = 0x170 },
-    { name = "__dll284_levelname_free", vram = 0x8121A4BC, size = 0x64 },
-    { name = "__dll284_levelname_get_model_flags", vram = 0x8121A520, size = 0x10 },
-    { name = "__dll284_levelname_get_data_size", vram = 0x8121A530, size = 0x14 },
-    { name = "__dll284_levelname_anim_callback", vram = 0x8121A544, size = 0xA8 },
+    { name = "__dll284_LevelName_ctor", vram = 0x8121A03C, size = 0xC },
+    { name = "__dll284_LevelName_dtor", vram = 0x8121A048, size = 0xC },
+    { name = "__dll284_LevelName_obj_Setup", vram = 0x8121A054, size = 0x108 },
+    { name = "__dll284_LevelName_obj_Control", vram = 0x8121A15C, size = 0x1E4 },
+    { name = "__dll284_LevelName_obj_Update", vram = 0x8121A340, size = 0xC },
+    { name = "__dll284_LevelName_obj_Print", vram = 0x8121A34C, size = 0x170 },
+    { name = "__dll284_LevelName_obj_Free", vram = 0x8121A4BC, size = 0x64 },
+    { name = "__dll284_LevelName_obj_GetModelFlags", vram = 0x8121A520, size = 0x10 },
+    { name = "__dll284_LevelName_obj_GetDataSize", vram = 0x8121A530, size = 0x14 },
+    { name = "__dll284_LevelName_animCallback", vram = 0x8121A544, size = 0xA8 },
 ]
 
 [[section]]
@@ -12679,14 +12679,14 @@ relocs = [
 functions = [
     { name = "__dll285_ProjectileSwitch_ctor", vram = 0x8121B03C, size = 0xC },
     { name = "__dll285_ProjectileSwitch_dtor", vram = 0x8121B048, size = 0xC },
-    { name = "__dll285_ProjectileSwitch_setup", vram = 0x8121B054, size = 0x198 },
-    { name = "__dll285_ProjectileSwitch_control", vram = 0x8121B1EC, size = 0x1E8 },
-    { name = "__dll285_ProjectileSwitch_update", vram = 0x8121B3D4, size = 0xC },
-    { name = "__dll285_ProjectileSwitch_print", vram = 0x8121B3E0, size = 0x9C },
-    { name = "__dll285_ProjectileSwitch_free", vram = 0x8121B47C, size = 0x10 },
-    { name = "__dll285_ProjectileSwitch_get_model_flags", vram = 0x8121B48C, size = 0x38 },
-    { name = "__dll285_ProjectileSwitch_get_data_size", vram = 0x8121B4C4, size = 0x14 },
-    { name = "__dll285_ProjectileSwitch_change_state", vram = 0x8121B4D8, size = 0xC4 },
+    { name = "__dll285_ProjectileSwitch_obj_Setup", vram = 0x8121B054, size = 0x198 },
+    { name = "__dll285_ProjectileSwitch_obj_Control", vram = 0x8121B1EC, size = 0x1E8 },
+    { name = "__dll285_ProjectileSwitch_obj_Update", vram = 0x8121B3D4, size = 0xC },
+    { name = "__dll285_ProjectileSwitch_obj_Print", vram = 0x8121B3E0, size = 0x9C },
+    { name = "__dll285_ProjectileSwitch_obj_Free", vram = 0x8121B47C, size = 0x10 },
+    { name = "__dll285_ProjectileSwitch_obj_GetModelFlags", vram = 0x8121B48C, size = 0x38 },
+    { name = "__dll285_ProjectileSwitch_obj_GetDataSize", vram = 0x8121B4C4, size = 0x14 },
+    { name = "__dll285_ProjectileSwitch_changeState", vram = 0x8121B4D8, size = 0xC4 },
 ]
 
 [[section]]
@@ -12736,18 +12736,18 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll287_pressureswitch_ctor", vram = 0x8121D03C, size = 0xC },
-    { name = "__dll287_pressureswitch_dtor", vram = 0x8121D048, size = 0xC },
-    { name = "__dll287_pressureswitch_setup", vram = 0x8121D054, size = 0x130 },
-    { name = "__dll287_pressureswitch_control", vram = 0x8121D184, size = 0x3DC },
-    { name = "__dll287_pressureswitch_update", vram = 0x8121D560, size = 0xC },
-    { name = "__dll287_pressureswitch_print", vram = 0x8121D56C, size = 0x54 },
-    { name = "__dll287_pressureswitch_free", vram = 0x8121D5C0, size = 0x80 },
-    { name = "__dll287_pressureswitch_get_model_flags", vram = 0x8121D640, size = 0x10 },
-    { name = "__dll287_pressureswitch_get_data_size", vram = 0x8121D650, size = 0x14 },
-    { name = "__dll287_pressureswitch_add_object", vram = 0x8121D664, size = 0x6C },
-    { name = "__dll287_pressureswitch_is_object_on_switch", vram = 0x8121D6D0, size = 0x84 },
-    { name = "__dll287_pressureswitch_anim_callback", vram = 0x8121D754, size = 0x108 },
+    { name = "__dll287_PressureSwitch_ctor", vram = 0x8121D03C, size = 0xC },
+    { name = "__dll287_PressureSwitch_dtor", vram = 0x8121D048, size = 0xC },
+    { name = "__dll287_PressureSwitch_obj_Setup", vram = 0x8121D054, size = 0x130 },
+    { name = "__dll287_PressureSwitch_obj_Control", vram = 0x8121D184, size = 0x3DC },
+    { name = "__dll287_PressureSwitch_obj_Update", vram = 0x8121D560, size = 0xC },
+    { name = "__dll287_PressureSwitch_obj_Print", vram = 0x8121D56C, size = 0x54 },
+    { name = "__dll287_PressureSwitch_obj_Free", vram = 0x8121D5C0, size = 0x80 },
+    { name = "__dll287_PressureSwitch_obj_GetModelFlags", vram = 0x8121D640, size = 0x10 },
+    { name = "__dll287_PressureSwitch_obj_GetDataSize", vram = 0x8121D650, size = 0x14 },
+    { name = "__dll287_PressureSwitch_addObject", vram = 0x8121D664, size = 0x6C },
+    { name = "__dll287_PressureSwitch_isObjectOnSwitch", vram = 0x8121D6D0, size = 0x84 },
+    { name = "__dll287_PressureSwitch_animCallback", vram = 0x8121D754, size = 0x108 },
 ]
 
 [[section]]
@@ -12842,20 +12842,20 @@ relocs = [
 functions = [
     { name = "__dll290_MagicPlant_ctor", vram = 0x8122003C, size = 0xC },
     { name = "__dll290_MagicPlant_dtor", vram = 0x81220048, size = 0xC },
-    { name = "__dll290_MagicPlant_setup", vram = 0x81220054, size = 0x148 },
-    { name = "__dll290_MagicPlant_control", vram = 0x8122019C, size = 0x1A0 },
-    { name = "__dll290_MagicPlant_update", vram = 0x8122033C, size = 0xC },
-    { name = "__dll290_MagicPlant_print", vram = 0x81220348, size = 0x220 },
-    { name = "__dll290_MagicPlant_free", vram = 0x81220568, size = 0xA0 },
-    { name = "__dll290_MagicPlant_get_model_flags", vram = 0x81220608, size = 0x18 },
-    { name = "__dll290_MagicPlant_get_data_size", vram = 0x81220620, size = 0x14 },
-    { name = "__dll290_MagicPlant_create_magic_dust", vram = 0x81220634, size = 0xD4 },
-    { name = "__dll290_MagicPlant_handle_state_growing", vram = 0x81220708, size = 0x11C },
-    { name = "__dll290_MagicPlant_handle_state_idle", vram = 0x81220824, size = 0x418 },
-    { name = "__dll290_MagicPlant_handle_state_damaged", vram = 0x81220C3C, size = 0x204 },
-    { name = "__dll290_MagicPlant_handle_state_wilting", vram = 0x81220E40, size = 0xD4 },
-    { name = "__dll290_MagicPlant_handle_state_bud", vram = 0x81220F14, size = 0xBC },
-    { name = "__dll290_MagicPlant_get_growth_tvalue", vram = 0x81220FD0, size = 0xBC },
+    { name = "__dll290_MagicPlant_obj_Setup", vram = 0x81220054, size = 0x148 },
+    { name = "__dll290_MagicPlant_obj_Control", vram = 0x8122019C, size = 0x1A0 },
+    { name = "__dll290_MagicPlant_obj_Update", vram = 0x8122033C, size = 0xC },
+    { name = "__dll290_MagicPlant_obj_Print", vram = 0x81220348, size = 0x220 },
+    { name = "__dll290_MagicPlant_obj_Free", vram = 0x81220568, size = 0xA0 },
+    { name = "__dll290_MagicPlant_obj_GetModelFlags", vram = 0x81220608, size = 0x18 },
+    { name = "__dll290_MagicPlant_obj_GetDataSize", vram = 0x81220620, size = 0x14 },
+    { name = "__dll290_MagicPlant_createMagicDust", vram = 0x81220634, size = 0xD4 },
+    { name = "__dll290_MagicPlant_handleStateGrowing", vram = 0x81220708, size = 0x11C },
+    { name = "__dll290_MagicPlant_handleStateIdle", vram = 0x81220824, size = 0x418 },
+    { name = "__dll290_MagicPlant_handleStateDamaged", vram = 0x81220C3C, size = 0x204 },
+    { name = "__dll290_MagicPlant_handleStateWilting", vram = 0x81220E40, size = 0xD4 },
+    { name = "__dll290_MagicPlant_handleStateBud", vram = 0x81220F14, size = 0xBC },
+    { name = "__dll290_MagicPlant_getGrowthTValue", vram = 0x81220FD0, size = 0xBC },
 ]
 
 [[section]]
@@ -12879,13 +12879,13 @@ relocs = [
 functions = [
     { name = "__dll291_MagicDust_ctor", vram = 0x8122203C, size = 0xC },
     { name = "__dll291_MagicDust_dtor", vram = 0x81222048, size = 0xC },
-    { name = "__dll291_MagicDust_setup", vram = 0x81222054, size = 0x3D8 },
-    { name = "__dll291_MagicDust_control", vram = 0x8122242C, size = 0xB0C },
-    { name = "__dll291_MagicDust_update", vram = 0x81222F38, size = 0xC },
-    { name = "__dll291_MagicDust_print", vram = 0x81222F44, size = 0x60 },
-    { name = "__dll291_MagicDust_free", vram = 0x81222FA4, size = 0x10 },
-    { name = "__dll291_MagicDust_get_model_flags", vram = 0x81222FB4, size = 0x10 },
-    { name = "__dll291_MagicDust_get_data_size", vram = 0x81222FC4, size = 0x14 },
+    { name = "__dll291_MagicDust_obj_Setup", vram = 0x81222054, size = 0x3D8 },
+    { name = "__dll291_MagicDust_obj_Control", vram = 0x8122242C, size = 0xB0C },
+    { name = "__dll291_MagicDust_obj_Update", vram = 0x81222F38, size = 0xC },
+    { name = "__dll291_MagicDust_obj_Print", vram = 0x81222F44, size = 0x60 },
+    { name = "__dll291_MagicDust_obj_Free", vram = 0x81222FA4, size = 0x10 },
+    { name = "__dll291_MagicDust_obj_GetModelFlags", vram = 0x81222FB4, size = 0x10 },
+    { name = "__dll291_MagicDust_obj_GetDataSize", vram = 0x81222FC4, size = 0x14 },
     { name = "__dll291_MagicDust_collect", vram = 0x81222FD8, size = 0x84 },
 ]
 
@@ -13229,15 +13229,15 @@ relocs = [
 functions = [
     { name = "__dll302_Fall_Ladders_ctor", vram = 0x8123303C, size = 0xC },
     { name = "__dll302_Fall_Ladders_dtor", vram = 0x81233048, size = 0xC },
-    { name = "__dll302_Fall_Ladders_setup", vram = 0x81233054, size = 0xAC },
-    { name = "__dll302_Fall_Ladders_control", vram = 0x81233100, size = 0x1F0 },
-    { name = "__dll302_Fall_Ladders_update", vram = 0x812332F0, size = 0xC },
-    { name = "__dll302_Fall_Ladders_print", vram = 0x812332FC, size = 0x18 },
-    { name = "__dll302_Fall_Ladders_free", vram = 0x81233314, size = 0x48 },
-    { name = "__dll302_Fall_Ladders_get_model_flags", vram = 0x8123335C, size = 0x10 },
-    { name = "__dll302_Fall_Ladders_get_data_size", vram = 0x8123336C, size = 0x14 },
-    { name = "__dll302_Fall_Ladders_fall_or_rise_by_sequence", vram = 0x81233380, size = 0xE8 },
-    { name = "__dll302_Fall_Ladders_anim_callback", vram = 0x81233468, size = 0x24 },
+    { name = "__dll302_Fall_Ladders_obj_Setup", vram = 0x81233054, size = 0xAC },
+    { name = "__dll302_Fall_Ladders_obj_Control", vram = 0x81233100, size = 0x1F0 },
+    { name = "__dll302_Fall_Ladders_obj_Update", vram = 0x812332F0, size = 0xC },
+    { name = "__dll302_Fall_Ladders_obj_Print", vram = 0x812332FC, size = 0x18 },
+    { name = "__dll302_Fall_Ladders_obj_Free", vram = 0x81233314, size = 0x48 },
+    { name = "__dll302_Fall_Ladders_obj_GetModelFlags", vram = 0x8123335C, size = 0x10 },
+    { name = "__dll302_Fall_Ladders_obj_GetDataSize", vram = 0x8123336C, size = 0x14 },
+    { name = "__dll302_Fall_Ladders_fallOrRiseBySequence", vram = 0x81233380, size = 0xE8 },
+    { name = "__dll302_Fall_Ladders_animCallback", vram = 0x81233468, size = 0x24 },
 ]
 
 [[section]]
@@ -13371,18 +13371,18 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll306_dll_306_ctor", vram = 0x8123703C, size = 0xC },
-    { name = "__dll306_dll_306_dtor", vram = 0x81237048, size = 0xC },
-    { name = "__dll306_dll_306_obj_Setup", vram = 0x81237054, size = 0x344 },
-    { name = "__dll306_dll_306_obj_Control", vram = 0x81237398, size = 0x2B4 },
-    { name = "__dll306_dll_306_obj_Update", vram = 0x8123764C, size = 0xC },
-    { name = "__dll306_dll_306_obj_Print", vram = 0x81237658, size = 0x6C },
-    { name = "__dll306_dll_306_obj_Free", vram = 0x812376C4, size = 0x10 },
-    { name = "__dll306_dll_306_obj_GetModelFlags", vram = 0x812376D4, size = 0x34 },
-    { name = "__dll306_dll_306_obj_GetDataSize", vram = 0x81237708, size = 0x14 },
-    { name = "__dll306_dll_306_func_6E0", vram = 0x8123771C, size = 0x11C },
-    { name = "__dll306_dll_306_func_7FC", vram = 0x81237838, size = 0x160 },
-    { name = "__dll306_dll_306_func_95C", vram = 0x81237998, size = 0x314 },
+    { name = "__dll306_MMP_Bridge_ctor", vram = 0x8123703C, size = 0xC },
+    { name = "__dll306_MMP_Bridge_dtor", vram = 0x81237048, size = 0xC },
+    { name = "__dll306_MMP_Bridge_obj_Setup", vram = 0x81237054, size = 0x344 },
+    { name = "__dll306_MMP_Bridge_obj_Control", vram = 0x81237398, size = 0x2B4 },
+    { name = "__dll306_MMP_Bridge_obj_Update", vram = 0x8123764C, size = 0xC },
+    { name = "__dll306_MMP_Bridge_obj_Print", vram = 0x81237658, size = 0x6C },
+    { name = "__dll306_MMP_Bridge_obj_Free", vram = 0x812376C4, size = 0x10 },
+    { name = "__dll306_MMP_Bridge_obj_GetModelFlags", vram = 0x812376D4, size = 0x34 },
+    { name = "__dll306_MMP_Bridge_obj_GetDataSize", vram = 0x81237708, size = 0x14 },
+    { name = "__dll306_MMP_Bridge_animCallback", vram = 0x8123771C, size = 0x11C },
+    { name = "__dll306_MMP_Bridge_advanceAnimation", vram = 0x81237838, size = 0x160 },
+    { name = "__dll306_MMP_Bridge_updateVertices", vram = 0x81237998, size = 0x314 },
 ]
 
 [[section]]
@@ -13406,17 +13406,17 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll307_DLL307_ctor", vram = 0x8123803C, size = 0xC },
-    { name = "__dll307_DLL307_dtor", vram = 0x81238048, size = 0xC },
-    { name = "__dll307_DLL307_obj_Setup", vram = 0x81238054, size = 0x1B0 },
-    { name = "__dll307_DLL307_obj_Control", vram = 0x81238204, size = 0xE0 },
-    { name = "__dll307_DLL307_obj_Update", vram = 0x812382E4, size = 0xC },
-    { name = "__dll307_DLL307_obj_Print", vram = 0x812382F0, size = 0x54 },
-    { name = "__dll307_DLL307_obj_Free", vram = 0x81238344, size = 0x10 },
-    { name = "__dll307_DLL307_obj_GetModelFlags", vram = 0x81238354, size = 0x10 },
-    { name = "__dll307_DLL307_obj_GetDataSize", vram = 0x81238364, size = 0x14 },
-    { name = "__dll307_DLL307_animCallback", vram = 0x81238378, size = 0x3A8 },
-    { name = "__dll307_DLL307_func_6E4", vram = 0x81238720, size = 0x12C },
+    { name = "__dll307_SeqDoor_ctor", vram = 0x8123803C, size = 0xC },
+    { name = "__dll307_SeqDoor_dtor", vram = 0x81238048, size = 0xC },
+    { name = "__dll307_SeqDoor_obj_Setup", vram = 0x81238054, size = 0x1B0 },
+    { name = "__dll307_SeqDoor_obj_Control", vram = 0x81238204, size = 0xE0 },
+    { name = "__dll307_SeqDoor_obj_Update", vram = 0x812382E4, size = 0xC },
+    { name = "__dll307_SeqDoor_obj_Print", vram = 0x812382F0, size = 0x54 },
+    { name = "__dll307_SeqDoor_obj_Free", vram = 0x81238344, size = 0x10 },
+    { name = "__dll307_SeqDoor_obj_GetModelFlags", vram = 0x81238354, size = 0x10 },
+    { name = "__dll307_SeqDoor_obj_GetDataSize", vram = 0x81238364, size = 0x14 },
+    { name = "__dll307_SeqDoor_animCallback", vram = 0x81238378, size = 0x3A8 },
+    { name = "__dll307_SeqDoor_setCameraPositionGamebits", vram = 0x81238720, size = 0x12C },
 ]
 
 [[section]]
@@ -13444,14 +13444,14 @@ relocs = [
 functions = [
     { name = "__dll308_UseObj_ctor", vram = 0x8123903C, size = 0xC },
     { name = "__dll308_UseObj_dtor", vram = 0x81239048, size = 0xC },
-    { name = "__dll308_UseObj_setup", vram = 0x81239054, size = 0xF8 },
-    { name = "__dll308_UseObj_control", vram = 0x8123914C, size = 0x2A8 },
-    { name = "__dll308_UseObj_update", vram = 0x812393F4, size = 0x58 },
-    { name = "__dll308_UseObj_print", vram = 0x8123944C, size = 0x54 },
-    { name = "__dll308_UseObj_free", vram = 0x812394A0, size = 0x40 },
-    { name = "__dll308_UseObj_get_model_flags", vram = 0x812394E0, size = 0x10 },
-    { name = "__dll308_UseObj_get_data_size", vram = 0x812394F0, size = 0x14 },
-    { name = "__dll308_UseObj_anim_callback", vram = 0x81239504, size = 0xD8 },
+    { name = "__dll308_UseObj_obj_Setup", vram = 0x81239054, size = 0xF8 },
+    { name = "__dll308_UseObj_obj_Control", vram = 0x8123914C, size = 0x2A8 },
+    { name = "__dll308_UseObj_obj_Update", vram = 0x812393F4, size = 0x58 },
+    { name = "__dll308_UseObj_obj_Print", vram = 0x8123944C, size = 0x54 },
+    { name = "__dll308_UseObj_obj_Free", vram = 0x812394A0, size = 0x40 },
+    { name = "__dll308_UseObj_obj_GetModelFlags", vram = 0x812394E0, size = 0x10 },
+    { name = "__dll308_UseObj_obj_GetDataSize", vram = 0x812394F0, size = 0x14 },
+    { name = "__dll308_UseObj_animCallback", vram = 0x81239504, size = 0xD8 },
 ]
 
 [[section]]
@@ -13477,14 +13477,14 @@ relocs = [
 functions = [
     { name = "__dll309_SeqObj_ctor", vram = 0x8123A03C, size = 0xC },
     { name = "__dll309_SeqObj_dtor", vram = 0x8123A048, size = 0xC },
-    { name = "__dll309_SeqObj_setup", vram = 0x8123A054, size = 0x10C },
-    { name = "__dll309_SeqObj_control", vram = 0x8123A160, size = 0x294 },
-    { name = "__dll309_SeqObj_update", vram = 0x8123A3F4, size = 0xC },
-    { name = "__dll309_SeqObj_print", vram = 0x8123A400, size = 0x54 },
-    { name = "__dll309_SeqObj_free", vram = 0x8123A454, size = 0x40 },
-    { name = "__dll309_SeqObj_get_model_flags", vram = 0x8123A494, size = 0x10 },
-    { name = "__dll309_SeqObj_get_data_size", vram = 0x8123A4A4, size = 0x14 },
-    { name = "__dll309_SeqObj_anim_callback", vram = 0x8123A4B8, size = 0x144 },
+    { name = "__dll309_SeqObj_obj_Setup", vram = 0x8123A054, size = 0x10C },
+    { name = "__dll309_SeqObj_obj_Control", vram = 0x8123A160, size = 0x294 },
+    { name = "__dll309_SeqObj_obj_Update", vram = 0x8123A3F4, size = 0xC },
+    { name = "__dll309_SeqObj_obj_Print", vram = 0x8123A400, size = 0x54 },
+    { name = "__dll309_SeqObj_obj_Free", vram = 0x8123A454, size = 0x40 },
+    { name = "__dll309_SeqObj_obj_GetModelFlags", vram = 0x8123A494, size = 0x10 },
+    { name = "__dll309_SeqObj_obj_GetDataSize", vram = 0x8123A4A4, size = 0x14 },
+    { name = "__dll309_SeqObj_animCallback", vram = 0x8123A4B8, size = 0x144 },
 ]
 
 [[section]]
@@ -14148,15 +14148,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll326_dll_326_ctor", vram = 0x8125103C, size = 0xC },
-    { name = "__dll326_dll_326_dtor", vram = 0x81251048, size = 0xC },
-    { name = "__dll326_dll_326_obj_Setup", vram = 0x81251054, size = 0xB8 },
-    { name = "__dll326_dll_326_obj_Control", vram = 0x8125110C, size = 0x70 },
-    { name = "__dll326_dll_326_obj_Update", vram = 0x8125117C, size = 0xC },
-    { name = "__dll326_dll_326_obj_Print", vram = 0x81251188, size = 0x54 },
-    { name = "__dll326_dll_326_obj_Free", vram = 0x812511DC, size = 0x10 },
-    { name = "__dll326_dll_326_obj_GetModelFlags", vram = 0x812511EC, size = 0x10 },
-    { name = "__dll326_dll_326_obj_GetDataSize", vram = 0x812511FC, size = 0x20 },
+    { name = "__dll326_DLL326_ctor", vram = 0x8125103C, size = 0xC },
+    { name = "__dll326_DLL326_dtor", vram = 0x81251048, size = 0xC },
+    { name = "__dll326_DLL326_obj_Setup", vram = 0x81251054, size = 0xB8 },
+    { name = "__dll326_DLL326_obj_Control", vram = 0x8125110C, size = 0x70 },
+    { name = "__dll326_DLL326_obj_Update", vram = 0x8125117C, size = 0xC },
+    { name = "__dll326_DLL326_obj_Print", vram = 0x81251188, size = 0x54 },
+    { name = "__dll326_DLL326_obj_Free", vram = 0x812511DC, size = 0x10 },
+    { name = "__dll326_DLL326_obj_GetModelFlags", vram = 0x812511EC, size = 0x10 },
+    { name = "__dll326_DLL326_obj_GetDataSize", vram = 0x812511FC, size = 0x20 },
 ]
 
 [[section]]
@@ -14365,15 +14365,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll333_dll_333_ctor", vram = 0x8125A03C, size = 0xC },
-    { name = "__dll333_dll_333_dtor", vram = 0x8125A048, size = 0xC },
-    { name = "__dll333_dll_333_obj_Setup", vram = 0x8125A054, size = 0x74 },
-    { name = "__dll333_dll_333_obj_Control", vram = 0x8125A0C8, size = 0x268 },
-    { name = "__dll333_dll_333_obj_Update", vram = 0x8125A330, size = 0xC },
-    { name = "__dll333_dll_333_obj_Print", vram = 0x8125A33C, size = 0x18 },
-    { name = "__dll333_dll_333_obj_Free", vram = 0x8125A354, size = 0x10 },
-    { name = "__dll333_dll_333_obj_GetModelFlags", vram = 0x8125A364, size = 0x10 },
-    { name = "__dll333_dll_333_obj_GetDataSize", vram = 0x8125A374, size = 0x18 },
+    { name = "__dll333_EnvEmitter_ctor", vram = 0x8125A03C, size = 0xC },
+    { name = "__dll333_EnvEmitter_dtor", vram = 0x8125A048, size = 0xC },
+    { name = "__dll333_EnvEmitter_obj_Setup", vram = 0x8125A054, size = 0x74 },
+    { name = "__dll333_EnvEmitter_obj_Control", vram = 0x8125A0C8, size = 0x268 },
+    { name = "__dll333_EnvEmitter_obj_Update", vram = 0x8125A330, size = 0xC },
+    { name = "__dll333_EnvEmitter_obj_Print", vram = 0x8125A33C, size = 0x18 },
+    { name = "__dll333_EnvEmitter_obj_Free", vram = 0x8125A354, size = 0x10 },
+    { name = "__dll333_EnvEmitter_obj_GetModelFlags", vram = 0x8125A364, size = 0x10 },
+    { name = "__dll333_EnvEmitter_obj_GetDataSize", vram = 0x8125A374, size = 0x18 },
 ]
 
 [[section]]
@@ -14544,15 +14544,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll339_dll_339_ctor", vram = 0x8126003C, size = 0xC },
-    { name = "__dll339_dll_339_dtor", vram = 0x81260048, size = 0xC },
-    { name = "__dll339_dll_339_setup", vram = 0x81260054, size = 0xBC },
-    { name = "__dll339_dll_339_control", vram = 0x81260110, size = 0xC },
-    { name = "__dll339_dll_339_update", vram = 0x8126011C, size = 0xC },
-    { name = "__dll339_dll_339_print", vram = 0x81260128, size = 0x54 },
-    { name = "__dll339_dll_339_free", vram = 0x8126017C, size = 0x10 },
-    { name = "__dll339_dll_339_get_model_flags", vram = 0x8126018C, size = 0x10 },
-    { name = "__dll339_dll_339_get_data_size", vram = 0x8126019C, size = 0x20 },
+    { name = "__dll339_SeqProp_ctor", vram = 0x8126003C, size = 0xC },
+    { name = "__dll339_SeqProp_dtor", vram = 0x81260048, size = 0xC },
+    { name = "__dll339_SeqProp_obj_Setup", vram = 0x81260054, size = 0xBC },
+    { name = "__dll339_SeqProp_obj_Control", vram = 0x81260110, size = 0xC },
+    { name = "__dll339_SeqProp_obj_Update", vram = 0x8126011C, size = 0xC },
+    { name = "__dll339_SeqProp_obj_Print", vram = 0x81260128, size = 0x54 },
+    { name = "__dll339_SeqProp_obj_Free", vram = 0x8126017C, size = 0x10 },
+    { name = "__dll339_SeqProp_obj_GetModelFlags", vram = 0x8126018C, size = 0x10 },
+    { name = "__dll339_SeqProp_obj_GetDataSize", vram = 0x8126019C, size = 0x20 },
 ]
 
 [[section]]
@@ -14893,17 +14893,17 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll350_dll_350_ctor", vram = 0x8126C03C, size = 0xC },
-    { name = "__dll350_dll_350_dtor", vram = 0x8126C048, size = 0xC },
-    { name = "__dll350_dll_350_obj_Setup", vram = 0x8126C054, size = 0x1C },
-    { name = "__dll350_dll_350_obj_Control", vram = 0x8126C070, size = 0x7D4 },
-    { name = "__dll350_dll_350_func_808", vram = 0x8126C844, size = 0x3B0 },
-    { name = "__dll350_dll_350_obj_Update", vram = 0x8126CBF4, size = 0xC },
-    { name = "__dll350_dll_350_obj_Print", vram = 0x8126CC00, size = 0x54 },
-    { name = "__dll350_dll_350_obj_Free", vram = 0x8126CC54, size = 0x50 },
-    { name = "__dll350_dll_350_obj_GetModelFlags", vram = 0x8126CCA4, size = 0x10 },
-    { name = "__dll350_dll_350_obj_GetDataSize", vram = 0x8126CCB4, size = 0x14 },
-    { name = "__dll350_dll_350_func_C8C", vram = 0x8126CCC8, size = 0x224 },
+    { name = "__dll350_AlphaAnimator_ctor", vram = 0x8126C03C, size = 0xC },
+    { name = "__dll350_AlphaAnimator_dtor", vram = 0x8126C048, size = 0xC },
+    { name = "__dll350_AlphaAnimator_obj_Setup", vram = 0x8126C054, size = 0x1C },
+    { name = "__dll350_AlphaAnimator_obj_Control", vram = 0x8126C070, size = 0x7D4 },
+    { name = "__dll350_AlphaAnimator_animateVertices", vram = 0x8126C844, size = 0x3B0 },
+    { name = "__dll350_AlphaAnimator_obj_Update", vram = 0x8126CBF4, size = 0xC },
+    { name = "__dll350_AlphaAnimator_obj_Print", vram = 0x8126CC00, size = 0x54 },
+    { name = "__dll350_AlphaAnimator_obj_Free", vram = 0x8126CC54, size = 0x50 },
+    { name = "__dll350_AlphaAnimator_obj_GetModelFlags", vram = 0x8126CCA4, size = 0x10 },
+    { name = "__dll350_AlphaAnimator_obj_GetDataSize", vram = 0x8126CCB4, size = 0x14 },
+    { name = "__dll350_AlphaAnimator_calculateAnimatedVertexDistances", vram = 0x8126CCC8, size = 0x224 },
 ]
 
 [[section]]
@@ -14929,17 +14929,17 @@ relocs = [
 functions = [
     { name = "__dll351_GroundAnimator_ctor", vram = 0x8126D048, size = 0xC },
     { name = "__dll351_GroundAnimator_dtor", vram = 0x8126D054, size = 0xC },
-    { name = "__dll351_GroundAnimator_setup", vram = 0x8126D060, size = 0x158 },
-    { name = "__dll351_GroundAnimator_control", vram = 0x8126D1B8, size = 0x7E0 },
-    { name = "__dll351_GroundAnimator_update", vram = 0x8126D998, size = 0xC },
-    { name = "__dll351_GroundAnimator_print", vram = 0x8126D9A4, size = 0x18 },
-    { name = "__dll351_GroundAnimator_free", vram = 0x8126D9BC, size = 0x90 },
-    { name = "__dll351_GroundAnimator_get_model_flags", vram = 0x8126DA4C, size = 0x10 },
-    { name = "__dll351_GroundAnimator_get_data_size", vram = 0x8126DA5C, size = 0x14 },
-    { name = "__dll351_GroundAnimator_store_shapeIDs_and_vertex_weights", vram = 0x8126DA70, size = 0x268 },
-    { name = "__dll351_GroundAnimator_tick_dig", vram = 0x8126DCD8, size = 0x16C },
-    { name = "__dll351_GroundAnimator_is_dig_finished", vram = 0x8126DE44, size = 0x3C },
-    { name = "__dll351_GroundAnimator_get_magic_cave_index", vram = 0x8126DE80, size = 0x18 },
+    { name = "__dll351_GroundAnimator_obj_Setup", vram = 0x8126D060, size = 0x158 },
+    { name = "__dll351_GroundAnimator_obj_Control", vram = 0x8126D1B8, size = 0x7E0 },
+    { name = "__dll351_GroundAnimator_obj_Update", vram = 0x8126D998, size = 0xC },
+    { name = "__dll351_GroundAnimator_obj_Print", vram = 0x8126D9A4, size = 0x18 },
+    { name = "__dll351_GroundAnimator_obj_Free", vram = 0x8126D9BC, size = 0x90 },
+    { name = "__dll351_GroundAnimator_obj_GetModelFlags", vram = 0x8126DA4C, size = 0x10 },
+    { name = "__dll351_GroundAnimator_obj_GetDataSize", vram = 0x8126DA5C, size = 0x14 },
+    { name = "__dll351_GroundAnimator_storeShapeIDsAndVertexWeights", vram = 0x8126DA70, size = 0x268 },
+    { name = "__dll351_GroundAnimator_TickDig", vram = 0x8126DCD8, size = 0x16C },
+    { name = "__dll351_GroundAnimator_IsDigFinished", vram = 0x8126DE44, size = 0x3C },
+    { name = "__dll351_GroundAnimator_GetMagicCaveIndex", vram = 0x8126DE80, size = 0x18 },
 ]
 
 [[section]]
@@ -14995,14 +14995,14 @@ relocs = [
 functions = [
     { name = "__dll353_HitAnimator_ctor", vram = 0x8127003C, size = 0xC },
     { name = "__dll353_HitAnimator_dtor", vram = 0x81270048, size = 0xC },
-    { name = "__dll353_HitAnimator_setup", vram = 0x81270054, size = 0x148 },
-    { name = "__dll353_HitAnimator_control", vram = 0x8127019C, size = 0x1F4 },
-    { name = "__dll353_HitAnimator_update", vram = 0x81270390, size = 0xC },
+    { name = "__dll353_HitAnimator_obj_Setup", vram = 0x81270054, size = 0x148 },
+    { name = "__dll353_HitAnimator_obj_Control", vram = 0x8127019C, size = 0x1F4 },
+    { name = "__dll353_HitAnimator_obj_Update", vram = 0x81270390, size = 0xC },
     { name = "__dll353_HitAnimator_print", vram = 0x8127039C, size = 0x54 },
-    { name = "__dll353_HitAnimator_free", vram = 0x812703F0, size = 0x10 },
-    { name = "__dll353_HitAnimator_get_model_flags", vram = 0x81270400, size = 0x10 },
-    { name = "__dll353_HitAnimator_get_data_size", vram = 0x81270410, size = 0x14 },
-    { name = "__dll353_HitAnimator_animate_blocks_shapes", vram = 0x81270424, size = 0xB8 },
+    { name = "__dll353_HitAnimator_obj_Free", vram = 0x812703F0, size = 0x10 },
+    { name = "__dll353_HitAnimator_obj_GetModelFlags", vram = 0x81270400, size = 0x10 },
+    { name = "__dll353_HitAnimator_obj_GetDataSize", vram = 0x81270410, size = 0x14 },
+    { name = "__dll353_HitAnimator_animateBlockShapes", vram = 0x81270424, size = 0xB8 },
 ]
 
 [[section]]
@@ -15022,14 +15022,14 @@ relocs = [
 functions = [
     { name = "__dll354_VisAnimator_ctor", vram = 0x8127103C, size = 0xC },
     { name = "__dll354_VisAnimator_dtor", vram = 0x81271048, size = 0xC },
-    { name = "__dll354_VisAnimator_setup", vram = 0x81271054, size = 0x120 },
-    { name = "__dll354_VisAnimator_control", vram = 0x81271174, size = 0x11C },
-    { name = "__dll354_VisAnimator_update", vram = 0x81271290, size = 0xC },
-    { name = "__dll354_VisAnimator_print", vram = 0x8127129C, size = 0x18 },
-    { name = "__dll354_VisAnimator_free", vram = 0x812712B4, size = 0x10 },
-    { name = "__dll354_VisAnimator_get_model_flags", vram = 0x812712C4, size = 0x10 },
-    { name = "__dll354_VisAnimator_get_data_size", vram = 0x812712D4, size = 0x14 },
-    { name = "__dll354_VisAnimator_animate_block_shapes", vram = 0x812712E8, size = 0xB4 },
+    { name = "__dll354_VisAnimator_obj_Setup", vram = 0x81271054, size = 0x120 },
+    { name = "__dll354_VisAnimator_obj_Control", vram = 0x81271174, size = 0x11C },
+    { name = "__dll354_VisAnimator_obj_Update", vram = 0x81271290, size = 0xC },
+    { name = "__dll354_VisAnimator_obj_Print", vram = 0x8127129C, size = 0x18 },
+    { name = "__dll354_VisAnimator_obj_Free", vram = 0x812712B4, size = 0x10 },
+    { name = "__dll354_VisAnimator_obj_GetModelFlags", vram = 0x812712C4, size = 0x10 },
+    { name = "__dll354_VisAnimator_obj_GetDataSize", vram = 0x812712D4, size = 0x14 },
+    { name = "__dll354_VisAnimator_animateBlockShapes", vram = 0x812712E8, size = 0xB4 },
 ]
 
 [[section]]
@@ -15297,16 +15297,16 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll362_portaltexanimator_ctor", vram = 0x8127A03C, size = 0xC },
-    { name = "__dll362_portaltexanimator_dtor", vram = 0x8127A048, size = 0xC },
-    { name = "__dll362_portaltexanimator_setup", vram = 0x8127A054, size = 0x60 },
-    { name = "__dll362_portaltexanimator_control", vram = 0x8127A0B4, size = 0x298 },
-    { name = "__dll362_portaltexanimator_animate_vertices", vram = 0x8127A34C, size = 0x104 },
-    { name = "__dll362_portaltexanimator_update", vram = 0x8127A450, size = 0xC },
-    { name = "__dll362_portaltexanimator_print", vram = 0x8127A45C, size = 0x54 },
-    { name = "__dll362_portaltexanimator_free", vram = 0x8127A4B0, size = 0x50 },
-    { name = "__dll362_portaltexanimator_get_model_flags", vram = 0x8127A500, size = 0x10 },
-    { name = "__dll362_portaltexanimator_get_data_size", vram = 0x8127A510, size = 0x1C },
+    { name = "__dll362_PortalTexAnimator_ctor", vram = 0x8127A03C, size = 0xC },
+    { name = "__dll362_PortalTexAnimator_dtor", vram = 0x8127A048, size = 0xC },
+    { name = "__dll362_PortalTexAnimator_obj_Setup", vram = 0x8127A054, size = 0x60 },
+    { name = "__dll362_PortalTexAnimator_obj_Control", vram = 0x8127A0B4, size = 0x298 },
+    { name = "__dll362_PortalTexAnimator_animateVertices", vram = 0x8127A34C, size = 0x104 },
+    { name = "__dll362_PortalTexAnimator_obj_Update", vram = 0x8127A450, size = 0xC },
+    { name = "__dll362_PortalTexAnimator_obj_Print", vram = 0x8127A45C, size = 0x54 },
+    { name = "__dll362_PortalTexAnimator_obj_Free", vram = 0x8127A4B0, size = 0x50 },
+    { name = "__dll362_PortalTexAnimator_obj_GetModelFlags", vram = 0x8127A500, size = 0x10 },
+    { name = "__dll362_PortalTexAnimator_obj_GetDataSize", vram = 0x8127A510, size = 0x1C },
 ]
 
 [[section]]
@@ -15412,16 +15412,16 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll366_dll_366_ctor", vram = 0x8127E03C, size = 0x24 },
-    { name = "__dll366_dll_366_dtor", vram = 0x8127E060, size = 0xC },
-    { name = "__dll366_dll_366_obj_Setup", vram = 0x8127E06C, size = 0x44 },
-    { name = "__dll366_dll_366_obj_Control", vram = 0x8127E0B0, size = 0x2B8 },
-    { name = "__dll366_dll_366_obj_Update", vram = 0x8127E368, size = 0xC },
-    { name = "__dll366_dll_366_obj_Print", vram = 0x8127E374, size = 0x54 },
-    { name = "__dll366_dll_366_obj_Free", vram = 0x8127E3C8, size = 0x10 },
-    { name = "__dll366_dll_366_obj_GetModelFlags", vram = 0x8127E3D8, size = 0x10 },
-    { name = "__dll366_dll_366_obj_GetDataSize", vram = 0x8127E3E8, size = 0x14 },
-    { name = "__dll366_dll_366_func_3C0", vram = 0x8127E3FC, size = 0x10 },
+    { name = "__dll366_CloudPrisonControl_ctor", vram = 0x8127E03C, size = 0x24 },
+    { name = "__dll366_CloudPrisonControl_dtor", vram = 0x8127E060, size = 0xC },
+    { name = "__dll366_CloudPrisonControl_obj_Setup", vram = 0x8127E06C, size = 0x44 },
+    { name = "__dll366_CloudPrisonControl_obj_Control", vram = 0x8127E0B0, size = 0x2B8 },
+    { name = "__dll366_CloudPrisonControl_obj_Update", vram = 0x8127E368, size = 0xC },
+    { name = "__dll366_CloudPrisonControl_obj_Print", vram = 0x8127E374, size = 0x54 },
+    { name = "__dll366_CloudPrisonControl_obj_Free", vram = 0x8127E3C8, size = 0x10 },
+    { name = "__dll366_CloudPrisonControl_obj_GetModelFlags", vram = 0x8127E3D8, size = 0x10 },
+    { name = "__dll366_CloudPrisonControl_obj_GetDataSize", vram = 0x8127E3E8, size = 0x14 },
+    { name = "__dll366_CloudPrisonControl_func_3C0", vram = 0x8127E3FC, size = 0x10 },
 ]
 
 [[section]]
@@ -15455,20 +15455,20 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll367_dll_367_ctor", vram = 0x8127F03C, size = 0x24 },
-    { name = "__dll367_dll_367_dtor", vram = 0x8127F060, size = 0xC },
-    { name = "__dll367_dll_367_obj_Setup", vram = 0x8127F06C, size = 0x44 },
-    { name = "__dll367_dll_367_obj_Control", vram = 0x8127F0B0, size = 0x5E0 },
-    { name = "__dll367_dll_367_obj_Update", vram = 0x8127F690, size = 0xC },
-    { name = "__dll367_dll_367_obj_Print", vram = 0x8127F69C, size = 0x54 },
-    { name = "__dll367_dll_367_obj_Free", vram = 0x8127F6F0, size = 0x50 },
-    { name = "__dll367_dll_367_obj_GetModelFlags", vram = 0x8127F740, size = 0x10 },
-    { name = "__dll367_dll_367_obj_GetDataSize", vram = 0x8127F750, size = 0x14 },
-    { name = "__dll367_dll_367_func_728", vram = 0x8127F764, size = 0xC8 },
-    { name = "__dll367_dll_367_func_7F0", vram = 0x8127F82C, size = 0x1EC },
-    { name = "__dll367_dll_367_func_9DC", vram = 0x8127FA18, size = 0x60 },
-    { name = "__dll367_dll_367_func_A3C", vram = 0x8127FA78, size = 0x328 },
-    { name = "__dll367_dll_367_func_D64", vram = 0x8127FDA0, size = 0x27C },
+    { name = "__dll367_CloudShipControl_ctor", vram = 0x8127F03C, size = 0x24 },
+    { name = "__dll367_CloudShipControl_dtor", vram = 0x8127F060, size = 0xC },
+    { name = "__dll367_CloudShipControl_obj_Setup", vram = 0x8127F06C, size = 0x44 },
+    { name = "__dll367_CloudShipControl_obj_Control", vram = 0x8127F0B0, size = 0x5E0 },
+    { name = "__dll367_CloudShipControl_obj_Update", vram = 0x8127F690, size = 0xC },
+    { name = "__dll367_CloudShipControl_obj_Print", vram = 0x8127F69C, size = 0x54 },
+    { name = "__dll367_CloudShipControl_obj_Free", vram = 0x8127F6F0, size = 0x50 },
+    { name = "__dll367_CloudShipControl_obj_GetModelFlags", vram = 0x8127F740, size = 0x10 },
+    { name = "__dll367_CloudShipControl_obj_GetDataSize", vram = 0x8127F750, size = 0x14 },
+    { name = "__dll367_CloudShipControl_func_728", vram = 0x8127F764, size = 0xC8 },
+    { name = "__dll367_CloudShipControl_func_7F0", vram = 0x8127F82C, size = 0x1EC },
+    { name = "__dll367_CloudShipControl_func_9DC", vram = 0x8127FA18, size = 0x60 },
+    { name = "__dll367_CloudShipControl_func_A3C", vram = 0x8127FA78, size = 0x328 },
+    { name = "__dll367_CloudShipControl_func_D64", vram = 0x8127FDA0, size = 0x27C },
 ]
 
 [[section]]
@@ -15755,15 +15755,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll374_dll_374_ctor", vram = 0x8128D03C, size = 0xC },
-    { name = "__dll374_dll_374_dtor", vram = 0x8128D048, size = 0xC },
-    { name = "__dll374_dll_374_obj_Setup", vram = 0x8128D054, size = 0x68 },
-    { name = "__dll374_dll_374_obj_Control", vram = 0x8128D0BC, size = 0x62C },
-    { name = "__dll374_dll_374_obj_Update", vram = 0x8128D6E8, size = 0xC },
-    { name = "__dll374_dll_374_obj_Print", vram = 0x8128D6F4, size = 0x34C },
-    { name = "__dll374_dll_374_obj_Free", vram = 0x8128DA40, size = 0x5C },
-    { name = "__dll374_dll_374_obj_GetModelFlags", vram = 0x8128DA9C, size = 0x10 },
-    { name = "__dll374_dll_374_obj_GetDataSize", vram = 0x8128DAAC, size = 0x20 },
+    { name = "__dll374_LaserBeam_ctor", vram = 0x8128D03C, size = 0xC },
+    { name = "__dll374_LaserBeam_dtor", vram = 0x8128D048, size = 0xC },
+    { name = "__dll374_LaserBeam_obj_Setup", vram = 0x8128D054, size = 0x68 },
+    { name = "__dll374_LaserBeam_obj_Control", vram = 0x8128D0BC, size = 0x62C },
+    { name = "__dll374_LaserBeam_obj_Update", vram = 0x8128D6E8, size = 0xC },
+    { name = "__dll374_LaserBeam_obj_Print", vram = 0x8128D6F4, size = 0x34C },
+    { name = "__dll374_LaserBeam_obj_Free", vram = 0x8128DA40, size = 0x5C },
+    { name = "__dll374_LaserBeam_obj_GetModelFlags", vram = 0x8128DA9C, size = 0x10 },
+    { name = "__dll374_LaserBeam_obj_GetDataSize", vram = 0x8128DAAC, size = 0x20 },
 ]
 
 [[section]]
@@ -16073,32 +16073,32 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll381_dll_381_ctor", vram = 0x8129703C, size = 0xC },
-    { name = "__dll381_dll_381_dtor", vram = 0x81297048, size = 0xA4 },
-    { name = "__dll381_dll_381_obj_Setup", vram = 0x812970EC, size = 0x3D4 },
-    { name = "__dll381_dll_381_obj_Control", vram = 0x812974C0, size = 0xE8 },
-    { name = "__dll381_dll_381_obj_Update", vram = 0x812975A8, size = 0x1D4 },
-    { name = "__dll381_dll_381_obj_Print", vram = 0x8129777C, size = 0x334 },
-    { name = "__dll381_dll_381_obj_Free", vram = 0x81297AB0, size = 0x12C },
-    { name = "__dll381_dll_381_obj_GetModelFlags", vram = 0x81297BDC, size = 0x10 },
-    { name = "__dll381_dll_381_obj_GetDataSize", vram = 0x81297BEC, size = 0x14 },
-    { name = "__dll381_dll_381_func_BC4", vram = 0x81297C00, size = 0xB38 },
-    { name = "__dll381_dll_381_func_16FC", vram = 0x81298738, size = 0x22C },
-    { name = "__dll381_dll_381_func_1928", vram = 0x81298964, size = 0x1E0 },
-    { name = "__dll381_dll_381_func_1B08", vram = 0x81298B44, size = 0xCC },
-    { name = "__dll381_dll_381_func_1BD4", vram = 0x81298C10, size = 0x130 },
-    { name = "__dll381_dll_381_func_1D04", vram = 0x81298D40, size = 0x25C },
-    { name = "__dll381_dll_381_func_1F60", vram = 0x81298F9C, size = 0x588 },
-    { name = "__dll381_dll_381_func_24E8", vram = 0x81299524, size = 0x29C },
-    { name = "__dll381_dll_381_func_2784", vram = 0x812997C0, size = 0x10C },
-    { name = "__dll381_dll_381_func_2890", vram = 0x812998CC, size = 0x60C },
-    { name = "__dll381_dll_381_func_2E9C", vram = 0x81299ED8, size = 0x10 },
-    { name = "__dll381_dll_381_func_2EAC", vram = 0x81299EE8, size = 0x194 },
-    { name = "__dll381_dll_381_func_3040", vram = 0x8129A07C, size = 0x30C },
-    { name = "__dll381_dll_381_func_334C", vram = 0x8129A388, size = 0x9C },
-    { name = "__dll381_dll_381_func_33E8", vram = 0x8129A424, size = 0xEC },
-    { name = "__dll381_dll_381_func_34D4", vram = 0x8129A510, size = 0xDC },
-    { name = "__dll381_dll_381_func_35B0", vram = 0x8129A5EC, size = 0x40 },
+    { name = "__dll381_RobotAnimPatrol_ctor", vram = 0x8129703C, size = 0xC },
+    { name = "__dll381_RobotAnimPatrol_dtor", vram = 0x81297048, size = 0xA4 },
+    { name = "__dll381_RobotAnimPatrol_obj_Setup", vram = 0x812970EC, size = 0x3D4 },
+    { name = "__dll381_RobotAnimPatrol_obj_Control", vram = 0x812974C0, size = 0xE8 },
+    { name = "__dll381_RobotAnimPatrol_obj_Update", vram = 0x812975A8, size = 0x1D4 },
+    { name = "__dll381_RobotAnimPatrol_obj_Print", vram = 0x8129777C, size = 0x334 },
+    { name = "__dll381_RobotAnimPatrol_obj_Free", vram = 0x81297AB0, size = 0x12C },
+    { name = "__dll381_RobotAnimPatrol_obj_GetModelFlags", vram = 0x81297BDC, size = 0x10 },
+    { name = "__dll381_RobotAnimPatrol_obj_GetDataSize", vram = 0x81297BEC, size = 0x14 },
+    { name = "__dll381_RobotAnimPatrol_animCallback", vram = 0x81297C00, size = 0xB38 },
+    { name = "__dll381_RobotAnimPatrol_checkForPlayer", vram = 0x81298738, size = 0x22C },
+    { name = "__dll381_RobotAnimPatrol_fireGun", vram = 0x81298964, size = 0x1E0 },
+    { name = "__dll381_RobotAnimPatrol_animateGun", vram = 0x81298B44, size = 0xCC },
+    { name = "__dll381_RobotAnimPatrol_aimGun", vram = 0x81298C10, size = 0x130 },
+    { name = "__dll381_RobotAnimPatrol_updateBeam", vram = 0x81298D40, size = 0x25C },
+    { name = "__dll381_RobotAnimPatrol_gunPrint", vram = 0x81298F9C, size = 0x588 },
+    { name = "__dll381_RobotAnimPatrol_aimRaycast", vram = 0x81299524, size = 0x29C },
+    { name = "__dll381_RobotAnimPatrol_processObjMessages", vram = 0x812997C0, size = 0x10C },
+    { name = "__dll381_RobotAnimPatrol_crashControl", vram = 0x812998CC, size = 0x60C },
+    { name = "__dll381_RobotAnimPatrol_initStunState", vram = 0x81299ED8, size = 0x10 },
+    { name = "__dll381_RobotAnimPatrol_stun", vram = 0x81299EE8, size = 0x194 },
+    { name = "__dll381_RobotAnimPatrol_updateStunState", vram = 0x8129A07C, size = 0x30C },
+    { name = "__dll381_RobotAnimPatrol_func_334C", vram = 0x8129A388, size = 0x9C },
+    { name = "__dll381_RobotAnimPatrol_func_33E8", vram = 0x8129A424, size = 0xEC },
+    { name = "__dll381_RobotAnimPatrol_fireLfxEmitter", vram = 0x8129A510, size = 0xDC },
+    { name = "__dll381_RobotAnimPatrol_updateLfxEmitter", vram = 0x8129A5EC, size = 0x40 },
 ]
 
 [[section]]
@@ -16264,15 +16264,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll387_dll_387_ctor", vram = 0x812A003C, size = 0xC },
-    { name = "__dll387_dll_387_dtor", vram = 0x812A0048, size = 0xC },
-    { name = "__dll387_dll_387_obj_Setup", vram = 0x812A0054, size = 0xA0 },
-    { name = "__dll387_dll_387_obj_Control", vram = 0x812A00F4, size = 0x19C },
-    { name = "__dll387_dll_387_obj_Update", vram = 0x812A0290, size = 0xC },
-    { name = "__dll387_dll_387_obj_Print", vram = 0x812A029C, size = 0x54 },
-    { name = "__dll387_dll_387_obj_Free", vram = 0x812A02F0, size = 0x10 },
-    { name = "__dll387_dll_387_obj_GetModelFlags", vram = 0x812A0300, size = 0x10 },
-    { name = "__dll387_dll_387_obj_GetDataSize", vram = 0x812A0310, size = 0x1C },
+    { name = "__dll387_CFBigDoorSwitch_ctor", vram = 0x812A003C, size = 0xC },
+    { name = "__dll387_CFBigDoorSwitch_dtor", vram = 0x812A0048, size = 0xC },
+    { name = "__dll387_CFBigDoorSwitch_obj_Setup", vram = 0x812A0054, size = 0xA0 },
+    { name = "__dll387_CFBigDoorSwitch_obj_Control", vram = 0x812A00F4, size = 0x19C },
+    { name = "__dll387_CFBigDoorSwitch_obj_Update", vram = 0x812A0290, size = 0xC },
+    { name = "__dll387_CFBigDoorSwitch_obj_Print", vram = 0x812A029C, size = 0x54 },
+    { name = "__dll387_CFBigDoorSwitch_obj_Free", vram = 0x812A02F0, size = 0x10 },
+    { name = "__dll387_CFBigDoorSwitch_obj_GetModelFlags", vram = 0x812A0300, size = 0x10 },
+    { name = "__dll387_CFBigDoorSwitch_obj_GetDataSize", vram = 0x812A0310, size = 0x1C },
 ]
 
 [[section]]
@@ -17028,15 +17028,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll406_dll_406_ctor", vram = 0x812B803C, size = 0xC },
-    { name = "__dll406_dll_406_dtor", vram = 0x812B8048, size = 0xC },
-    { name = "__dll406_dll_406_obj_Setup", vram = 0x812B8054, size = 0x40 },
-    { name = "__dll406_dll_406_obj_Control", vram = 0x812B8094, size = 0x1F8 },
-    { name = "__dll406_dll_406_obj_Update", vram = 0x812B828C, size = 0x84 },
-    { name = "__dll406_dll_406_obj_Print", vram = 0x812B8310, size = 0x18 },
-    { name = "__dll406_dll_406_obj_Free", vram = 0x812B8328, size = 0x10 },
-    { name = "__dll406_dll_406_obj_GetModelFlags", vram = 0x812B8338, size = 0x10 },
-    { name = "__dll406_dll_406_obj_GetDataSize", vram = 0x812B8348, size = 0x14 },
+    { name = "__dll406_CFCheapGalleon_ctor", vram = 0x812B803C, size = 0xC },
+    { name = "__dll406_CFCheapGalleon_dtor", vram = 0x812B8048, size = 0xC },
+    { name = "__dll406_CFCheapGalleon_obj_Setup", vram = 0x812B8054, size = 0x40 },
+    { name = "__dll406_CFCheapGalleon_obj_Control", vram = 0x812B8094, size = 0x1F8 },
+    { name = "__dll406_CFCheapGalleon_obj_Update", vram = 0x812B828C, size = 0x84 },
+    { name = "__dll406_CFCheapGalleon_obj_Print", vram = 0x812B8310, size = 0x18 },
+    { name = "__dll406_CFCheapGalleon_obj_Free", vram = 0x812B8328, size = 0x10 },
+    { name = "__dll406_CFCheapGalleon_obj_GetModelFlags", vram = 0x812B8338, size = 0x10 },
+    { name = "__dll406_CFCheapGalleon_obj_GetDataSize", vram = 0x812B8348, size = 0x14 },
 ]
 
 [[section]]
@@ -17141,17 +17141,17 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll409_dll_409_ctor", vram = 0x812BB03C, size = 0x20 },
-    { name = "__dll409_dll_409_dtor", vram = 0x812BB05C, size = 0x50 },
-    { name = "__dll409_dll_409_obj_Setup", vram = 0x812BB0AC, size = 0x11C },
-    { name = "__dll409_dll_409_obj_Control", vram = 0x812BB1C8, size = 0x5C0 },
-    { name = "__dll409_dll_409_obj_Update", vram = 0x812BB788, size = 0xC },
-    { name = "__dll409_dll_409_obj_Print", vram = 0x812BB794, size = 0x64 },
-    { name = "__dll409_dll_409_obj_Free", vram = 0x812BB7F8, size = 0x5C },
-    { name = "__dll409_dll_409_obj_GetModelFlags", vram = 0x812BB854, size = 0x10 },
-    { name = "__dll409_dll_409_obj_GetDataSize", vram = 0x812BB864, size = 0x14 },
-    { name = "__dll409_dll_409_func_83C", vram = 0x812BB878, size = 0x104 },
-    { name = "__dll409_dll_409_func_940", vram = 0x812BB97C, size = 0xF0 },
+    { name = "__dll409_IMIcicle_ctor", vram = 0x812BB03C, size = 0x20 },
+    { name = "__dll409_IMIcicle_dtor", vram = 0x812BB05C, size = 0x50 },
+    { name = "__dll409_IMIcicle_obj_Setup", vram = 0x812BB0AC, size = 0x11C },
+    { name = "__dll409_IMIcicle_obj_Control", vram = 0x812BB1C8, size = 0x5C0 },
+    { name = "__dll409_IMIcicle_obj_Update", vram = 0x812BB788, size = 0xC },
+    { name = "__dll409_IMIcicle_obj_Print", vram = 0x812BB794, size = 0x64 },
+    { name = "__dll409_IMIcicle_obj_Free", vram = 0x812BB7F8, size = 0x5C },
+    { name = "__dll409_IMIcicle_obj_GetModelFlags", vram = 0x812BB854, size = 0x10 },
+    { name = "__dll409_IMIcicle_obj_GetDataSize", vram = 0x812BB864, size = 0x14 },
+    { name = "__dll409_IMIcicle_getGroundY", vram = 0x812BB878, size = 0x104 },
+    { name = "__dll409_IMIcicle_shouldIcicleFall", vram = 0x812BB97C, size = 0xF0 },
 ]
 
 [[section]]
@@ -17244,15 +17244,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll412_dll_412_ctor", vram = 0x812BE03C, size = 0xC },
-    { name = "__dll412_dll_412_dtor", vram = 0x812BE048, size = 0xC },
-    { name = "__dll412_dll_412_setup", vram = 0x812BE054, size = 0x14 },
-    { name = "__dll412_dll_412_control", vram = 0x812BE068, size = 0xC },
-    { name = "__dll412_dll_412_update", vram = 0x812BE074, size = 0xC },
-    { name = "__dll412_dll_412_print", vram = 0x812BE080, size = 0x54 },
-    { name = "__dll412_dll_412_free", vram = 0x812BE0D4, size = 0x10 },
-    { name = "__dll412_dll_412_get_model_flags", vram = 0x812BE0E4, size = 0x10 },
-    { name = "__dll412_dll_412_get_data_size", vram = 0x812BE0F4, size = 0x18 },
+    { name = "__dll412_IMIcePillar_ctor", vram = 0x812BE03C, size = 0xC },
+    { name = "__dll412_IMIcePillar_dtor", vram = 0x812BE048, size = 0xC },
+    { name = "__dll412_IMIcePillar_obj_Setup", vram = 0x812BE054, size = 0x14 },
+    { name = "__dll412_IMIcePillar_obj_Control", vram = 0x812BE068, size = 0xC },
+    { name = "__dll412_IMIcePillar_obj_Update", vram = 0x812BE074, size = 0xC },
+    { name = "__dll412_IMIcePillar_obj_Print", vram = 0x812BE080, size = 0x54 },
+    { name = "__dll412_IMIcePillar_obj_Free", vram = 0x812BE0D4, size = 0x10 },
+    { name = "__dll412_IMIcePillar_obj_GetModelFlags", vram = 0x812BE0E4, size = 0x10 },
+    { name = "__dll412_IMIcePillar_obj_GetDataSize", vram = 0x812BE0F4, size = 0x18 },
 ]
 
 [[section]]
@@ -18520,15 +18520,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll446_dll_446_ctor", vram = 0x812EA03C, size = 0xC },
-    { name = "__dll446_dll_446_dtor", vram = 0x812EA048, size = 0xC },
-    { name = "__dll446_dll_446_obj_Setup", vram = 0x812EA054, size = 0x68 },
-    { name = "__dll446_dll_446_obj_Control", vram = 0x812EA0BC, size = 0x15C },
-    { name = "__dll446_dll_446_obj_Update", vram = 0x812EA218, size = 0xC },
-    { name = "__dll446_dll_446_obj_Print", vram = 0x812EA224, size = 0x18 },
-    { name = "__dll446_dll_446_obj_Free", vram = 0x812EA23C, size = 0x10 },
-    { name = "__dll446_dll_446_obj_GetModelFlags", vram = 0x812EA24C, size = 0x10 },
-    { name = "__dll446_dll_446_obj_GetDataSize", vram = 0x812EA25C, size = 0x20 },
+    { name = "__dll446_MMP_GeyserVent_ctor", vram = 0x812EA03C, size = 0xC },
+    { name = "__dll446_MMP_GeyserVent_dtor", vram = 0x812EA048, size = 0xC },
+    { name = "__dll446_MMP_GeyserVent_obj_Setup", vram = 0x812EA054, size = 0x68 },
+    { name = "__dll446_MMP_GeyserVent_obj_Control", vram = 0x812EA0BC, size = 0x15C },
+    { name = "__dll446_MMP_GeyserVent_obj_Update", vram = 0x812EA218, size = 0xC },
+    { name = "__dll446_MMP_GeyserVent_obj_Print", vram = 0x812EA224, size = 0x18 },
+    { name = "__dll446_MMP_GeyserVent_obj_Free", vram = 0x812EA23C, size = 0x10 },
+    { name = "__dll446_MMP_GeyserVent_obj_GetModelFlags", vram = 0x812EA24C, size = 0x10 },
+    { name = "__dll446_MMP_GeyserVent_obj_GetDataSize", vram = 0x812EA25C, size = 0x20 },
 ]
 
 [[section]]
@@ -18783,14 +18783,14 @@ relocs = [
 functions = [
     { name = "__dll454_CCgrub_ctor", vram = 0x812F203C, size = 0xC },
     { name = "__dll454_CCgrub_dtor", vram = 0x812F2048, size = 0xC },
-    { name = "__dll454_CCgrub_setup", vram = 0x812F2054, size = 0x1FC },
-    { name = "__dll454_CCgrub_control", vram = 0x812F2250, size = 0x89C },
+    { name = "__dll454_CCgrub_obj_Setup", vram = 0x812F2054, size = 0x1FC },
+    { name = "__dll454_CCgrub_obj_Control", vram = 0x812F2250, size = 0x89C },
     { name = "__dll454_CCgrub_func_AB0", vram = 0x812F2AEC, size = 0xA4 },
-    { name = "__dll454_CCgrub_update", vram = 0x812F2B90, size = 0xC },
-    { name = "__dll454_CCgrub_print", vram = 0x812F2B9C, size = 0x54 },
-    { name = "__dll454_CCgrub_free", vram = 0x812F2BF0, size = 0x10 },
-    { name = "__dll454_CCgrub_get_model_flags", vram = 0x812F2C00, size = 0x10 },
-    { name = "__dll454_CCgrub_get_data_size", vram = 0x812F2C10, size = 0x14 },
+    { name = "__dll454_CCgrub_obj_Update", vram = 0x812F2B90, size = 0xC },
+    { name = "__dll454_CCgrub_obj_Print", vram = 0x812F2B9C, size = 0x54 },
+    { name = "__dll454_CCgrub_obj_Free", vram = 0x812F2BF0, size = 0x10 },
+    { name = "__dll454_CCgrub_obj_GetModelFlags", vram = 0x812F2C00, size = 0x10 },
+    { name = "__dll454_CCgrub_obj_GetDataSize", vram = 0x812F2C10, size = 0x14 },
     { name = "__dll454_CCgrub_func_BE8", vram = 0x812F2C24, size = 0x104 },
     { name = "__dll454_CCgrub_func_CEC", vram = 0x812F2D28, size = 0xD8 },
     { name = "__dll454_CCgrub_func_DC4", vram = 0x812F2E00, size = 0x288 },
@@ -19755,15 +19755,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll484_dll_484_ctor", vram = 0x8131803C, size = 0xC },
-    { name = "__dll484_dll_484_dtor", vram = 0x81318048, size = 0xC },
-    { name = "__dll484_dll_484_obj_Setup", vram = 0x81318054, size = 0xAC },
-    { name = "__dll484_dll_484_obj_Control", vram = 0x81318100, size = 0xB4 },
-    { name = "__dll484_dll_484_obj_Update", vram = 0x813181B4, size = 0xC },
-    { name = "__dll484_dll_484_obj_Print", vram = 0x813181C0, size = 0x18 },
-    { name = "__dll484_dll_484_obj_Free", vram = 0x813181D8, size = 0x48 },
-    { name = "__dll484_dll_484_obj_GetModelFlags", vram = 0x81318220, size = 0x10 },
-    { name = "__dll484_dll_484_obj_GetDataSize", vram = 0x81318230, size = 0x1C },
+    { name = "__dll484_NWSH_Sacrifice_ctor", vram = 0x8131803C, size = 0xC },
+    { name = "__dll484_NWSH_Sacrifice_dtor", vram = 0x81318048, size = 0xC },
+    { name = "__dll484_NWSH_Sacrifice_obj_Setup", vram = 0x81318054, size = 0xAC },
+    { name = "__dll484_NWSH_Sacrifice_obj_Control", vram = 0x81318100, size = 0xB4 },
+    { name = "__dll484_NWSH_Sacrifice_obj_Update", vram = 0x813181B4, size = 0xC },
+    { name = "__dll484_NWSH_Sacrifice_obj_Print", vram = 0x813181C0, size = 0x18 },
+    { name = "__dll484_NWSH_Sacrifice_obj_Free", vram = 0x813181D8, size = 0x48 },
+    { name = "__dll484_NWSH_Sacrifice_obj_GetModelFlags", vram = 0x81318220, size = 0x10 },
+    { name = "__dll484_NWSH_Sacrifice_obj_GetDataSize", vram = 0x81318230, size = 0x1C },
 ]
 
 [[section]]
@@ -20507,14 +20507,14 @@ relocs = [
 functions = [
     { name = "__dll507_SHqueenearthwalker_ctor", vram = 0x8133603C, size = 0xC },
     { name = "__dll507_SHqueenearthwalker_dtor", vram = 0x81336048, size = 0xC },
-    { name = "__dll507_SHqueenearthwalker_setup", vram = 0x81336054, size = 0x88 },
-    { name = "__dll507_SHqueenearthwalker_control", vram = 0x813360DC, size = 0x3C4 },
-    { name = "__dll507_SHqueenearthwalker_update", vram = 0x813364A0, size = 0xC },
-    { name = "__dll507_SHqueenearthwalker_print", vram = 0x813364AC, size = 0x54 },
-    { name = "__dll507_SHqueenearthwalker_free", vram = 0x81336500, size = 0x10 },
-    { name = "__dll507_SHqueenearthwalker_get_model_flags", vram = 0x81336510, size = 0x10 },
-    { name = "__dll507_SHqueenearthwalker_get_data_size", vram = 0x81336520, size = 0x14 },
-    { name = "__dll507_SHqueenearthwalker_func_4F8", vram = 0x81336534, size = 0x1C8 },
+    { name = "__dll507_SHqueenearthwalker_obj_Setup", vram = 0x81336054, size = 0x88 },
+    { name = "__dll507_SHqueenearthwalker_obj_Control", vram = 0x813360DC, size = 0x3C4 },
+    { name = "__dll507_SHqueenearthwalker_obj_Update", vram = 0x813364A0, size = 0xC },
+    { name = "__dll507_SHqueenearthwalker_obj_Print", vram = 0x813364AC, size = 0x54 },
+    { name = "__dll507_SHqueenearthwalker_obj_Free", vram = 0x81336500, size = 0x10 },
+    { name = "__dll507_SHqueenearthwalker_obj_GetModelFlags", vram = 0x81336510, size = 0x10 },
+    { name = "__dll507_SHqueenearthwalker_obj_GetDataSize", vram = 0x81336520, size = 0x14 },
+    { name = "__dll507_SHqueenearthwalker_animCallback", vram = 0x81336534, size = 0x1C8 },
 ]
 
 [[section]]
@@ -21843,18 +21843,18 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll543_dll_543_ctor", vram = 0x8136303C, size = 0xC },
-    { name = "__dll543_dll_543_dtor", vram = 0x81363048, size = 0xC },
-    { name = "__dll543_dll_543_obj_Setup", vram = 0x81363054, size = 0x2B4 },
-    { name = "__dll543_dll_543_obj_Control", vram = 0x81363308, size = 0x17C },
-    { name = "__dll543_dll_543_obj_Update", vram = 0x81363484, size = 0xC },
-    { name = "__dll543_dll_543_obj_Print", vram = 0x81363490, size = 0x54 },
-    { name = "__dll543_dll_543_obj_Free", vram = 0x813634E4, size = 0x10 },
-    { name = "__dll543_dll_543_obj_GetModelFlags", vram = 0x813634F4, size = 0x10 },
-    { name = "__dll543_dll_543_obj_GetDataSize", vram = 0x81363504, size = 0x14 },
-    { name = "__dll543_dll_543_func_4DC", vram = 0x81363518, size = 0x16C },
-    { name = "__dll543_dll_543_func_648", vram = 0x81363684, size = 0x160 },
-    { name = "__dll543_dll_543_func_7A8", vram = 0x813637E4, size = 0x308 },
+    { name = "__dll543_DIMMagicBridge_ctor", vram = 0x8136303C, size = 0xC },
+    { name = "__dll543_DIMMagicBridge_dtor", vram = 0x81363048, size = 0xC },
+    { name = "__dll543_DIMMagicBridge_obj_Setup", vram = 0x81363054, size = 0x2B4 },
+    { name = "__dll543_DIMMagicBridge_obj_Control", vram = 0x81363308, size = 0x17C },
+    { name = "__dll543_DIMMagicBridge_obj_Update", vram = 0x81363484, size = 0xC },
+    { name = "__dll543_DIMMagicBridge_obj_Print", vram = 0x81363490, size = 0x54 },
+    { name = "__dll543_DIMMagicBridge_obj_Free", vram = 0x813634E4, size = 0x10 },
+    { name = "__dll543_DIMMagicBridge_obj_GetModelFlags", vram = 0x813634F4, size = 0x10 },
+    { name = "__dll543_DIMMagicBridge_obj_GetDataSize", vram = 0x81363504, size = 0x14 },
+    { name = "__dll543_DIMMagicBridge_animCallback", vram = 0x81363518, size = 0x16C },
+    { name = "__dll543_DIMMagicBridge_advanceAnimation", vram = 0x81363684, size = 0x160 },
+    { name = "__dll543_DIMMagicBridge_updateVertices", vram = 0x813637E4, size = 0x308 },
 ]
 
 [[section]]
@@ -22191,16 +22191,16 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll554_dll_554_ctor", vram = 0x8136F040, size = 0xC },
-    { name = "__dll554_dll_554_dtor", vram = 0x8136F04C, size = 0xC },
-    { name = "__dll554_dll_554_obj_Setup", vram = 0x8136F058, size = 0xD4 },
-    { name = "__dll554_dll_554_obj_Control", vram = 0x8136F12C, size = 0x6C },
-    { name = "__dll554_dll_554_obj_Update", vram = 0x8136F198, size = 0xC },
-    { name = "__dll554_dll_554_obj_Print", vram = 0x8136F1A4, size = 0x54 },
-    { name = "__dll554_dll_554_obj_Free", vram = 0x8136F1F8, size = 0x78 },
-    { name = "__dll554_dll_554_obj_GetModelFlags", vram = 0x8136F270, size = 0x10 },
-    { name = "__dll554_dll_554_obj_GetDataSize", vram = 0x8136F280, size = 0x14 },
-    { name = "__dll554_dll_554_Func_254", vram = 0x8136F294, size = 0x7C },
+    { name = "__dll554_DIM2Conveyor_ctor", vram = 0x8136F040, size = 0xC },
+    { name = "__dll554_DIM2Conveyor_dtor", vram = 0x8136F04C, size = 0xC },
+    { name = "__dll554_DIM2Conveyor_obj_Setup", vram = 0x8136F058, size = 0xD4 },
+    { name = "__dll554_DIM2Conveyor_obj_Control", vram = 0x8136F12C, size = 0x6C },
+    { name = "__dll554_DIM2Conveyor_obj_Update", vram = 0x8136F198, size = 0xC },
+    { name = "__dll554_DIM2Conveyor_obj_Print", vram = 0x8136F1A4, size = 0x54 },
+    { name = "__dll554_DIM2Conveyor_obj_Free", vram = 0x8136F1F8, size = 0x78 },
+    { name = "__dll554_DIM2Conveyor_obj_GetModelFlags", vram = 0x8136F270, size = 0x10 },
+    { name = "__dll554_DIM2Conveyor_obj_GetDataSize", vram = 0x8136F280, size = 0x14 },
+    { name = "__dll554_DIM2Conveyor_Move", vram = 0x8136F294, size = 0x7C },
 ]
 
 [[section]]
@@ -22818,14 +22818,14 @@ relocs = [
 functions = [
     { name = "__dll570_DIM_BossSpit_ctor", vram = 0x8138403C, size = 0xC },
     { name = "__dll570_DIM_BossSpit_dtor", vram = 0x81384048, size = 0xC },
-    { name = "__dll570_DIM_BossSpit_setup", vram = 0x81384054, size = 0xB4 },
-    { name = "__dll570_DIM_BossSpit_control", vram = 0x81384108, size = 0xDC },
-    { name = "__dll570_DIM_BossSpit_update", vram = 0x813841E4, size = 0xC },
-    { name = "__dll570_DIM_BossSpit_print", vram = 0x813841F0, size = 0x54 },
-    { name = "__dll570_DIM_BossSpit_free", vram = 0x81384244, size = 0x80 },
-    { name = "__dll570_DIM_BossSpit_get_model_flags", vram = 0x813842C4, size = 0x10 },
-    { name = "__dll570_DIM_BossSpit_get_data_size", vram = 0x813842D4, size = 0x14 },
-    { name = "__dll570_DIM_BossSpit_func_2AC", vram = 0x813842E8, size = 0xB4 },
+    { name = "__dll570_DIM_BossSpit_obj_Setup", vram = 0x81384054, size = 0xB4 },
+    { name = "__dll570_DIM_BossSpit_obj_Control", vram = 0x81384108, size = 0xDC },
+    { name = "__dll570_DIM_BossSpit_obj_Update", vram = 0x813841E4, size = 0xC },
+    { name = "__dll570_DIM_BossSpit_obj_Print", vram = 0x813841F0, size = 0x54 },
+    { name = "__dll570_DIM_BossSpit_obj_Free", vram = 0x81384244, size = 0x80 },
+    { name = "__dll570_DIM_BossSpit_obj_GetModelFlags", vram = 0x813842C4, size = 0x10 },
+    { name = "__dll570_DIM_BossSpit_obj_GetDataSize", vram = 0x813842D4, size = 0x14 },
+    { name = "__dll570_DIM_BossSpit_createLfxEmitter", vram = 0x813842E8, size = 0xB4 },
     { name = "__dll570_DIM_BossSpit_func_360", vram = 0x8138439C, size = 0x1DC },
     { name = "__dll570_DIM_BossSpit_func_53C", vram = 0x81384578, size = 0x3B4 },
 ]
@@ -23517,16 +23517,16 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll592_dll_592_ctor", vram = 0x8139D03C, size = 0xC },
-    { name = "__dll592_dll_592_dtor", vram = 0x8139D048, size = 0xC },
-    { name = "__dll592_dll_592_obj_Setup", vram = 0x8139D054, size = 0x38 },
-    { name = "__dll592_dll_592_obj_Control", vram = 0x8139D08C, size = 0x244 },
-    { name = "__dll592_dll_592_obj_Update", vram = 0x8139D2D0, size = 0xC },
-    { name = "__dll592_dll_592_obj_Print", vram = 0x8139D2DC, size = 0x54 },
-    { name = "__dll592_dll_592_obj_Free", vram = 0x8139D330, size = 0x10 },
-    { name = "__dll592_dll_592_obj_GetModelFlags", vram = 0x8139D340, size = 0x10 },
-    { name = "__dll592_dll_592_obj_GetDataSize", vram = 0x8139D350, size = 0x14 },
-    { name = "__dll592_dll_592_func_328", vram = 0x8139D364, size = 0x78 },
+    { name = "__dll592_WLSeqObject_ctor", vram = 0x8139D03C, size = 0xC },
+    { name = "__dll592_WLSeqObject_dtor", vram = 0x8139D048, size = 0xC },
+    { name = "__dll592_WLSeqObject_obj_Setup", vram = 0x8139D054, size = 0x38 },
+    { name = "__dll592_WLSeqObject_obj_Control", vram = 0x8139D08C, size = 0x244 },
+    { name = "__dll592_WLSeqObject_obj_Update", vram = 0x8139D2D0, size = 0xC },
+    { name = "__dll592_WLSeqObject_obj_Print", vram = 0x8139D2DC, size = 0x54 },
+    { name = "__dll592_WLSeqObject_obj_Free", vram = 0x8139D330, size = 0x10 },
+    { name = "__dll592_WLSeqObject_obj_GetModelFlags", vram = 0x8139D340, size = 0x10 },
+    { name = "__dll592_WLSeqObject_obj_GetDataSize", vram = 0x8139D350, size = 0x14 },
+    { name = "__dll592_WLSeqObject_animCallback", vram = 0x8139D364, size = 0x78 },
 ]
 
 [[section]]
@@ -23641,16 +23641,16 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll596_WLpressureswitch_ctor", vram = 0x813A203C, size = 0xC },
-    { name = "__dll596_WLpressureswitch_dtor", vram = 0x813A2048, size = 0xC },
-    { name = "__dll596_WLpressureswitch_setup", vram = 0x813A2054, size = 0x9C },
-    { name = "__dll596_WLpressureswitch_control", vram = 0x813A20F0, size = 0x4E4 },
-    { name = "__dll596_WLpressureswitch_update", vram = 0x813A25D4, size = 0xC },
-    { name = "__dll596_WLpressureswitch_print", vram = 0x813A25E0, size = 0x54 },
-    { name = "__dll596_WLpressureswitch_free", vram = 0x813A2634, size = 0x5C },
-    { name = "__dll596_WLpressureswitch_get_model_flags", vram = 0x813A2690, size = 0x10 },
-    { name = "__dll596_WLpressureswitch_get_data_size", vram = 0x813A26A0, size = 0x14 },
-    { name = "__dll596_WLpressureswitch_anim_callback", vram = 0x813A26B4, size = 0x28 },
+    { name = "__dll596_WLPressureSwitch_ctor", vram = 0x813A203C, size = 0xC },
+    { name = "__dll596_WLPressureSwitch_dtor", vram = 0x813A2048, size = 0xC },
+    { name = "__dll596_WLPressureSwitch_obj_Setup", vram = 0x813A2054, size = 0x9C },
+    { name = "__dll596_WLPressureSwitch_obj_Control", vram = 0x813A20F0, size = 0x4E4 },
+    { name = "__dll596_WLPressureSwitch_obj_Update", vram = 0x813A25D4, size = 0xC },
+    { name = "__dll596_WLPressureSwitch_obj_Print", vram = 0x813A25E0, size = 0x54 },
+    { name = "__dll596_WLPressureSwitch_obj_Free", vram = 0x813A2634, size = 0x5C },
+    { name = "__dll596_WLPressureSwitch_obj_GetModelFlags", vram = 0x813A2690, size = 0x10 },
+    { name = "__dll596_WLPressureSwitch_obj_GetDataSize", vram = 0x813A26A0, size = 0x14 },
+    { name = "__dll596_WLPressureSwitch_animCallback", vram = 0x813A26B4, size = 0x28 },
 ]
 
 [[section]]
@@ -23677,8 +23677,8 @@ functions = [
     { name = "__dll597_WL_Column_obj_Update", vram = 0x813A3350, size = 0xC },
     { name = "__dll597_WL_Column_obj_Print", vram = 0x813A335C, size = 0xC0 },
     { name = "__dll597_WL_Column_obj_Free", vram = 0x813A341C, size = 0x10 },
-    { name = "__dll597_WL_Column_obj_getModelFlags", vram = 0x813A342C, size = 0x24 },
-    { name = "__dll597_WL_Column_obj_getDataSize", vram = 0x813A3450, size = 0x14 },
+    { name = "__dll597_WL_Column_obj_GetModelFlags", vram = 0x813A342C, size = 0x24 },
+    { name = "__dll597_WL_Column_obj_GetDataSize", vram = 0x813A3450, size = 0x14 },
     { name = "__dll597_WL_Column_handlePlayerInteraction", vram = 0x813A3464, size = 0x78 },
 ]
 
@@ -23715,22 +23715,22 @@ relocs = [
 functions = [
     { name = "__dll598_WMWizard_ctor", vram = 0x813A403C, size = 0xC },
     { name = "__dll598_WMWizard_dtor", vram = 0x813A4048, size = 0xC },
-    { name = "__dll598_WMWizard_setup", vram = 0x813A4054, size = 0xCC },
-    { name = "__dll598_WMWizard_control", vram = 0x813A4120, size = 0x154 },
-    { name = "__dll598_WMWizard_update", vram = 0x813A4274, size = 0xC },
-    { name = "__dll598_WMWizard_print", vram = 0x813A4280, size = 0xEC },
-    { name = "__dll598_WMWizard_free", vram = 0x813A436C, size = 0x10 },
-    { name = "__dll598_WMWizard_get_model_flags", vram = 0x813A437C, size = 0x10 },
-    { name = "__dll598_WMWizard_get_data_size", vram = 0x813A438C, size = 0x14 },
-    { name = "__dll598_WMWizard_anim_callback", vram = 0x813A43A0, size = 0x10C },
-    { name = "__dll598_WMWizard_anim_visit_1_first_meeting", vram = 0x813A44AC, size = 0x1A0 },
-    { name = "__dll598_WMWizard_anim_visit_2_spirit_df", vram = 0x813A464C, size = 0x1C },
-    { name = "__dll598_WMWizard_anim_visit_3_spirit_mmp", vram = 0x813A4668, size = 0x24 },
-    { name = "__dll598_WMWizard_anim_visit_3_spirit_cc", vram = 0x813A468C, size = 0xDC },
-    { name = "__dll598_WMWizard_handle_visit_1_first_meeting", vram = 0x813A4768, size = 0x2F4 },
-    { name = "__dll598_WMWizard_handle_visit_2_spirit_df", vram = 0x813A4A5C, size = 0x704 },
-    { name = "__dll598_WMWizard_handle_visit_3_spirit_mmp", vram = 0x813A5160, size = 0xA4 },
-    { name = "__dll598_WMWizard_handle_visit_4_spirit_cc", vram = 0x813A5204, size = 0x2D8 },
+    { name = "__dll598_WMWizard_obj_Setup", vram = 0x813A4054, size = 0xCC },
+    { name = "__dll598_WMWizard_obj_Control", vram = 0x813A4120, size = 0x154 },
+    { name = "__dll598_WMWizard_obj_Update", vram = 0x813A4274, size = 0xC },
+    { name = "__dll598_WMWizard_obj_Print", vram = 0x813A4280, size = 0xEC },
+    { name = "__dll598_WMWizard_obj_Free", vram = 0x813A436C, size = 0x10 },
+    { name = "__dll598_WMWizard_obj_GetModelFlags", vram = 0x813A437C, size = 0x10 },
+    { name = "__dll598_WMWizard_obj_GetDataSize", vram = 0x813A438C, size = 0x14 },
+    { name = "__dll598_WMWizard_animCallback", vram = 0x813A43A0, size = 0x10C },
+    { name = "__dll598_WMWizard_animVisit1FirstMeeting", vram = 0x813A44AC, size = 0x1A0 },
+    { name = "__dll598_WMWizard_animVisit2SpiritDF", vram = 0x813A464C, size = 0x1C },
+    { name = "__dll598_WMWizard_animVisit3SpiritMMP", vram = 0x813A4668, size = 0x24 },
+    { name = "__dll598_WMWizard_animVisit3SpiritCC", vram = 0x813A468C, size = 0xDC },
+    { name = "__dll598_WMWizard_handleVisit1FirstMeeting", vram = 0x813A4768, size = 0x2F4 },
+    { name = "__dll598_WMWizard_handleVisit2SpiritDF", vram = 0x813A4A5C, size = 0x704 },
+    { name = "__dll598_WMWizard_handleVisit3SpiritMMP", vram = 0x813A5160, size = 0xA4 },
+    { name = "__dll598_WMWizard_handleVisit3SpiritCC", vram = 0x813A5204, size = 0x2D8 },
 ]
 
 [[section]]
@@ -23843,15 +23843,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll602_dll_602_ctor", vram = 0x813A903C, size = 0xC },
-    { name = "__dll602_dll_602_dtor", vram = 0x813A9048, size = 0xC },
-    { name = "__dll602_dll_602_setup", vram = 0x813A9054, size = 0x20C },
-    { name = "__dll602_dll_602_control", vram = 0x813A9260, size = 0x370 },
-    { name = "__dll602_dll_602_update", vram = 0x813A95D0, size = 0xC },
-    { name = "__dll602_dll_602_print", vram = 0x813A95DC, size = 0x18 },
-    { name = "__dll602_dll_602_free", vram = 0x813A95F4, size = 0xD4 },
-    { name = "__dll602_dll_602_get_model_flags", vram = 0x813A96C8, size = 0x10 },
-    { name = "__dll602_dll_602_get_data_size", vram = 0x813A96D8, size = 0x14 },
+    { name = "__dll602_WLTorch_ctor", vram = 0x813A903C, size = 0xC },
+    { name = "__dll602_WLTorch_dtor", vram = 0x813A9048, size = 0xC },
+    { name = "__dll602_WLTorch_obj_Setup", vram = 0x813A9054, size = 0x20C },
+    { name = "__dll602_WLTorch_obj_Control", vram = 0x813A9260, size = 0x370 },
+    { name = "__dll602_WLTorch_obj_Update", vram = 0x813A95D0, size = 0xC },
+    { name = "__dll602_WLTorch_obj_Print", vram = 0x813A95DC, size = 0x18 },
+    { name = "__dll602_WLTorch_obj_Free", vram = 0x813A95F4, size = 0xD4 },
+    { name = "__dll602_WLTorch_obj_GetModelFlags", vram = 0x813A96C8, size = 0x10 },
+    { name = "__dll602_WLTorch_obj_GetDataSize", vram = 0x813A96D8, size = 0x14 },
 ]
 
 [[section]]
@@ -23901,15 +23901,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll604_dll_604_ctor", vram = 0x813AB03C, size = 0xC },
-    { name = "__dll604_dll_604_dtor", vram = 0x813AB048, size = 0xC },
-    { name = "__dll604_dll_604_obj_Setup", vram = 0x813AB054, size = 0x15C },
-    { name = "__dll604_dll_604_obj_Control", vram = 0x813AB1B0, size = 0x548 },
-    { name = "__dll604_dll_604_obj_Update", vram = 0x813AB6F8, size = 0xC },
-    { name = "__dll604_dll_604_obj_Print", vram = 0x813AB704, size = 0x288 },
-    { name = "__dll604_dll_604_obj_Free", vram = 0x813AB98C, size = 0xE8 },
-    { name = "__dll604_dll_604_obj_GetModelFlags", vram = 0x813ABA74, size = 0x1C },
-    { name = "__dll604_dll_604_obj_GetDataSize", vram = 0x813ABA90, size = 0x1C },
+    { name = "__dll604_WL_WallTorch_ctor", vram = 0x813AB03C, size = 0xC },
+    { name = "__dll604_WL_WallTorch_dtor", vram = 0x813AB048, size = 0xC },
+    { name = "__dll604_WL_WallTorch_obj_Setup", vram = 0x813AB054, size = 0x15C },
+    { name = "__dll604_WL_WallTorch_obj_Control", vram = 0x813AB1B0, size = 0x548 },
+    { name = "__dll604_WL_WallTorch_obj_Update", vram = 0x813AB6F8, size = 0xC },
+    { name = "__dll604_WL_WallTorch_obj_Print", vram = 0x813AB704, size = 0x288 },
+    { name = "__dll604_WL_WallTorch_obj_Free", vram = 0x813AB98C, size = 0xE8 },
+    { name = "__dll604_WL_WallTorch_obj_GetModelFlags", vram = 0x813ABA74, size = 0x1C },
+    { name = "__dll604_WL_WallTorch_obj_GetDataSize", vram = 0x813ABA90, size = 0x1C },
 ]
 
 [[section]]
@@ -24005,22 +24005,22 @@ relocs = [
 functions = [
     { name = "__dll607_WL_LevelControl_ctor", vram = 0x813AE03C, size = 0xC },
     { name = "__dll607_WL_LevelControl_dtor", vram = 0x813AE048, size = 0xC },
-    { name = "__dll607_WL_LevelControl_setup", vram = 0x813AE054, size = 0x244 },
-    { name = "__dll607_WL_LevelControl_control", vram = 0x813AE298, size = 0x138 },
-    { name = "__dll607_WL_LevelControl_update", vram = 0x813AE3D0, size = 0xC },
-    { name = "__dll607_WL_LevelControl_print", vram = 0x813AE3DC, size = 0x54 },
-    { name = "__dll607_WL_LevelControl_free", vram = 0x813AE430, size = 0x48 },
-    { name = "__dll607_WL_LevelControl_get_model_flags", vram = 0x813AE478, size = 0x10 },
-    { name = "__dll607_WL_LevelControl_get_data_size", vram = 0x813AE488, size = 0x14 },
+    { name = "__dll607_WL_LevelControl_obj_Setup", vram = 0x813AE054, size = 0x244 },
+    { name = "__dll607_WL_LevelControl_obj_Control", vram = 0x813AE298, size = 0x138 },
+    { name = "__dll607_WL_LevelControl_obj_Update", vram = 0x813AE3D0, size = 0xC },
+    { name = "__dll607_WL_LevelControl_obj_Print", vram = 0x813AE3DC, size = 0x54 },
+    { name = "__dll607_WL_LevelControl_obj_Free", vram = 0x813AE430, size = 0x48 },
+    { name = "__dll607_WL_LevelControl_obj_GetModelFlags", vram = 0x813AE478, size = 0x10 },
+    { name = "__dll607_WL_LevelControl_obj_GetDataSize", vram = 0x813AE488, size = 0x14 },
     { name = "__dll607_WL_LevelControl_load_galleon_if_needed", vram = 0x813AE49C, size = 0x1E8 },
     { name = "__dll607_WL_LevelControl_unload_galleon_if_needed", vram = 0x813AE684, size = 0x15C },
-    { name = "__dll607_WL_LevelControl_setup1_tick", vram = 0x813AE7E0, size = 0x19C },
-    { name = "__dll607_WL_LevelControl_setup2_tick", vram = 0x813AE97C, size = 0x310 },
-    { name = "__dll607_WL_LevelControl_setup3_tick", vram = 0x813AEC8C, size = 0x1E4 },
-    { name = "__dll607_WL_LevelControl_setup4_tick", vram = 0x813AEE70, size = 0x2E4 },
-    { name = "__dll607_WL_LevelControl_setup5_tick", vram = 0x813AF154, size = 0x3E4 },
-    { name = "__dll607_WL_LevelControl_setup6_tick", vram = 0x813AF538, size = 0x28C },
-    { name = "__dll607_WL_LevelControl_setup7_tick", vram = 0x813AF7C4, size = 0x258 },
+    { name = "__dll607_WL_LevelControl_handleAct1", vram = 0x813AE7E0, size = 0x19C },
+    { name = "__dll607_WL_LevelControl_handleAct2", vram = 0x813AE97C, size = 0x310 },
+    { name = "__dll607_WL_LevelControl_handleAct3", vram = 0x813AEC8C, size = 0x1E4 },
+    { name = "__dll607_WL_LevelControl_handleAct4", vram = 0x813AEE70, size = 0x2E4 },
+    { name = "__dll607_WL_LevelControl_handleAct5", vram = 0x813AF154, size = 0x3E4 },
+    { name = "__dll607_WL_LevelControl_handleAct6", vram = 0x813AF538, size = 0x28C },
+    { name = "__dll607_WL_LevelControl_handleAct7", vram = 0x813AF7C4, size = 0x258 },
 ]
 
 [[section]]
@@ -24469,15 +24469,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll622_dll_622_ctor", vram = 0x813C203C, size = 0xC },
-    { name = "__dll622_dll_622_dtor", vram = 0x813C2048, size = 0xC },
-    { name = "__dll622_dll_622_obj_Setup", vram = 0x813C2054, size = 0x30 },
-    { name = "__dll622_dll_622_obj_Control", vram = 0x813C2084, size = 0x148 },
-    { name = "__dll622_dll_622_obj_Update", vram = 0x813C21CC, size = 0xC },
-    { name = "__dll622_dll_622_obj_Print", vram = 0x813C21D8, size = 0x18 },
-    { name = "__dll622_dll_622_obj_Free", vram = 0x813C21F0, size = 0x48 },
-    { name = "__dll622_dll_622_obj_GetModelFlags", vram = 0x813C2238, size = 0x10 },
-    { name = "__dll622_dll_622_obj_GetDataSize", vram = 0x813C2248, size = 0x14 },
+    { name = "__dll622_VFP_Statue_ctor", vram = 0x813C203C, size = 0xC },
+    { name = "__dll622_VFP_Statue_dtor", vram = 0x813C2048, size = 0xC },
+    { name = "__dll622_VFP_Statue_obj_Setup", vram = 0x813C2054, size = 0x30 },
+    { name = "__dll622_VFP_Statue_obj_Control", vram = 0x813C2084, size = 0x148 },
+    { name = "__dll622_VFP_Statue_obj_Update", vram = 0x813C21CC, size = 0xC },
+    { name = "__dll622_VFP_Statue_obj_Print", vram = 0x813C21D8, size = 0x18 },
+    { name = "__dll622_VFP_Statue_obj_Free", vram = 0x813C21F0, size = 0x48 },
+    { name = "__dll622_VFP_Statue_obj_GetModelFlags", vram = 0x813C2238, size = 0x10 },
+    { name = "__dll622_VFP_Statue_obj_GetDataSize", vram = 0x813C2248, size = 0x14 },
 ]
 
 [[section]]
@@ -25538,15 +25538,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll655_dll_655_ctor", vram = 0x813E903C, size = 0xC },
-    { name = "__dll655_dll_655_dtor", vram = 0x813E9048, size = 0xC },
-    { name = "__dll655_dll_655_obj_Setup", vram = 0x813E9054, size = 0xDC },
-    { name = "__dll655_dll_655_obj_Control", vram = 0x813E9130, size = 0x114 },
-    { name = "__dll655_dll_655_obj_Update", vram = 0x813E9244, size = 0xC },
-    { name = "__dll655_dll_655_obj_Print", vram = 0x813E9250, size = 0x54 },
-    { name = "__dll655_dll_655_obj_Free", vram = 0x813E92A4, size = 0x48 },
-    { name = "__dll655_dll_655_obj_GetModelFlags", vram = 0x813E92EC, size = 0x10 },
-    { name = "__dll655_dll_655_obj_GetDataSize", vram = 0x813E92FC, size = 0x20 },
+    { name = "__dll655_DFP_Platform1_ctor", vram = 0x813E903C, size = 0xC },
+    { name = "__dll655_DFP_Platform1_dtor", vram = 0x813E9048, size = 0xC },
+    { name = "__dll655_DFP_Platform1_obj_Setup", vram = 0x813E9054, size = 0xDC },
+    { name = "__dll655_DFP_Platform1_obj_Control", vram = 0x813E9130, size = 0x114 },
+    { name = "__dll655_DFP_Platform1_obj_Update", vram = 0x813E9244, size = 0xC },
+    { name = "__dll655_DFP_Platform1_obj_Print", vram = 0x813E9250, size = 0x54 },
+    { name = "__dll655_DFP_Platform1_obj_Free", vram = 0x813E92A4, size = 0x48 },
+    { name = "__dll655_DFP_Platform1_obj_GetModelFlags", vram = 0x813E92EC, size = 0x10 },
+    { name = "__dll655_DFP_Platform1_obj_GetDataSize", vram = 0x813E92FC, size = 0x20 },
 ]
 
 [[section]]
@@ -26012,18 +26012,18 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll667_dll_667_ctor", vram = 0x813FD03C, size = 0xC },
-    { name = "__dll667_dll_667_dtor", vram = 0x813FD048, size = 0xC },
-    { name = "__dll667_dll_667_obj_Setup", vram = 0x813FD054, size = 0x2A0 },
-    { name = "__dll667_dll_667_obj_Control", vram = 0x813FD2F4, size = 0x168 },
-    { name = "__dll667_dll_667_obj_Update", vram = 0x813FD45C, size = 0xC },
-    { name = "__dll667_dll_667_obj_Print", vram = 0x813FD468, size = 0x54 },
-    { name = "__dll667_dll_667_obj_Free", vram = 0x813FD4BC, size = 0x10 },
-    { name = "__dll667_dll_667_obj_GetModelFlags", vram = 0x813FD4CC, size = 0x10 },
-    { name = "__dll667_dll_667_obj_GetDataSize", vram = 0x813FD4DC, size = 0x14 },
-    { name = "__dll667_dll_667_func_4B4", vram = 0x813FD4F0, size = 0x16C },
-    { name = "__dll667_dll_667_func_620", vram = 0x813FD65C, size = 0x160 },
-    { name = "__dll667_dll_667_func_780", vram = 0x813FD7BC, size = 0x310 },
+    { name = "__dll667_DBMagicBridge_ctor", vram = 0x813FD03C, size = 0xC },
+    { name = "__dll667_DBMagicBridge_dtor", vram = 0x813FD048, size = 0xC },
+    { name = "__dll667_DBMagicBridge_obj_Setup", vram = 0x813FD054, size = 0x2A0 },
+    { name = "__dll667_DBMagicBridge_obj_Control", vram = 0x813FD2F4, size = 0x168 },
+    { name = "__dll667_DBMagicBridge_obj_Update", vram = 0x813FD45C, size = 0xC },
+    { name = "__dll667_DBMagicBridge_obj_Print", vram = 0x813FD468, size = 0x54 },
+    { name = "__dll667_DBMagicBridge_obj_Free", vram = 0x813FD4BC, size = 0x10 },
+    { name = "__dll667_DBMagicBridge_obj_GetModelFlags", vram = 0x813FD4CC, size = 0x10 },
+    { name = "__dll667_DBMagicBridge_obj_GetDataSize", vram = 0x813FD4DC, size = 0x14 },
+    { name = "__dll667_DBMagicBridge_animCallback", vram = 0x813FD4F0, size = 0x16C },
+    { name = "__dll667_DBMagicBridge_advanceAnimation", vram = 0x813FD65C, size = 0x160 },
+    { name = "__dll667_DBMagicBridge_updateVertices", vram = 0x813FD7BC, size = 0x310 },
 ]
 
 [[section]]
@@ -27311,13 +27311,13 @@ relocs = [
 functions = [
     { name = "__dll701_KT_RexLevel_ctor", vram = 0x8142603C, size = 0xC },
     { name = "__dll701_KT_RexLevel_dtor", vram = 0x81426048, size = 0xC },
-    { name = "__dll701_KT_RexLevel_setup", vram = 0x81426054, size = 0x1E4 },
-    { name = "__dll701_KT_RexLevel_control", vram = 0x81426238, size = 0x274 },
-    { name = "__dll701_KT_RexLevel_update", vram = 0x814264AC, size = 0xC },
-    { name = "__dll701_KT_RexLevel_print", vram = 0x814264B8, size = 0x54 },
-    { name = "__dll701_KT_RexLevel_free", vram = 0x8142650C, size = 0x90 },
-    { name = "__dll701_KT_RexLevel_get_model_flags", vram = 0x8142659C, size = 0x10 },
-    { name = "__dll701_KT_RexLevel_get_data_size", vram = 0x814265AC, size = 0x20 },
+    { name = "__dll701_KT_RexLevel_obj_Setup", vram = 0x81426054, size = 0x1E4 },
+    { name = "__dll701_KT_RexLevel_obj_Control", vram = 0x81426238, size = 0x274 },
+    { name = "__dll701_KT_RexLevel_obj_Update", vram = 0x814264AC, size = 0xC },
+    { name = "__dll701_KT_RexLevel_obj_Print", vram = 0x814264B8, size = 0x54 },
+    { name = "__dll701_KT_RexLevel_obj_Free", vram = 0x8142650C, size = 0x90 },
+    { name = "__dll701_KT_RexLevel_obj_GetModelFlags", vram = 0x8142659C, size = 0x10 },
+    { name = "__dll701_KT_RexLevel_obj_GetDataSize", vram = 0x814265AC, size = 0x20 },
 ]
 
 [[section]]
@@ -27561,15 +27561,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll706_dll_706_ctor", vram = 0x8142E03C, size = 0xC },
-    { name = "__dll706_dll_706_dtor", vram = 0x8142E048, size = 0xC },
-    { name = "__dll706_dll_706_obj_Setup", vram = 0x8142E054, size = 0x14 },
-    { name = "__dll706_dll_706_obj_Control", vram = 0x8142E068, size = 0x164 },
-    { name = "__dll706_dll_706_obj_Update", vram = 0x8142E1CC, size = 0xC },
-    { name = "__dll706_dll_706_obj_Print", vram = 0x8142E1D8, size = 0x18 },
-    { name = "__dll706_dll_706_obj_Free", vram = 0x8142E1F0, size = 0x48 },
-    { name = "__dll706_dll_706_obj_GetModelFlags", vram = 0x8142E238, size = 0x10 },
-    { name = "__dll706_dll_706_obj_GetDataSize", vram = 0x8142E248, size = 0x14 },
+    { name = "__dll706_KT_Fallingrocks_ctor", vram = 0x8142E03C, size = 0xC },
+    { name = "__dll706_KT_Fallingrocks_dtor", vram = 0x8142E048, size = 0xC },
+    { name = "__dll706_KT_Fallingrocks_obj_Setup", vram = 0x8142E054, size = 0x14 },
+    { name = "__dll706_KT_Fallingrocks_obj_Control", vram = 0x8142E068, size = 0x164 },
+    { name = "__dll706_KT_Fallingrocks_obj_Update", vram = 0x8142E1CC, size = 0xC },
+    { name = "__dll706_KT_Fallingrocks_obj_Print", vram = 0x8142E1D8, size = 0x18 },
+    { name = "__dll706_KT_Fallingrocks_obj_Free", vram = 0x8142E1F0, size = 0x48 },
+    { name = "__dll706_KT_Fallingrocks_obj_GetModelFlags", vram = 0x8142E238, size = 0x10 },
+    { name = "__dll706_KT_Fallingrocks_obj_GetDataSize", vram = 0x8142E248, size = 0x14 },
 ]
 
 [[section]]
@@ -27943,7 +27943,7 @@ functions = [
     { name = "__dll712_DIMSnowHorn_animState4LeapFidget", vram = 0x8143D370, size = 0x174 },
     { name = "__dll712_DIMSnowHorn_animState5FamishedFallen", vram = 0x8143D4E4, size = 0x174 },
     { name = "__dll712_DIMSnowHorn_animState6FamishedMet", vram = 0x8143D658, size = 0x1F0 },
-    { name = "__dll712_DIMSnowHorn_animState7FanishedFedOnce", vram = 0x8143D848, size = 0x1E4 },
+    { name = "__dll712_DIMSnowHorn_animState7FamishedFedOnce", vram = 0x8143D848, size = 0x1E4 },
     { name = "__dll712_DIMSnowHorn_animState8VehicleIdle", vram = 0x8143DA2C, size = 0x1E8 },
     { name = "__dll712_DIMSnowHorn_animState9VehicleSit", vram = 0x8143DC14, size = 0x1F0 },
     { name = "__dll712_DIMSnowHorn_animState10VehicleTurn", vram = 0x8143DE04, size = 0x15C },
@@ -28374,17 +28374,17 @@ relocs = [
 functions = [
     { name = "__dll720_FindKyteObject_ctor", vram = 0x8144C04C, size = 0xC },
     { name = "__dll720_FindKyteObject_dtor", vram = 0x8144C058, size = 0xC },
-    { name = "__dll720_FindKyteObject_setup", vram = 0x8144C064, size = 0x4C },
-    { name = "__dll720_FindKyteObject_control", vram = 0x8144C0B0, size = 0x348 },
-    { name = "__dll720_FindKyteObject_update", vram = 0x8144C3F8, size = 0xC },
-    { name = "__dll720_FindKyteObject_print", vram = 0x8144C404, size = 0x18 },
-    { name = "__dll720_FindKyteObject_func_3D0", vram = 0x8144C41C, size = 0x14 },
-    { name = "__dll720_FindKyteObject_func_3E4", vram = 0x8144C430, size = 0x18 },
-    { name = "__dll720_FindKyteObject_free", vram = 0x8144C448, size = 0x40 },
-    { name = "__dll720_FindKyteObject_get_model_flags", vram = 0x8144C488, size = 0x10 },
-    { name = "__dll720_FindKyteObject_get_data_size", vram = 0x8144C498, size = 0x14 },
-    { name = "__dll720_FindKyteObject_func_460", vram = 0x8144C4AC, size = 0x18 },
-    { name = "__dll720_FindKyteObject_func_478", vram = 0x8144C4C4, size = 0x18 },
+    { name = "__dll720_FindKyteObject_obj_Setup", vram = 0x8144C064, size = 0x4C },
+    { name = "__dll720_FindKyteObject_obj_Control", vram = 0x8144C0B0, size = 0x348 },
+    { name = "__dll720_FindKyteObject_obj_Update", vram = 0x8144C3F8, size = 0xC },
+    { name = "__dll720_FindKyteObject_obj_Print", vram = 0x8144C404, size = 0x18 },
+    { name = "__dll720_FindKyteObject_kyteTarget_Interact", vram = 0x8144C41C, size = 0x14 },
+    { name = "__dll720_FindKyteObject_kyteTarget_Func_3E4", vram = 0x8144C430, size = 0x18 },
+    { name = "__dll720_FindKyteObject_obj_Free", vram = 0x8144C448, size = 0x40 },
+    { name = "__dll720_FindKyteObject_obj_GetModelFlags", vram = 0x8144C488, size = 0x10 },
+    { name = "__dll720_FindKyteObject_obj_GetDataSize", vram = 0x8144C498, size = 0x14 },
+    { name = "__dll720_FindKyteObject_kyteTarget_Approach", vram = 0x8144C4AC, size = 0x18 },
+    { name = "__dll720_FindKyteObject_kyteTarget_GetType", vram = 0x8144C4C4, size = 0x18 },
 ]
 
 [[section]]
@@ -29104,17 +29104,17 @@ relocs = [
 functions = [
     { name = "__dll737_DRLavaControl_ctor", vram = 0x8146603C, size = 0xC },
     { name = "__dll737_DRLavaControl_dtor", vram = 0x81466048, size = 0xC },
-    { name = "__dll737_DRLavaControl_setup", vram = 0x81466054, size = 0x118 },
-    { name = "__dll737_DRLavaControl_control", vram = 0x8146616C, size = 0x40 },
-    { name = "__dll737_DRLavaControl_update", vram = 0x814661AC, size = 0x68 },
-    { name = "__dll737_DRLavaControl_print", vram = 0x81466214, size = 0x18 },
-    { name = "__dll737_DRLavaControl_free", vram = 0x8146622C, size = 0x80 },
-    { name = "__dll737_DRLavaControl_get_model_flags", vram = 0x814662AC, size = 0x10 },
-    { name = "__dll737_DRLavaControl_get_data_size", vram = 0x814662BC, size = 0x14 },
+    { name = "__dll737_DRLavaControl_obj_Setup", vram = 0x81466054, size = 0x118 },
+    { name = "__dll737_DRLavaControl_obj_Control", vram = 0x8146616C, size = 0x40 },
+    { name = "__dll737_DRLavaControl_obj_Update", vram = 0x814661AC, size = 0x68 },
+    { name = "__dll737_DRLavaControl_obj_Print", vram = 0x81466214, size = 0x18 },
+    { name = "__dll737_DRLavaControl_obj_Free", vram = 0x8146622C, size = 0x80 },
+    { name = "__dll737_DRLavaControl_obj_GetModelFlags", vram = 0x814662AC, size = 0x10 },
+    { name = "__dll737_DRLavaControl_obj_GetDataSize", vram = 0x814662BC, size = 0x14 },
     { name = "__dll737_DRLavaControl_freeze", vram = 0x814662D0, size = 0x1E8 },
-    { name = "__dll737_DRLavaControl_freeze_update_effects", vram = 0x814664B8, size = 0x188 },
-    { name = "__dll737_DRLavaControl_create_light", vram = 0x81466640, size = 0x11C },
-    { name = "__dll737_DRLavaControl_create_particles", vram = 0x8146675C, size = 0x140 },
+    { name = "__dll737_DRLavaControl_freezeUpdateEffects", vram = 0x814664B8, size = 0x188 },
+    { name = "__dll737_DRLavaControl_createLight", vram = 0x81466640, size = 0x11C },
+    { name = "__dll737_DRLavaControl_createParticles", vram = 0x8146675C, size = 0x140 },
 ]
 
 [[section]]
@@ -29621,15 +29621,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll751_dll_751_ctor", vram = 0x8147703C, size = 0xC },
-    { name = "__dll751_dll_751_dtor", vram = 0x81477048, size = 0xC },
-    { name = "__dll751_dll_751_obj_Setup", vram = 0x81477054, size = 0x220 },
-    { name = "__dll751_dll_751_obj_Control", vram = 0x81477274, size = 0x59C },
-    { name = "__dll751_dll_751_obj_Update", vram = 0x81477810, size = 0x26C },
-    { name = "__dll751_dll_751_obj_Print", vram = 0x81477A7C, size = 0x54 },
-    { name = "__dll751_dll_751_obj_Free", vram = 0x81477AD0, size = 0x70 },
-    { name = "__dll751_dll_751_obj_GetModelFlags", vram = 0x81477B40, size = 0x10 },
-    { name = "__dll751_dll_751_obj_GetDataSize", vram = 0x81477B50, size = 0x1C },
+    { name = "__dll751_DFIceFire_ctor", vram = 0x8147703C, size = 0xC },
+    { name = "__dll751_DFIceFire_dtor", vram = 0x81477048, size = 0xC },
+    { name = "__dll751_DFIceFire_obj_Setup", vram = 0x81477054, size = 0x220 },
+    { name = "__dll751_DFIceFire_obj_Control", vram = 0x81477274, size = 0x59C },
+    { name = "__dll751_DFIceFire_obj_Update", vram = 0x81477810, size = 0x26C },
+    { name = "__dll751_DFIceFire_obj_Print", vram = 0x81477A7C, size = 0x54 },
+    { name = "__dll751_DFIceFire_obj_Free", vram = 0x81477AD0, size = 0x70 },
+    { name = "__dll751_DFIceFire_obj_GetModelFlags", vram = 0x81477B40, size = 0x10 },
+    { name = "__dll751_DFIceFire_obj_GetDataSize", vram = 0x81477B50, size = 0x1C },
 ]
 
 [[section]]
@@ -30133,15 +30133,15 @@ relocs = [
 functions = [
     { name = "__dll767_SPItem_ctor", vram = 0x8148703C, size = 0xC },
     { name = "__dll767_SPItem_dtor", vram = 0x81487048, size = 0xC },
-    { name = "__dll767_SPItem_setup", vram = 0x81487054, size = 0x6C },
-    { name = "__dll767_SPItem_control", vram = 0x814870C0, size = 0x2CC },
+    { name = "__dll767_SPItem_obj_Setup", vram = 0x81487054, size = 0x6C },
+    { name = "__dll767_SPItem_obj_Control", vram = 0x814870C0, size = 0x2CC },
     { name = "__dll767_SPItem_update", vram = 0x8148738C, size = 0xC },
-    { name = "__dll767_SPItem_print", vram = 0x81487398, size = 0xE4 },
-    { name = "__dll767_SPItem_free", vram = 0x8148747C, size = 0x10 },
-    { name = "__dll767_SPItem_get_model_flags", vram = 0x8148748C, size = 0x18 },
-    { name = "__dll767_SPItem_get_data_size", vram = 0x814874A4, size = 0x14 },
-    { name = "__dll767_SPItem_anim_callback", vram = 0x814874B8, size = 0x30 },
-    { name = "__dll767_SPItem_bought_callback", vram = 0x814874E8, size = 0xC4 },
+    { name = "__dll767_SPItem_obj_Print", vram = 0x81487398, size = 0xE4 },
+    { name = "__dll767_SPItem_obj_Free", vram = 0x8148747C, size = 0x10 },
+    { name = "__dll767_SPItem_obj_GetModelFlags", vram = 0x8148748C, size = 0x18 },
+    { name = "__dll767_SPItem_obj_GetDataSize", vram = 0x814874A4, size = 0x14 },
+    { name = "__dll767_SPItem_animCallback", vram = 0x814874B8, size = 0x30 },
+    { name = "__dll767_SPItem_boughtCallback", vram = 0x814874E8, size = 0xC4 },
 ]
 
 [[section]]
@@ -30183,28 +30183,28 @@ relocs = [
 functions = [
     { name = "__dll768_SPShop_ctor", vram = 0x81488074, size = 0xC },
     { name = "__dll768_SPShop_dtor", vram = 0x81488080, size = 0xC },
-    { name = "__dll768_SPShop_setup", vram = 0x8148808C, size = 0x70 },
-    { name = "__dll768_SPShop_control", vram = 0x814880FC, size = 0x24C },
-    { name = "__dll768_SPShop_update", vram = 0x81488348, size = 0xC },
-    { name = "__dll768_SPShop_print", vram = 0x81488354, size = 0x54 },
-    { name = "__dll768_SPShop_free", vram = 0x814883A8, size = 0x40 },
-    { name = "__dll768_SPShop_get_model_flags", vram = 0x814883E8, size = 0x10 },
-    { name = "__dll768_SPShop_get_data_size", vram = 0x814883F8, size = 0x14 },
-    { name = "__dll768_SPShop_return_unk0", vram = 0x8148840C, size = 0x10 },
-    { name = "__dll768_SPShop_play_sequence", vram = 0x8148841C, size = 0x64 },
-    { name = "__dll768_SPShop_is_item_shown", vram = 0x81488480, size = 0xCC },
-    { name = "__dll768_SPShop_is_item_hidden", vram = 0x8148854C, size = 0xCC },
-    { name = "__dll768_SPShop_get_minimum_price", vram = 0x81488618, size = 0x44 },
-    { name = "__dll768_SPShop_get_special_price", vram = 0x8148865C, size = 0x44 },
-    { name = "__dll768_SPShop_get_initial_price", vram = 0x814886A0, size = 0x44 },
-    { name = "__dll768_SPShop_get_item_gametext_index", vram = 0x814886E4, size = 0x44 },
-    { name = "__dll768_SPShop_set_current_item_index", vram = 0x81488728, size = 0x10 },
-    { name = "__dll768_SPShop_get_current_item_index", vram = 0x81488738, size = 0x10 },
-    { name = "__dll768_SPShop_buy_item", vram = 0x81488748, size = 0x1B0 },
-    { name = "__dll768_SPShop_func_884", vram = 0x814888F8, size = 0x18 },
-    { name = "__dll768_SPShop_func_89C", vram = 0x81488910, size = 0x24 },
-    { name = "__dll768_SPShop_func_8C0", vram = 0x81488934, size = 0x24 },
-    { name = "__dll768_SPShop_set_random_prices", vram = 0x81488958, size = 0x7C },
+    { name = "__dll768_SPShop_obj_Setup", vram = 0x8148808C, size = 0x70 },
+    { name = "__dll768_SPShop_obj_Control", vram = 0x814880FC, size = 0x24C },
+    { name = "__dll768_SPShop_obj_Update", vram = 0x81488348, size = 0xC },
+    { name = "__dll768_SPShop_obj_Print", vram = 0x81488354, size = 0x54 },
+    { name = "__dll768_SPShop_obj_Free", vram = 0x814883A8, size = 0x40 },
+    { name = "__dll768_SPShop_obj_GetModelFlags", vram = 0x814883E8, size = 0x10 },
+    { name = "__dll768_SPShop_obj_GetDataSize", vram = 0x814883F8, size = 0x14 },
+    { name = "__dll768_SPShop_GetUnk0", vram = 0x8148840C, size = 0x10 },
+    { name = "__dll768_SPShop_PlaySequence", vram = 0x8148841C, size = 0x64 },
+    { name = "__dll768_SPShop_IsItemShown", vram = 0x81488480, size = 0xCC },
+    { name = "__dll768_SPShop_IsItemHidden", vram = 0x8148854C, size = 0xCC },
+    { name = "__dll768_SPShop_GetMinimumPrice", vram = 0x81488618, size = 0x44 },
+    { name = "__dll768_SPShop_GetSpecialPrice", vram = 0x8148865C, size = 0x44 },
+    { name = "__dll768_SPShop_GetInitialPrice", vram = 0x814886A0, size = 0x44 },
+    { name = "__dll768_SPShop_GetItemGametextIndex", vram = 0x814886E4, size = 0x44 },
+    { name = "__dll768_SPShop_SetCurrentItemIndex", vram = 0x81488728, size = 0x10 },
+    { name = "__dll768_SPShop_GetCurrentItemIndex", vram = 0x81488738, size = 0x10 },
+    { name = "__dll768_SPShop_BuyItem", vram = 0x81488748, size = 0x1B0 },
+    { name = "__dll768_SPShop_InitMinigameStats", vram = 0x814888F8, size = 0x18 },
+    { name = "__dll768_SPShop_UpdateMinigameStats", vram = 0x81488910, size = 0x24 },
+    { name = "__dll768_SPShop_GetMinigameStats", vram = 0x81488934, size = 0x24 },
+    { name = "__dll768_SPShop_randomisePrices", vram = 0x81488958, size = 0x7C },
 ]
 
 [[section]]
@@ -30369,15 +30369,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll772_SPitembeam_ctor", vram = 0x8148E03C, size = 0xC },
-    { name = "__dll772_SPitembeam_dtor", vram = 0x8148E048, size = 0xC },
-    { name = "__dll772_SPitembeam_setup", vram = 0x8148E054, size = 0x70 },
-    { name = "__dll772_SPitembeam_control", vram = 0x8148E0C4, size = 0xE8 },
-    { name = "__dll772_SPitembeam_update", vram = 0x8148E1AC, size = 0xC },
-    { name = "__dll772_SPitembeam_print", vram = 0x8148E1B8, size = 0x18 },
-    { name = "__dll772_SPitembeam_free", vram = 0x8148E1D0, size = 0x10 },
-    { name = "__dll772_SPitembeam_get_model_flags", vram = 0x8148E1E0, size = 0x10 },
-    { name = "__dll772_SPitembeam_get_data_size", vram = 0x8148E1F0, size = 0x1C },
+    { name = "__dll772_SPItemBeam_ctor", vram = 0x8148E03C, size = 0xC },
+    { name = "__dll772_SPItemBeam_dtor", vram = 0x8148E048, size = 0xC },
+    { name = "__dll772_SPItemBeam_obj_Setup", vram = 0x8148E054, size = 0x70 },
+    { name = "__dll772_SPItemBeam_obj_Control", vram = 0x8148E0C4, size = 0xE8 },
+    { name = "__dll772_SPItemBeam_obj_Update", vram = 0x8148E1AC, size = 0xC },
+    { name = "__dll772_SPItemBeam_obj_Print", vram = 0x8148E1B8, size = 0x18 },
+    { name = "__dll772_SPItemBeam_obj_Free", vram = 0x8148E1D0, size = 0x10 },
+    { name = "__dll772_SPItemBeam_obj_GetModelFlags", vram = 0x8148E1E0, size = 0x10 },
+    { name = "__dll772_SPItemBeam_obj_GetDataSize", vram = 0x8148E1F0, size = 0x1C },
 ]
 
 [[section]]
@@ -30532,16 +30532,16 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll776_dll_776_ctor", vram = 0x8149203C, size = 0xC },
-    { name = "__dll776_dll_776_dtor", vram = 0x81492048, size = 0xC },
-    { name = "__dll776_dll_776_setup", vram = 0x81492054, size = 0x20 },
-    { name = "__dll776_dll_776_control", vram = 0x81492074, size = 0x158 },
-    { name = "__dll776_dll_776_update", vram = 0x814921CC, size = 0xC },
-    { name = "__dll776_dll_776_print", vram = 0x814921D8, size = 0x54 },
-    { name = "__dll776_dll_776_free", vram = 0x8149222C, size = 0x10 },
-    { name = "__dll776_dll_776_get_model_flags", vram = 0x8149223C, size = 0x10 },
-    { name = "__dll776_dll_776_get_data_size", vram = 0x8149224C, size = 0x14 },
-    { name = "__dll776_dll_776_func_224", vram = 0x81492260, size = 0xCC },
+    { name = "__dll776_WCBouncyCrate_ctor", vram = 0x8149203C, size = 0xC },
+    { name = "__dll776_WCBouncyCrate_dtor", vram = 0x81492048, size = 0xC },
+    { name = "__dll776_WCBouncyCrate_obj_Setup", vram = 0x81492054, size = 0x20 },
+    { name = "__dll776_WCBouncyCrate_obj_Control", vram = 0x81492074, size = 0x158 },
+    { name = "__dll776_WCBouncyCrate_obj_Update", vram = 0x814921CC, size = 0xC },
+    { name = "__dll776_WCBouncyCrate_obj_Print", vram = 0x814921D8, size = 0x54 },
+    { name = "__dll776_WCBouncyCrate_obj_Free", vram = 0x8149222C, size = 0x10 },
+    { name = "__dll776_WCBouncyCrate_obj_GetModelFlags", vram = 0x8149223C, size = 0x10 },
+    { name = "__dll776_WCBouncyCrate_obj_GetDataSize", vram = 0x8149224C, size = 0x14 },
+    { name = "__dll776_WCBouncyCrate_getInitialVelocityY", vram = 0x81492260, size = 0xCC },
 ]
 
 [[section]]
@@ -30651,32 +30651,32 @@ relocs = [
 functions = [
     { name = "__dll779_WCLevelControl_ctor", vram = 0x81495074, size = 0xC },
     { name = "__dll779_WCLevelControl_dtor", vram = 0x81495080, size = 0xC },
-    { name = "__dll779_WCLevelControl_setup", vram = 0x8149508C, size = 0x19C },
-    { name = "__dll779_WCLevelControl_control", vram = 0x81495228, size = 0x1EC },
-    { name = "__dll779_WCLevelControl_update", vram = 0x81495414, size = 0xC },
-    { name = "__dll779_WCLevelControl_print", vram = 0x81495420, size = 0x54 },
-    { name = "__dll779_WCLevelControl_free", vram = 0x81495474, size = 0x40 },
-    { name = "__dll779_WCLevelControl_get_model_flags", vram = 0x814954B4, size = 0x10 },
-    { name = "__dll779_WCLevelControl_get_data_size", vram = 0x814954C4, size = 0x14 },
-    { name = "__dll779_WCLevelControl_sun_puzzle_set_coords_from_grid_position", vram = 0x814954D8, size = 0xD0 },
-    { name = "__dll779_WCLevelControl_sun_puzzle_set_grid_position_from_coords", vram = 0x814955A8, size = 0x118 },
-    { name = "__dll779_WCLevelControl_sun_puzzle_set_cell", vram = 0x814956C0, size = 0x74 },
-    { name = "__dll779_WCLevelControl_sun_puzzle_get_cell", vram = 0x81495734, size = 0x70 },
-    { name = "__dll779_WCLevelControl_sun_puzzle_setup_position_hard", vram = 0x814957A4, size = 0xCC },
-    { name = "__dll779_WCLevelControl_sun_puzzle_setup_position_easy", vram = 0x81495870, size = 0xCC },
-    { name = "__dll779_WCLevelControl_sun_puzzle_func_8C8", vram = 0x8149593C, size = 0x2E0 },
-    { name = "__dll779_WCLevelControl_moon_puzzle_set_coords_from_grid_position", vram = 0x81495C1C, size = 0xD0 },
-    { name = "__dll779_WCLevelControl_moon_puzzle_set_grid_position_from_coords", vram = 0x81495CEC, size = 0x118 },
-    { name = "__dll779_WCLevelControl_moon_puzzle_set_cell", vram = 0x81495E04, size = 0x74 },
-    { name = "__dll779_WCLevelControl_moon_puzzle_get_cell", vram = 0x81495E78, size = 0x70 },
-    { name = "__dll779_WCLevelControl_moon_puzzle_setup_position_hard", vram = 0x81495EE8, size = 0xCC },
-    { name = "__dll779_WCLevelControl_moon_puzzle_setup_position_easy", vram = 0x81495FB4, size = 0xCC },
-    { name = "__dll779_WCLevelControl_moon_puzzle_func_100C", vram = 0x81496080, size = 0x2E0 },
-    { name = "__dll779_WCLevelControl_anim_callback", vram = 0x81496360, size = 0x158 },
-    { name = "__dll779_WCLevelControl_handle_act1", vram = 0x814964B8, size = 0x4E4 },
-    { name = "__dll779_WCLevelControl_handle_act2", vram = 0x8149699C, size = 0x3CC },
-    { name = "__dll779_WCLevelControl_sun_puzzle_init_hard", vram = 0x81496D68, size = 0x60 },
-    { name = "__dll779_WCLevelControl_moon_puzzle_init_hard", vram = 0x81496DC8, size = 0x6C },
+    { name = "__dll779_WCLevelControl_obj_Setup", vram = 0x8149508C, size = 0x19C },
+    { name = "__dll779_WCLevelControl_obj_Control", vram = 0x81495228, size = 0x1EC },
+    { name = "__dll779_WCLevelControl_obj_Update", vram = 0x81495414, size = 0xC },
+    { name = "__dll779_WCLevelControl_obj_Print", vram = 0x81495420, size = 0x54 },
+    { name = "__dll779_WCLevelControl_obj_Free", vram = 0x81495474, size = 0x40 },
+    { name = "__dll779_WCLevelControl_obj_GetModelFlags", vram = 0x814954B4, size = 0x10 },
+    { name = "__dll779_WCLevelControl_obj_GetDataSize", vram = 0x814954C4, size = 0x14 },
+    { name = "__dll779_WCLevelControl_SunPuzzleSetCoordsFromGridPosition", vram = 0x814954D8, size = 0xD0 },
+    { name = "__dll779_WCLevelControl_SunPuzzleSetGridPositionFromCoords", vram = 0x814955A8, size = 0x118 },
+    { name = "__dll779_WCLevelControl_SunPuzzleSetCell", vram = 0x814956C0, size = 0x74 },
+    { name = "__dll779_WCLevelControl_SunPuzzleGetCell", vram = 0x81495734, size = 0x70 },
+    { name = "__dll779_WCLevelControl_SunPuzzleSetupPositionInitial", vram = 0x814957A4, size = 0xCC },
+    { name = "__dll779_WCLevelControl_SunPuzzleSetupPositionFinished", vram = 0x81495870, size = 0xCC },
+    { name = "__dll779_WCLevelControl_SunPuzzleMove", vram = 0x8149593C, size = 0x2E0 },
+    { name = "__dll779_WCLevelControl_MoonPuzzleSetCoordsFromGridPosition", vram = 0x81495C1C, size = 0xD0 },
+    { name = "__dll779_WCLevelControl_MoonPuzzleSetGridPositionFromCoords", vram = 0x81495CEC, size = 0x118 },
+    { name = "__dll779_WCLevelControl_MoonPuzzleSetCell", vram = 0x81495E04, size = 0x74 },
+    { name = "__dll779_WCLevelControl_MoonPuzzleGetCell", vram = 0x81495E78, size = 0x70 },
+    { name = "__dll779_WCLevelControl_MoonPuzzleSetupPositionInitial", vram = 0x81495EE8, size = 0xCC },
+    { name = "__dll779_WCLevelControl_MoonPuzzleSetupPositionFinished", vram = 0x81495FB4, size = 0xCC },
+    { name = "__dll779_WCLevelControl_MoonPuzzleMove", vram = 0x81496080, size = 0x2E0 },
+    { name = "__dll779_WCLevelControl_animCallback", vram = 0x81496360, size = 0x158 },
+    { name = "__dll779_WCLevelControl_handleAct1", vram = 0x814964B8, size = 0x4E4 },
+    { name = "__dll779_WCLevelControl_handleAct2", vram = 0x8149699C, size = 0x3CC },
+    { name = "__dll779_WCLevelControl_sunPuzzleReset", vram = 0x81496D68, size = 0x60 },
+    { name = "__dll779_WCLevelControl_moonPuzzleReset", vram = 0x81496DC8, size = 0x6C },
 ]
 
 [[section]]
@@ -30696,15 +30696,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll780_dll_780_ctor", vram = 0x8149803C, size = 0xC },
-    { name = "__dll780_dll_780_dtor", vram = 0x81498048, size = 0xC },
-    { name = "__dll780_dll_780_setup", vram = 0x81498054, size = 0x104 },
-    { name = "__dll780_dll_780_control", vram = 0x81498158, size = 0x3CC },
-    { name = "__dll780_dll_780_update", vram = 0x81498524, size = 0xC },
-    { name = "__dll780_dll_780_print", vram = 0x81498530, size = 0x54 },
-    { name = "__dll780_dll_780_free", vram = 0x81498584, size = 0x10 },
-    { name = "__dll780_dll_780_get_model_flags", vram = 0x81498594, size = 0x34 },
-    { name = "__dll780_dll_780_get_data_size", vram = 0x814985C8, size = 0x14 },
+    { name = "__dll780_WCBeacon_ctor", vram = 0x8149803C, size = 0xC },
+    { name = "__dll780_WCBeacon_dtor", vram = 0x81498048, size = 0xC },
+    { name = "__dll780_WCBeacon_obj_Setup", vram = 0x81498054, size = 0x104 },
+    { name = "__dll780_WCBeacon_obj_Control", vram = 0x81498158, size = 0x3CC },
+    { name = "__dll780_WCBeacon_obj_Update", vram = 0x81498524, size = 0xC },
+    { name = "__dll780_WCBeacon_obj_Print", vram = 0x81498530, size = 0x54 },
+    { name = "__dll780_WCBeacon_obj_Free", vram = 0x81498584, size = 0x10 },
+    { name = "__dll780_WCBeacon_obj_GetModelFlags", vram = 0x81498594, size = 0x34 },
+    { name = "__dll780_WCBeacon_obj_GetDataSize", vram = 0x814985C8, size = 0x14 },
 ]
 
 [[section]]
@@ -30728,18 +30728,18 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll781_WCpressureswitch_ctor", vram = 0x8149903C, size = 0xC },
-    { name = "__dll781_WCpressureswitch_dtor", vram = 0x81499048, size = 0xC },
-    { name = "__dll781_WCpressureswitch_setup", vram = 0x81499054, size = 0x138 },
-    { name = "__dll781_WCpressureswitch_control", vram = 0x8149918C, size = 0x364 },
-    { name = "__dll781_WCpressureswitch_update", vram = 0x814994F0, size = 0xC },
-    { name = "__dll781_WCpressureswitch_print", vram = 0x814994FC, size = 0x54 },
-    { name = "__dll781_WCpressureswitch_free", vram = 0x81499550, size = 0x80 },
-    { name = "__dll781_WCpressureswitch_get_model_flags", vram = 0x814995D0, size = 0x34 },
-    { name = "__dll781_WCpressureswitch_get_data_size", vram = 0x81499604, size = 0x14 },
-    { name = "__dll781_WCpressureswitch_add_object", vram = 0x81499618, size = 0x6C },
-    { name = "__dll781_WCpressureswitch_is_object_on_switch", vram = 0x81499684, size = 0x84 },
-    { name = "__dll781_WCpressureswitch_anim_callback", vram = 0x81499708, size = 0x104 },
+    { name = "__dll781_WCPressureSwitch_ctor", vram = 0x8149903C, size = 0xC },
+    { name = "__dll781_WCPressureSwitch_dtor", vram = 0x81499048, size = 0xC },
+    { name = "__dll781_WCPressureSwitch_obj_Setup", vram = 0x81499054, size = 0x138 },
+    { name = "__dll781_WCPressureSwitch_obj_Control", vram = 0x8149918C, size = 0x364 },
+    { name = "__dll781_WCPressureSwitch_obj_Update", vram = 0x814994F0, size = 0xC },
+    { name = "__dll781_WCPressureSwitch_obj_Print", vram = 0x814994FC, size = 0x54 },
+    { name = "__dll781_WCPressureSwitch_obj_Free", vram = 0x81499550, size = 0x80 },
+    { name = "__dll781_WCPressureSwitch_obj_GetModelFlags", vram = 0x814995D0, size = 0x34 },
+    { name = "__dll781_WCPressureSwitch_obj_GetDataSize", vram = 0x81499604, size = 0x14 },
+    { name = "__dll781_WCPressureSwitch_addObject", vram = 0x81499618, size = 0x6C },
+    { name = "__dll781_WCPressureSwitch_isObjectOnSwitch", vram = 0x81499684, size = 0x84 },
+    { name = "__dll781_WCPressureSwitch_animCallback", vram = 0x81499708, size = 0x104 },
 ]
 
 [[section]]
@@ -30759,16 +30759,16 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll782_dll_782_ctor", vram = 0x8149A03C, size = 0xC },
-    { name = "__dll782_dll_782_dtor", vram = 0x8149A048, size = 0xC },
-    { name = "__dll782_dll_782_setup", vram = 0x8149A054, size = 0x40 },
-    { name = "__dll782_dll_782_control", vram = 0x8149A094, size = 0xEE0 },
-    { name = "__dll782_dll_782_update", vram = 0x8149AF74, size = 0xC },
-    { name = "__dll782_dll_782_print", vram = 0x8149AF80, size = 0x54 },
-    { name = "__dll782_dll_782_free", vram = 0x8149AFD4, size = 0x10 },
-    { name = "__dll782_dll_782_get_model_flags", vram = 0x8149AFE4, size = 0x34 },
-    { name = "__dll782_dll_782_get_data_size", vram = 0x8149B018, size = 0x14 },
-    { name = "__dll782_dll_782_func_FF0", vram = 0x8149B02C, size = 0x1E0 },
+    { name = "__dll782_WCPushBlock_ctor", vram = 0x8149A03C, size = 0xC },
+    { name = "__dll782_WCPushBlock_dtor", vram = 0x8149A048, size = 0xC },
+    { name = "__dll782_WCPushBlock_obj_Setup", vram = 0x8149A054, size = 0x40 },
+    { name = "__dll782_WCPushBlock_obj_Control", vram = 0x8149A094, size = 0xEE0 },
+    { name = "__dll782_WCPushBlock_obj_Update", vram = 0x8149AF74, size = 0xC },
+    { name = "__dll782_WCPushBlock_obj_Print", vram = 0x8149AF80, size = 0x54 },
+    { name = "__dll782_WCPushBlock_obj_Free", vram = 0x8149AFD4, size = 0x10 },
+    { name = "__dll782_WCPushBlock_obj_GetModelFlags", vram = 0x8149AFE4, size = 0x34 },
+    { name = "__dll782_WCPushBlock_obj_GetDataSize", vram = 0x8149B018, size = 0x14 },
+    { name = "__dll782_WCPushBlock_appearIfPlayerOutsideDestination", vram = 0x8149B02C, size = 0x1E0 },
 ]
 
 [[section]]
@@ -30788,15 +30788,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll783_dll_783_ctor", vram = 0x8149C03C, size = 0xC },
-    { name = "__dll783_dll_783_dtor", vram = 0x8149C048, size = 0xC },
-    { name = "__dll783_dll_783_setup", vram = 0x8149C054, size = 0x70 },
-    { name = "__dll783_dll_783_control", vram = 0x8149C0C4, size = 0x488 },
-    { name = "__dll783_dll_783_update", vram = 0x8149C54C, size = 0xC },
-    { name = "__dll783_dll_783_print", vram = 0x8149C558, size = 0x54 },
-    { name = "__dll783_dll_783_free", vram = 0x8149C5AC, size = 0x10 },
-    { name = "__dll783_dll_783_get_model_flags", vram = 0x8149C5BC, size = 0x34 },
-    { name = "__dll783_dll_783_get_data_size", vram = 0x8149C5F0, size = 0x1C },
+    { name = "__dll783_WCTile_ctor", vram = 0x8149C03C, size = 0xC },
+    { name = "__dll783_WCTile_dtor", vram = 0x8149C048, size = 0xC },
+    { name = "__dll783_WCTile_obj_Setup", vram = 0x8149C054, size = 0x70 },
+    { name = "__dll783_WCTile_obj_Control", vram = 0x8149C0C4, size = 0x488 },
+    { name = "__dll783_WCTile_obj_Update", vram = 0x8149C54C, size = 0xC },
+    { name = "__dll783_WCTile_obj_Print", vram = 0x8149C558, size = 0x54 },
+    { name = "__dll783_WCTile_obj_Free", vram = 0x8149C5AC, size = 0x10 },
+    { name = "__dll783_WCTile_obj_GetModelFlags", vram = 0x8149C5BC, size = 0x34 },
+    { name = "__dll783_WCTile_obj_GetDataSize", vram = 0x8149C5F0, size = 0x1C },
 ]
 
 [[section]]
@@ -30818,16 +30818,16 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll784_dll_784_ctor", vram = 0x8149D03C, size = 0xC },
-    { name = "__dll784_dll_784_dtor", vram = 0x8149D048, size = 0xC },
-    { name = "__dll784_dll_784_obj_Setup", vram = 0x8149D054, size = 0xFC },
-    { name = "__dll784_dll_784_obj_Control", vram = 0x8149D150, size = 0xC },
-    { name = "__dll784_dll_784_obj_Update", vram = 0x8149D15C, size = 0xD4 },
-    { name = "__dll784_dll_784_obj_Print", vram = 0x8149D230, size = 0x54 },
-    { name = "__dll784_dll_784_obj_Free", vram = 0x8149D284, size = 0x10 },
-    { name = "__dll784_dll_784_obj_GetModelFlags", vram = 0x8149D294, size = 0x34 },
-    { name = "__dll784_dll_784_obj_GetDataSize", vram = 0x8149D2C8, size = 0x14 },
-    { name = "__dll784_dll_784_func_2A0", vram = 0x8149D2DC, size = 0xD0 },
+    { name = "__dll784_WCTrexStatue_ctor", vram = 0x8149D03C, size = 0xC },
+    { name = "__dll784_WCTrexStatue_dtor", vram = 0x8149D048, size = 0xC },
+    { name = "__dll784_WCTrexStatue_obj_Setup", vram = 0x8149D054, size = 0xFC },
+    { name = "__dll784_WCTrexStatue_obj_Control", vram = 0x8149D150, size = 0xC },
+    { name = "__dll784_WCTrexStatue_obj_Update", vram = 0x8149D15C, size = 0xD4 },
+    { name = "__dll784_WCTrexStatue_obj_Print", vram = 0x8149D230, size = 0x54 },
+    { name = "__dll784_WCTrexStatue_obj_Free", vram = 0x8149D284, size = 0x10 },
+    { name = "__dll784_WCTrexStatue_obj_GetModelFlags", vram = 0x8149D294, size = 0x34 },
+    { name = "__dll784_WCTrexStatue_obj_GetDataSize", vram = 0x8149D2C8, size = 0x14 },
+    { name = "__dll784_WCTrexStatue_animCallback", vram = 0x8149D2DC, size = 0xD0 },
 ]
 
 [[section]]
@@ -30851,16 +30851,16 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll785_dll_785_ctor", vram = 0x8149E03C, size = 0xC },
-    { name = "__dll785_dll_785_dtor", vram = 0x8149E048, size = 0xC },
-    { name = "__dll785_dll_785_obj_Setup", vram = 0x8149E054, size = 0x130 },
-    { name = "__dll785_dll_785_obj_Control", vram = 0x8149E184, size = 0x40C },
-    { name = "__dll785_dll_785_obj_Update", vram = 0x8149E590, size = 0x58 },
-    { name = "__dll785_dll_785_obj_Print", vram = 0x8149E5E8, size = 0x54 },
-    { name = "__dll785_dll_785_obj_Free", vram = 0x8149E63C, size = 0x10 },
-    { name = "__dll785_dll_785_obj_GetModelFlags", vram = 0x8149E64C, size = 0x10 },
-    { name = "__dll785_dll_785_obj_GetDataSize", vram = 0x8149E65C, size = 0x14 },
-    { name = "__dll785_dll_785_func_634", vram = 0x8149E670, size = 0x1DC },
+    { name = "__dll785_WCUseObj_ctor", vram = 0x8149E03C, size = 0xC },
+    { name = "__dll785_WCUseObj_dtor", vram = 0x8149E048, size = 0xC },
+    { name = "__dll785_WCUseObj_obj_Setup", vram = 0x8149E054, size = 0x130 },
+    { name = "__dll785_WCUseObj_obj_Control", vram = 0x8149E184, size = 0x40C },
+    { name = "__dll785_WCUseObj_obj_Update", vram = 0x8149E590, size = 0x58 },
+    { name = "__dll785_WCUseObj_obj_Print", vram = 0x8149E5E8, size = 0x54 },
+    { name = "__dll785_WCUseObj_obj_Free", vram = 0x8149E63C, size = 0x10 },
+    { name = "__dll785_WCUseObj_obj_GetModelFlags", vram = 0x8149E64C, size = 0x10 },
+    { name = "__dll785_WCUseObj_obj_GetDataSize", vram = 0x8149E65C, size = 0x14 },
+    { name = "__dll785_WCUseObj_animCallback", vram = 0x8149E670, size = 0x1DC },
 ]
 
 [[section]]
@@ -30878,15 +30878,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll786_dll_786_ctor", vram = 0x8149F03C, size = 0xC },
-    { name = "__dll786_dll_786_dtor", vram = 0x8149F048, size = 0xC },
-    { name = "__dll786_dll_786_setup", vram = 0x8149F054, size = 0x18 },
-    { name = "__dll786_dll_786_control", vram = 0x8149F06C, size = 0x254 },
-    { name = "__dll786_dll_786_update", vram = 0x8149F2C0, size = 0xC },
-    { name = "__dll786_dll_786_print", vram = 0x8149F2CC, size = 0x54 },
-    { name = "__dll786_dll_786_free", vram = 0x8149F320, size = 0x10 },
-    { name = "__dll786_dll_786_get_model_flags", vram = 0x8149F330, size = 0x10 },
-    { name = "__dll786_dll_786_get_data_size", vram = 0x8149F340, size = 0x1C },
+    { name = "__dll786_WCTempleLift_ctor", vram = 0x8149F03C, size = 0xC },
+    { name = "__dll786_WCTempleLift_dtor", vram = 0x8149F048, size = 0xC },
+    { name = "__dll786_WCTempleLift_obj_Setup", vram = 0x8149F054, size = 0x18 },
+    { name = "__dll786_WCTempleLift_obj_Control", vram = 0x8149F06C, size = 0x254 },
+    { name = "__dll786_WCTempleLift_obj_Update", vram = 0x8149F2C0, size = 0xC },
+    { name = "__dll786_WCTempleLift_obj_Print", vram = 0x8149F2CC, size = 0x54 },
+    { name = "__dll786_WCTempleLift_obj_Free", vram = 0x8149F320, size = 0x10 },
+    { name = "__dll786_WCTempleLift_obj_GetModelFlags", vram = 0x8149F330, size = 0x10 },
+    { name = "__dll786_WCTempleLift_obj_GetDataSize", vram = 0x8149F340, size = 0x1C },
 ]
 
 [[section]]
@@ -30908,17 +30908,17 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll787_dll_787_ctor", vram = 0x814A003C, size = 0xC },
-    { name = "__dll787_dll_787_dtor", vram = 0x814A0048, size = 0xC },
-    { name = "__dll787_dll_787_setup", vram = 0x814A0054, size = 0xE4 },
-    { name = "__dll787_dll_787_control", vram = 0x814A0138, size = 0x25C },
-    { name = "__dll787_dll_787_update", vram = 0x814A0394, size = 0xC },
-    { name = "__dll787_dll_787_print", vram = 0x814A03A0, size = 0x80 },
-    { name = "__dll787_dll_787_free", vram = 0x814A0420, size = 0x10 },
-    { name = "__dll787_dll_787_get_model_flags", vram = 0x814A0430, size = 0x34 },
-    { name = "__dll787_dll_787_get_data_size", vram = 0x814A0464, size = 0x14 },
-    { name = "__dll787_dll_787_func_43C", vram = 0x814A0478, size = 0x54 },
-    { name = "__dll787_dll_787_func_490", vram = 0x814A04CC, size = 0x310 },
+    { name = "__dll787_WCApertureSymbol_ctor", vram = 0x814A003C, size = 0xC },
+    { name = "__dll787_WCApertureSymbol_dtor", vram = 0x814A0048, size = 0xC },
+    { name = "__dll787_WCApertureSymbol_setup", vram = 0x814A0054, size = 0xE4 },
+    { name = "__dll787_WCApertureSymbol_control", vram = 0x814A0138, size = 0x25C },
+    { name = "__dll787_WCApertureSymbol_update", vram = 0x814A0394, size = 0xC },
+    { name = "__dll787_WCApertureSymbol_print", vram = 0x814A03A0, size = 0x80 },
+    { name = "__dll787_WCApertureSymbol_free", vram = 0x814A0420, size = 0x10 },
+    { name = "__dll787_WCApertureSymbol_get_model_flags", vram = 0x814A0430, size = 0x34 },
+    { name = "__dll787_WCApertureSymbol_get_data_size", vram = 0x814A0464, size = 0x14 },
+    { name = "__dll787_WCApertureSymbol_animCallback", vram = 0x814A0478, size = 0x54 },
+    { name = "__dll787_WCApertureSymbol_getTargetOpacity", vram = 0x814A04CC, size = 0x310 },
 ]
 
 [[section]]
@@ -30938,15 +30938,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll788_dll_788_ctor", vram = 0x814A103C, size = 0xC },
-    { name = "__dll788_dll_788_dtor", vram = 0x814A1048, size = 0xC },
-    { name = "__dll788_dll_788_obj_Setup", vram = 0x814A1054, size = 0x128 },
-    { name = "__dll788_dll_788_obj_Control", vram = 0x814A117C, size = 0x894 },
-    { name = "__dll788_dll_788_obj_Update", vram = 0x814A1A10, size = 0xC },
-    { name = "__dll788_dll_788_obj_Print", vram = 0x814A1A1C, size = 0x18 },
-    { name = "__dll788_dll_788_obj_Free", vram = 0x814A1A34, size = 0xC4 },
-    { name = "__dll788_dll_788_obj_GetModelFlags", vram = 0x814A1AF8, size = 0x10 },
-    { name = "__dll788_dll_788_obj_GetDataSize", vram = 0x814A1B08, size = 0x14 },
+    { name = "__dll788_WCSunTempleLaser_ctor", vram = 0x814A103C, size = 0xC },
+    { name = "__dll788_WCSunTempleLaser_dtor", vram = 0x814A1048, size = 0xC },
+    { name = "__dll788_WCSunTempleLaser_obj_Setup", vram = 0x814A1054, size = 0x128 },
+    { name = "__dll788_WCSunTempleLaser_obj_Control", vram = 0x814A117C, size = 0x894 },
+    { name = "__dll788_WCSunTempleLaser_obj_Update", vram = 0x814A1A10, size = 0xC },
+    { name = "__dll788_WCSunTempleLaser_obj_Print", vram = 0x814A1A1C, size = 0x18 },
+    { name = "__dll788_WCSunTempleLaser_obj_Free", vram = 0x814A1A34, size = 0xC4 },
+    { name = "__dll788_WCSunTempleLaser_obj_GetModelFlags", vram = 0x814A1AF8, size = 0x10 },
+    { name = "__dll788_WCSunTempleLaser_obj_GetDataSize", vram = 0x814A1B08, size = 0x14 },
 ]
 
 [[section]]
@@ -30968,16 +30968,16 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll789_dll_789_ctor", vram = 0x814A203C, size = 0xC },
-    { name = "__dll789_dll_789_dtor", vram = 0x814A2048, size = 0xC },
-    { name = "__dll789_dll_789_obj_Setup", vram = 0x814A2054, size = 0x1A4 },
-    { name = "__dll789_dll_789_obj_Control", vram = 0x814A21F8, size = 0x2A8 },
-    { name = "__dll789_dll_789_obj_Update", vram = 0x814A24A0, size = 0xC },
-    { name = "__dll789_dll_789_obj_Print", vram = 0x814A24AC, size = 0x54 },
-    { name = "__dll789_dll_789_obj_Free", vram = 0x814A2500, size = 0x10 },
-    { name = "__dll789_dll_789_obj_GetModelFlags", vram = 0x814A2510, size = 0x34 },
-    { name = "__dll789_dll_789_obj_GetDataSize", vram = 0x814A2544, size = 0x14 },
-    { name = "__dll789_dll_789_func_51C", vram = 0x814A2558, size = 0x104 },
+    { name = "__dll789_WCTempleDial_ctor", vram = 0x814A203C, size = 0xC },
+    { name = "__dll789_WCTempleDial_dtor", vram = 0x814A2048, size = 0xC },
+    { name = "__dll789_WCTempleDial_obj_Setup", vram = 0x814A2054, size = 0x1A4 },
+    { name = "__dll789_WCTempleDial_obj_Control", vram = 0x814A21F8, size = 0x2A8 },
+    { name = "__dll789_WCTempleDial_obj_Update", vram = 0x814A24A0, size = 0xC },
+    { name = "__dll789_WCTempleDial_obj_Print", vram = 0x814A24AC, size = 0x54 },
+    { name = "__dll789_WCTempleDial_obj_Free", vram = 0x814A2500, size = 0x10 },
+    { name = "__dll789_WCTempleDial_obj_GetModelFlags", vram = 0x814A2510, size = 0x34 },
+    { name = "__dll789_WCTempleDial_obj_GetDataSize", vram = 0x814A2544, size = 0x14 },
+    { name = "__dll789_WCTempleDial_setBlockIconFrames", vram = 0x814A2558, size = 0x104 },
 ]
 
 [[section]]
@@ -31003,18 +31003,18 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll790_dll_790_ctor", vram = 0x814A303C, size = 0xC },
-    { name = "__dll790_dll_790_dtor", vram = 0x814A3048, size = 0xC },
-    { name = "__dll790_dll_790_obj_Setup", vram = 0x814A3054, size = 0x2E8 },
-    { name = "__dll790_dll_790_obj_Control", vram = 0x814A333C, size = 0x138 },
-    { name = "__dll790_dll_790_obj_Update", vram = 0x814A3474, size = 0xC },
-    { name = "__dll790_dll_790_obj_Print", vram = 0x814A3480, size = 0x64 },
-    { name = "__dll790_dll_790_obj_Free", vram = 0x814A34E4, size = 0x10 },
-    { name = "__dll790_dll_790_obj_GetModelFlags", vram = 0x814A34F4, size = 0x34 },
-    { name = "__dll790_dll_790_obj_GetDataSize", vram = 0x814A3528, size = 0x14 },
-    { name = "__dll790_dll_790_func_500", vram = 0x814A353C, size = 0x144 },
-    { name = "__dll790_dll_790_func_644", vram = 0x814A3680, size = 0x160 },
-    { name = "__dll790_dll_790_func_7A4", vram = 0x814A37E0, size = 0x30C },
+    { name = "__dll790_WCTempleBridge_ctor", vram = 0x814A303C, size = 0xC },
+    { name = "__dll790_WCTempleBridge_dtor", vram = 0x814A3048, size = 0xC },
+    { name = "__dll790_WCTempleBridge_obj_Setup", vram = 0x814A3054, size = 0x2E8 },
+    { name = "__dll790_WCTempleBridge_obj_Control", vram = 0x814A333C, size = 0x138 },
+    { name = "__dll790_WCTempleBridge_obj_Update", vram = 0x814A3474, size = 0xC },
+    { name = "__dll790_WCTempleBridge_obj_Print", vram = 0x814A3480, size = 0x64 },
+    { name = "__dll790_WCTempleBridge_obj_Free", vram = 0x814A34E4, size = 0x10 },
+    { name = "__dll790_WCTempleBridge_obj_GetModelFlags", vram = 0x814A34F4, size = 0x34 },
+    { name = "__dll790_WCTempleBridge_obj_GetDataSize", vram = 0x814A3528, size = 0x14 },
+    { name = "__dll790_WCTempleBridge_animCallback", vram = 0x814A353C, size = 0x144 },
+    { name = "__dll790_WCTempleBridge_advanceAnimation", vram = 0x814A3680, size = 0x160 },
+    { name = "__dll790_WCTempleBridge_updateVertices", vram = 0x814A37E0, size = 0x30C },
 ]
 
 [[section]]
@@ -31034,16 +31034,16 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll791_dll_791_ctor", vram = 0x814A403C, size = 0xC },
-    { name = "__dll791_dll_791_dtor", vram = 0x814A4048, size = 0xC },
-    { name = "__dll791_dll_791_obj_Setup", vram = 0x814A4054, size = 0x38 },
-    { name = "__dll791_dll_791_obj_Control", vram = 0x814A408C, size = 0x460 },
-    { name = "__dll791_dll_791_obj_Update", vram = 0x814A44EC, size = 0xC },
-    { name = "__dll791_dll_791_obj_Print", vram = 0x814A44F8, size = 0x54 },
-    { name = "__dll791_dll_791_obj_Free", vram = 0x814A454C, size = 0x10 },
-    { name = "__dll791_dll_791_obj_GetModelFlags", vram = 0x814A455C, size = 0x10 },
-    { name = "__dll791_dll_791_obj_GetDataSize", vram = 0x814A456C, size = 0x14 },
-    { name = "__dll791_dll_791_func_544", vram = 0x814A4580, size = 0xBC },
+    { name = "__dll791_WCFloorTile_ctor", vram = 0x814A403C, size = 0xC },
+    { name = "__dll791_WCFloorTile_dtor", vram = 0x814A4048, size = 0xC },
+    { name = "__dll791_WCFloorTile_obj_Setup", vram = 0x814A4054, size = 0x38 },
+    { name = "__dll791_WCFloorTile_obj_Control", vram = 0x814A408C, size = 0x460 },
+    { name = "__dll791_WCFloorTile_obj_Update", vram = 0x814A44EC, size = 0xC },
+    { name = "__dll791_WCFloorTile_obj_Print", vram = 0x814A44F8, size = 0x54 },
+    { name = "__dll791_WCFloorTile_obj_Free", vram = 0x814A454C, size = 0x10 },
+    { name = "__dll791_WCFloorTile_obj_GetModelFlags", vram = 0x814A455C, size = 0x10 },
+    { name = "__dll791_WCFloorTile_obj_GetDataSize", vram = 0x814A456C, size = 0x14 },
+    { name = "__dll791_WCFloorTile_manageHitLines", vram = 0x814A4580, size = 0xBC },
 ]
 
 [[section]]
@@ -31063,15 +31063,15 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll792_dll_792_ctor", vram = 0x814A503C, size = 0xC },
-    { name = "__dll792_dll_792_dtor", vram = 0x814A5048, size = 0xC },
-    { name = "__dll792_dll_792_obj_Setup", vram = 0x814A5054, size = 0x158 },
-    { name = "__dll792_dll_792_obj_Control", vram = 0x814A51AC, size = 0x128 },
-    { name = "__dll792_dll_792_obj_Update", vram = 0x814A52D4, size = 0xC },
-    { name = "__dll792_dll_792_obj_Print", vram = 0x814A52E0, size = 0x18 },
-    { name = "__dll792_dll_792_obj_Free", vram = 0x814A52F8, size = 0x84 },
-    { name = "__dll792_dll_792_obj_GetModelFlags", vram = 0x814A537C, size = 0x10 },
-    { name = "__dll792_dll_792_obj_GetDataSize", vram = 0x814A538C, size = 0x20 },
+    { name = "__dll792_DLL792_ctor", vram = 0x814A503C, size = 0xC },
+    { name = "__dll792_DLL792_dtor", vram = 0x814A5048, size = 0xC },
+    { name = "__dll792_DLL792_obj_Setup", vram = 0x814A5054, size = 0x158 },
+    { name = "__dll792_DLL792_obj_Control", vram = 0x814A51AC, size = 0x128 },
+    { name = "__dll792_DLL792_obj_Update", vram = 0x814A52D4, size = 0xC },
+    { name = "__dll792_DLL792_obj_Print", vram = 0x814A52E0, size = 0x18 },
+    { name = "__dll792_DLL792_obj_Free", vram = 0x814A52F8, size = 0x84 },
+    { name = "__dll792_DLL792_obj_GetModelFlags", vram = 0x814A537C, size = 0x10 },
+    { name = "__dll792_DLL792_obj_GetDataSize", vram = 0x814A538C, size = 0x20 },
 ]
 
 [[section]]

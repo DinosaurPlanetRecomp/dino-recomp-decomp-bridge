@@ -3,14 +3,14 @@
 #ifndef _DLL_602_RECOMP_H
 #define _DLL_602_RECOMP_H
 
-#define dll_602_ctor __dll602_dll_602_ctor
-#define dll_602_dtor __dll602_dll_602_dtor
-#define dll_602_setup __dll602_dll_602_setup
-#define dll_602_control __dll602_dll_602_control
-#define dll_602_update __dll602_dll_602_update
-#define dll_602_print __dll602_dll_602_print
-#define dll_602_free __dll602_dll_602_free
-#define dll_602_get_model_flags __dll602_dll_602_get_model_flags
-#define dll_602_get_data_size __dll602_dll_602_get_data_size
+#define WLTorch_ctor __dll602_WLTorch_ctor
+#define WLTorch_dtor __dll602_WLTorch_dtor
+#define WLTorch_obj_Setup __dll602_WLTorch_obj_Setup
+#define WLTorch_obj_Control __dll602_WLTorch_obj_Control
+#define WLTorch_obj_Update __dll602_WLTorch_obj_Update
+#define WLTorch_obj_Print __dll602_WLTorch_obj_Print
+#define WLTorch_obj_Free __dll602_WLTorch_obj_Free
+#define WLTorch_obj_GetModelFlags __dll602_WLTorch_obj_GetModelFlags
+#define WLTorch_obj_GetDataSize __dll602_WLTorch_obj_GetDataSize
 
 #endif //_DLL_602_RECOMP_H
