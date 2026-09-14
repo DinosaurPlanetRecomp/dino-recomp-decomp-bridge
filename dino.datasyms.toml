@@ -2138,22 +2138,16 @@ vram = 0x8103403C
 size = 0x24F0
 
 symbols = [
-    { name = "__dll11_str_0", vram = 0x810363FC },
-    { name = "__dll11_rodata_B8", vram = 0x810364B4 },
-    { name = "__dll11_rodata_BC", vram = 0x810364B8 },
-    { name = "__dll11_rodata_C0", vram = 0x810364BC },
-    { name = "__dll11_rodata_C4", vram = 0x810364C0 },
-    { name = "__dll11_rodata_C8", vram = 0x810364C4 },
     { name = "__dll11_data_0", vram = 0x810364CC },
     { name = "__dll11_data_4", vram = 0x810364D0 },
     { name = "__dll11_data_8", vram = 0x810364D4 },
     { name = "__dll11_data_C", vram = 0x810364D8 },
-    { name = "__dll11_data_10", vram = 0x810364DC },
+    { name = "__dll11_sNumLights", vram = 0x810364DC },
     { name = "__dll11_data_18", vram = 0x810364E4 },
-    { name = "__dll11_bss_0", vram = 0x810364EC },
+    { name = "__dll11_sLights", vram = 0x810364EC },
     { name = "__dll11_bss_4", vram = 0x810364F0 },
     { name = "__dll11_bss_8", vram = 0x810364F4 },
-    { name = "__dll11_bss_78", vram = 0x81036564 },
+    { name = "__dll11_sPalettes", vram = 0x81036564 },
     { name = "__dll11_bss_168", vram = 0x81036654 },
     { name = "__dll11_bss_178", vram = 0x81036664 },
 ]

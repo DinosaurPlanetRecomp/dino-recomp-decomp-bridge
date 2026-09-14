@@ -2809,20 +2809,20 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll11_dll_11_ctor", vram = 0x8103403C, size = 0xC },
-    { name = "__dll11_dll_11_dtor", vram = 0x81034048, size = 0xC },
-    { name = "__dll11_dll_11_Func_18", vram = 0x81034054, size = 0x36C },
-    { name = "__dll11_dll_11_Func_384", vram = 0x810343C0, size = 0x104 },
-    { name = "__dll11_dll_11_Func_488", vram = 0x810344C4, size = 0x3A0 },
-    { name = "__dll11_dll_11_Func_828", vram = 0x81034864, size = 0x4C },
-    { name = "__dll11_dll_11_Func_874", vram = 0x810348B0, size = 0x164 },
-    { name = "__dll11_dll_11_Func_9D8", vram = 0x81034A14, size = 0x1E0 },
-    { name = "__dll11_dll_11_Func_BB8", vram = 0x81034BF4, size = 0x18C },
-    { name = "__dll11_dll_11_func_D44", vram = 0x81034D80, size = 0xB4C },
-    { name = "__dll11_dll_11_func_1890", vram = 0x810358CC, size = 0x620 },
-    { name = "__dll11_dll_11_func_1EB0", vram = 0x81035EEC, size = 0x2D4 },
-    { name = "__dll11_dll_11_func_2184", vram = 0x810361C0, size = 0x78 },
-    { name = "__dll11_dll_11_func_21FC", vram = 0x81036238, size = 0x124 },
+    { name = "__dll11_newlfx_ctor", vram = 0x8103403C, size = 0xC },
+    { name = "__dll11_newlfx_dtor", vram = 0x81034048, size = 0xC },
+    { name = "__dll11_newlfx_DoAction", vram = 0x81034054, size = 0x36C },
+    { name = "__dll11_newlfx_Free", vram = 0x810343C0, size = 0x104 },
+    { name = "__dll11_newlfx_Tick", vram = 0x810344C4, size = 0x3A0 },
+    { name = "__dll11_newlfx_Func_828", vram = 0x81034864, size = 0x4C },
+    { name = "__dll11_newlfx_FindClosestLight", vram = 0x810348B0, size = 0x164 },
+    { name = "__dll11_newlfx_Func_9D8", vram = 0x81034A14, size = 0x1E0 },
+    { name = "__dll11_newlfx_Func_BB8", vram = 0x81034BF4, size = 0x18C },
+    { name = "__dll11_newlfx_updateLights", vram = 0x81034D80, size = 0xB4C },
+    { name = "__dll11_newlfx_allocLight", vram = 0x810358CC, size = 0x620 },
+    { name = "__dll11_newlfx_allocPalette", vram = 0x81035EEC, size = 0x2D4 },
+    { name = "__dll11_newlfx_findLight", vram = 0x810361C0, size = 0x78 },
+    { name = "__dll11_newlfx_freeLight", vram = 0x81036238, size = 0x124 },
 ]
 
 [[section]]
