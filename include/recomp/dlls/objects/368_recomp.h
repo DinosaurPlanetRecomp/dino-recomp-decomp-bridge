@@ -12,7 +12,6 @@
 #define dll_368_obj_Free __dll368_dll_368_obj_Free
 #define dll_368_obj_GetModelFlags __dll368_dll_368_obj_GetModelFlags
 #define dll_368_obj_GetDataSize __dll368_dll_368_obj_GetDataSize
-#define dll_368_func_424 __dll368_dll_368_func_424
-#define rodata_20 __dll368_rodata_20
+#define dll_368_animCallback __dll368_dll_368_animCallback
 
 #endif //_DLL_368_RECOMP_H

@@ -13,9 +13,9 @@
 #define GuardClaw_free __dll217_GuardClaw_free
 #define GuardClaw_get_model_flags __dll217_GuardClaw_get_model_flags
 #define GuardClaw_get_data_size __dll217_GuardClaw_get_data_size
-#define GuardClaw_get_fsa_state __dll217_GuardClaw_get_fsa_state
-#define GuardClaw_send_message __dll217_GuardClaw_send_message
-#define GuardClaw_func_884 __dll217_GuardClaw_func_884
+#define GuardClaw_GetFSAState __dll217_GuardClaw_GetFSAState
+#define GuardClaw_SendMessage __dll217_GuardClaw_SendMessage
+#define GuardClaw_Func_884 __dll217_GuardClaw_Func_884
 #define GuardClaw_anim_callback __dll217_GuardClaw_anim_callback
 #define GuardClaw_func_C34 __dll217_GuardClaw_func_C34
 #define GuardClaw_func_D80 __dll217_GuardClaw_func_D80
@@ -38,7 +38,7 @@
 #define GuardClaw_func_26E0 __dll217_GuardClaw_func_26E0
 #define GuardClaw_func_2890 __dll217_GuardClaw_func_2890
 #define GuardClaw_func_2C6C __dll217_GuardClaw_func_2C6C
-#define GuardClaw_func_2D74 __dll217_GuardClaw_func_2D74
+#define GuardClaw_SetItem __dll217_GuardClaw_SetItem
 #define GuardClaw_func_2D8C __dll217_GuardClaw_func_2D8C
 #define str_0 __dll217_str_0
 #define data_0 __dll217_data_0
