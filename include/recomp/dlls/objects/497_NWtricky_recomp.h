@@ -5,14 +5,14 @@
 
 #define NWtricky_ctor __dll497_NWtricky_ctor
 #define NWtricky_dtor __dll497_NWtricky_dtor
-#define NWtricky_setup __dll497_NWtricky_setup
-#define NWtricky_control __dll497_NWtricky_control
-#define NWtricky_update __dll497_NWtricky_update
-#define NWtricky_print __dll497_NWtricky_print
-#define NWtricky_free __dll497_NWtricky_free
-#define NWtricky_get_model_flags __dll497_NWtricky_get_model_flags
-#define NWtricky_get_data_size __dll497_NWtricky_get_data_size
-#define NWtricky_anim_callback __dll497_NWtricky_anim_callback
+#define NWtricky_obj_Setup __dll497_NWtricky_obj_Setup
+#define NWtricky_obj_Control __dll497_NWtricky_obj_Control
+#define NWtricky_obj_Update __dll497_NWtricky_obj_Update
+#define NWtricky_obj_Print __dll497_NWtricky_obj_Print
+#define NWtricky_obj_Free __dll497_NWtricky_obj_Free
+#define NWtricky_obj_GetModelFlags __dll497_NWtricky_obj_GetModelFlags
+#define NWtricky_obj_GetDataSize __dll497_NWtricky_obj_GetDataSize
+#define NWtricky_animCallback __dll497_NWtricky_animCallback
 #define str_0 __dll497_str_0
 
 #endif //_DLL_497_RECOMP_H

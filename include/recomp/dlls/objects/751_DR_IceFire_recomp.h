@@ -3,14 +3,14 @@
 #ifndef _DLL_751_RECOMP_H
 #define _DLL_751_RECOMP_H
 
-#define DFIceFire_ctor __dll751_DFIceFire_ctor
-#define DFIceFire_dtor __dll751_DFIceFire_dtor
-#define DFIceFire_obj_Setup __dll751_DFIceFire_obj_Setup
-#define DFIceFire_obj_Control __dll751_DFIceFire_obj_Control
-#define DFIceFire_obj_Update __dll751_DFIceFire_obj_Update
-#define DFIceFire_obj_Print __dll751_DFIceFire_obj_Print
-#define DFIceFire_obj_Free __dll751_DFIceFire_obj_Free
-#define DFIceFire_obj_GetModelFlags __dll751_DFIceFire_obj_GetModelFlags
-#define DFIceFire_obj_GetDataSize __dll751_DFIceFire_obj_GetDataSize
+#define DRIceFire_ctor __dll751_DRIceFire_ctor
+#define DRIceFire_dtor __dll751_DRIceFire_dtor
+#define DRIceFire_obj_Setup __dll751_DRIceFire_obj_Setup
+#define DRIceFire_obj_Control __dll751_DRIceFire_obj_Control
+#define DRIceFire_obj_Update __dll751_DRIceFire_obj_Update
+#define DRIceFire_obj_Print __dll751_DRIceFire_obj_Print
+#define DRIceFire_obj_Free __dll751_DRIceFire_obj_Free
+#define DRIceFire_obj_GetModelFlags __dll751_DRIceFire_obj_GetModelFlags
+#define DRIceFire_obj_GetDataSize __dll751_DRIceFire_obj_GetDataSize
 
 #endif //_DLL_751_RECOMP_H

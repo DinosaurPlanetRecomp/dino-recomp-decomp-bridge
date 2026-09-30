@@ -3,14 +3,14 @@
 #ifndef _DLL_465_RECOMP_H
 #define _DLL_465_RECOMP_H
 
-#define dll_465_ctor __dll465_dll_465_ctor
-#define dll_465_dtor __dll465_dll_465_dtor
-#define dll_465_setup __dll465_dll_465_setup
-#define dll_465_control __dll465_dll_465_control
-#define dll_465_update __dll465_dll_465_update
-#define dll_465_print __dll465_dll_465_print
-#define dll_465_free __dll465_dll_465_free
-#define dll_465_get_model_flags __dll465_dll_465_get_model_flags
-#define dll_465_get_data_size __dll465_dll_465_get_data_size
+#define CCDockDoor_ctor __dll465_CCDockDoor_ctor
+#define CCDockDoor_dtor __dll465_CCDockDoor_dtor
+#define CCDockDoor_obj_Setup __dll465_CCDockDoor_obj_Setup
+#define CCDockDoor_obj_Control __dll465_CCDockDoor_obj_Control
+#define CCDockDoor_obj_Update __dll465_CCDockDoor_obj_Update
+#define CCDockDoor_obj_Print __dll465_CCDockDoor_obj_Print
+#define CCDockDoor_obj_Free __dll465_CCDockDoor_obj_Free
+#define CCDockDoor_obj_GetModelFlags __dll465_CCDockDoor_obj_GetModelFlags
+#define CCDockDoor_obj_GetDataSize __dll465_CCDockDoor_obj_GetDataSize
 
 #endif //_DLL_465_RECOMP_H

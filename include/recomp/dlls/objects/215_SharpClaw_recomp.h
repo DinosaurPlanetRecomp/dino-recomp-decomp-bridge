@@ -3,7 +3,7 @@
 #ifndef _DLL_215_RECOMP_H
 #define _DLL_215_RECOMP_H
 
-#define SharpClaw_func_0 __dll215_SharpClaw_func_0
+#define SharpClaw_initFSACallbacks __dll215_SharpClaw_initFSACallbacks
 #define SharpClaw_ctor __dll215_SharpClaw_ctor
 #define SharpClaw_dtor __dll215_SharpClaw_dtor
 #define SharpClaw_obj_Setup __dll215_SharpClaw_obj_Setup

@@ -3,15 +3,15 @@
 #ifndef _DLL_715_RECOMP_H
 #define _DLL_715_RECOMP_H
 
-#define dll_715_ctor __dll715_dll_715_ctor
-#define dll_715_dtor __dll715_dll_715_dtor
-#define dll_715_setup __dll715_dll_715_setup
-#define dll_715_control __dll715_dll_715_control
-#define dll_715_update __dll715_dll_715_update
-#define dll_715_print __dll715_dll_715_print
-#define dll_715_free __dll715_dll_715_free
-#define dll_715_get_model_flags __dll715_dll_715_get_model_flags
-#define dll_715_get_data_size __dll715_dll_715_get_data_size
+#define StaticCamera_ctor __dll715_StaticCamera_ctor
+#define StaticCamera_dtor __dll715_StaticCamera_dtor
+#define StaticCamera_obj_Setup __dll715_StaticCamera_obj_Setup
+#define StaticCamera_obj_Control __dll715_StaticCamera_obj_Control
+#define StaticCamera_obj_Update __dll715_StaticCamera_obj_Update
+#define StaticCamera_obj_Print __dll715_StaticCamera_obj_Print
+#define StaticCamera_obj_Free __dll715_StaticCamera_obj_Free
+#define StaticCamera_obj_GetModelFlags __dll715_StaticCamera_obj_GetModelFlags
+#define StaticCamera_obj_GetDataSize __dll715_StaticCamera_obj_GetDataSize
 #define _oob_rodata_0 __dll715__oob_rodata_0
 
 #endif //_DLL_715_RECOMP_H

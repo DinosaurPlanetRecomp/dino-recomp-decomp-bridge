@@ -5,14 +5,14 @@
 
 #define DFCradle_ctor __dll421_DFCradle_ctor
 #define DFCradle_dtor __dll421_DFCradle_dtor
-#define DFCradle_setup __dll421_DFCradle_setup
-#define DFCradle_control __dll421_DFCradle_control
-#define DFCradle_update __dll421_DFCradle_update
-#define DFCradle_print __dll421_DFCradle_print
-#define DFCradle_free __dll421_DFCradle_free
-#define DFCradle_get_model_flags __dll421_DFCradle_get_model_flags
-#define DFCradle_get_data_size __dll421_DFCradle_get_data_size
-#define DFCradle_func_99C __dll421_DFCradle_func_99C
+#define DFCradle_obj_Setup __dll421_DFCradle_obj_Setup
+#define DFCradle_obj_Control __dll421_DFCradle_obj_Control
+#define DFCradle_obj_Update __dll421_DFCradle_obj_Update
+#define DFCradle_obj_Print __dll421_DFCradle_obj_Print
+#define DFCradle_obj_Free __dll421_DFCradle_obj_Free
+#define DFCradle_obj_GetModelFlags __dll421_DFCradle_obj_GetModelFlags
+#define DFCradle_obj_GetDataSize __dll421_DFCradle_obj_GetDataSize
+#define DFCradle_getStationNumber __dll421_DFCradle_getStationNumber
 #define sSoundIDs __dll421_sSoundIDs
 #define dTexscrollUIDs __dll421_dTexscrollUIDs
 #define dCurveTypes __dll421_dCurveTypes

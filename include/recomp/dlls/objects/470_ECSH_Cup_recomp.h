@@ -5,13 +5,13 @@
 
 #define ECSHCup_ctor __dll470_ECSHCup_ctor
 #define ECSHCup_dtor __dll470_ECSHCup_dtor
-#define ECSHCup_setup __dll470_ECSHCup_setup
-#define ECSHCup_control __dll470_ECSHCup_control
-#define ECSHCup_update __dll470_ECSHCup_update
-#define ECSHCup_print __dll470_ECSHCup_print
+#define ECSHCup_obj_Setup __dll470_ECSHCup_obj_Setup
+#define ECSHCup_obj_Control __dll470_ECSHCup_obj_Control
+#define ECSHCup_obj_Update __dll470_ECSHCup_obj_Update
+#define ECSHCup_obj_Print __dll470_ECSHCup_obj_Print
 #define ECSHCup_free __dll470_ECSHCup_free
-#define ECSHCup_get_model_flags __dll470_ECSHCup_get_model_flags
-#define ECSHCup_get_data_size __dll470_ECSHCup_get_data_size
+#define ECSHCup_obj_GetModelFlags __dll470_ECSHCup_obj_GetModelFlags
+#define ECSHCup_obj_GetDataSize __dll470_ECSHCup_obj_GetDataSize
 #define dShrine __dll470_dShrine
 
 #endif //_DLL_470_RECOMP_H

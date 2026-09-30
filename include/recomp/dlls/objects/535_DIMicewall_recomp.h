@@ -3,16 +3,16 @@
 #ifndef _DLL_535_RECOMP_H
 #define _DLL_535_RECOMP_H
 
-#define dll_535_ctor __dll535_dll_535_ctor
-#define dll_535_dtor __dll535_dll_535_dtor
-#define dll_535_setup __dll535_dll_535_setup
-#define dll_535_control __dll535_dll_535_control
-#define dll_535_update __dll535_dll_535_update
-#define dll_535_print __dll535_dll_535_print
-#define dll_535_free __dll535_dll_535_free
-#define dll_535_get_model_flags __dll535_dll_535_get_model_flags
-#define dll_535_get_data_size __dll535_dll_535_get_data_size
-#define dll_535_func_278 __dll535_dll_535_func_278
+#define DIMIceWall_ctor __dll535_DIMIceWall_ctor
+#define DIMIceWall_dtor __dll535_DIMIceWall_dtor
+#define DIMIceWall_obj_Setup __dll535_DIMIceWall_obj_Setup
+#define DIMIceWall_obj_Control __dll535_DIMIceWall_obj_Control
+#define DIMIceWall_obj_Update __dll535_DIMIceWall_obj_Update
+#define DIMIceWall_obj_Print __dll535_DIMIceWall_obj_Print
+#define DIMIceWall_obj_Free __dll535_DIMIceWall_obj_Free
+#define DIMIceWall_obj_GetModelFlags __dll535_DIMIceWall_obj_GetModelFlags
+#define DIMIceWall_obj_GetDataSize __dll535_DIMIceWall_obj_GetDataSize
+#define DIMIceWall_TickFlame __dll535_DIMIceWall_TickFlame
 #define _oob_rodata_0 __dll535__oob_rodata_0
 
 #endif //_DLL_535_RECOMP_H

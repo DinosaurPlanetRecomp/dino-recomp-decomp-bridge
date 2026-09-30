@@ -9,11 +9,11 @@
 #define campath_func_588 __dll89_campath_func_588
 #define campath_func_DF0 __dll89_campath_func_DF0
 #define campath_func_E30 __dll89_campath_func_E30
-#define campath_func_E40 __dll89_campath_func_E40
-#define campath_func_1004 __dll89_campath_func_1004
+#define campath_setupEase __dll89_campath_setupEase
+#define campath_ease __dll89_campath_ease
 #define campath_func_14D8 __dll89_campath_func_14D8
-#define campath_func_17A0 __dll89_campath_func_17A0
-#define campath_func_19AC __dll89_campath_func_19AC
+#define campath_findPathLinks __dll89_campath_findPathLinks
+#define campath_prepareSplines __dll89_campath_prepareSplines
 #define campath_func_1E5C __dll89_campath_func_1E5C
 #define campath_func_1F9C __dll89_campath_func_1F9C
 #define str_0 __dll89_str_0

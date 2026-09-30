@@ -5,11 +5,11 @@
 
 #define camclimb_ctor __dll93_camclimb_ctor
 #define camclimb_dtor __dll93_camclimb_dtor
-#define camclimb_func_18 __dll93_camclimb_func_18
-#define camclimb_func_340 __dll93_camclimb_func_340
-#define camclimb_func_5E8 __dll93_camclimb_func_5E8
+#define camclimb_setup __dll93_camclimb_setup
+#define camclimb_control __dll93_camclimb_control
+#define camclimb_free __dll93_camclimb_free
 #define camclimb_func_62C __dll93_camclimb_func_62C
-#define camclimb_func_63C __dll93_camclimb_func_63C
+#define camclimb_ease __dll93_camclimb_ease
 #define sState __dll93_sState
 
 #endif //_DLL_93_RECOMP_H

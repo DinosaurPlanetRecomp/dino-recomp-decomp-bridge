@@ -5,14 +5,14 @@
 
 #define DFbarrel_ctor __dll423_DFbarrel_ctor
 #define DFbarrel_dtor __dll423_DFbarrel_dtor
-#define DFbarrel_setup __dll423_DFbarrel_setup
-#define DFbarrel_control __dll423_DFbarrel_control
-#define DFbarrel_update __dll423_DFbarrel_update
-#define DFbarrel_print __dll423_DFbarrel_print
-#define DFbarrel_free __dll423_DFbarrel_free
-#define DFbarrel_get_model_flags __dll423_DFbarrel_get_model_flags
-#define DFbarrel_get_data_size __dll423_DFbarrel_get_data_size
-#define DFbarrel_handle_movement __dll423_DFbarrel_handle_movement
-#define DFbarrel_handle_damage __dll423_DFbarrel_handle_damage
+#define DFbarrel_obj_Setup __dll423_DFbarrel_obj_Setup
+#define DFbarrel_obj_Control __dll423_DFbarrel_obj_Control
+#define DFbarrel_obj_Update __dll423_DFbarrel_obj_Update
+#define DFbarrel_obj_Print __dll423_DFbarrel_obj_Print
+#define DFbarrel_obj_Free __dll423_DFbarrel_obj_Free
+#define DFbarrel_obj_GetModelFlags __dll423_DFbarrel_obj_GetModelFlags
+#define DFbarrel_obj_GetDataSize __dll423_DFbarrel_obj_GetDataSize
+#define DFbarrel_handleMovement __dll423_DFbarrel_handleMovement
+#define DFbarrel_handleDamage __dll423_DFbarrel_handleDamage
 
 #endif //_DLL_423_RECOMP_H

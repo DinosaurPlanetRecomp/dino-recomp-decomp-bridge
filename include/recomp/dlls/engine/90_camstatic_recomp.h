@@ -9,9 +9,9 @@
 #define camstatic_func_278 __dll90_camstatic_func_278
 #define camstatic_func_584 __dll90_camstatic_func_584
 #define camstatic_func_5C4 __dll90_camstatic_func_5C4
-#define camstatic_func_5D4 __dll90_camstatic_func_5D4
-#define camstatic_func_798 __dll90_camstatic_func_798
-#define camstatic_func_C04 __dll90_camstatic_func_C04
+#define camstatic_setupEase __dll90_camstatic_setupEase
+#define camstatic_ease __dll90_camstatic_ease
+#define camstatic_findStaticCamera __dll90_camstatic_findStaticCamera
 #define sState __dll90_sState
 
 #endif //_DLL_90_RECOMP_H
