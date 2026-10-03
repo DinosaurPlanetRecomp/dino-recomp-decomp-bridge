@@ -5,7 +5,7 @@
 
 #define dll_175_ctor __dll175_dll_175_ctor
 #define dll_175_dtor __dll175_dll_175_dtor
-#define dll_175_Func_18 __dll175_dll_175_Func_18
+#define dll_175_modgfx_Spawn __dll175_dll_175_modgfx_Spawn
 #define rodata_0 __dll175_rodata_0
 #define rodata_4 __dll175_rodata_4
 #define rodata_8 __dll175_rodata_8

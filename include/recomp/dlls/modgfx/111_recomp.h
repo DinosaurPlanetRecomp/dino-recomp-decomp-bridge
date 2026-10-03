@@ -5,16 +5,12 @@
 
 #define dll_111_ctor __dll111_dll_111_ctor
 #define dll_111_dtor __dll111_dll_111_dtor
-#define dll_111_Func_18 __dll111_dll_111_Func_18
-#define rodata_0 __dll111_rodata_0
-#define rodata_4 __dll111_rodata_4
+#define dll_111_modgfx_Func0 __dll111_dll_111_modgfx_Func0
 #define data_0 __dll111_data_0
 #define data_8C __dll111_data_8C
 #define data_D4 __dll111_data_D4
 #define data_F0 __dll111_data_F0
 #define data_100 __dll111_data_100
 #define data_110 __dll111_data_110
-#define data_112 __dll111_data_112
-#define data_114 __dll111_data_114
 
 #endif //_DLL_111_RECOMP_H

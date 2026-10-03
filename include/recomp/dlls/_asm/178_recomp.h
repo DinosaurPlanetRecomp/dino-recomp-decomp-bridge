@@ -5,7 +5,7 @@
 
 #define dll_178_ctor __dll178_dll_178_ctor
 #define dll_178_dtor __dll178_dll_178_dtor
-#define dll_178_Func_18 __dll178_dll_178_Func_18
+#define dll_178_modgfx_Spawn __dll178_dll_178_modgfx_Spawn
 #define rodata_0 __dll178_rodata_0
 #define rodata_4 __dll178_rodata_4
 #define data_0 __dll178_data_0

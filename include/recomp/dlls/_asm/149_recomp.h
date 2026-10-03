@@ -5,7 +5,7 @@
 
 #define dll_149_ctor __dll149_dll_149_ctor
 #define dll_149_dtor __dll149_dll_149_dtor
-#define dll_149_Func_18 __dll149_dll_149_Func_18
+#define dll_149_modgfx_Spawn __dll149_dll_149_modgfx_Spawn
 #define rodata_0 __dll149_rodata_0
 #define rodata_4 __dll149_rodata_4
 #define data_0 __dll149_data_0

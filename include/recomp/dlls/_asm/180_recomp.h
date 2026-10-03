@@ -5,7 +5,7 @@
 
 #define dll_180_ctor __dll180_dll_180_ctor
 #define dll_180_dtor __dll180_dll_180_dtor
-#define dll_180_Func_18 __dll180_dll_180_Func_18
+#define dll_180_modgfx_Spawn __dll180_dll_180_modgfx_Spawn
 #define str_0 __dll180_str_0
 #define data_0 __dll180_data_0
 #define data_3C __dll180_data_3C

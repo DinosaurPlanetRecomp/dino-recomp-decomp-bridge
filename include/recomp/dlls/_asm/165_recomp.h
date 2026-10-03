@@ -5,7 +5,7 @@
 
 #define dll_165_ctor __dll165_dll_165_ctor
 #define dll_165_dtor __dll165_dll_165_dtor
-#define dll_165_Func_18 __dll165_dll_165_Func_18
+#define dll_165_modgfx_Spawn __dll165_dll_165_modgfx_Spawn
 #define rodata_0 __dll165_rodata_0
 #define rodata_4 __dll165_rodata_4
 #define data_0 __dll165_data_0

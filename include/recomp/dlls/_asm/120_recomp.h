@@ -5,7 +5,7 @@
 
 #define dll_120_ctor __dll120_dll_120_ctor
 #define dll_120_dtor __dll120_dll_120_dtor
-#define dll_120_Func_18 __dll120_dll_120_Func_18
+#define dll_120_modgfx_Spawn __dll120_dll_120_modgfx_Spawn
 #define rodata_0 __dll120_rodata_0
 #define data_0 __dll120_data_0
 #define data_D4 __dll120_data_D4

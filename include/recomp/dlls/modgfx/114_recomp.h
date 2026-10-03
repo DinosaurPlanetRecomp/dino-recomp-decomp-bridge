@@ -5,10 +5,7 @@
 
 #define dll_114_ctor __dll114_dll_114_ctor
 #define dll_114_dtor __dll114_dll_114_dtor
-#define dll_114_Func_18 __dll114_dll_114_Func_18
-#define rodata_0 __dll114_rodata_0
-#define rodata_4 __dll114_rodata_4
-#define rodata_8 __dll114_rodata_8
+#define dll_114_modgfx_Func0 __dll114_dll_114_modgfx_Func0
 #define data_0 __dll114_data_0
 #define data_D4 __dll114_data_D4
 #define data_174 __dll114_data_174
@@ -16,7 +13,5 @@
 #define data_194 __dll114_data_194
 #define data_1B0 __dll114_data_1B0
 #define data_1DC __dll114_data_1DC
-#define data_1DE __dll114_data_1DE
-#define data_1E0 __dll114_data_1E0
 
 #endif //_DLL_114_RECOMP_H

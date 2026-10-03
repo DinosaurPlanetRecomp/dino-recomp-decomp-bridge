@@ -5,7 +5,7 @@
 
 #define dll_127_ctor __dll127_dll_127_ctor
 #define dll_127_dtor __dll127_dll_127_dtor
-#define dll_127_Func_18 __dll127_dll_127_Func_18
+#define dll_127_modgfx_Spawn __dll127_dll_127_modgfx_Spawn
 #define rodata_0 __dll127_rodata_0
 #define data_0 __dll127_data_0
 #define data_F0 __dll127_data_F0

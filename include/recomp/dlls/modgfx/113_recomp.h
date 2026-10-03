@@ -5,16 +5,12 @@
 
 #define dll_113_ctor __dll113_dll_113_ctor
 #define dll_113_dtor __dll113_dll_113_dtor
-#define dll_113_Func_18 __dll113_dll_113_Func_18
-#define rodata_0 __dll113_rodata_0
-#define rodata_4 __dll113_rodata_4
+#define dll_113_modgfx_Func0 __dll113_dll_113_modgfx_Func0
 #define data_0 __dll113_data_0
 #define data_5C __dll113_data_5C
 #define data_8C __dll113_data_8C
 #define data_A0 __dll113_data_A0
 #define data_A4 __dll113_data_A4
 #define data_B4 __dll113_data_B4
-#define data_B6 __dll113_data_B6
-#define data_B8 __dll113_data_B8
 
 #endif //_DLL_113_RECOMP_H

@@ -5,14 +5,11 @@
 
 #define dll_105_ctor __dll105_dll_105_ctor
 #define dll_105_dtor __dll105_dll_105_dtor
-#define dll_105_Func_18 __dll105_dll_105_Func_18
-#define rodata_0 __dll105_rodata_0
+#define dll_105_modgfx_Func0 __dll105_dll_105_modgfx_Func0
 #define data_0 __dll105_data_0
 #define data_AC __dll105_data_AC
 #define data_DC __dll105_data_DC
 #define data_100 __dll105_data_100
 #define data_124 __dll105_data_124
-#define data_126 __dll105_data_126
-#define data_128 __dll105_data_128
 
 #endif //_DLL_105_RECOMP_H

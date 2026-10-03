@@ -5,7 +5,7 @@
 
 #define dll_131_ctor __dll131_dll_131_ctor
 #define dll_131_dtor __dll131_dll_131_dtor
-#define dll_131_Func_18 __dll131_dll_131_Func_18
+#define dll_131_modgfx_Spawn __dll131_dll_131_modgfx_Spawn
 #define rodata_0 __dll131_rodata_0
 #define rodata_4 __dll131_rodata_4
 #define data_0 __dll131_data_0

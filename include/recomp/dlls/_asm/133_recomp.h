@@ -5,7 +5,7 @@
 
 #define dll_133_ctor __dll133_dll_133_ctor
 #define dll_133_dtor __dll133_dll_133_dtor
-#define dll_133_Func_18 __dll133_dll_133_Func_18
+#define dll_133_modgfx_Spawn __dll133_dll_133_modgfx_Spawn
 #define rodata_0 __dll133_rodata_0
 #define data_0 __dll133_data_0
 #define data_2 __dll133_data_2

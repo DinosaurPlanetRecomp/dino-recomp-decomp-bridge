@@ -5,7 +5,7 @@
 
 #define dll_106_ctor __dll106_dll_106_ctor
 #define dll_106_dtor __dll106_dll_106_dtor
-#define dll_106_Func_18 __dll106_dll_106_Func_18
+#define dll_106_modgfx_Func0 __dll106_dll_106_modgfx_Func0
 #define data_0 __dll106_data_0
 #define data_20 __dll106_data_20
 #define data_48 __dll106_data_48
@@ -13,7 +13,5 @@
 #define data_5C __dll106_data_5C
 #define data_64 __dll106_data_64
 #define data_6C __dll106_data_6C
-#define data_6E __dll106_data_6E
-#define data_70 __dll106_data_70
 
 #endif //_DLL_106_RECOMP_H

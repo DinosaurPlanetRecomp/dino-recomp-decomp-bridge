@@ -5,7 +5,7 @@
 
 #define dll_156_ctor __dll156_dll_156_ctor
 #define dll_156_dtor __dll156_dll_156_dtor
-#define dll_156_Func_18 __dll156_dll_156_Func_18
+#define dll_156_modgfx_Spawn __dll156_dll_156_modgfx_Spawn
 #define rodata_0 __dll156_rodata_0
 #define rodata_4 __dll156_rodata_4
 #define rodata_8 __dll156_rodata_8

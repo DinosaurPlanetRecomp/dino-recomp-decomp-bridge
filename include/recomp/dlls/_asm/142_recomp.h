@@ -5,7 +5,7 @@
 
 #define dll_142_ctor __dll142_dll_142_ctor
 #define dll_142_dtor __dll142_dll_142_dtor
-#define dll_142_Func_18 __dll142_dll_142_Func_18
+#define dll_142_modgfx_Spawn __dll142_dll_142_modgfx_Spawn
 #define data_0 __dll142_data_0
 #define data_5C __dll142_data_5C
 #define data_80 __dll142_data_80

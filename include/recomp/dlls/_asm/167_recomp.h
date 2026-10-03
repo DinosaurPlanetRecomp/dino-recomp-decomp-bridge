@@ -5,7 +5,7 @@
 
 #define dll_167_ctor __dll167_dll_167_ctor
 #define dll_167_dtor __dll167_dll_167_dtor
-#define dll_167_Func_18 __dll167_dll_167_Func_18
+#define dll_167_modgfx_Spawn __dll167_dll_167_modgfx_Spawn
 #define rodata_0 __dll167_rodata_0
 #define rodata_4 __dll167_rodata_4
 #define data_0 __dll167_data_0

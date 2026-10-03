@@ -5,7 +5,7 @@
 
 #define dll_154_ctor __dll154_dll_154_ctor
 #define dll_154_dtor __dll154_dll_154_dtor
-#define dll_154_Func_18 __dll154_dll_154_Func_18
+#define dll_154_modgfx_Spawn __dll154_dll_154_modgfx_Spawn
 #define data_0 __dll154_data_0
 #define data_50 __dll154_data_50
 #define data_98 __dll154_data_98

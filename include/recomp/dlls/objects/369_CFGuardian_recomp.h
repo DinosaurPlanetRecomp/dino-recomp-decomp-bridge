@@ -26,7 +26,7 @@
 #define CFGuardian_func_26F8 __dll369_CFGuardian_func_26F8
 #define CFGuardian_mapLookup __dll369_CFGuardian_mapLookup
 #define CFGuardian_func_2770 __dll369_CFGuardian_func_2770
-#define CFGuardian_Func_2778 __dll369_CFGuardian_Func_2778
+#define CFGuardian_cf_CanUnload __dll369_CFGuardian_cf_CanUnload
 #define CFGuardian_doModAnimSfx __dll369_CFGuardian_doModAnimSfx
 #define str_0 __dll369_str_0
 #define sModAnimSfx __dll369_sModAnimSfx

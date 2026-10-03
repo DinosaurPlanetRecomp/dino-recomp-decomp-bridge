@@ -5,7 +5,7 @@
 
 #define dll_143_ctor __dll143_dll_143_ctor
 #define dll_143_dtor __dll143_dll_143_dtor
-#define dll_143_Func_18 __dll143_dll_143_Func_18
+#define dll_143_modgfx_Spawn __dll143_dll_143_modgfx_Spawn
 #define rodata_0 __dll143_rodata_0
 #define rodata_4 __dll143_rodata_4
 #define rodata_8 __dll143_rodata_8

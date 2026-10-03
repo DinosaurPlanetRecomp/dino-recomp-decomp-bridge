@@ -5,7 +5,7 @@
 
 #define dll_183_ctor __dll183_dll_183_ctor
 #define dll_183_dtor __dll183_dll_183_dtor
-#define dll_183_Func_18 __dll183_dll_183_Func_18
+#define dll_183_modgfx_Spawn __dll183_dll_183_modgfx_Spawn
 #define data_0 __dll183_data_0
 #define data_50 __dll183_data_50
 #define data_78 __dll183_data_78

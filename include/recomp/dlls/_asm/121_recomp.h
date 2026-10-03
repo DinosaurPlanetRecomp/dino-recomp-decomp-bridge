@@ -5,7 +5,7 @@
 
 #define dll_121_ctor __dll121_dll_121_ctor
 #define dll_121_dtor __dll121_dll_121_dtor
-#define dll_121_Func_18 __dll121_dll_121_Func_18
+#define dll_121_modgfx_Spawn __dll121_dll_121_modgfx_Spawn
 #define data_0 __dll121_data_0
 #define data_50 __dll121_data_50
 #define data_78 __dll121_data_78

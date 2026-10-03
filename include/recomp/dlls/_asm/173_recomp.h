@@ -5,7 +5,7 @@
 
 #define dll_173_ctor __dll173_dll_173_ctor
 #define dll_173_dtor __dll173_dll_173_dtor
-#define dll_173_Func_18 __dll173_dll_173_Func_18
+#define dll_173_modgfx_Spawn __dll173_dll_173_modgfx_Spawn
 #define data_0 __dll173_data_0
 #define data_D4 __dll173_data_D4
 #define data_164 __dll173_data_164

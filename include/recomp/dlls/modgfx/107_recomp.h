@@ -5,10 +5,7 @@
 
 #define dll_107_ctor __dll107_dll_107_ctor
 #define dll_107_dtor __dll107_dll_107_dtor
-#define dll_107_Func_18 __dll107_dll_107_Func_18
-#define str_0 __dll107_str_0
-#define rodata_28 __dll107_rodata_28
-#define rodata_2C __dll107_rodata_2C
+#define dll_107_modgfx_Func0 __dll107_dll_107_modgfx_Func0
 #define data_0 __dll107_data_0
 #define data_28 __dll107_data_28
 #define data_40 __dll107_data_40
