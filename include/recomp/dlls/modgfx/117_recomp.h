@@ -6,11 +6,6 @@
 #define dll_117_ctor __dll117_dll_117_ctor
 #define dll_117_dtor __dll117_dll_117_dtor
 #define dll_117_modgfx_Spawn __dll117_dll_117_modgfx_Spawn
-#define rodata_0 __dll117_rodata_0
-#define rodata_4 __dll117_rodata_4
-#define rodata_8 __dll117_rodata_8
-#define rodata_C __dll117_rodata_C
-#define rodata_10 __dll117_rodata_10
 #define data_0 __dll117_data_0
 #define data_8C __dll117_data_8C
 #define data_D4 __dll117_data_D4

@@ -5,7 +5,7 @@
 
 #define dll_114_ctor __dll114_dll_114_ctor
 #define dll_114_dtor __dll114_dll_114_dtor
-#define dll_114_modgfx_Func0 __dll114_dll_114_modgfx_Func0
+#define dll_114_modgfx_Spawn __dll114_dll_114_modgfx_Spawn
 #define data_0 __dll114_data_0
 #define data_D4 __dll114_data_D4
 #define data_174 __dll114_data_174

@@ -6,7 +6,6 @@
 #define dll_123_ctor __dll123_dll_123_ctor
 #define dll_123_dtor __dll123_dll_123_dtor
 #define dll_123_modgfx_Spawn __dll123_dll_123_modgfx_Spawn
-#define rodata_0 __dll123_rodata_0
 #define data_0 __dll123_data_0
 #define data_34 __dll123_data_34
 #define data_54 __dll123_data_54

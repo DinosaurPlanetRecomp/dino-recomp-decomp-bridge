@@ -6,14 +6,6 @@
 #define dll_115_ctor __dll115_dll_115_ctor
 #define dll_115_dtor __dll115_dll_115_dtor
 #define dll_115_modgfx_Spawn __dll115_dll_115_modgfx_Spawn
-#define rodata_0 __dll115_rodata_0
-#define rodata_4 __dll115_rodata_4
-#define rodata_8 __dll115_rodata_8
-#define rodata_C __dll115_rodata_C
-#define rodata_10 __dll115_rodata_10
-#define rodata_14 __dll115_rodata_14
-#define rodata_18 __dll115_rodata_18
-#define rodata_1C __dll115_rodata_1C
 #define data_0 __dll115_data_0
 #define data_8C __dll115_data_8C
 #define data_D4 __dll115_data_D4

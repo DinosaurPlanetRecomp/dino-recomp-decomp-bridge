@@ -6,9 +6,6 @@
 #define dll_116_ctor __dll116_dll_116_ctor
 #define dll_116_dtor __dll116_dll_116_dtor
 #define dll_116_modgfx_Spawn __dll116_dll_116_modgfx_Spawn
-#define rodata_0 __dll116_rodata_0
-#define rodata_4 __dll116_rodata_4
-#define rodata_8 __dll116_rodata_8
 #define data_0 __dll116_data_0
 #define data_8C __dll116_data_8C
 #define data_D4 __dll116_data_D4

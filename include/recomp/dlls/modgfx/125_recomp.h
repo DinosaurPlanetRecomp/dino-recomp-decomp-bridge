@@ -6,8 +6,6 @@
 #define dll_125_ctor __dll125_dll_125_ctor
 #define dll_125_dtor __dll125_dll_125_dtor
 #define dll_125_modgfx_Spawn __dll125_dll_125_modgfx_Spawn
-#define rodata_0 __dll125_rodata_0
-#define rodata_4 __dll125_rodata_4
 #define data_0 __dll125_data_0
 #define data_8C __dll125_data_8C
 #define data_D4 __dll125_data_D4

@@ -6,9 +6,6 @@
 #define dll_122_ctor __dll122_dll_122_ctor
 #define dll_122_dtor __dll122_dll_122_dtor
 #define dll_122_modgfx_Spawn __dll122_dll_122_modgfx_Spawn
-#define rodata_0 __dll122_rodata_0
-#define rodata_4 __dll122_rodata_4
-#define rodata_8 __dll122_rodata_8
 #define data_0 __dll122_data_0
 #define data_B4 __dll122_data_B4
 #define data_114 __dll122_data_114

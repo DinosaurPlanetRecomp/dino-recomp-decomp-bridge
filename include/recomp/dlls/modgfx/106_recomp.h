@@ -5,7 +5,7 @@
 
 #define dll_106_ctor __dll106_dll_106_ctor
 #define dll_106_dtor __dll106_dll_106_dtor
-#define dll_106_modgfx_Func0 __dll106_dll_106_modgfx_Func0
+#define dll_106_modgfx_Spawn __dll106_dll_106_modgfx_Spawn
 #define data_0 __dll106_data_0
 #define data_20 __dll106_data_20
 #define data_48 __dll106_data_48

@@ -5,7 +5,7 @@
 
 #define dll_107_ctor __dll107_dll_107_ctor
 #define dll_107_dtor __dll107_dll_107_dtor
-#define dll_107_modgfx_Func0 __dll107_dll_107_modgfx_Func0
+#define dll_107_modgfx_Spawn __dll107_dll_107_modgfx_Spawn
 #define data_0 __dll107_data_0
 #define data_28 __dll107_data_28
 #define data_40 __dll107_data_40

@@ -5,7 +5,7 @@
 
 #define dll_110_ctor __dll110_dll_110_ctor
 #define dll_110_dtor __dll110_dll_110_dtor
-#define dll_110_modgfx_Func0 __dll110_dll_110_modgfx_Func0
+#define dll_110_modgfx_Spawn __dll110_dll_110_modgfx_Spawn
 #define data_0 __dll110_data_0
 #define data_168 __dll110_data_168
 #define data_1C8 __dll110_data_1C8

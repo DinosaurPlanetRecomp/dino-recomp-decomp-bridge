@@ -5,7 +5,7 @@
 
 #define dll_113_ctor __dll113_dll_113_ctor
 #define dll_113_dtor __dll113_dll_113_dtor
-#define dll_113_modgfx_Func0 __dll113_dll_113_modgfx_Func0
+#define dll_113_modgfx_Spawn __dll113_dll_113_modgfx_Spawn
 #define data_0 __dll113_data_0
 #define data_5C __dll113_data_5C
 #define data_8C __dll113_data_8C

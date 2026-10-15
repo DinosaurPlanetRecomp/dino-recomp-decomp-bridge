@@ -6,8 +6,6 @@
 #define dll_118_ctor __dll118_dll_118_ctor
 #define dll_118_dtor __dll118_dll_118_dtor
 #define dll_118_modgfx_Spawn __dll118_dll_118_modgfx_Spawn
-#define rodata_0 __dll118_rodata_0
-#define rodata_4 __dll118_rodata_4
 #define data_0 __dll118_data_0
 #define data_D4 __dll118_data_D4
 #define data_174 __dll118_data_174
