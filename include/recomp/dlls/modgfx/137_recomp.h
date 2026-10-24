@@ -6,15 +6,6 @@
 #define dll_137_ctor __dll137_dll_137_ctor
 #define dll_137_dtor __dll137_dll_137_dtor
 #define dll_137_modgfx_Spawn __dll137_dll_137_modgfx_Spawn
-#define rodata_0 __dll137_rodata_0
-#define rodata_4 __dll137_rodata_4
-#define rodata_8 __dll137_rodata_8
-#define rodata_C __dll137_rodata_C
-#define rodata_10 __dll137_rodata_10
-#define rodata_14 __dll137_rodata_14
-#define rodata_18 __dll137_rodata_18
-#define rodata_1C __dll137_rodata_1C
-#define rodata_20 __dll137_rodata_20
 #define data_0 __dll137_data_0
 #define data_5C __dll137_data_5C
 #define data_8C __dll137_data_8C

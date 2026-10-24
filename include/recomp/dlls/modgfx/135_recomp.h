@@ -6,7 +6,6 @@
 #define dll_135_ctor __dll135_dll_135_ctor
 #define dll_135_dtor __dll135_dll_135_dtor
 #define dll_135_modgfx_Spawn __dll135_dll_135_modgfx_Spawn
-#define rodata_0 __dll135_rodata_0
 #define data_0 __dll135_data_0
 #define data_2 __dll135_data_2
 #define data_4 __dll135_data_4

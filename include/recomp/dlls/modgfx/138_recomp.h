@@ -6,11 +6,6 @@
 #define dll_138_ctor __dll138_dll_138_ctor
 #define dll_138_dtor __dll138_dll_138_dtor
 #define dll_138_modgfx_Spawn __dll138_dll_138_modgfx_Spawn
-#define rodata_0 __dll138_rodata_0
-#define rodata_4 __dll138_rodata_4
-#define rodata_8 __dll138_rodata_8
-#define rodata_C __dll138_rodata_C
-#define rodata_10 __dll138_rodata_10
 #define data_0 __dll138_data_0
 #define data_5C __dll138_data_5C
 #define data_8C __dll138_data_8C

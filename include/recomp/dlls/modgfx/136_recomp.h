@@ -6,10 +6,6 @@
 #define dll_136_ctor __dll136_dll_136_ctor
 #define dll_136_dtor __dll136_dll_136_dtor
 #define dll_136_modgfx_Spawn __dll136_dll_136_modgfx_Spawn
-#define rodata_0 __dll136_rodata_0
-#define rodata_4 __dll136_rodata_4
-#define rodata_8 __dll136_rodata_8
-#define rodata_C __dll136_rodata_C
 #define data_0 __dll136_data_0
 #define data_8C __dll136_data_8C
 #define data_D4 __dll136_data_D4

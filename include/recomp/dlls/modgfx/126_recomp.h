@@ -6,7 +6,6 @@
 #define dll_126_ctor __dll126_dll_126_ctor
 #define dll_126_dtor __dll126_dll_126_dtor
 #define dll_126_modgfx_Spawn __dll126_dll_126_modgfx_Spawn
-#define rodata_0 __dll126_rodata_0
 #define data_0 __dll126_data_0
 #define data_34 __dll126_data_34
 #define data_54 __dll126_data_54

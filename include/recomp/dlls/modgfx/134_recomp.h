@@ -6,7 +6,6 @@
 #define dll_134_ctor __dll134_dll_134_ctor
 #define dll_134_dtor __dll134_dll_134_dtor
 #define dll_134_modgfx_Spawn __dll134_dll_134_modgfx_Spawn
-#define rodata_0 __dll134_rodata_0
 #define data_0 __dll134_data_0
 #define data_2 __dll134_data_2
 #define data_4 __dll134_data_4

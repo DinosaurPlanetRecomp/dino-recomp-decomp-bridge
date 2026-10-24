@@ -6,9 +6,6 @@
 #define dll_128_ctor __dll128_dll_128_ctor
 #define dll_128_dtor __dll128_dll_128_dtor
 #define dll_128_modgfx_Spawn __dll128_dll_128_modgfx_Spawn
-#define rodata_0 __dll128_rodata_0
-#define rodata_4 __dll128_rodata_4
-#define rodata_8 __dll128_rodata_8
 #define data_0 __dll128_data_0
 #define data_B4 __dll128_data_B4
 #define data_114 __dll128_data_114

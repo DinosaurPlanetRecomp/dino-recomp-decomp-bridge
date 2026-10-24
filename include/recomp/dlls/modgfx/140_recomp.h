@@ -6,11 +6,6 @@
 #define dll_140_ctor __dll140_dll_140_ctor
 #define dll_140_dtor __dll140_dll_140_dtor
 #define dll_140_modgfx_Spawn __dll140_dll_140_modgfx_Spawn
-#define rodata_0 __dll140_rodata_0
-#define rodata_4 __dll140_rodata_4
-#define rodata_8 __dll140_rodata_8
-#define rodata_C __dll140_rodata_C
-#define rodata_10 __dll140_rodata_10
 #define data_0 __dll140_data_0
 #define data_D4 __dll140_data_D4
 #define data_164 __dll140_data_164

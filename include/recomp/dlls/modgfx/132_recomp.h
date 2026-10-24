@@ -6,8 +6,6 @@
 #define dll_132_ctor __dll132_dll_132_ctor
 #define dll_132_dtor __dll132_dll_132_dtor
 #define dll_132_modgfx_Spawn __dll132_dll_132_modgfx_Spawn
-#define rodata_0 __dll132_rodata_0
-#define rodata_4 __dll132_rodata_4
 #define data_0 __dll132_data_0
 #define data_4 __dll132_data_4
 #define data_D8 __dll132_data_D8
