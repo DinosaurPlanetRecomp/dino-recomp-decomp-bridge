@@ -543,19 +543,19 @@ functions = [
     { name = "func_8001CAA4", vram = 0x8001CAA4, size = 0x254 },
     { name = "lightInit", vram = 0x8001CD00, size = 0xE4 },
     { name = "light_func_8001CDE4", vram = 0x8001CDE4, size = 0x4C4 },
-    { name = "light_func_8001D2A8", vram = 0x8001D2A8, size = 0x2A0 },
-    { name = "light_func_8001D548", vram = 0x8001D548, size = 0xA18 },
+    { name = "lightSetModLightPalette1", vram = 0x8001D2A8, size = 0x2A0 },
+    { name = "lightSetModLightPalette2", vram = 0x8001D548, size = 0xA18 },
     { name = "lightDynamicModelLighting", vram = 0x8001DF60, size = 0x8B8 },
     { name = "light_func_8001E818", vram = 0x8001E818, size = 0x28C },
-    { name = "lightDimAmbient", vram = 0x8001EAA4, size = 0xDC },
+    { name = "lightDimSkyLight", vram = 0x8001EAA4, size = 0xDC },
     { name = "lightClearEmitters", vram = 0x8001EB80, size = 0x50 },
     { name = "lightSetInside", vram = 0x8001EBD0, size = 0x10 },
     { name = "lightGetInside", vram = 0x8001EBE0, size = 0x10 },
     { name = "lightUpdateSkyLight", vram = 0x8001EBF0, size = 0x4A4 },
     { name = "lightModelSphereMapping", vram = 0x8001F094, size = 0x42C },
     { name = "lightBlockSphereMapping", vram = 0x8001F4C0, size = 0x35C },
-    { name = "lightGetAmbient", vram = 0x8001F81C, size = 0x2C },
-    { name = "lightAmbientDL", vram = 0x8001F848, size = 0x3C },
+    { name = "lightGetSkyLight", vram = 0x8001F81C, size = 0x2C },
+    { name = "lightSkyLightDL", vram = 0x8001F848, size = 0x3C },
     { name = "func_8001F890", vram = 0x8001F890, size = 0xA58 },
     { name = "func_800202E8", vram = 0x800202E8, size = 0x214 },
     { name = "func_800204FC", vram = 0x800204FC, size = 0x48 },
@@ -4830,14 +4830,14 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll57_dll_57_ctor", vram = 0x810BB030, size = 0xC },
-    { name = "__dll57_dll_57_dtor", vram = 0x810BB03C, size = 0xC },
-    { name = "__dll57_dll_57_Func_18", vram = 0x810BB048, size = 0x5C },
-    { name = "__dll57_dll_57_Func_74", vram = 0x810BB0A4, size = 0x11C },
-    { name = "__dll57_dll_57_Func_190", vram = 0x810BB1C0, size = 0x54 },
-    { name = "__dll57_dll_57_Func_1E4", vram = 0x810BB214, size = 0x7BC },
-    { name = "__dll57_dll_57_func_9A0", vram = 0x810BB9D0, size = 0x210 },
-    { name = "__dll57_dll_57_func_BB0", vram = 0x810BBBE0, size = 0x1E0 },
+    { name = "__dll57_trklight_ctor", vram = 0x810BB030, size = 0xC },
+    { name = "__dll57_trklight_dtor", vram = 0x810BB03C, size = 0xC },
+    { name = "__dll57_trklight_Init", vram = 0x810BB048, size = 0x5C },
+    { name = "__dll57_trklight_DoAction", vram = 0x810BB0A4, size = 0x11C },
+    { name = "__dll57_trklight_GetLights", vram = 0x810BB1C0, size = 0x54 },
+    { name = "__dll57_trklight_Tick", vram = 0x810BB214, size = 0x7BC },
+    { name = "__dll57_trklight_initSlot", vram = 0x810BB9D0, size = 0x210 },
+    { name = "__dll57_trklight_updateSlot", vram = 0x810BBBE0, size = 0x1E0 },
 ]
 
 [[section]]
@@ -4857,13 +4857,13 @@ relocs = [
 ]
 
 functions = [
-    { name = "__dll58_dll_58_ctor", vram = 0x810BC034, size = 0xC },
-    { name = "__dll58_dll_58_dtor", vram = 0x810BC040, size = 0xC },
-    { name = "__dll58_dll_58_Func_18", vram = 0x810BC04C, size = 0x24C },
-    { name = "__dll58_dll_58_Func_264", vram = 0x810BC298, size = 0x640 },
-    { name = "__dll58_dll_58_Func_8A4", vram = 0x810BC8D8, size = 0xC30 },
-    { name = "__dll58_dll_58_Func_14D4", vram = 0x810BD508, size = 0xC },
-    { name = "__dll58_dll_58_Func_14E0", vram = 0x810BD514, size = 0x20 },
+    { name = "__dll58_skylight_ctor", vram = 0x810BC034, size = 0xC },
+    { name = "__dll58_skylight_dtor", vram = 0x810BC040, size = 0xC },
+    { name = "__dll58_skylight_Init", vram = 0x810BC04C, size = 0x24C },
+    { name = "__dll58_skylight_DoAction", vram = 0x810BC298, size = 0x640 },
+    { name = "__dll58_skylight_Tick", vram = 0x810BC8D8, size = 0xC30 },
+    { name = "__dll58_skylight_Func3", vram = 0x810BD508, size = 0xC },
+    { name = "__dll58_skylight_Func4", vram = 0x810BD514, size = 0x20 },
 ]
 
 [[section]]
