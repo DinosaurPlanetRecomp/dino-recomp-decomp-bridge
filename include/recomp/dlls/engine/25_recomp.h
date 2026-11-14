@@ -5,17 +5,17 @@
 
 #define dll_25_ctor __dll25_dll_25_ctor
 #define dll_25_dtor __dll25_dll_25_dtor
-#define dll_25_func_D8 __dll25_dll_25_func_D8
-#define dll_25_func_D00 __dll25_dll_25_func_D00
-#define dll_25_func_DF8 __dll25_dll_25_func_DF8
-#define dll_25_func_EAC __dll25_dll_25_func_EAC
-#define dll_25_func_1158 __dll25_dll_25_func_1158
-#define dll_25_func_12FC __dll25_dll_25_func_12FC
-#define dll_25_func_1474 __dll25_dll_25_func_1474
-#define dll_25_func_15B0 __dll25_dll_25_func_15B0
-#define dll_25_func_16D4 __dll25_dll_25_func_16D4
-#define dll_25_func_1864 __dll25_dll_25_func_1864
-#define dll_25_func_1A2C __dll25_dll_25_func_1A2C
+#define dll_25_LoadWalkGroups __dll25_dll_25_LoadWalkGroups
+#define dll_25_calcPlane __dll25_dll_25_calcPlane
+#define dll_25_isPointWithinWalkGroupXZ __dll25_dll_25_isPointWithinWalkGroupXZ
+#define dll_25_findWalkGroupFast __dll25_dll_25_findWalkGroupFast
+#define dll_25_FindWalkGroup __dll25_dll_25_FindWalkGroup
+#define dll_25_IsPointWithinAnyGroup __dll25_dll_25_IsPointWithinAnyGroup
+#define dll_25_GetPatchGroupContainingPoint __dll25_dll_25_GetPatchGroupContainingPoint
+#define dll_25_IsPointWithinPatchGroup __dll25_dll_25_IsPointWithinPatchGroup
+#define dll_25_GetClosestExitOfPatch __dll25_dll_25_GetClosestExitOfPatch
+#define dll_25_FindNearestEnabledTrickyCurve __dll25_dll_25_FindNearestEnabledTrickyCurve
+#define dll_25_FindNearestTrickyCurve __dll25_dll_25_FindNearestTrickyCurve
 #define dll_25_func_1D30 __dll25_dll_25_func_1D30
 #define dll_25_func_21F4 __dll25_dll_25_func_21F4
 #define dll_25_func_27A8 __dll25_dll_25_func_27A8
@@ -35,11 +35,10 @@
 #define _rodata_44 __dll25__rodata_44
 #define _rodata_48 __dll25__rodata_48
 #define _data_0 __dll25__data_0
-#define _data_400 __dll25__data_400
-#define _bss_0 __dll25__bss_0
-#define _bss_DC __dll25__bss_DC
-#define _bss_E0 __dll25__bss_E0
-#define _bss_E4 __dll25__bss_E4
-#define _bss_E8 __dll25__bss_E8
+#define sLastFoundWalkGroup __dll25_sLastFoundWalkGroup
+#define sLoadedWalkGroups __dll25_sLoadedWalkGroups
+#define sWalkGroups __dll25_sWalkGroups
+#define sPatchGroups __dll25_sPatchGroups
+#define sNextPatchIdx __dll25_sNextPatchIdx
 
 #endif //_DLL_25_RECOMP_H

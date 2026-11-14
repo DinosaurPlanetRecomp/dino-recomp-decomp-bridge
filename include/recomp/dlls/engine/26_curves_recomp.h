@@ -8,9 +8,9 @@
 #define curves_func_18 __dll26_curves_func_18
 #define curves_add_curve_def __dll26_curves_add_curve_def
 #define curves_func_10C __dll26_curves_func_10C
-#define curves_func_1BC __dll26_curves_func_1BC
+#define curves_GetCurves __dll26_curves_GetCurves
 #define curves_func_1E4 __dll26_curves_func_1E4
-#define curves_func_39C __dll26_curves_func_39C
+#define curves_FindByUID __dll26_curves_FindByUID
 #define curves_func_438 __dll26_curves_func_438
 #define curves_func_4F0 __dll26_curves_func_4F0
 #define curves_func_590 __dll26_curves_func_590
@@ -53,7 +53,7 @@
 #define str_0 __dll26_str_0
 #define _bss_0 __dll26__bss_0
 #define _bss_4 __dll26__bss_4
-#define _bss_8 __dll26__bss_8
-#define _bss_28A8 __dll26__bss_28A8
+#define sCurves __dll26_sCurves
+#define sTotalCurves __dll26_sTotalCurves
 
 #endif //_DLL_26_RECOMP_H

@@ -6,9 +6,6 @@
 #define dll_153_ctor __dll153_dll_153_ctor
 #define dll_153_dtor __dll153_dll_153_dtor
 #define dll_153_modgfx_Spawn __dll153_dll_153_modgfx_Spawn
-#define rodata_0 __dll153_rodata_0
-#define rodata_4 __dll153_rodata_4
-#define rodata_8 __dll153_rodata_8
 #define data_0 __dll153_data_0
 #define data_168 __dll153_data_168
 #define data_198 __dll153_data_198

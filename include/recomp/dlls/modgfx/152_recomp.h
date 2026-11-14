@@ -6,7 +6,6 @@
 #define dll_152_ctor __dll152_dll_152_ctor
 #define dll_152_dtor __dll152_dll_152_dtor
 #define dll_152_modgfx_Spawn __dll152_dll_152_modgfx_Spawn
-#define rodata_0 __dll152_rodata_0
 #define data_0 __dll152_data_0
 #define data_FC __dll152_data_FC
 #define data_1BC __dll152_data_1BC

@@ -6,10 +6,6 @@
 #define dll_147_ctor __dll147_dll_147_ctor
 #define dll_147_dtor __dll147_dll_147_dtor
 #define dll_147_modgfx_Spawn __dll147_dll_147_modgfx_Spawn
-#define rodata_0 __dll147_rodata_0
-#define rodata_4 __dll147_rodata_4
-#define rodata_8 __dll147_rodata_8
-#define rodata_C __dll147_rodata_C
 #define data_0 __dll147_data_0
 #define data_168 __dll147_data_168
 #define data_1C8 __dll147_data_1C8
