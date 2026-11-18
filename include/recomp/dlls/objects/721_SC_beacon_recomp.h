@@ -16,8 +16,8 @@
 #define SCbeacon_KyteTarget_Func_7D4 __dll721_SCbeacon_KyteTarget_Func_7D4
 #define SCbeacon_KyteTarget_Approach __dll721_SCbeacon_KyteTarget_Approach
 #define SCbeacon_KyteTarget_Func_804 __dll721_SCbeacon_KyteTarget_Func_804
-#define SCbeacon_attempt_to_light __dll721_SCbeacon_attempt_to_light
-#define SCbeacon_anim_callback __dll721_SCbeacon_anim_callback
+#define SCbeacon_attemptToLight __dll721_SCbeacon_attemptToLight
+#define SCbeacon_animCallback __dll721_SCbeacon_animCallback
 #define str_0 __dll721_str_0
 
 #endif //_DLL_721_RECOMP_H

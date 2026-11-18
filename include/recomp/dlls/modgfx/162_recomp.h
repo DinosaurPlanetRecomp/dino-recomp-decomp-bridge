@@ -6,8 +6,6 @@
 #define dll_162_ctor __dll162_dll_162_ctor
 #define dll_162_dtor __dll162_dll_162_dtor
 #define dll_162_modgfx_Spawn __dll162_dll_162_modgfx_Spawn
-#define rodata_0 __dll162_rodata_0
-#define rodata_4 __dll162_rodata_4
 #define data_0 __dll162_data_0
 #define data_3C __dll162_data_3C
 #define data_54 __dll162_data_54

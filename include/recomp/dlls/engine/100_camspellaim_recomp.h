@@ -5,13 +5,13 @@
 
 #define camspellaim_ctor __dll100_camspellaim_ctor
 #define camspellaim_dtor __dll100_camspellaim_dtor
-#define camspellaim_func_18 __dll100_camspellaim_func_18
-#define camspellaim_func_64 __dll100_camspellaim_func_64
-#define camspellaim_func_2C8 __dll100_camspellaim_func_2C8
-#define camspellaim_func_2D4 __dll100_camspellaim_func_2D4
-#define camspellaim_func_2E4 __dll100_camspellaim_func_2E4
-#define data_0 __dll100_data_0
-#define bss_0 __dll100_bss_0
-#define bss_4 __dll100_bss_4
+#define camspellaim_Setup __dll100_camspellaim_Setup
+#define camspellaim_Control __dll100_camspellaim_Control
+#define camspellaim_Free __dll100_camspellaim_Free
+#define camspellaim_Func_2D4 __dll100_camspellaim_Func_2D4
+#define camspellaim_calculateIntersectDistance __dll100_camspellaim_calculateIntersectDistance
+#define dPlayerOffsetY __dll100_dPlayerOffsetY
+#define sOrbitDistanceInitial __dll100_sOrbitDistanceInitial
+#define sOrbitDistance __dll100_sOrbitDistance
 
 #endif //_DLL_100_RECOMP_H

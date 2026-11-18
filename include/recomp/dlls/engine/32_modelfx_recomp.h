@@ -22,7 +22,6 @@
 #define rodata_4C __dll32_rodata_4C
 #define rodata_50 __dll32_rodata_50
 #define rodata_54 __dll32_rodata_54
-#define rodata_58 __dll32_rodata_58
 #define _data_0 __dll32__data_0
 #define _data_10 __dll32__data_10
 #define _data_90 __dll32__data_90

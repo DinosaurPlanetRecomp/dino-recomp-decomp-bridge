@@ -6,11 +6,6 @@
 #define dll_160_ctor __dll160_dll_160_ctor
 #define dll_160_dtor __dll160_dll_160_dtor
 #define dll_160_modgfx_Spawn __dll160_dll_160_modgfx_Spawn
-#define rodata_0 __dll160_rodata_0
-#define rodata_4 __dll160_rodata_4
-#define rodata_8 __dll160_rodata_8
-#define rodata_C __dll160_rodata_C
-#define rodata_10 __dll160_rodata_10
 #define data_0 __dll160_data_0
 #define data_B4 __dll160_data_B4
 #define data_114 __dll160_data_114

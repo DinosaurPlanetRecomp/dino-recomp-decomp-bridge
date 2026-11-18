@@ -5,13 +5,13 @@
 
 #define sideload_ctor __dll269_sideload_ctor
 #define sideload_dtor __dll269_sideload_dtor
-#define sideload_setup __dll269_sideload_setup
-#define sideload_control __dll269_sideload_control
-#define sideload_update __dll269_sideload_update
-#define sideload_print __dll269_sideload_print
-#define sideload_free __dll269_sideload_free
-#define sideload_get_model_flags __dll269_sideload_get_model_flags
-#define sideload_get_data_size __dll269_sideload_get_data_size
+#define sideload_obj_Setup __dll269_sideload_obj_Setup
+#define sideload_obj_Control __dll269_sideload_obj_Control
+#define sideload_obj_Update __dll269_sideload_obj_Update
+#define sideload_obj_Print __dll269_sideload_obj_Print
+#define sideload_obj_Free __dll269_sideload_obj_Free
+#define sideload_obj_GetModelFlags __dll269_sideload_obj_GetModelFlags
+#define sideload_obj_GetDataSize __dll269_sideload_obj_GetDataSize
 #define dSidekickObjIDs __dll269_dSidekickObjIDs
 
 #endif //_DLL_269_RECOMP_H

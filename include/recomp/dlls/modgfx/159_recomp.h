@@ -6,9 +6,6 @@
 #define dll_159_ctor __dll159_dll_159_ctor
 #define dll_159_dtor __dll159_dll_159_dtor
 #define dll_159_modgfx_Spawn __dll159_dll_159_modgfx_Spawn
-#define rodata_0 __dll159_rodata_0
-#define rodata_4 __dll159_rodata_4
-#define rodata_8 __dll159_rodata_8
 #define data_0 __dll159_data_0
 #define data_B4 __dll159_data_B4
 #define data_128 __dll159_data_128

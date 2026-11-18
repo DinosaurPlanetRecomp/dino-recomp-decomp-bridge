@@ -13,7 +13,7 @@
 #define TexScroll2_obj_GetModelFlags __dll347_TexScroll2_obj_GetModelFlags
 #define TexScroll2_obj_GetDataSize __dll347_TexScroll2_obj_GetDataSize
 #define TexScroll2_setupTextureScrolling __dll347_TexScroll2_setupTextureScrolling
-#define TexScroll2_changeScrollSpeed __dll347_TexScroll2_changeScrollSpeed
+#define TexScroll2_ChangeScrollSpeed __dll347_TexScroll2_ChangeScrollSpeed
 #define str_0 __dll347_str_0
 
 #endif //_DLL_347_RECOMP_H

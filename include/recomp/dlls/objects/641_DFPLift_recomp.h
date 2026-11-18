@@ -5,13 +5,13 @@
 
 #define DFPLift_ctor __dll641_DFPLift_ctor
 #define DFPLift_dtor __dll641_DFPLift_dtor
-#define DFPLift_setup __dll641_DFPLift_setup
-#define DFPLift_control __dll641_DFPLift_control
-#define DFPLift_update __dll641_DFPLift_update
-#define DFPLift_print __dll641_DFPLift_print
-#define DFPLift_free __dll641_DFPLift_free
-#define DFPLift_get_model_flags __dll641_DFPLift_get_model_flags
-#define DFPLift_get_data_size __dll641_DFPLift_get_data_size
-#define DFPLift_func_91C __dll641_DFPLift_func_91C
+#define DFPLift_obj_Setup __dll641_DFPLift_obj_Setup
+#define DFPLift_obj_Control __dll641_DFPLift_obj_Control
+#define DFPLift_obj_Update __dll641_DFPLift_obj_Update
+#define DFPLift_obj_Print __dll641_DFPLift_obj_Print
+#define DFPLift_obj_Free __dll641_DFPLift_obj_Free
+#define DFPLift_obj_GetModelFlags __dll641_DFPLift_obj_GetModelFlags
+#define DFPLift_obj_GetDataSize __dll641_DFPLift_obj_GetDataSize
+#define DFPLift_animCallback __dll641_DFPLift_animCallback
 
 #endif //_DLL_641_RECOMP_H
